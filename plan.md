@@ -16,5 +16,5 @@
 
 * [DFIR Diva's list of free training](https://training.dfirdiva.com/)
 
-* [RangeForce Community Edition](https://training.dfirdiva.com/listing/rangeforce-community-edition
+* [RangeForce Community Edition](https://training.dfirdiva.com/listing/rangeforce-community-edition)
 
