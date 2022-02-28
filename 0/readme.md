@@ -22,6 +22,11 @@
 
 * [RangeForce Community Edition](https://training.dfirdiva.com/listing/rangeforce-community-edition)
 
+## Potential goals
+
+* Security Blue Team's BTL1
+* OSCP
+
 ## Self Improvement Resources
 
 * [Azeria Labs: 30 Deep Work, Mastery, and Paradox of Choice](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
