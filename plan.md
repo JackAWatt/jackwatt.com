@@ -1,10 +1,8 @@
 ## Focus Areas:
 
-#Computer Science(2/11)
+#Computer Science(2/7)
 
-#Math(1/11)
-
-#Information Security(8/11)
+#Information Security(5/7)
 
 ## Resource Pool:
 
