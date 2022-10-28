@@ -17,7 +17,7 @@
 * [project euler: first 254 problems on hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
 
 ### Information Security
-
+##### Courses and Learning Paths
 * [Pen Testing Path](https://tryhackme.com/path-action/pentesting/join) - TryHackMe
 * [Blue Team Path](https://tryhackme.com/path-action/blueteam/join) - TryHackMe
 * [Red Teaming Path](https://tryhackme.com/path-action/redteaming/join) - TryHackMe
@@ -50,6 +50,13 @@
 * [Digital Forensics](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?active-tab=description-tab) - OpenLearn
 * [Digital Forensics Basics](https://teex.org/class/AWR139/) - TEEX
 * [Digital Forensics](https://www.hackers-arise.com/forensics) - Hackers Arise
+
+##### lists and other resources
+* [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
+* [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
+* [Windows Privilege Escalation](https://lolbas-project.github.io/#) - lolbas
+* [Linux Privilege Escalation](https://gtfobins.github.io/) - GTFObins
+* 
 
 
 ### Other Resources
