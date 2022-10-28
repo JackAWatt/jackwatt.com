@@ -18,8 +18,8 @@
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
 * [exercism](https://exercism.org/tracks)
-* [codeforces](https://codeforces.com) - competitive programming
-* [topcoder](https://www.topcoder.com) - competitive programming
+* [codeforces](https://codeforces.com)
+* [topcoder](https://www.topcoder.com)
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [project euler: first 254 problems on hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
 
