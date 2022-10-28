@@ -12,6 +12,7 @@
 * [Open Source Data Science](https://github.com/datasciencemasters/go)
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
+* [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
 ### Programming
 ###### Sites for solving coding problems and katas
@@ -21,8 +22,7 @@
 * [codeforces](https://codeforces.com)
 * [topcoder](https://www.topcoder.com)
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
-* [project euler: first 254 problems on hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
-
+* [CheckiO](https://checkio.org)
 ### Information Security
 ###### Courses and Learning Paths
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
@@ -74,7 +74,8 @@
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
 * [The Process of Mastering a Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/) - azeria-labs
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
-
+* [ARXIV ](https://arxiv.org/) -  a free distribution service and an open archive for scholarly articles.
+* [Open Acess Journals](https://www.doaj.org)
 ### Book
 ###### Free Books
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
