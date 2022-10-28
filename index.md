@@ -18,6 +18,8 @@
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
 * [exercism](https://exercism.org/tracks)
+* [codeforces](https://codeforces.com) - competitive programming
+* [topcoder](https://www.topcoder.com) - competitive programming
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [project euler: first 254 problems on hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
 
@@ -28,6 +30,7 @@
 * [Blue Team Path](https://tryhackme.com/path-action/blueteam/join) - TryHackMe
 * [Red Teaming Path](https://tryhackme.com/path-action/redteaming/join) - TryHackMe
 * [RangeForce Cyber Community edition](https://go.rangeforce.com/community-edition-registration)
+* [INE Starter Pack](https://checkout.ine.com/starter-pass) - pen testing, networking, azure
 * [network fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) - IT Masters
 * [Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) - saylor
 * [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/) - freecodecamp
@@ -72,7 +75,14 @@
 * [The Process of Mastering a Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/) - azeria-labs
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
 
-### Book Lists
+### Book
+###### Free Books
+* [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
+* [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
+* [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
+* []
+
+###### To-Read Lists
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
