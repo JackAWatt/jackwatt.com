@@ -4,12 +4,14 @@
 ######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
 ### Computer Science
-###### Complete Computer Science and Data Science curriculums
-* OSSU Open Source Computer Science: [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
+###### Complete Computer Science, Data Science, and Math curriculums
+* OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
 * [Teach Yourself CS](https://teachyourselfcs.com/)
 * [Functional CS](https://functionalcs.github.io/curriculum/)
 * [Open Source Data Science](https://github.com/datasciencemasters/go)
+* [OSSU Open Source Math](https://github.com/ossu/math)
+* [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 
 ### Programming
 ###### Sites for solving coding problems and katas
