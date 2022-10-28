@@ -18,6 +18,7 @@
 
 ### Information Security
 ##### Courses and Learning Paths
+* [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
 * [Pen Testing Path](https://tryhackme.com/path-action/pentesting/join) - TryHackMe
 * [Blue Team Path](https://tryhackme.com/path-action/blueteam/join) - TryHackMe
 * [Red Teaming Path](https://tryhackme.com/path-action/redteaming/join) - TryHackMe
