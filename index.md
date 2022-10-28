@@ -1,10 +1,10 @@
 # Resources 
-: This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources I want to complete.
+###### This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources I want to complete.
 
-:  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
+######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
 ### Computer Science
-> Complete Computer Science and Data Science curriculums
+###### Complete Computer Science and Data Science curriculums
 * OSSU Open Source Computer Science: [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
 * [Teach Yourself CS](https://teachyourselfcs.com/)
@@ -12,7 +12,7 @@
 * [Open Source Data Science](https://github.com/datasciencemasters/go)
 
 ### Programming
-> Sites for solving coding problems and katas
+###### Sites for solving coding problems and katas
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
 * [exercism](https://exercism.org/tracks)
@@ -20,7 +20,7 @@
 * [project euler: first 254 problems on hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
 
 ### Information Security
-> Courses and Learning Paths
+###### Courses and Learning Paths
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
 * [Pen Testing Path](https://tryhackme.com/path-action/pentesting/join) - TryHackMe
 * [Blue Team Path](https://tryhackme.com/path-action/blueteam/join) - TryHackMe
@@ -55,7 +55,7 @@
 * [Digital Forensics Basics](https://teex.org/class/AWR139/) - TEEX
 * [Digital Forensics](https://www.hackers-arise.com/forensics) - Hackers Arise
 
-> lists and other resources
+###### lists and other resources
 * [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
 * [Windows Privilege Escalation](https://lolbas-project.github.io/#) - lolbas
