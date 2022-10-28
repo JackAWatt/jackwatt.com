@@ -56,7 +56,7 @@
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
 * [Windows Privilege Escalation](https://lolbas-project.github.io/#) - lolbas
 * [Linux Privilege Escalation](https://gtfobins.github.io/) - GTFObins
-* 
+* [OSINT Resources](https://www.osintdojo.com/resources/) - OSINT Dojo
 
 
 ### Other Resources
