@@ -1,6 +1,6 @@
 # Resources 
-> This is collection of courses, learning paths, and challenges I'd like to complete. 
-> Completed learning paths and courses can be found [here](http://jackwatt.com/complete). 
+> This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources I want to complete.
+>  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 ### Computer Science
 > Complete Computer Science and Data Science curriculums
 * OSSU Open Source Computer Science: [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
