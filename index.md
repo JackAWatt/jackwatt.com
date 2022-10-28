@@ -1,7 +1,7 @@
-# Resources
+# Resources 
+> Completed learning paths and courses can be found ##### [here](http://jackwatt.com/complete)
 
 ### Computer Science
-
 * OSSU Open Source Computer Science: [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
 * [Teach Yourself CS](https://teachyourselfcs.com/)
