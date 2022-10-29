@@ -66,8 +66,8 @@
 * [Windows Privilege Escalation](https://lolbas-project.github.io/#) - lolbas
 * [Linux Privilege Escalation](https://gtfobins.github.io/) - GTFObins
 * [OSINT Resources](https://www.osintdojo.com/resources/) - OSINT Dojo
-* [Pentest Cheat Sheets - Kitsun3Sec](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
-* [Pentesting Cheatsheet - Hausec](https://hausec.com/pentesting-cheatsheet)
+* [Pentest Cheat Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - Kitsun3Sec
+* [Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet) - Hausec
 ### Other Resources
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
