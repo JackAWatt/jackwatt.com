@@ -31,7 +31,7 @@
 * [Red Teaming Path](https://tryhackme.com/path-action/redteaming/join) - TryHackMe
 * [RangeForce Cyber Community edition](https://go.rangeforce.com/community-edition-registration)
 * [INE Starter Pack](https://checkout.ine.com/starter-pass) - pen testing, networking, azure
-* [Web Security Academy]([https://portswigger.net/web-security](https://portswigger.net/web-security/learning-path)
+* [Web Security Academy](https://portswigger.net/web-security/learning-path)
 * [hacker101](https://www.hackerone.com/hackers/hacker101) - CTF+videos
 * [network fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) - IT Masters
 * [Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) - saylor
