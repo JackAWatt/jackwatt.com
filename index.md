@@ -31,6 +31,8 @@
 * [Red Teaming Path](https://tryhackme.com/path-action/redteaming/join) - TryHackMe
 * [RangeForce Cyber Community edition](https://go.rangeforce.com/community-edition-registration)
 * [INE Starter Pack](https://checkout.ine.com/starter-pass) - pen testing, networking, azure
+* [Web Security Academy]([https://portswigger.net/web-security](https://portswigger.net/web-security/learning-path)
+* [hacker101](https://www.hackerone.com/hackers/hacker101) - CTF+videos
 * [network fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) - IT Masters
 * [Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) - saylor
 * [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/) - freecodecamp
@@ -68,6 +70,9 @@
 * [OSINT Resources](https://www.osintdojo.com/resources/) - OSINT Dojo
 * [Pentest Cheat Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - Kitsun3Sec
 * [Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet) - Hausec
+* [OSCP Prep Guide](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) - JohnJHacking
+* [Awesome OSCP](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
+* [OSCP 2.0 Prep Guide](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html) - Tjnull
 ### Other Resources
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
