@@ -1,9 +1,8 @@
 # Resources 
-###### This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources.
+####### This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources.
 
-######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
+#######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
-### Computer Science
 ###### Complete Computer Science, Data Science, and Math curriculums
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -14,8 +13,7 @@
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
-### Programming
-###### Sites for solving coding problems and katas
+###### Coding challenges
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
 * [exercism](https://exercism.org/tracks)
@@ -62,6 +60,15 @@
 * [Digital Forensics Basics](https://teex.org/class/AWR139/) - TEEX
 * [Digital Forensics](https://www.hackers-arise.com/forensics) - Hackers Arise
 
+###### CTF and hacking challenges
+* [overthewire](https://overthewire.org)
+* [root-me](https://www.root-me.org)
+* [TryHackMe](https://tryhackme.com)
+* [HackTheBox](https://www.hackthebox.eu)
+* [VulnHub](http://vulnhub.com)
+* [PicoCTF](https://primer.picoctf.com)
+* [Sourcing.Games](https://sourcing.games/)
+* [Sans - Holiday Hack Challenge](https://holidayhackchallenge.com)
 ###### lists and other resources
 * [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
