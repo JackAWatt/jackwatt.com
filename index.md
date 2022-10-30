@@ -152,8 +152,7 @@
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
 </details>
 
-<details><summary> Podcasts</summary>
-
+##### Podcasts
 <details><summary> Information Security</summary>
 * [Smashing Security](https://www.smashingsecurity.com/episodes/)
 * [Mandiant - State of the Hack]()
@@ -281,4 +280,4 @@
 * [Daniel & Jorge Explain The Universe]()
 * [The Infinite Monkey Cage]()
 * [Point of Inquiry]()
-</details></details>
+</details>
