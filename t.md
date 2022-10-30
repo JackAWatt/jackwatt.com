@@ -4,5 +4,4 @@
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 * [HackerSploit](https://www.youtube.com/c/HackerSploit)
 * [IppSec](https://www.youtube.com/c/ippsec)
-* [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 </details>
