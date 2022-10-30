@@ -197,7 +197,10 @@
 * [Greater Than Code]()
 * [Data Skeptic]()
 * [Programming Throwdown]()
-* 
+* [Command Line Heroes]()
+* [Elixir Outlaws]()
+* [Code Newbie Podcast]()
+
 ###### Other Podcasts
 * [Infinite Loops]()
 * [Talk Nerdy with Cara Santa Maria]()
