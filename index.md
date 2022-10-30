@@ -98,6 +98,10 @@
 * [SANS Cyber Security Blog](https://www.sans.org/blog/?msc=main-nav)
 * [Darknet](https://www.darknet.org.uk/)
 * [Trail of Bits](https://blog.trailofbits.com/)
+* [Cyware Security News](https://cyware.com/cyber-security-news-articles)
+* [didici security link aggregator](https://security.didici.cc/news)
+* [AllInfoSecNews link aggregator](https://allinfosecnews.com/)
+* [Cyber Security Hub RSS feeds](https://www.cshub.com/rss-feeds)
 
 ##### InfoSec Videos
 * [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
@@ -115,6 +119,15 @@
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
 * [ARXIV ](https://arxiv.org/) -  a free distribution service and an open archive for scholarly articles.
 * [Open Acess Journals](https://www.doaj.org)
+* [longform non-fiction articles](https://longform.org) - 10 year archive
+* [Arts & Letters Daily](https://www.aldaily.com/)
+* [ScienceSeeker aggregator](http://www.scienceseeker.org/)
+* [Hacker News](https://news.ycombinator.com/) - hacking and startups
+* [Datatau.net](https://datatau.net) - Data, ML, AI
+* [lobste.rs](https://lobste.rs) - compsci link aggregator
+* [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
+* [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
+* 
 
 ##### Free Books
 
