@@ -3,7 +3,7 @@
 
 ######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
-<details><summary>##### Complete Computer Science, Data Science, and Math curriculums</summary>
+#####<details><summary> Complete Computer Science, Data Science, and Math curriculums</summary>
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
