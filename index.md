@@ -1,9 +1,9 @@
 # Resources 
-####### This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources.
+###### This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources.
 
-#######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
+######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
-###### Complete Computer Science, Data Science, and Math curriculums
+##### Complete Computer Science, Data Science, and Math curriculums
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -14,7 +14,7 @@
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
-###### Coding challenges
+##### Coding challenges
 
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
@@ -23,8 +23,6 @@
 * [topcoder](https://www.topcoder.com)
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [CheckiO](https://checkio.org)
-
-### Information Security
 
 ###### Courses and Learning Paths
 
@@ -101,7 +99,7 @@
 * [Darknet](https://www.darknet.org.uk/)
 * [Trail of Bits](https://blog.trailofbits.com/)
 
-### Other Resources
+###### Other Resources
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
@@ -110,7 +108,6 @@
 * [ARXIV ](https://arxiv.org/) -  a free distribution service and an open archive for scholarly articles.
 * [Open Acess Journals](https://www.doaj.org)
 
-### Book
 
 ###### Free Books
 
