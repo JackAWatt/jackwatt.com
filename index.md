@@ -145,15 +145,15 @@
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
 </details>
 
-<details><summary> To-Read Lists</summary>
+##### To-Read Lists
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
-</details>
 
-##### Podcasts
-<details><summary> Information Security</summary>
+
+#### Podcasts
+##### Information Security
 * [Smashing Security](https://www.smashingsecurity.com/episodes/)
 * [Mandiant - State of the Hack]()
 * [Opt Out]()
@@ -185,9 +185,8 @@
 * [Off the Hook]()
 * [Adventures in DevOps]()
 * [Malicious Life]()
-</details>
 
-<details><summary> Computer Science and Programming</summary>
+##### Computer Science and Programming
 * [Talking Machines]()
 * [Unsupervised Learning]()
 * [Partially Derivative]()
@@ -210,9 +209,8 @@
 * [Command Line Heroes]()
 * [Elixir Outlaws]()
 * [Code Newbie Podcast]()
-</details>
 
-<details><summary> Other Podcasts</summary>
+##### Other Podcasts
 * [Infinite Loops]()
 * [Talk Nerdy with Cara Santa Maria]()
 * [The Knowledge Project]()
@@ -280,4 +278,4 @@
 * [Daniel & Jorge Explain The Universe]()
 * [The Infinite Monkey Cage]()
 * [Point of Inquiry]()
-</details>
+
