@@ -3,7 +3,7 @@
 
 ######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
-#####<details><summary> Complete Computer Science, Data Science, and Math curriculums</summary>
+<details><summary> Complete Computer Science, Data Science, and Math curriculums</summary>
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -16,7 +16,7 @@
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 </details>
 
-#####<details><summary> Coding challenges</summary>
+<details><summary> Coding challenges</summary>
 
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
@@ -27,7 +27,7 @@
 * [CheckiO](https://checkio.org)
 </details>
 
-#####<details><summary> Courses and Learning Paths</summary>
+<details><summary> Courses and Learning Paths</summary>
 
 * [DFIRDiva's list of free training](https://training.dfirdiva.com/)
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
@@ -71,7 +71,7 @@
 * [The Complete OSINT Training Program](https://academy.ehacking.net/p/the-complete-osint-training) - ehacking
 </details>
   
-#####<details><summary> CTF and hacking challenges</summary>
+<details><summary> CTF and hacking challenges</summary>
 
 * [overthewire](https://overthewire.org)
 * [root-me](https://www.root-me.org)
@@ -83,7 +83,7 @@
 * [Sans - Holiday Hack Challenge](https://holidayhackchallenge.com)
 </details>
 
-#####<details><summary> lists and other resources</summary>
+<details><summary> lists and other resources</summary>
 
 * [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
@@ -98,7 +98,7 @@
 * [Common Exploits](https://github.com/commonexploits)
 </details>
 
-#####<details><summary> InfoSec Blogs</summary>
+<details><summary> InfoSec Blogs</summary>
 
 * [Security Mailing List Archive](https://seclists.org/)
 * [Kitploit](https://www.kitploit.com/)
@@ -111,7 +111,7 @@
 * [Cyber Security Hub RSS feeds](https://www.cshub.com/rss-feeds)
 </details>
 
-#####<details><summary> InfoSec Videos</summary>
+<details><summary> InfoSec Videos</summary>
 * [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 * [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
@@ -120,7 +120,7 @@
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 </details>
 
-#####<details><summary> Other Resources</summary>
+<details><summary> Other Resources</summary>
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
@@ -138,23 +138,23 @@
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
 </details>
 
-#####<details><summary> Free Books</summary>
+<details><summary> Free Books</summary>
 
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
 * [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
 </details>
 
-#####<details><summary> To-Read Lists</summary>
+<details><summary> To-Read Lists</summary>
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
 </details>
 
-#####<details><summary> Podcasts</summary>
+<details><summary> Podcasts</summary>
 
-######<details><summary> Information Security</summary>
+<details><summary> Information Security</summary>
 * [Smashing Security](https://www.smashingsecurity.com/episodes/)
 * [Mandiant - State of the Hack]()
 * [Opt Out]()
@@ -188,7 +188,7 @@
 * [Malicious Life]()
 </details>
 
-######<details><summary> Computer Science and Programming</summary>
+<details><summary> Computer Science and Programming</summary>
 * [Talking Machines]()
 * [Unsupervised Learning]()
 * [Partially Derivative]()
@@ -213,7 +213,7 @@
 * [Code Newbie Podcast]()
 </details>
 
-######<details><summary> Other Podcasts</summary>
+<details><summary> Other Podcasts</summary>
 * [Infinite Loops]()
 * [Talk Nerdy with Cara Santa Maria]()
 * [The Knowledge Project]()
