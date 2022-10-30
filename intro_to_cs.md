@@ -1,6 +1,5 @@
 # 1
-<details><summary>Math</summary>
-
+### Math
 >[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 
 >[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
@@ -20,11 +19,11 @@
 >[Trigonometry](https://www.khanacademy.org/math/trigonometry) Khan Academy
 
 >[Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-creative-connected-utaustinx-ut-prec-10-03x#!) University of Texas at Austin
-</details>
 
-### -
 
-<details><summary>Computer Science</summary>
+# 2
+
+### Computer Science
 
 >[Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
@@ -32,11 +31,6 @@
 
 >[UC Berkeley CS61A](https://cs61a.org/)
 
-</details>
-
-# 2
-
-<details><summary>Math</summary>
 
 **Discrete Mathematics for Computer Science**
 
@@ -51,4 +45,4 @@
 > [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
 > *or*  
 > [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
-</details>
+
