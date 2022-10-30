@@ -154,7 +154,7 @@
 
 <details><summary> Podcasts</summary>
 
-<details><summary> Information Security</summary>
+<details><summary> * Information Security</summary>
 * [Smashing Security](https://www.smashingsecurity.com/episodes/)
 * [Mandiant - State of the Hack]()
 * [Opt Out]()
@@ -188,7 +188,7 @@
 * [Malicious Life]()
 </details>
 
-<details><summary> Computer Science and Programming</summary>
+<details><summary> * Computer Science and Programming</summary>
 * [Talking Machines]()
 * [Unsupervised Learning]()
 * [Partially Derivative]()
@@ -213,7 +213,7 @@
 * [Code Newbie Podcast]()
 </details>
 
-<details><summary> Other Podcasts</summary>
+<details><summary> * Other Podcasts</summary>
 * [Infinite Loops]()
 * [Talk Nerdy with Cara Santa Maria]()
 * [The Knowledge Project]()
