@@ -7,6 +7,7 @@
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
+* [Open Source Math Degree](https://github.com/shanirivers/open-source-mathematics-degree)
 * [Teach Yourself CS](https://teachyourselfcs.com/)
 * [Functional CS](https://functionalcs.github.io/curriculum/)
 * [Open Source Data Science](https://github.com/datasciencemasters/go)
