@@ -3,7 +3,7 @@
 
 ######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
-##### Complete Computer Science, Data Science, and Math curriculums
+<details><summary>##### Complete Computer Science, Data Science, and Math curriculums</summary>
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -14,7 +14,7 @@
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
-
+</details>
 ##### Coding challenges
 
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
