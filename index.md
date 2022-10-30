@@ -24,7 +24,7 @@
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [CheckiO](https://checkio.org)
 
-###### Courses and Learning Paths
+##### Courses and Learning Paths
 
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
 * [Pen Testing Path](https://tryhackme.com/path-action/pentesting/join) - TryHackMe
@@ -66,7 +66,7 @@
 * [DigiNinja labs](https://digi.ninja/labs.php)
 * [The Complete OSINT Training Program](https://academy.ehacking.net/p/the-complete-osint-training) - ehacking
 
-###### CTF and hacking challenges
+##### CTF and hacking challenges
 
 * [overthewire](https://overthewire.org)
 * [root-me](https://www.root-me.org)
@@ -77,7 +77,7 @@
 * [Sourcing.Games](https://sourcing.games/)
 * [Sans - Holiday Hack Challenge](https://holidayhackchallenge.com)
 
-###### lists and other resources
+##### lists and other resources
 
 * [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
@@ -91,7 +91,7 @@
 * [OSCP 2.0 Prep Guide](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html) - Tjnull
 * [Common Exploits](https://github.com/commonexploits)
 
-###### InfoSec Blogs
+##### InfoSec Blogs
 
 * [Security Mailing List Archive](https://seclists.org/)
 * [Kitploit](https://www.kitploit.com/)
@@ -99,7 +99,7 @@
 * [Darknet](https://www.darknet.org.uk/)
 * [Trail of Bits](https://blog.trailofbits.com/)
 
-###### Other Resources
+##### Other Resources
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
@@ -108,14 +108,13 @@
 * [ARXIV ](https://arxiv.org/) -  a free distribution service and an open archive for scholarly articles.
 * [Open Acess Journals](https://www.doaj.org)
 
-
-###### Free Books
+##### Free Books
 
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
 * [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
 
-###### To-Read Lists
+##### To-Read Lists
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
