@@ -4,6 +4,7 @@
 #######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
 ###### Complete Computer Science, Data Science, and Math curriculums
+
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
 * [Teach Yourself CS](https://teachyourselfcs.com/)
@@ -14,6 +15,7 @@
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
 ###### Coding challenges
+
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
 * [exercism](https://exercism.org/tracks)
@@ -21,8 +23,11 @@
 * [topcoder](https://www.topcoder.com)
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [CheckiO](https://checkio.org)
+
 ### Information Security
+
 ###### Courses and Learning Paths
+
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
 * [Pen Testing Path](https://tryhackme.com/path-action/pentesting/join) - TryHackMe
 * [Blue Team Path](https://tryhackme.com/path-action/blueteam/join) - TryHackMe
@@ -64,6 +69,7 @@
 * [The Complete OSINT Training Program](https://academy.ehacking.net/p/the-complete-osint-training) - ehacking
 
 ###### CTF and hacking challenges
+
 * [overthewire](https://overthewire.org)
 * [root-me](https://www.root-me.org)
 * [TryHackMe](https://tryhackme.com)
@@ -72,8 +78,9 @@
 * [PicoCTF](https://primer.picoctf.com)
 * [Sourcing.Games](https://sourcing.games/)
 * [Sans - Holiday Hack Challenge](https://holidayhackchallenge.com)
-* 
+
 ###### lists and other resources
+
 * [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
 * [Windows Privilege Escalation](https://lolbas-project.github.io/#) - lolbas
@@ -87,12 +94,13 @@
 * [Common Exploits](https://github.com/commonexploits)
 
 ###### InfoSec Blogs
+
 * [Security Mailing List Archive](https://seclists.org/)
 * [Kitploit](https://www.kitploit.com/)
 * [SANS Cyber Security Blog](https://www.sans.org/blog/?msc=main-nav)
 * [Darknet](https://www.darknet.org.uk/)
 * [Trail of Bits](https://blog.trailofbits.com/)
-* 
+
 ### Other Resources
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
@@ -101,17 +109,17 @@
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
 * [ARXIV ](https://arxiv.org/) -  a free distribution service and an open archive for scholarly articles.
 * [Open Acess Journals](https://www.doaj.org)
+
 ### Book
+
 ###### Free Books
+
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
 * [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
-* []
 
 ###### To-Read Lists
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
-
-
