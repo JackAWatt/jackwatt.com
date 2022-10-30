@@ -111,8 +111,8 @@
 * [Cyber Security Hub RSS feeds](https://www.cshub.com/rss-feeds)
 </details>
 
-##### InfoSec Videos
-<details><summary> v</summary>
+<details><summary> InfoSec Videos</summary>
+  
 * [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 * [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
@@ -146,15 +146,17 @@
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
 </details>
 
-##### To-Read Lists
+<details><summary>To-Read Lists</summary>
+  
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
-
+</details>
 
 #### Podcasts
-##### Information Security
+<details><summary>Information Security</summary>
+  
 * [Smashing Security](https://www.smashingsecurity.com/episodes/)
 * [Mandiant - State of the Hack]()
 * [Opt Out]()
@@ -186,8 +188,10 @@
 * [Off the Hook]()
 * [Adventures in DevOps]()
 * [Malicious Life]()
+  </details>
 
-##### Computer Science and Programming
+<details><summary> Computer Science and Programming</summary>
+  
 * [Talking Machines]()
 * [Unsupervised Learning]()
 * [Partially Derivative]()
@@ -210,8 +214,10 @@
 * [Command Line Heroes]()
 * [Elixir Outlaws]()
 * [Code Newbie Podcast]()
+  </details>
 
-##### Other Podcasts
+<details><summary> Other Podcasts</summary>
+  
 * [Infinite Loops]()
 * [Talk Nerdy with Cara Santa Maria]()
 * [The Knowledge Project]()
@@ -279,4 +285,4 @@
 * [Daniel & Jorge Explain The Universe]()
 * [The Infinite Monkey Cage]()
 * [Point of Inquiry]()
-
+</details>
