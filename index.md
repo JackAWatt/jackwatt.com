@@ -3,7 +3,7 @@
 
 ######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
-<details><summary> Complete Computer Science, Data Science, and Math curriculums</summary>
+##### Complete Computer Science, Data Science, and Math curriculums
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -14,9 +14,9 @@
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
-</details>
 
-<details><summary> Coding challenges</summary>
+
+##### Coding challenges
 
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [codewars](https://www.codewars.com)
@@ -25,9 +25,9 @@
 * [topcoder](https://www.topcoder.com)
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [CheckiO](https://checkio.org)
-</details>
 
-<details><summary> Courses and Learning Paths</summary>
+
+##### Courses and Learning Paths
 
 * [DFIRDiva's list of free training](https://training.dfirdiva.com/)
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
@@ -69,9 +69,8 @@
 * [Web Application Pentesting](https://www.pentestgeek.com/) - pentestgeek
 * [DigiNinja labs](https://digi.ninja/labs.php)
 * [The Complete OSINT Training Program](https://academy.ehacking.net/p/the-complete-osint-training) - ehacking
-</details>
   
-<details><summary> CTF and hacking challenges</summary>
+##### CTF and hacking challenges
 
 * [overthewire](https://overthewire.org)
 * [root-me](https://www.root-me.org)
@@ -81,9 +80,8 @@
 * [PicoCTF](https://primer.picoctf.com)
 * [Sourcing.Games](https://sourcing.games/)
 * [Sans - Holiday Hack Challenge](https://holidayhackchallenge.com)
-</details>
 
-<details><summary> lists and other resources</summary>
+##### lists and other resources
 
 * [Awesome Hacking](https://awesomehacking.org/) - list of hacking tools and resources
 * [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - reverse shells, metasploit, privilege escalation, etc
@@ -96,9 +94,9 @@
 * [Awesome OSCP](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
 * [OSCP 2.0 Prep Guide](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html) - Tjnull
 * [Common Exploits](https://github.com/commonexploits)
-</details>
 
-<details><summary> InfoSec Blogs</summary>
+
+##### InfoSec Blogs
 
 * [Security Mailing List Archive](https://seclists.org/)
 * [Kitploit](https://www.kitploit.com/)
@@ -109,9 +107,8 @@
 * [didici security link aggregator](https://security.didici.cc/news)
 * [AllInfoSecNews link aggregator](https://allinfosecnews.com/)
 * [Cyber Security Hub RSS feeds](https://www.cshub.com/rss-feeds)
-</details>
-
-<details><summary> InfoSec Videos</summary>
+* 
+##### InfoSec Videos
   
 * [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 * [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
@@ -119,9 +116,8 @@
 * [HackerSploit](https://www.youtube.com/c/HackerSploit)
 * [IppSec](https://www.youtube.com/c/ippsec)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
-</details>
 
-<details><summary> Other Resources</summary>
+##### Other Resources
 
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
@@ -137,25 +133,23 @@
 * [lobste.rs](https://lobste.rs) - compsci link aggregator
 * [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
-</details>
 
-<details><summary> Free Books</summary>
+##### Free Books
 
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
 * [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
-</details>
 
-<details><summary>To-Read Lists</summary>
+##### To-Read Lists
   
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
-</details>
 
 #### Podcasts
-<details><summary>Information Security</summary>
+
+##### Information Security
   
 * [Smashing Security](https://www.smashingsecurity.com/episodes/)
 * [Mandiant - State of the Hack]()
@@ -188,9 +182,9 @@
 * [Off the Hook]()
 * [Adventures in DevOps]()
 * [Malicious Life]()
-  </details>
 
-<details><summary> Computer Science and Programming</summary>
+
+##### Computer Science and Programming
   
 * [Talking Machines]()
 * [Unsupervised Learning]()
@@ -214,10 +208,9 @@
 * [Command Line Heroes]()
 * [Elixir Outlaws]()
 * [Code Newbie Podcast]()
-  </details>
 
-<details><summary> Other Podcasts</summary>
-  
+##### Other Podcasts
+
 * [Infinite Loops]()
 * [Talk Nerdy with Cara Santa Maria]()
 * [The Knowledge Project]()
@@ -285,4 +278,3 @@
 * [Daniel & Jorge Explain The Universe]()
 * [The Infinite Monkey Cage]()
 * [Point of Inquiry]()
-</details>
