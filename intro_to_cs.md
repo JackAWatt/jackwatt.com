@@ -4,6 +4,8 @@
 
 >[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 
+>[The Math You Need](https://learnaifromscratch.github.io/themathyouneed.html)
+
 >[Arithmetic](https://www.khanacademy.org/math/arithmetic) Khan Academy
 
 >[Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) Khan Academy
