@@ -1,7 +1,6 @@
 
-###### >[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
+###### >[How to Learn Advanced Mathematics - quantstart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 
-This page is about not about intro to C
 # 1
 ### Math
 
@@ -62,3 +61,40 @@ This page is about not about intro to C
     Probability
     Mathematical Computing
 
+# Year 2:
+
+> 
+    Real Analysis - Riemann Integral
+    Metric Spaces
+    Vector Calculus
+    Ordinary Differential Equations - Nonlinearity and Chaos
+    Geometry - Non-Euclidean
+    Abstract Algebra
+    Stochastic Processes
+    Numerical Analysis
+    Statistics
+
+# Year 3:
+
+> 
+    Complex Analysis
+    Topology
+    Ring Theory
+    Fluid Dynamics
+    Measure Theory
+    Linear Functional Analysis
+    Elementary Differential Geometry
+    Partial Differential Equations
+    Numerical Linear Algebra
+
+# Year 4:
+
+> 
+    Brownian Motion
+    Stochastic Analysis
+    Stochastic Calculus for Finance
+    Stochastic Optimal Control
+    Statistical Modeling
+    Statistical Machine Learning
+    Markov Chains
+    High Performance Computing
