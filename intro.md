@@ -1,6 +1,9 @@
+
+###### >[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
+
+This page is about not about intro to C
 # 1
 ### Math
->[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 
 >[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 
@@ -45,4 +48,17 @@
 > [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
 > *or*  
 > [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+
+
+# Year 1:
+
+> 
+    Foundations
+    Real Analysis - Sequences and Series
+    Linear Algebra
+    Ordinary Differential Equations
+    Geometry - Euclidean
+    Algebra/Group Theory
+    Probability
+    Mathematical Computing
 
