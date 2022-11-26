@@ -320,9 +320,10 @@ My primary source recommendations:
 First Year Reading List:
 
 ##### Homer:
-> The Iliad 
 
+> The Iliad - Homer
 > The Odyssey
+
 ##### Aeschylus:
 > Prometheus Bound
 
