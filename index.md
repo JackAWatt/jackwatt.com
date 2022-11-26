@@ -319,9 +319,10 @@ My primary source recommendations:
 
 First Year Reading List:
 
-##### Homer:
-
-> The Iliad - Homer
+> # Homer
+>
+> The Iliad
+> 
 > The Odyssey
 
 ##### Aeschylus:
