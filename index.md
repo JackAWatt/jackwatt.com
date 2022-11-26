@@ -438,45 +438,45 @@ Fifth Year Reading List:
 
 ##### January - February
 
-    BIG READ: Wuthering Heights by Emily Brontë (1847)
-    SHAKESPEARE'S MASTERPIECES: Banquets of Blood (Lecture Series 1) - King Lear, Hamlet, Macbeth
+    * BIG READ: Wuthering Heights by Emily Brontë (1847)
+    * SHAKESPEARE'S MASTERPIECES: Banquets of Blood (Lecture Series 1) - King Lear, Hamlet, Macbeth
 
 ##### February - March:
 
-    BIG READ: Moby-Dick by Herman Melville (1851)
-    SHAKESPEARE'S MASTERPIECES: Star-Crossed Lovers (Lecture Series 2) - Romeo & Juliet, Anthony & Cleopatra, Othello 
+    * BIG READ: Moby-Dick by Herman Melville (1851)
+    * SHAKESPEARE'S MASTERPIECES: Star-Crossed Lovers (Lecture Series 2) - Romeo & Juliet, Anthony & Cleopatra, Othello 
 
 ##### April - May:
 
-    BIG READ: Blood Meridian by Cormac McCarthy (1985)
-    CLASSICS: Plato's Poetics - Reading The Republic as Imaginative Literature
-    HISTORY OF LITERATURE: (1) Modernism & Post-Modernism (1901 - Present Day)
+    * BIG READ: Blood Meridian by Cormac McCarthy (1985)
+    * CLASSICS: Plato's Poetics - Reading The Republic as Imaginative Literature
+    * HISTORY OF LITERATURE: (1) Modernism & Post-Modernism (1901 - Present Day)
 
 ##### May - July:
 
-    BIG READ: Clarissa by Samuel Richardson (1747)
-    SHAKESPEARE'S MASTERPIECES: Midsummer Magic (Lecture Series 3) - A Midsummer Night's Dream, As You Like It, Much Ado About Nothing 
+    * BIG READ: Clarissa by Samuel Richardson (1747)
+    * SHAKESPEARE'S MASTERPIECES: Midsummer Magic (Lecture Series 3) - A Midsummer Night's Dream, As You Like It, Much Ado About Nothing 
 
 ##### July - September:
 
-    BIG READ: Ulysses by James Joyce (1920)
-    CLASSICS: The Influence of Homer Through the Ages
-    HISTORY OF LITERATURE: (2) Victorianism (1837-1901)
+    * BIG READ: Ulysses by James Joyce (1920)
+    * CLASSICS: The Influence of Homer Through the Ages
+    * HISTORY OF LITERATURE: (2) Victorianism (1837-1901)
 
 ##### October - November:
 
-    BIG READ: Dracula by Bram Stoker (1897)
-    SHORT READ: The Lost Stradivarius by J. Meade Falkner (1895)
+    * BIG READ: Dracula by Bram Stoker (1897)
+    * SHORT READ: The Lost Stradivarius by J. Meade Falkner (1895)
 
 ##### November - December:
 
-    BIG READ: Secret Dickens Novel
-    HISTORY OF LITERATURE: (3) Romanticism (1790-1850)
-    SHAKESPEARE'S MASTERPIECES: Winter Romance (Lecture Series 4) - The Winter's Tale, The Tempest, Twelfth Night
+    * BIG READ: Secret Dickens Novel
+    * HISTORY OF LITERATURE: (3) Romanticism (1790-1850)
+    * SHAKESPEARE'S MASTERPIECES: Winter Romance (Lecture Series 4) - The Winter's Tale, The Tempest, Twelfth Night
 
 ##### Ongoing Reading Projects:
 We are continuing to take a long-term, slow, deep-reading approach to the following literary classics (join at any time):
 
-    ORIGINAL SERIALISED READ-ALONG: Middlemarch by George Eliot (1871-2)
-    THE PROUST PROJECT: In Search of Lost Time by Marcel Proust (1922-31)
-    SHAKESPEARE'S SONNETS
+    * ORIGINAL SERIALISED READ-ALONG: Middlemarch by George Eliot (1871-2)
+    * THE PROUST PROJECT: In Search of Lost Time by Marcel Proust (1922-31)
+    * SHAKESPEARE'S SONNETS
