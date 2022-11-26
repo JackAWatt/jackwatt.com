@@ -323,25 +323,37 @@ First Year Reading List:
 > The Odyssey
 ##### Aeschylus:
 > Prometheus Bound
+
 > Agamemnon 
+
 > The Eumenides 
+
 > The Libation Bearers
 ##### Euripides:
 > Hippolytus
+
 > Bacchae 
 ##### Sophocles:
 > Oedipus the King
+
 > The Theban Plays
+
 > Antigone 
 ##### Aristophanes:
 > Clouds
+
 > Frogs
+
 > Lysistrata 
+
 > The Assemblywomen
 ##### Plato:
 > The Republic
+
 > The Symposium
+
 > Meno
+
 > The Apology
 ##### Herodotus:
 > The History
@@ -349,10 +361,15 @@ First Year Reading List:
 > The History of the Peloponnesian War
 ##### Aristotle:
 > Politics
+
 > Ethics
+
 > Metaphysics
+
 > de Anima
+
 > Rhetoric
+
 > Poetics
 ##### Plutarch:
 > The Lives of the Noble Grecians and Romans
@@ -365,33 +382,39 @@ First Year Reading List:
 > Second Year Reading List:
 
 ##### Marcus Aurelius:
-        Meditations
+> Meditations
 ##### Cicero:
-        The Laws
-        The Republic
+> The Laws
+
+> The Republic
 ##### Virgil:
-        Aeneid
+> Aeneid
 ##### Horace:
-        Odes
-        Poetics
-        Satires
+> Odes
+  
+> Poetics
+    
+> Satires
 ##### Ovid:
-        Metamorphoses 
+> Metamorphoses 
 ##### Saint Augustine:
-        Confessions
-        City of God
+> Confessions
+
+> City of God
 ##### Saint Thomas Aquinas:
-        Treatises 
+> Treatises 
 ##### Dante:
-        The Divine Comedy
+> The Divine Comedy
 ##### Chaucer:
-        Canterbury Tales
-        Troilus and Criseyde 
+> Canterbury Tales
+
+> Troilus and Criseyde 
 ##### Machiavelli:
-        The Prince
+> The Prince
 ##### Descartes:
-        Discourse
-##### The New Testament
+> Discourse
+##### *
+> The New Testament
 
 Third Year Reading List:
 
