@@ -339,35 +339,16 @@ First Year Reading List:
 * Meno - Plato 
 * The Apology - Plato
 * The History - Herodotus
-
-> ### Thucydides:
-> 
-> The History of the Peloponnesian War
-
-> ### Aristotle:
-> 
-> Politics
-> 
-> Ethics
-> 
-> Metaphysics
-> 
-> de Anima
-> 
-> Rhetoric
-> 
-> Poetics
-
-> ### Plutarch:
-> 
-> The Lives of the Noble Grecians and Romans
-
-> ### Epictetus:
-> 
-> Discourses 
-
-> ### *
-> The Old Testament
+* The History of the Peloponnesian War - Thucydides
+* Politics - Aristotle
+* Ethics - Aristotle
+* Metaphysics - Aristotle
+* de Anima - Aristotle
+* Rhetoric - Aristotle 
+* Poetics - Aristotle 
+* The Lives of the Noble Grecians and Romans - Plutarch 
+* Discourses - Epictetus
+* The Old Testament
 
 
 Second Year Reading List:
