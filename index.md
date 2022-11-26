@@ -319,7 +319,7 @@ My primary source recommendations:
 First Year Reading List:
 ##### Homer:
 > The Iliad 
-> 
+
 > The Odyssey
 ##### Aeschylus:
 > Prometheus Bound
