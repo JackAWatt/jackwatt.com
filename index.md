@@ -316,7 +316,9 @@ My primary source recommendations:
 
 #### Literature 5-Year Reading Program
 ###### Taken from [Hardcore Literature](https://benjaminmcevoy.com/intellectually-ambitious-5-year-reading-program/)
-First Year Reading List:
+
+> First Year Reading List:
+
 ##### Homer:
 > The Iliad 
 
