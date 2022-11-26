@@ -334,209 +334,209 @@ First Year Reading List:
  * The Theban Plays
  * Antigone 
 ##### Aristophanes:
-        Clouds
-        Frogs
-        Lysistrata 
-        The Assemblywomen
-    Plato:
-        The Republic
-        The Symposium
-        Meno
-        The Apology
-    Herodotus:
-        The History
-    Thucydides:
-        The History of the Peloponnesian War
-    Aristotle:
-        Politics
-        Ethics
-        Metaphysics
-        de Anima
-        Rhetoric
-        Poetics
-    Plutarch:
-        The Lives of the Noble Grecians and Romans
-    Epictetus:
-        Discourses 
-    The Old Testament
+* Clouds
+* Frogs
+* Lysistrata 
+* The Assemblywomen
+##### Plato:
+* The Republic
+* The Symposium
+* Meno
+* The Apology
+##### Herodotus:
+* The History
+#####Thucydides:
+* The History of the Peloponnesian War
+##### Aristotle:
+* Politics
+* Ethics
+* Metaphysics
+* de Anima
+* Rhetoric
+* Poetics
+#####Plutarch:
+* The Lives of the Noble Grecians and Romans
+#####Epictetus:
+* Discourses 
+##### The Old Testament
 
 Second Year Reading List:
 
-    Marcus Aurelius:
+##### Marcus Aurelius:
         Meditations
-    Cicero:
+##### Cicero:
         The Laws
         The Republic
-    Virgil:
+##### Virgil:
         Aeneid
-    Horace:
+##### Horace:
         Odes
         Poetics
         Satires
-    Ovid:
+##### Ovid:
         Metamorphoses 
-    Saint Augustine:
+##### Saint Augustine:
         Confessions
         City of God
-    Saint Thomas Aquinas:
+##### Saint Thomas Aquinas:
         Treatises 
-    Dante:
+##### Dante:
         The Divine Comedy
-    Chaucer:
+##### Chaucer:
         Canterbury Tales
         Troilus and Criseyde 
-    Machiavelli:
+##### Machiavelli:
         The Prince
-    Descartes:
+##### Descartes:
         Discourse
-    The New Testament
+##### The New Testament
 
 Third Year Reading List:
 
-    Shakespeare:
+##### Shakespeare:
         Everything
-    Cervantes:
+##### Cervantes:
         Don Quixote 
-    Montaigne:
+##### Montaigne:
         Essays
-    Thomas Hobbe:
+##### Thomas Hobbe:
         Leviathan
-     Erasmus:
+##### Erasmus:
         Praise of Folly
-    Milton:
+##### Milton:
         Paradise Lost
         Areopagitica 
-    Moliere:
+##### Moliere:
         The Misanthrope
         The School for Wives
         Tartuff 
-    Newton:
+##### Newton:
         Mathematical Principles of Natural Philosophy
-    John Locke:
+##### John Locke:
         Essays
-    David Hume:
+##### David Hume:
         Enquiry 
-    Voltaire:
+##### Voltaire:
         Candide
-    Samuel Richardson:
+##### Samuel Richardson:
         Clarissa 
-    Daniel Defoe:
+##### Daniel Defoe:
         Robinson Crusoe
 
 Fourth Year Reading List:
 
-    Rousseau:
+##### Rousseau:
         The Social Contract
-    Adam Smith:
+##### Adam Smith:
         Wealth of Nations
-    Edward Gibbon:
+##### Edward Gibbon:
         The Decline and Fall of the Roman Empire
-    Kant:
+##### Kant:
         Critiques 
-    Mill:
+##### Mill:
         On Liberty
         Utilitarianism 
-    Kierkegaard:
+##### Kierkegaard:
         Fear and Trembling
-    Nietzsche:
+##### Nietzsche:
         Beyond Good and Evil
         Thus Spoke Zarathustra
         The Birth of Tragedy
-    Goethe:
+##### Goethe:
         Faust
-    Balzac:
+##### Balzac:
         Cousin Bette
-    Jane Austen:
+##### Jane Austen:
         Pride and Prejudice
-    George Eliot:
+##### George Eliot:
         Middlemarch
-    Charles Dickens:
+##### Charles Dickens:
         Great Expectations
         Bleak House
-    Herman Melville:
+##### Herman Melville:
         Moby Dick
-    Charles Darwin:
+##### Charles Darwin:
         Origin of Species
-    Karl Marx:
+##### Karl Marx:
         Das Kapital
         Manifesto (with Engels)
 
 Fifth Year Reading List:
 
-    Tolstoy:
+##### Tolstoy:
         Anna Karenina
         War and Peace
-    Dostoyevsky:
+##### Dostoyevsky:
         Crime and Punishment
         The Brothers Karamazov
-    Ibsen:
+##### Ibsen:
         A Doll’s House
         Hedda Gabler 
-    William James:
+##### William James:
         The Principles of Psychology
-    Freud:
+##### Freud:
         Selected Works
-    John Dewey:
+##### John Dewey:
         Experience and Education
-    Einstein:
+##### Einstein:
         Relativity
-    Sir George Frazer:
+##### Sir George Frazer:
         The Golden Bough
-    Joseph Conrad:
+##### Joseph Conrad:
         Heart of Darkness
-    Anton Chekhov
+##### Anton Chekhov
         Selected Short Stories
         Uncle Vanya
-    Proust:
+##### Proust:
         In Remembrance of Things Past
-    T.S. Eliot
+##### T.S. Eliot
         The Waste Land
-    Hemingway:
+##### Hemingway:
         The Old Man and the Sea
-    Faulkner:
+##### Faulkner:
         As I Lay Dying
 
 ##### Hardcore Literature 2022 Book Club List
 
-January - February
+##### January - February
 
     BIG READ: Wuthering Heights by Emily Brontë (1847)
     SHAKESPEARE'S MASTERPIECES: Banquets of Blood (Lecture Series 1) - King Lear, Hamlet, Macbeth
 
-February - March:
+##### February - March:
 
     BIG READ: Moby-Dick by Herman Melville (1851)
     SHAKESPEARE'S MASTERPIECES: Star-Crossed Lovers (Lecture Series 2) - Romeo & Juliet, Anthony & Cleopatra, Othello 
 
-April - May:
+##### April - May:
 
     BIG READ: Blood Meridian by Cormac McCarthy (1985)
     CLASSICS: Plato's Poetics - Reading The Republic as Imaginative Literature
     HISTORY OF LITERATURE: (1) Modernism & Post-Modernism (1901 - Present Day)
 
-May - July:
+##### May - July:
 
     BIG READ: Clarissa by Samuel Richardson (1747)
     SHAKESPEARE'S MASTERPIECES: Midsummer Magic (Lecture Series 3) - A Midsummer Night's Dream, As You Like It, Much Ado About Nothing 
 
-July - September:
+##### July - September:
 
     BIG READ: Ulysses by James Joyce (1920)
     CLASSICS: The Influence of Homer Through the Ages
     HISTORY OF LITERATURE: (2) Victorianism (1837-1901)
 
-October - November:
+##### October - November:
 
     BIG READ: Dracula by Bram Stoker (1897)
     SHORT READ: The Lost Stradivarius by J. Meade Falkner (1895)
 
-November - December:
+##### November - December:
 
     BIG READ: Secret Dickens Novel
     HISTORY OF LITERATURE: (3) Romanticism (1790-1850)
     SHAKESPEARE'S MASTERPIECES: Winter Romance (Lecture Series 4) - The Winter's Tale, The Tempest, Twelfth Night
 
-Ongoing Reading Projects:
+##### Ongoing Reading Projects:
 We are continuing to take a long-term, slow, deep-reading approach to the following literary classics (join at any time):
 
     ORIGINAL SERIALISED READ-ALONG: Middlemarch by George Eliot (1871-2)
