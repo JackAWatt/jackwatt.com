@@ -359,6 +359,7 @@ First Year Reading List:
         The Lives of the Noble Grecians and Romans
 ##### Epictetus:
         Discourses 
+##### *
     The Old Testament
 
 
