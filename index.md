@@ -319,7 +319,7 @@ My primary source recommendations:
 
 First Year Reading List:
 
-> # Homer
+> #### Homer
 >
 > The Iliad
 > 
