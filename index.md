@@ -318,21 +318,21 @@ My primary source recommendations:
 ###### Taken from [Hardcore Literature](https://benjaminmcevoy.com/intellectually-ambitious-5-year-reading-program/)
 First Year Reading List:
 
-    Homer:
-        The Iliad 
-        The Odyssey
-    Aeschylus:
-        Prometheus Bound
-        Agamemnon 
-        The Eumenides 
-        The Libation Bearers
-    Euripides:
-        Hippolytus
-        Bacchae 
-    Sophocles:
-        Oedipus the King
-        The Theban Plays
-        Antigone 
+Homer
+* The Iliad 
+* The Odyssey
+ Aeschylus:
+* Prometheus Bound
+* Agamemnon 
+* The Eumenides 
+* The Libation Bearers
+Euripides:
+* Hippolytus
+* Bacchae 
+ Sophocles:
+ * Oedipus the King
+ * The Theban Plays
+ * Antigone 
     Aristophanes:
         Clouds
         Frogs
