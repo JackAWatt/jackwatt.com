@@ -317,7 +317,7 @@ My primary source recommendations:
 #### Literature 5-Year Reading Program
 ###### Taken from [Hardcore Literature](https://benjaminmcevoy.com/intellectually-ambitious-5-year-reading-program/)
 
-> First Year Reading List:
+First Year Reading List:
 
 ##### Homer:
 > The Iliad 
@@ -378,10 +378,10 @@ My primary source recommendations:
 ##### Epictetus:
 > Discourses 
 ##### *
-    The Old Testament
+ > The Old Testament
 
 
-> Second Year Reading List:
+Second Year Reading List:
 
 ##### Marcus Aurelius:
 > Meditations
