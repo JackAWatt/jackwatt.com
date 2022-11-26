@@ -435,7 +435,7 @@ Fifth Year Reading List:
 * As I Lay Dying - Faulkner
 
 ##### Hardcore Literature 2022 Book Club List
-
+* [taken from here](https://www.patreon.com/posts/hardcore-book-48439779)
 ##### January - February
 
 * BIG READ: Wuthering Heights by Emily Brontë (1847)
