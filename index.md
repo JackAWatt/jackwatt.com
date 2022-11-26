@@ -319,59 +319,26 @@ My primary source recommendations:
 
 First Year Reading List:
 
-> ### Homer:
->
-> The Iliad
-> 
-> The Odyssey
-
-> ### Aeschylus:
-> 
-> Prometheus Bound
->
-> Agamemnon 
->
-> The Eumenides 
->
-> The Libation Bearers
-
-> ### Euripides:
-> 
-> Hippolytus
->
-> Bacchae
-
-> ### Sophocles:
->
-> Oedipus the King
-> 
-> The Theban Plays
-> 
-> Antigone 
-
-> ### Aristophanes:
-> 
-> Clouds
-> 
-> Frogs
-> 
-> Lysistrata 
-> 
-> The Assemblywomen
-
-> ### Plato:
-> 
-> The Republic
-> 
-> The Symposium
-> 
-> Meno
-> 
-> The Apology
-
-> ### Herodotus:
-> 
-> The History
+* The Iliad - Homer
+* The Odyssey - Homer
+* Prometheus Bound - Aeschylus
+* Agamemnon - Aeschylus
+* The Eumenides - Aeschylus
+* The Libation Bearers - Aeschylus
+* Hippolytus - Euripides
+* Bacchae - Euripides
+* Oedipus the King - Sophocles
+* The Theban Plays - Sophocles 
+* Antigone - Sophocles
+* Clouds - Aristophanes
+* Frogs - Aristophanes
+* Lysistrata - Aristophanes
+* The Assemblywomen - Aristophanes 
+* The Republic - Plato 
+* The Symposium - Plato 
+* Meno - Plato 
+* The Apology - Plato
+* The History - Herodotus
 
 > ### Thucydides:
 > 
