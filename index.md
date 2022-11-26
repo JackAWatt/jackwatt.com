@@ -392,76 +392,47 @@ Third Year Reading List:
 
 Fourth Year Reading List:
 
-##### Rousseau:
-        The Social Contract
-##### Adam Smith:
-        Wealth of Nations
-##### Edward Gibbon:
-        The Decline and Fall of the Roman Empire
-##### Kant:
-        Critiques 
-##### Mill:
-        On Liberty
-        Utilitarianism 
-##### Kierkegaard:
-        Fear and Trembling
-##### Nietzsche:
-        Beyond Good and Evil
-        Thus Spoke Zarathustra
-        The Birth of Tragedy
-##### Goethe:
-        Faust
-##### Balzac:
-        Cousin Bette
-##### Jane Austen:
-        Pride and Prejudice
-##### George Eliot:
-        Middlemarch
-##### Charles Dickens:
-        Great Expectations
-        Bleak House
-##### Herman Melville:
-        Moby Dick
-##### Charles Darwin:
-        Origin of Species
-##### Karl Marx:
-        Das Kapital
-        Manifesto (with Engels)
+* The Social Contract - Rousseau
+* Wealth of Nations - Adam Smith
+* The Decline and Fall of the Roman Empire - Edward Gibbon
+* Critiques - Kant
+* On Liberty - Mill
+* Utilitarianism  - Mill
+* Fear and Trembling - Kierkegaard
+* Beyond Good and Evil - Nietzsche
+* Thus Spoke Zarathustra - Nietzsche
+* The Birth of Tragedy - Nietzsche
+* Faust - Goethe
+* Cousin Bette - Balzac
+* Pride and Prejudice - Jane Austen
+* Middlemarch - George Eliot
+* Great Expectations - Charles Dickens
+* Bleak House - Charles Dickens
+* Moby Dick - Merman Melville
+* Origin of Species - Charles Darwin
+* Das Kapital - Karl Marx
+* Manifesto - Karl Marx(with Engels)
 
 Fifth Year Reading List:
 
-##### Tolstoy:
-        Anna Karenina
-        War and Peace
-##### Dostoyevsky:
-        Crime and Punishment
-        The Brothers Karamazov
-##### Ibsen:
-        A Doll’s House
-        Hedda Gabler 
-##### William James:
-        The Principles of Psychology
-##### Freud:
-        Selected Works
-##### John Dewey:
-        Experience and Education
-##### Einstein:
-        Relativity
-##### Sir George Frazer:
-        The Golden Bough
-##### Joseph Conrad:
-        Heart of Darkness
-##### Anton Chekhov
-        Selected Short Stories
-        Uncle Vanya
-##### Proust:
-        In Remembrance of Things Past
-##### T.S. Eliot
-        The Waste Land
-##### Hemingway:
-        The Old Man and the Sea
-##### Faulkner:
-        As I Lay Dying
+* Anna Karenina - Tolstoy
+* War and Peace - Tolstoy
+* Crime and Punishment - Dostoyevsky
+* The Brothers Karamazov - Dostoyevsky
+* A Doll’s House - Ibsen
+* Hedda Gabler  - Ibsen
+* The Principles of Psychology - William James
+* Selected Works - Freud
+* Experience and Education - Freud
+* Relativity - Einstein
+* The Golden Bough - Sir George Frazer
+* Heart of Darkness - Joseph Concrad
+* Selected Short Stories - Anton Chekhov
+* Uncle Vanya - Anton Chekhov
+* In Remembrance of Things Past - Proust
+* The Waste Land - T.S. Eliot
+* The Old Man and the Sea - Hemmingway
+* As I Lay Dying - Faulkner
 
 ##### Hardcore Literature 2022 Book Club List
 
