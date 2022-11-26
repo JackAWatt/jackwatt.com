@@ -279,7 +279,7 @@
 * [The Infinite Monkey Cage]()
 * [Point of Inquiry]()
 
-##### Philosophy reading order: 
+#### Philosophy reading order: 
 ###### Taken from [Leaf for Leaf](https://www.youtube.com/watch?v=GlXi2nuu2KM)
 My survey/landscape recommendations:
 1. The Story of Philosophy, Durant
@@ -314,26 +314,26 @@ My primary source recommendations:
 25. Being and Time, Heidegger
 26. Philosophical Investigations, Wittgenstein
 
-##### Literature 5-Year Reading Program
+#### Literature 5-Year Reading Program
 ###### Taken from [Hardcore Literature](https://benjaminmcevoy.com/intellectually-ambitious-5-year-reading-program/)
 First Year Reading List:
 
-Homer
+##### Homer:
 * The Iliad 
 * The Odyssey
- Aeschylus:
+##### Aeschylus:
 * Prometheus Bound
 * Agamemnon 
 * The Eumenides 
 * The Libation Bearers
-Euripides:
+##### Euripides:
 * Hippolytus
 * Bacchae 
- Sophocles:
+##### Sophocles:
  * Oedipus the King
  * The Theban Plays
  * Antigone 
-    Aristophanes:
+##### Aristophanes:
         Clouds
         Frogs
         Lysistrata 
