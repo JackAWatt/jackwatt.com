@@ -313,3 +313,232 @@ My primary source recommendations:
 24. On the Genealogy of Morals, Nietzsche
 25. Being and Time, Heidegger
 26. Philosophical Investigations, Wittgenstein
+
+##### Literature 5-Year Reading Program
+###### Taken from [Hardcore Literature](https://benjaminmcevoy.com/intellectually-ambitious-5-year-reading-program/)
+First Year Reading List:
+
+    Homer:
+        The Iliad 
+        The Odyssey
+    Aeschylus:
+        Prometheus Bound
+        Agamemnon 
+        The Eumenides 
+        The Libation Bearers
+    Euripides:
+        Hippolytus
+        Bacchae 
+    Sophocles:
+        Oedipus the King
+        The Theban Plays
+        Antigone 
+    Aristophanes:
+        Clouds
+        Frogs
+        Lysistrata 
+        The Assemblywomen
+    Plato:
+        The Republic
+        The Symposium
+        Meno
+        The Apology
+    Herodotus:
+        The History
+    Thucydides:
+        The History of the Peloponnesian War
+    Aristotle:
+        Politics
+        Ethics
+        Metaphysics
+        de Anima
+        Rhetoric
+        Poetics
+    Plutarch:
+        The Lives of the Noble Grecians and Romans
+    Epictetus:
+        Discourses 
+    The Old Testament
+
+Second Year Reading List:
+
+    Marcus Aurelius:
+        Meditations
+    Cicero:
+        The Laws
+        The Republic
+    Virgil:
+        Aeneid
+    Horace:
+        Odes
+        Poetics
+        Satires
+    Ovid:
+        Metamorphoses 
+    Saint Augustine:
+        Confessions
+        City of God
+    Saint Thomas Aquinas:
+        Treatises 
+    Dante:
+        The Divine Comedy
+    Chaucer:
+        Canterbury Tales
+        Troilus and Criseyde 
+    Machiavelli:
+        The Prince
+    Descartes:
+        Discourse
+    The New Testament
+
+Third Year Reading List:
+
+    Shakespeare:
+        Everything
+    Cervantes:
+        Don Quixote 
+    Montaigne:
+        Essays
+    Thomas Hobbe:
+        Leviathan
+     Erasmus:
+        Praise of Folly
+    Milton:
+        Paradise Lost
+        Areopagitica 
+    Moliere:
+        The Misanthrope
+        The School for Wives
+        Tartuff 
+    Newton:
+        Mathematical Principles of Natural Philosophy
+    John Locke:
+        Essays
+    David Hume:
+        Enquiry 
+    Voltaire:
+        Candide
+    Samuel Richardson:
+        Clarissa 
+    Daniel Defoe:
+        Robinson Crusoe
+
+Fourth Year Reading List:
+
+    Rousseau:
+        The Social Contract
+    Adam Smith:
+        Wealth of Nations
+    Edward Gibbon:
+        The Decline and Fall of the Roman Empire
+    Kant:
+        Critiques 
+    Mill:
+        On Liberty
+        Utilitarianism 
+    Kierkegaard:
+        Fear and Trembling
+    Nietzsche:
+        Beyond Good and Evil
+        Thus Spoke Zarathustra
+        The Birth of Tragedy
+    Goethe:
+        Faust
+    Balzac:
+        Cousin Bette
+    Jane Austen:
+        Pride and Prejudice
+    George Eliot:
+        Middlemarch
+    Charles Dickens:
+        Great Expectations
+        Bleak House
+    Herman Melville:
+        Moby Dick
+    Charles Darwin:
+        Origin of Species
+    Karl Marx:
+        Das Kapital
+        Manifesto (with Engels)
+
+Fifth Year Reading List:
+
+    Tolstoy:
+        Anna Karenina
+        War and Peace
+    Dostoyevsky:
+        Crime and Punishment
+        The Brothers Karamazov
+    Ibsen:
+        A Doll’s House
+        Hedda Gabler 
+    William James:
+        The Principles of Psychology
+    Freud:
+        Selected Works
+    John Dewey:
+        Experience and Education
+    Einstein:
+        Relativity
+    Sir George Frazer:
+        The Golden Bough
+    Joseph Conrad:
+        Heart of Darkness
+    Anton Chekhov
+        Selected Short Stories
+        Uncle Vanya
+    Proust:
+        In Remembrance of Things Past
+    T.S. Eliot
+        The Waste Land
+    Hemingway:
+        The Old Man and the Sea
+    Faulkner:
+        As I Lay Dying
+
+##### Hardcore Literature 2022 Book Club List
+
+January - February
+
+    BIG READ: Wuthering Heights by Emily Brontë (1847)
+    SHAKESPEARE'S MASTERPIECES: Banquets of Blood (Lecture Series 1) - King Lear, Hamlet, Macbeth
+
+February - March:
+
+    BIG READ: Moby-Dick by Herman Melville (1851)
+    SHAKESPEARE'S MASTERPIECES: Star-Crossed Lovers (Lecture Series 2) - Romeo & Juliet, Anthony & Cleopatra, Othello 
+
+April - May:
+
+    BIG READ: Blood Meridian by Cormac McCarthy (1985)
+    CLASSICS: Plato's Poetics - Reading The Republic as Imaginative Literature
+    HISTORY OF LITERATURE: (1) Modernism & Post-Modernism (1901 - Present Day)
+
+May - July:
+
+    BIG READ: Clarissa by Samuel Richardson (1747)
+    SHAKESPEARE'S MASTERPIECES: Midsummer Magic (Lecture Series 3) - A Midsummer Night's Dream, As You Like It, Much Ado About Nothing 
+
+July - September:
+
+    BIG READ: Ulysses by James Joyce (1920)
+    CLASSICS: The Influence of Homer Through the Ages
+    HISTORY OF LITERATURE: (2) Victorianism (1837-1901)
+
+October - November:
+
+    BIG READ: Dracula by Bram Stoker (1897)
+    SHORT READ: The Lost Stradivarius by J. Meade Falkner (1895)
+
+November - December:
+
+    BIG READ: Secret Dickens Novel
+    HISTORY OF LITERATURE: (3) Romanticism (1790-1850)
+    SHAKESPEARE'S MASTERPIECES: Winter Romance (Lecture Series 4) - The Winter's Tale, The Tempest, Twelfth Night
+
+Ongoing Reading Projects:
+We are continuing to take a long-term, slow, deep-reading approach to the following literary classics (join at any time):
+
+    ORIGINAL SERIALISED READ-ALONG: Middlemarch by George Eliot (1871-2)
+    THE PROUST PROJECT: In Search of Lost Time by Marcel Proust (1922-31)
+    SHAKESPEARE'S SONNETS
