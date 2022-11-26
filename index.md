@@ -319,68 +319,88 @@ My primary source recommendations:
 
 First Year Reading List:
 
-> #### Homer
+> ### Homer:
 >
 > The Iliad
 > 
 > The Odyssey
 
-##### Aeschylus:
+> ### Aeschylus:
+> 
 > Prometheus Bound
-
+>
 > Agamemnon 
-
+>
 > The Eumenides 
-
+>
 > The Libation Bearers
-##### Euripides:
+
+> ### Euripides:
+> 
 > Hippolytus
+>
+> Bacchae
 
-> Bacchae 
-##### Sophocles:
+> ### Sophocles:
+>
 > Oedipus the King
-
+> 
 > The Theban Plays
-
+> 
 > Antigone 
-##### Aristophanes:
+
+> ### Aristophanes:
+> 
 > Clouds
-
+> 
 > Frogs
-
+> 
 > Lysistrata 
-
+> 
 > The Assemblywomen
-##### Plato:
+
+> ### Plato:
+> 
 > The Republic
-
+> 
 > The Symposium
-
+> 
 > Meno
-
+> 
 > The Apology
-##### Herodotus:
+
+> ### Herodotus:
+> 
 > The History
-##### Thucydides:
+
+> ### Thucydides:
+> 
 > The History of the Peloponnesian War
-##### Aristotle:
+
+> ### Aristotle:
+> 
 > Politics
-
+> 
 > Ethics
-
+> 
 > Metaphysics
-
+> 
 > de Anima
-
+> 
 > Rhetoric
-
+> 
 > Poetics
-##### Plutarch:
+
+> ### Plutarch:
+> 
 > The Lives of the Noble Grecians and Romans
-##### Epictetus:
+
+> ### Epictetus:
+> 
 > Discourses 
-##### *
- > The Old Testament
+
+> ### *
+> The Old Testament
 
 
 Second Year Reading List:
