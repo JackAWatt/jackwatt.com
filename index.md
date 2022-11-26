@@ -353,72 +353,42 @@ First Year Reading List:
 
 Second Year Reading List:
 
-##### Marcus Aurelius:
-> Meditations
-##### Cicero:
-> The Laws
-
-> The Republic
-##### Virgil:
-> Aeneid
-##### Horace:
-> Odes
-  
-> Poetics
-    
-> Satires
-##### Ovid:
-> Metamorphoses 
-##### Saint Augustine:
-> Confessions
-
-> City of God
-##### Saint Thomas Aquinas:
-> Treatises 
-##### Dante:
-> The Divine Comedy
-##### Chaucer:
-> Canterbury Tales
-
-> Troilus and Criseyde 
-##### Machiavelli:
-> The Prince
-##### Descartes:
-> Discourse
-##### *
-> The New Testament
+* Meditations - Marcus Aurelius
+* The Laws - Cicero
+* The Republic - Cicero
+* Aeneid - Virgil
+* Odes - Horace
+* Poetics - Horace
+* Satires - Horace
+* Metamorphoses - Ovid
+* Confessions - Saint Augustine
+* City of God - Saint Augustine
+* Treatises - Saint Thomas Aquinas
+* The Divine Comedy - Dante
+* Canterbury Tales - Chaucer
+* Troilus and Criseyde - Chaucer
+* The Prince - Machiavelli
+* Discourse - Descartes
+* The New Testament
 
 Third Year Reading List:
 
-##### Shakespeare:
-        Everything
-##### Cervantes:
-        Don Quixote 
-##### Montaigne:
-        Essays
-##### Thomas Hobbe:
-        Leviathan
-##### Erasmus:
-        Praise of Folly
-##### Milton:
-        Paradise Lost
-        Areopagitica 
-##### Moliere:
-        The Misanthrope
-        The School for Wives
-        Tartuff 
-##### Newton:
-        Mathematical Principles of Natural Philosophy
-##### John Locke:
-        Essays
-##### David Hume:
-        Enquiry 
-##### Voltaire:
-        Candide
-##### Samuel Richardson:
-        Clarissa 
-##### Daniel Defoe:
-        Robinson Crusoe
+* Shakespeare:
+* Don Quixote - Cervantes
+* Essays - Montaigne
+* Leviathan - Thomas Hobbe
+* Praise of Folly - Erasmus
+* Paradise Lost - Milton
+* Areopagitica - Milton
+* The Misanthrope - Moliere
+* The School for Wives - Moliere
+* Tartuff - Moliere
+* Mathematical Principles of Natural Philosophy - Newton
+* Essays - John Locke
+* Enquiry - David Hume
+* Candide - Voltaire
+* Clarissa - Samuel Richardson
+* Robinson Crusoe - Daniel Defoe
 
 Fourth Year Reading List:
 
