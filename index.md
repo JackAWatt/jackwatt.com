@@ -317,53 +317,51 @@ My primary source recommendations:
 #### Literature 5-Year Reading Program
 ###### Taken from [Hardcore Literature](https://benjaminmcevoy.com/intellectually-ambitious-5-year-reading-program/)
 First Year Reading List:
-
-
 ##### Homer:
-        The Iliad 
-        The Odyssey
+> The Iliad 
+> The Odyssey
 ##### Aeschylus:
-        Prometheus Bound
-        Agamemnon 
-        The Eumenides 
-        The Libation Bearers
+> Prometheus Bound
+> Agamemnon 
+> The Eumenides 
+> The Libation Bearers
 ##### Euripides:
-        Hippolytus
-        Bacchae 
+> Hippolytus
+> Bacchae 
 ##### Sophocles:
-        Oedipus the King
-        The Theban Plays
-        Antigone 
+> Oedipus the King
+> The Theban Plays
+> Antigone 
 ##### Aristophanes:
-        Clouds
-        Frogs
-        Lysistrata 
-        The Assemblywomen
+> Clouds
+> Frogs
+> Lysistrata 
+> The Assemblywomen
 ##### Plato:
-        The Republic
-        The Symposium
-        Meno
-        The Apology
+> The Republic
+> The Symposium
+> Meno
+> The Apology
 ##### Herodotus:
-        The History
+> The History
 ##### Thucydides:
-        The History of the Peloponnesian War
+> The History of the Peloponnesian War
 ##### Aristotle:
-        Politics
-        Ethics
-        Metaphysics
-        de Anima
-        Rhetoric
-        Poetics
+> Politics
+> Ethics
+> Metaphysics
+> de Anima
+> Rhetoric
+> Poetics
 ##### Plutarch:
-        The Lives of the Noble Grecians and Romans
+> The Lives of the Noble Grecians and Romans
 ##### Epictetus:
-        Discourses 
+> Discourses 
 ##### *
     The Old Testament
 
 
-Second Year Reading List:
+> Second Year Reading List:
 
 ##### Marcus Aurelius:
         Meditations
