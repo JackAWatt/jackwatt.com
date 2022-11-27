@@ -3,6 +3,9 @@
 
 ######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
+# [Complete Computer Science, Data Science, and Math curriculums](http://jackwatt.com/#complete-computer-science-data-science-and-math-curriculums)
+# [Coding Challenges](http://jackwatt.com/#coding-challenges)
+# [Information Security Courses and Learning Paths](http://jackwatt.com/#courses-and-learning-paths)
 ##### Complete Computer Science, Data Science, and Math curriculums
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
@@ -27,7 +30,7 @@
 * [CheckiO](https://checkio.org)
 
 
-##### Courses and Learning Paths
+##### Information Security Courses and Learning Paths
 
 * [DFIRDiva's list of free training](https://training.dfirdiva.com/)
 * [Intro to Security Path](https://tryhackme.com/path-action/introtocyber/join) - TryHackMe
