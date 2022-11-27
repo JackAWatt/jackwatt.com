@@ -140,12 +140,13 @@
 * [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
 * [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
 
-##### To-Read Lists
+##### Goodreads Lists and profiles
   
 * [Information Security](http://jackwatt.com/infosec)
 * [Computer Science, Math, and Software Development](http://jackwatt.com/cs)
 * [Career Development](http://jackwatt.com/career)
 * [Other lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
+* [alex lee](https://www.goodreads.com/user/show/11509598-alex-lee)
 
 #### [Podcasts](http://jackwatt.com/podcasts)
 
