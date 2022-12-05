@@ -40,7 +40,7 @@
 * [Hardcore LIterature 5 year reading program and yearly bookclub](http://jackwatt.com/hardcoreliterature)
 * [Leaf by Leaf's Philosophy Reading list](http://jackwatt.com/leafbyleaf)
 * [100+ books highly rated by people I follow](http://jackwatt.com/2023reading)
-* [Philosophy and Literature Reading Program](/lit)
+* [Philosophy and Literature Reading Program](http://jackwatt.com/lit)
 
 #### [Podcasts](http://jackwatt.com/podcasts)
 
