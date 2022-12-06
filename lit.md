@@ -1,4 +1,4 @@
-This page is a combination of multiple lists by leaf by leaf(western core and philosophy reading lists) and hardcore literature(5 year program and 2022,2023 book club). Books on analysis and criticism can be [found here]() 
+This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.com/leafbyleaf) and [hardcore literature](http://jackwatt.com/hardcoreliterature).
 
 # Landcape books
 
@@ -155,4 +155,3 @@ This page is a combination of multiple lists by leaf by leaf(western core and ph
 * Blood Meridian - Cormac McCarthy
 * The Ice-Shirt - William T. Vollmann
 * Carried Away - Alice Munro
-* Everything I Never Told You - Celeste Ng
