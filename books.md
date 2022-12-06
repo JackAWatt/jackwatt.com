@@ -1,7 +1,7 @@
 # Book lists
 #####  sorted by most recent addition and position based on what I most want to read
 
-* Computer Science and Math - [recent]() , [position]()
+* Computer Science and Math - [recent](https://www.goodreads.com/review/list/70978102-jack?shelf=cs-math-to-read&utm_medium=api&utm_source=custom_widget) , [position](https://www.goodreads.com/review/list/70978102-jack?shelf=cs-math-to-read&utm_medium=api&utm_source=custom_widget)
 * Fiction - [recent]() , [position]()
 * Graphic Novels - [recent]() , [position]()
 * History - [recent]() , [position]()
