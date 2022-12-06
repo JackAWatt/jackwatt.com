@@ -293,15 +293,10 @@ Fiction
 
 * [The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom](https://www.goodreads.com/book/show/6629359-the-strangest-man)
 
->
-
-
-black oxford:
-
 Leaf by Leaf:
-
+* [here](http://jackwatt.com/lit)
 Hardcore Literature:
-
+* [here](http://jackwatt.com/lit)
 non-fiction:
 
 * [The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself)
