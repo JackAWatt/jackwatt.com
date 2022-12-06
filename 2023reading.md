@@ -293,11 +293,11 @@ Fiction
 
 * [The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom](https://www.goodreads.com/book/show/6629359-the-strangest-man)
 
-Leaf by Leaf:
+## Leaf by Leaf:
 * [here](http://jackwatt.com/lit)
-Hardcore Literature:
+## Hardcore Literature:
 * [here](http://jackwatt.com/lit)
-non-fiction:
+## non-fiction:
 
 * [The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself)
 
@@ -345,7 +345,7 @@ Disinformation. Trolling. Conspiracies. Social media pile-ons. Campus intoleranc
 
 > This book is about mathematical ideas, about what mathematics means-and why. Abstract ideas, for the most part, arise via conceptual metaphor-metaphorical ideas projecting from the way we function in the everyday physical world. Where Mathematics Comes From argues that conceptual metaphor plays a central role in mathematical ideas within the cognitive unconscious-from arithmetic and algebra to sets and logic to infinity in all of its forms.
 
-# Fiction:
+## Fiction:
 
 * [The Diamond Eye](https://www.goodreads.com/book/show/58490567-the-diamond-eye)
 
@@ -367,7 +367,7 @@ Disinformation. Trolling. Conspiracies. Social media pile-ons. Campus intoleranc
 
 >
 
-History: 
+## History: 
 
 * [Betrayal in Berlin: The True Story of the Cold War's Most Audacious Espionage Operation](https://www.goodreads.com/book/show/49397448-betrayal-in-berlin)
 
