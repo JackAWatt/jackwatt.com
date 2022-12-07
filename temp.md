@@ -1,4 +1,4 @@
-* [Politics - Aristotle]("https://www.goodreads.com/search?q=Politics - Aristotle")
+* [Politics - Aristotle](https://www.goodreads.com/search?q=Politics - Aristotle)
 * [Ethics - Aristotle]("https://www.goodreads.com/search?q=Ethics - Aristotle")
 * [Metaphysics - Aristotle]("https://www.goodreads.com/search?q=Metaphysics - Aristotle")
 * [de Anima - Aristotle]("https://www.goodreads.com/search?q=de Anima - Aristotle")
