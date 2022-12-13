@@ -1,10 +1,13 @@
-This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.com/leafbyleaf) and [hardcore literature](http://jackwatt.com/hardcoreliterature).
+This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.com/leafbyleaf) and [hardcore literature](http://jackwatt.com/hardcoreliterature) and [Jared Henderson](https://www.youtube.com/watch?v=5RwlFfTF3T0).
+
 
 # Landcape books
 
-* The Story of Philosophy, Durant
-* A History of Western Philosophy, Russell
-* Plato at the Googleplex, Goldstein
+* The Story of Philosophy - Durant
+* A History of Western Philosophy - Russell
+* Plato at the Googleplex - Goldstein
+* Problems of Philosophy - Russell
+* Think: A Compelling Introduction to Philosophy
 
 # Chronological Order
 
