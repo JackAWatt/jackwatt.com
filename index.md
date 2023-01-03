@@ -58,3 +58,6 @@
 * [lobste.rs](https://lobste.rs) - compsci link aggregator
 * [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
+
+<script src="https://tryhackme.com/badge/60767"></script>
+![CodeWars](https://www.codewars.com/users/JackAWatt/badges/small)
