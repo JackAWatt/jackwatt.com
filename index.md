@@ -60,4 +60,5 @@
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
 
 <script src="https://tryhackme.com/badge/60767"></script>
-![CodeWars](https://www.codewars.com/users/JackAWatt/badges/small)
+<script src="https://www.hackthebox.eu/badge/189855"></script>
+![CodeWars](https://www.codewars.com/users/watt_/badges/small)
