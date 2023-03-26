@@ -14,7 +14,7 @@
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
-
+* [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
 
 ##### Coding challenges
 
@@ -26,7 +26,13 @@
 * [project euler: 800+ math programming problems](https://projecteuler.net/archives)
 * [CheckiO](https://checkio.org)
 
-##### [Information Security Resources](http://jackwatt.com/infosec)
+##### Information Security
+
+* [Courses and Learning Paths](http://jackwatt.com/infosec#information-security-courses-and-learning-paths)
+* [CTFs and Challenges](http://jackwatt.com/infosec#ctf-and-hacking-challenges)
+* [Videos](http://jackwatt.com/infosec#infosec-videos)
+* [Blogs](http://jackwatt.com/infosec#infosec-blogs)
+* [Lists(lolbas, GTFObins, awesomehacking)](http://jackwatt.com/infosec#lists-and-other-resources)
 
 ##### Free Books
 
@@ -38,7 +44,7 @@
   
 * [Goodreads lists(history, philosophy, fiction, scifi, etc)](http://jackwatt.com/books)
 * [100+ books highly rated by people I follow](http://jackwatt.com/2023reading)
-* [Philosophy and Literature Reading Program](http://jackwatt.com/lit)
+* [Philosophy and Literature Reading Program](http://jackwatt.com/lit) - List of boo
 
 #### [Podcasts](http://jackwatt.com/podcasts)
 
