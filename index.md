@@ -1,7 +1,4 @@
 # Resources 
-###### This page can be seen as an [Antilibrary](https://fs.blog/the-antilibrary/) of educational resources.
-
-######  Courses and other material I have completed can be found [here](http://jackwatt.com/complete)
 
 ##### Complete Computer Science, Data Science, and Math curriculums
 
