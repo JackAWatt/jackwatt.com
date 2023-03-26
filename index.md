@@ -33,6 +33,7 @@
 * [Videos](http://jackwatt.com/infosec#infosec-videos)
 * [Blogs](http://jackwatt.com/infosec#infosec-blogs)
 * [Lists(lolbas, GTFObins, awesomehacking)](http://jackwatt.com/infosec#lists-and-other-resources)
+* [Podcasts](http://jackwatt.com/podcasts#information-security)
 
 ##### Free Books
 
@@ -46,10 +47,10 @@
 * [100+ books highly rated by people I follow](http://jackwatt.com/2023reading)
 * [Philosophy and Literature Reading Program](http://jackwatt.com/lit) - List of boo
 
-#### [Podcasts](http://jackwatt.com/podcasts)
 
 ##### Other Resources
-
+* [Podcasts: Computer Science, Math, AI, ML](http://jackwatt.com/podcasts#computer-science-and-programming)
+* [Podcasts: Everything Else](http://jackwatt.com/podcasts#other-podcasts)
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
 * [The Process of Mastering a Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/) - azeria-labs
