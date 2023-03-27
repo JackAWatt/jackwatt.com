@@ -58,11 +58,19 @@
 > Follow the below paths depending on interest
 
 > OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
+
 > [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
+
 > [Open Source Math Degree](https://github.com/shanirivers/open-source-mathematics-degree)
+
 > [Teach Yourself CS](https://teachyourselfcs.com/)
+
 > [Functional CS](https://functionalcs.github.io/curriculum/)
+
 > [Open Source Data Science](https://github.com/datasciencemasters/go)
+
 > [OSSU Open Source Math](https://github.com/ossu/math)
+
 > [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
+
 > [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
