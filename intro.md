@@ -2,35 +2,21 @@
 
 "The calculus book that we had was great, and in the back of the book there were supplementary problems that weren't assigned by the teacher. I worked the supplementary problems. I was scared I wouldn't learn calculus, so I worked hard on it, and it turned out that of course it took me longer to solve all these problems than the kids who were only working on what was assigned, at first. But after a year, I could do all of those problems in the same time as my classmates were doing the assigned problems, and after that I could just coast in mathematics, because I'd learned how to solve problems"
 
-### Term 1
-**Computer Science**
+# 1
+
+### Computer Science
+
 > [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*  
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 > *or*  
 > [UC Berkeley CS61A](https://cs61a.org/)
 
-**Math**
-> [Math 1A/1B: Pre-Calculus](https://open.uci.edu/courses/math_1a1b_precalculus.html) - UC Irvine
-> *or*
-> [Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-a-creative-and-connected-app#!)
-
-> [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
-
-**Core Programming**
 >[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) - [textbook](https://htdp.org/2022-8-7/Book/index.html)
 
 >[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-**Literature and Philosophy**
 
-> [Philosophy and Literature Reading Program](http://jackwatt.com/lit) - In chronological order starting in the 8th centuary and ending in the late 1900s. 
-
-> [Literary Studies Reading List](http://jackwatt.com/2023reading#literary-studies) - Analysis and Criticism
-
-###### >[How to Learn Advanced Mathematics - quantstart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
-
-# 1
 ### Math
 
 >[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
@@ -53,13 +39,7 @@
 
 >[Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-creative-connected-utaustinx-ut-prec-10-03x#!) University of Texas at Austin
 
-### Computer Science
-
->[Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-
->[How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data)
-
->[UC Berkeley CS61A](https://cs61a.org/)
+>[Math 1A/1B: Pre-Calculus](https://open.uci.edu/courses/math_1a1b_precalculus.html) - UC Irvine
 
 # 2
 
