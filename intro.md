@@ -19,14 +19,6 @@
 
 ### Math
 
->[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
-
->[The Math You Need](https://learnaifromscratch.github.io/themathyouneed.html)
-
->[Arithmetic](https://www.khanacademy.org/math/arithmetic) Khan Academy
-
->[Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) Khan Academy
-
 >[Algebra Basics](https://www.khanacademy.org/math/algebra-basics) Khan Academy
 
 >[Algebra I](https://www.khanacademy.org/math/algebra) Khan Academy
@@ -40,6 +32,10 @@
 >[Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-creative-connected-utaustinx-ut-prec-10-03x#!) University of Texas at Austin
 
 >[Math 1A/1B: Pre-Calculus](https://open.uci.edu/courses/math_1a1b_precalculus.html) - UC Irvine
+
+>[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+
+>[The Math You Need](https://learnaifromscratch.github.io/themathyouneed.html)
 
 # 2
 
@@ -58,69 +54,15 @@
 > [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 
 
-# Year 1:
+# 3
+> Follow the below paths depending on interest
 
-> 
-    Foundations
-    Real Analysis - Sequences and Series
-    Linear Algebra
-    Ordinary Differential Equations
-    Geometry - Euclidean
-    Algebra/Group Theory
-    Probability
-    Mathematical Computing
-
-# Year 2:
-
-> 
-    Real Analysis - Riemann Integral
-    Metric Spaces
-    Vector Calculus
-    Ordinary Differential Equations - Nonlinearity and Chaos
-    Geometry - Non-Euclidean
-    Abstract Algebra
-    Stochastic Processes
-    Numerical Analysis
-    Statistics
-
-# Year 3:
-
-> 
-    Complex Analysis
-    Topology
-    Ring Theory
-    Fluid Dynamics
-    Measure Theory
-    Linear Functional Analysis
-    Elementary Differential Geometry
-    Partial Differential Equations
-    Numerical Linear Algebra
-
-# Year 4:
-
-> 
-    Brownian Motion
-    Stochastic Analysis
-    Stochastic Calculus for Finance
-    Stochastic Optimal Control
-    Statistical Modeling
-    Statistical Machine Learning
-    Markov Chains
-    High Performance Computing
-
-
-
-
-### Resources
-
-"Working through the CS, Math, and Core programming from above should give the prerequisites to start any of the CS, Math, or Data Science paths"
-
-* OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
-* [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
-* [Open Source Math Degree](https://github.com/shanirivers/open-source-mathematics-degree)
-* [Teach Yourself CS](https://teachyourselfcs.com/)
-* [Functional CS](https://functionalcs.github.io/curriculum/)
-* [Open Source Data Science](https://github.com/datasciencemasters/go)
-* [OSSU Open Source Math](https://github.com/ossu/math)
-* [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
-
+> OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
+> [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree)
+> [Open Source Math Degree](https://github.com/shanirivers/open-source-mathematics-degree)
+> [Teach Yourself CS](https://teachyourselfcs.com/)
+> [Functional CS](https://functionalcs.github.io/curriculum/)
+> [Open Source Data Science](https://github.com/datasciencemasters/go)
+> [OSSU Open Source Math](https://github.com/ossu/math)
+> [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
+> [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
