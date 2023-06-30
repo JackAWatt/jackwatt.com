@@ -33,6 +33,7 @@ Fiction
 * [What Is Mathematics, Really?]()
 * [The Man from the Future: The Visionary Life of John von Neumann]()
 * [Making Numbers Count: How to Translate Data into Stories That Stick]()
+* [Once Upon a Prime: The Wondrous Connections Between Mathematics and Literature]()
 ### Literary studies
 - These are complementary to the [philosophy and reading program]()
 * [How to Read Literature Like a Professor]()
