@@ -52,6 +52,9 @@
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
 * [The Process of Mastering a Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/) - azeria-labs
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
+* [How to Collaborate Effectively If Your Team Is Remote ](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote)
+* [Effective Note-Taking in Class](https://learningcenter.unc.edu/tips-and-tools/effective-note-taking-in-class/)
+* [15 Best Time Management Apps and Tools (2023 Updated)](https://www.lifehack.org/articles/technology/top-15-time-management-apps-and-tools.html)
 * [ARXIV ](https://arxiv.org/) -  a free distribution service and an open archive for scholarly articles.
 * [Open Acess Journals](https://www.doaj.org)
 * [longform non-fiction articles](https://longform.org) - 10 year archive
