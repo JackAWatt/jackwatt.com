@@ -1,8 +1,8 @@
 #### 2023/07/05
 
-* [The Truth Behind Video Games & Their Psychological Impact - Michael Kasumovic | Modern Wisdom 643](https://youtu.be/hp4i09wbshU)
+* ["The Truth Behind Video Games & Their Psychological Impact - Michael Kasumovic | Modern Wisdom 643"](https://youtu.be/hp4i09wbshU)
   
-* [DEBATE Matt Dillahunty Vs Cliffe Knechtle | Is Christianity True?](https://youtu.be/aAg3H1LU1Yw)
+* ["DEBATE Matt Dillahunty Vs Cliffe Knechtle | Is Christianity True?"](https://youtu.be/aAg3H1LU1Yw)
 
 #### 2023/07/03
 
