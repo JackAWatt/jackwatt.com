@@ -1,6 +1,8 @@
 #### 2023/07/05
 
-* [The Truth Behind Video Games & Their Psychological Impact - Michael Kasumovic / Modern Wisdom 643](https://youtu.be/hp4i09wbshU)
+* [Currents 048: Welf von Hören on Potential - Jim Rutt Show](https://www.jimruttshow.com/welf-von-horen/)
+
+* [The Truth Behind Video Games & Their Psychological Impact - Michael Kasumovic / Modern Wisdom 643](https://youtu.be/hp4i09wbshU) - DNF
   
 * [DEBATE Matt Dillahunty Vs Cliffe Knechtle / Is Christianity True?](https://youtu.be/aAg3H1LU1Yw)
 
@@ -41,3 +43,18 @@
 
 * [Ian Leslie on Being Human in the Age of AI](https://www.youtube.com/watch?v=gybqJNhQW-8)
 
+* [EP 187 Carlos Perez on A Pattern Language for Generative AI - Jim Rutt Show](https://www.jimruttshow.com/carlos-perez/)
+
+* [Currents 095: Matt Welsh on the End of Programming - Jim Rutt Show](https://www.jimruttshow.com/currents-matt-welsh/)
+
+* [EP 173 Hanzi Freinacht on Metamodern Self-Help - Jim Rutt Show](https://www.jimruttshow.com/hanzi-freinacht-4/)
+
+* [Currents 036: Melanie Mitchell on Why AI is Hard - Jim Rutt Show](https://www.jimruttshow.com/currents-melanie-mitchell/)
+
+* [Currents 015: Jessica Flack & Melanie Mitchell on Complexity - Jim Rutt Show](https://www.jimruttshow.com/currents-flack-mitchell/)
+
+* [EP53 Hanzi Freinacht on the Nordic Ideology - Jim Rutt Show](https://www.jimruttshow.com/hanzi-freinacht-2/)
+
+* [EP36 Hanzi Freinacht on Metamodernism - Jim Rutt](https://www.jimruttshow.com/hanzi-freinacht/)
+ 
+* [EP33 Melanie Mitchell on the Elements of AI - Jim Rutt Show](https://www.jimruttshow.com/melanie-mitchell/)
