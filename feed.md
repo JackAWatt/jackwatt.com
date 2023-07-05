@@ -6,7 +6,7 @@
 
 #### 2023/07/03
 
-* [Munk Debate on Artificial Intelligence | Bengio & Tegmark vs. Mitchell & LeCun](https://www.youtube.com/watch?v=144uOfr4SYA)
+* [Munk Debate on Artificial Intelligence / Bengio & Tegmark vs. Mitchell & LeCun](https://www.youtube.com/watch?v=144uOfr4SYA)
   
 * [Artificial Intelligence: A Guide for Thinking Humans](https://www.youtube.com/watch?v=NMUqvhuDZtQ)
 
