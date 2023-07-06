@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [The Hard Truth About Intelligence and Learning](https://youtu.be/InoByvmZzVA)
+
 * [ Dr. Peter Attia: This Is What You Need to Do to Live Longer / Amanpour and Company ](https://youtu.be/b_d-drdcfJo)
 
 * [Hydration — electrolytes, supplements, sports drinks, & performance effects / Dr Peter Attia](https://youtu.be/tcMfBS3BMjY)
