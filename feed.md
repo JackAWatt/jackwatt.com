@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [ Dr. Peter Attia: This Is What You Need to Do to Live Longer / Amanpour and Company ](https://youtu.be/b_d-drdcfJo)
+
 * [Hydration — electrolytes, supplements, sports drinks, & performance effects / Dr Peter Attia](https://youtu.be/tcMfBS3BMjY)
 
 * [How to Save Your Brain From Cognitive Decline / Dr Peter Attia - Modern Wisdom](https://youtu.be/ThgschADQyQ)
