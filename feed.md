@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [Hydration — electrolytes, supplements, sports drinks, & performance effects / Dr Peter Attia](https://youtu.be/tcMfBS3BMjY)
+
 * [How to Save Your Brain From Cognitive Decline / Dr Peter Attia - Modern Wisdom](https://youtu.be/ThgschADQyQ)
 
 * [Reveals The Most Important Daily Habits For Longevity / Dr Peter Attia - Modern Wisdom](https://www.youtube.com/watch?v=_F66kEvgfsU)
