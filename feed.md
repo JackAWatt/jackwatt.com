@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [ Study Habits of the Top 1% - The Math Sorcerer](https://youtu.be/JNch5sUgDT0)
+
 * [Become a Master Programmer: The Game-Changing Benefits of Reinventing the Wheel - The Math Sorcerer](https://youtu.be/pwcJtSm5ru8)
 
 * [Physics for Absolute Beginners - The Math Sorcerer](https://youtu.be/iE-M56CVJx4)
