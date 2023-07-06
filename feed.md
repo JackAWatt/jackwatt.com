@@ -1,6 +1,8 @@
 #### 2023/07/06
 
-* [The Hard Truth About Intelligence and Learning](https://youtu.be/InoByvmZzVA)
+* [Physics for Absolute Beginners - The Math Sorcerer](https://youtu.be/iE-M56CVJx4)
+
+* [The Hard Truth About Intelligence and Learning - The Math Sorcerer](https://youtu.be/InoByvmZzVA)
 
 * [ Dr. Peter Attia: This Is What You Need to Do to Live Longer / Amanpour and Company ](https://youtu.be/b_d-drdcfJo)
 
@@ -11,6 +13,10 @@
 * [Reveals The Most Important Daily Habits For Longevity / Dr Peter Attia - Modern Wisdom](https://www.youtube.com/watch?v=_F66kEvgfsU)
 
 #### 2023/07/05
+
+* [Master Mathematics and Become a Wizard - The Math Sorcerer](https://www.youtube.com/watch?v=H6XejQOsfBY)
+
+* [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 
 * [If You're Feeling Overwhelmed Watch This - HealthyGamerGG](https://youtu.be/7VfSCQnGfk4)
 
