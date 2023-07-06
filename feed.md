@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [The absurd circle division pattern (updated) | Moser's circle problem ](https://youtu.be/YtkIWDE36qU)
+
 * [ Study Habits of the Top 1% - The Math Sorcerer](https://youtu.be/JNch5sUgDT0)
 
 * [Become a Master Programmer: The Game-Changing Benefits of Reinventing the Wheel - The Math Sorcerer](https://youtu.be/pwcJtSm5ru8)
