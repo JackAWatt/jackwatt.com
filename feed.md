@@ -1,3 +1,9 @@
+#### 2023/07/06
+
+* [How to Save Your Brain From Cognitive Decline / Dr Peter Attia - Modern Wisdom](https://youtu.be/ThgschADQyQ)
+
+* [Reveals The Most Important Daily Habits For Longevity / Dr Peter Attia - Modern Wisdom](https://www.youtube.com/watch?v=_F66kEvgfsU)
+
 #### 2023/07/05
 
 * [If You're Feeling Overwhelmed Watch This - HealthyGamerGG](https://youtu.be/7VfSCQnGfk4)
