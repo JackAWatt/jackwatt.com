@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [Why Dr. Peter Attia Changed his Mind on Fasting (and 4 other Longevity topics)](https://youtu.be/Tb6gMegtLcg)
+
 * [The absurd circle division pattern (updated) | Moser's circle problem ](https://youtu.be/YtkIWDE36qU)
 
 * [ Study Habits of the Top 1% - The Math Sorcerer](https://youtu.be/JNch5sUgDT0)
