@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [On Mathematical Maturity (1) Thomas Garrity](https://youtu.be/zHU1xH6Ogs4?list=TLPQMDcwNzIwMjNFcxbpH3xV8Q)
+
 * [How to Learn Math EXTREMELY Fast - 5 IMPORTANT TIPS - The Math Sorcerer](https://youtu.be/iEmCUks30-E)
 
 * [Why Dr. Peter Attia Changed his Mind on Fasting (and 4 other Longevity topics)](https://youtu.be/Tb6gMegtLcg)
