@@ -9,9 +9,14 @@
 * [Functional CS](https://functionalcs.github.io/curriculum/)
 * [Open Source Data Science](https://github.com/datasciencemasters/go)
 * [OSSU Open Source Math](https://github.com/ossu/math)
-* [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
+###### Videos by The Math Sorcerer
+* [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
+* [Learn Algebra from START to FINISH](https://youtu.be/S116mTfk2t8)
+* [Epic Math Workbooks for Self Study](https://youtu.be/vuvcOXH4Z5Q)
+* [8 Math Books for Mastering Higher Level Mathematics](https://youtu.be/cgffDIWZHQ4)
+* [https://youtu.be/H6XejQOsfBY](https://youtu.be/H6XejQOsfBY)
 
 ##### Coding challenges
 
@@ -52,6 +57,8 @@
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
 * [The Process of Mastering a Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/) - azeria-labs
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
+* [8 Steps to Become an Expert at Anything](https://youtu.be/-PDWLeqDf6k)(video) - The Math Sorcerer
+* [The 3 Biggest Mistakes College Students Make (and How to Avoid Them)](https://youtu.be/f0TJOP27coQ)(video) - The Math Sorcerer
 * [How to Collaborate Effectively If Your Team Is Remote ](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote)
 * [Effective Note-Taking in Class](https://learningcenter.unc.edu/tips-and-tools/effective-note-taking-in-class/)
 * [15 Best Time Management Apps and Tools (2023 Updated)](https://www.lifehack.org/articles/technology/top-15-time-management-apps-and-tools.html)
