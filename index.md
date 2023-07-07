@@ -13,10 +13,10 @@
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
 ###### Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
+* [Master Mathematics and Become a Wizard](https://youtu.be/H6XejQOsfBY) - This is similar to the start to finish video, but has different book options. 
 * [Learn Algebra from START to FINISH](https://youtu.be/S116mTfk2t8)
 * [Epic Math Workbooks for Self Study](https://youtu.be/vuvcOXH4Z5Q)
 * [8 Math Books for Mastering Higher Level Mathematics](https://youtu.be/cgffDIWZHQ4)
-* [https://youtu.be/H6XejQOsfBY](https://youtu.be/H6XejQOsfBY)
 
 ##### Coding challenges
 
