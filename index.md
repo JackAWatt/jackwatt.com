@@ -57,8 +57,8 @@
 * [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - azeria-labs
 * [The Process of Mastering a Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/) - azeria-labs
 * [How to Learn on Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own) - Metacademy
-* [8 Steps to Become an Expert at Anything](https://youtu.be/-PDWLeqDf6k)(video) - The Math Sorcerer
-* [The 3 Biggest Mistakes College Students Make (and How to Avoid Them)](https://youtu.be/f0TJOP27coQ)(video) - The Math Sorcerer
+* [8 Steps to Become an Expert at Anything](https://youtu.be/-PDWLeqDf6k) - (video) The Math Sorcerer
+* [The 3 Biggest Mistakes College Students Make (and How to Avoid Them)](https://youtu.be/f0TJOP27coQ) - (video) The Math Sorcerer
 * [How to Collaborate Effectively If Your Team Is Remote ](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote)
 * [Effective Note-Taking in Class](https://learningcenter.unc.edu/tips-and-tools/effective-note-taking-in-class/)
 * [15 Best Time Management Apps and Tools (2023 Updated)](https://www.lifehack.org/articles/technology/top-15-time-management-apps-and-tools.html)
