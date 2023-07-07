@@ -72,6 +72,7 @@
 * [lobste.rs](https://lobste.rs) - compsci link aggregator
 * [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
+* [Cooking For Engineers](https://www.cookingforengineers.com/) - Have an analytical mind? Like to cook? This is the site to read!
 
 <script src="https://tryhackme.com/badge/60767"></script>
 *
