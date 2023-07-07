@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [How to Learn Math EXTREMELY Fast - 5 IMPORTANT TIPS - The Math Sorcerer](https://youtu.be/iEmCUks30-E)
+
 * [Why Dr. Peter Attia Changed his Mind on Fasting (and 4 other Longevity topics)](https://youtu.be/Tb6gMegtLcg)
 
 * [The absurd circle division pattern (updated) | Moser's circle problem ](https://youtu.be/YtkIWDE36qU)
