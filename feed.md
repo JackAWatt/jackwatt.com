@@ -1,3 +1,7 @@
+#### 2023/07/07
+
+* [Abstraction and Analogy are the Keys to Robust AI - Melanie Mitchell](https://youtu.be/cYSRgDpTKyA)
+
 #### 2023/07/06
 
 * [On Mathematical Maturity (2) Thomas Garrity](https://www.youtube.com/watch?v=4HFyWC-YtIk)
