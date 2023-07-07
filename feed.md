@@ -1,5 +1,7 @@
 #### 2023/07/07
 
+* [How to Change the World One Math Problem at a Time](https://youtu.be/hWSqoTP1oVs)
+
 * [Real Math People Study the Appendix](https://youtu.be/Rhzw8TvQUyc)
 
 * [Abstraction and Analogy are the Keys to Robust AI - Melanie Mitchell](https://youtu.be/cYSRgDpTKyA)
