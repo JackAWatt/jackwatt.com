@@ -1,5 +1,7 @@
 #### 2023/07/07
 
+* [Real Math People Study the Appendix](https://youtu.be/Rhzw8TvQUyc)
+
 * [Abstraction and Analogy are the Keys to Robust AI - Melanie Mitchell](https://youtu.be/cYSRgDpTKyA)
 
 #### 2023/07/06
