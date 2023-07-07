@@ -1,5 +1,7 @@
 #### 2023/07/06
 
+* [On Mathematical Maturity (2) Thomas Garrity](https://www.youtube.com/watch?v=4HFyWC-YtIk)
+
 * [On Mathematical Maturity (1) Thomas Garrity](https://youtu.be/zHU1xH6Ogs4?list=TLPQMDcwNzIwMjNFcxbpH3xV8Q)
 
 * [How to Learn Math EXTREMELY Fast - 5 IMPORTANT TIPS - The Math Sorcerer](https://youtu.be/iEmCUks30-E)
