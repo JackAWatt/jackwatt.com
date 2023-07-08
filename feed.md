@@ -1,5 +1,7 @@
 #### 2023/07/08
 
+* [Destiny On Jordan Peterson, Modern Dating, And His Controversial Milo Debate](https://youtu.be/nVsiDaPMq_s)
+
 * [What is a number? / Arithmetic and Geometry Math Foundations 1 / N J Wildberger](https://youtu.be/91c5Ti6Ddio?list=PL5A714C94D40392AB)
 
 * [When You're Bad At Math - The Math Sorcerer](https://youtu.be/Q0rgVudZXlA)
