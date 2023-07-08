@@ -1,6 +1,8 @@
 #### 2023/07/08
 
-* [Advice for ALL Math Students](https://youtu.be/uA7oyqNEuiI)
+* [When You're Bad At Math - The Math Sorcerer](https://youtu.be/Q0rgVudZXlA)
+
+* [Advice for ALL Math Students - The Math Sorcerer](https://youtu.be/uA7oyqNEuiI)
 
 #### 2023/07/07
 
