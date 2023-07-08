@@ -1,3 +1,7 @@
+#### 2023/07/08
+
+* [Advice for ALL Math Students](https://youtu.be/uA7oyqNEuiI)
+
 #### 2023/07/07
 
 * [How to Change the World One Math Problem at a Time](https://youtu.be/hWSqoTP1oVs)
