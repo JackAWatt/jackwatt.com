@@ -94,26 +94,26 @@
 
 #### 2023/07/03
 
-* [Michael Munger on Obedience to the Unenforceable](https://www.youtube.com/watch?v=kH_PBO0W8Oc)
+* [Michael Munger on Obedience to the Unenforceable - EconTalk](https://www.youtube.com/watch?v=kH_PBO0W8Oc)
 
-* [Tyler Cowen on the Risks and Impact of Artificial Intelligence](https://www.youtube.com/watch?v=FBMgSXY2STk)
+* [Tyler Cowen on the Risks and Impact of Artificial Intelligence - EconTalk](https://www.youtube.com/watch?v=FBMgSXY2STk)
 
 
 #### 2023/06/30
 
 * [Peter Boghossian: Having Better Conversations about Philosophy](https://www.youtube.com/watch?v=ogUvNvwiMR0)
 
-* [Jacob Howland on the Hidden Human Costs of AI](https://www.youtube.com/watch?v=N9i93S37xyM)
+* [Jacob Howland on the Hidden Human Costs of AI - EconTalk](https://www.youtube.com/watch?v=N9i93S37xyM)
 
 #### ????
 
-* [Informal History of Physics](https://www.youtube.com/watch?v=acUf7PuGWXA)
+* [Informal History of Physics - Stephen Wolfram](https://www.youtube.com/watch?v=acUf7PuGWXA)
 
 * [Destiny's Ethics Tested by CosmicSkeptic](https://youtu.be/3VhHtPJhhRM)
 
-* [Dwayne Betts on Beauty, Prison, and Redaction](https://youtu.be/NAJ8CNlcxzo)
+* [Dwayne Betts on Beauty, Prison, and Redaction - EconTalk](https://youtu.be/NAJ8CNlcxzo)
 
-* [Ian Leslie on Being Human in the Age of AI](https://www.youtube.com/watch?v=gybqJNhQW-8)
+* [Ian Leslie on Being Human in the Age of AI - EconTalk](https://www.youtube.com/watch?v=gybqJNhQW-8)
 
 * [EP 187 Carlos Perez on A Pattern Language for Generative AI - Jim Rutt Show](https://www.jimruttshow.com/carlos-perez/)
 
