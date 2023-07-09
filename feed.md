@@ -1,5 +1,7 @@
 #### 2023/07/08
 
+* [Cube Trick - work out cubic numbers (1 - 100) fast!](https://youtu.be/FktRm6Ts8w0)
+
 * [Destiny On Jordan Peterson, Modern Dating, And His Controversial Milo Debate](https://youtu.be/nVsiDaPMq_s)
 
 * [What is a number? / Arithmetic and Geometry Math Foundations 1 / N J Wildberger](https://youtu.be/91c5Ti6Ddio?list=PL5A714C94D40392AB)
