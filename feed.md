@@ -1,4 +1,10 @@
+#### 2023/07/09
+
+* [Sam Harris on Stoicism and Mindfulness Practice - Daily Stoic](https://youtu.be/VQtMlktVLt4)
+
 #### 2023/07/08
+
+* [Harry Potter And The Cancellation Attempt - Megan Phelps-Roper / Modern Wisdom 647](https://youtu.be/_zh2PJotUIc)
 
 * [The Language of Mathematics (4): The Real Number Set - Part 2 - Chycho](https://youtu.be/iu3gumEh49c?list=PLFA0678B6777BA250)
 
