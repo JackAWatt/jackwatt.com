@@ -1,8 +1,8 @@
 #### 2023/07/08
 
-* [The Language of Mathematics (3): The Real Number Set - Part 1](https://youtu.be/SHY0SWmLsLo?list=PLFA0678B6777BA250)
+* [The Language of Mathematics (3): The Real Number Set - Part 1 - Chycho](https://youtu.be/SHY0SWmLsLo?list=PLFA0678B6777BA250)
 
-* [The Language of Mathematics (2): Instructions](https://youtu.be/yzZlcS64cXs?list=PLFA0678B6777BA250)
+* [The Language of Mathematics (2): Instructions - Chycho](https://youtu.be/yzZlcS64cXs?list=PLFA0678B6777BA250)
 
 * [The Language of Mathematics (1): Introduction - Chycho](https://youtu.be/5CqzHIeB9D8?list=PLFA0678B6777BA250)
 
