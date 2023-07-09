@@ -1,5 +1,7 @@
 #### 2023/07/09
 
+* [Software Engineer Wants to Learn Math - The Math Sorcerer](https://youtu.be/74rcXw9VtJ0)
+
 * [Sam Harris on Stoicism and Mindfulness Practice - Daily Stoic](https://youtu.be/VQtMlktVLt4)
 
 #### 2023/07/08
