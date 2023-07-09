@@ -1,5 +1,7 @@
 #### 2023/07/09
 
+* [A Psychopathological Approach to Safety in AGI - Data Skeptic](https://youtu.be/c3safGXkJgA)
+
 * [Digging Deep: Unlock Your Mathematics Potential - The Math Sorcerer](https://youtu.be/OIpPKcNA9jM)
 
 * [Learn Math On Your Own - The Math Sorcerer](https://youtu.be/J2OT5HAMYyw)
