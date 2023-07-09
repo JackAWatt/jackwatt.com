@@ -2,6 +2,8 @@
 
 * [Best Math Disagreement Ever](https://youtu.be/eP_YuJA_QI4?list=PLO1y6V1SXjjOUtb0G5IMF_yPVXn9WLOU4)
 
+* [Choosing the Best Language for Math ](https://youtu.be/q5Zsxixo0fo?list=PLO1y6V1SXjjOUtb0G5IMF_yPVXn9WLOU4)
+
 * [Cube Trick - work out cubic numbers (1 - 100) fast!](https://youtu.be/FktRm6Ts8w0)
 
 * [Destiny On Jordan Peterson, Modern Dating, And His Controversial Milo Debate](https://youtu.be/nVsiDaPMq_s)
