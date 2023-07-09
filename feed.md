@@ -1,6 +1,6 @@
 #### 2023/07/09
 
-* [Digging Deep: Unlock Your Mathematics Potential](https://youtu.be/OIpPKcNA9jM)
+* [Digging Deep: Unlock Your Mathematics Potential - The Math Sorcerer](https://youtu.be/OIpPKcNA9jM)
 
 * [Learn Math On Your Own - The Math Sorcerer](https://youtu.be/J2OT5HAMYyw)
 
