@@ -1,5 +1,7 @@
 #### 2023/07/08
 
+* [The Language of Mathematics (1): Introduction - Chycho](https://youtu.be/5CqzHIeB9D8?list=PLFA0678B6777BA250)
+
 * [Best Math Disagreement Ever](https://youtu.be/eP_YuJA_QI4?list=PLO1y6V1SXjjOUtb0G5IMF_yPVXn9WLOU4)
 
 * [Choosing the Best Language for Math ](https://youtu.be/q5Zsxixo0fo?list=PLO1y6V1SXjjOUtb0G5IMF_yPVXn9WLOU4)
