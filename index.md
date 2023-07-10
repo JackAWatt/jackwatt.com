@@ -74,6 +74,12 @@
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
 * [Cooking For Engineers](https://www.cookingforengineers.com/) - Have an analytical mind? Like to cook? This is the site to read!
 
+##### My History
+
+###### [Videos](jackwatt.com/v)
+###### [Books](jackwatt.com/b)
+###### [Courses](jackwatt.com/c)
+
 <script src="https://tryhackme.com/badge/60767"></script>
 *
 <script src="https://www.hackthebox.eu/badge/189855"></script>
