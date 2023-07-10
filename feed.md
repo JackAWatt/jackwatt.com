@@ -1,3 +1,3 @@
-# [Videos](jackwatt.com/v)
-# [Books](jackwatt.com/b)
-# [Courses](jackwatt.com/c)
+# [Videos](http://jackwatt.com/v)
+# [Books](http://jackwatt.com/b)
+# [Courses](http://jackwatt.com/c)
