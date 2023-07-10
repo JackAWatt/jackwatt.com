@@ -1,6 +1,10 @@
+#### 2023/07/10
+
+* [8 Psychology Hacks Behind The World’s Biggest Businesses - Richard Shotton / Modern Wisdom 626](https://youtu.be/pPwwIklxXms)
+
 #### 2023/07/09
 
-* [A Psychopathological Approach to Safety in AGI - Data Skeptic](https://youtu.be/c3safGXkJgA)
+* [A Psychopathological Approach to Safety in AGI - Data Skeptic](https://youtu.be/c3safGXkJgA) - DNF
 
 * [Digging Deep: Unlock Your Mathematics Potential - The Math Sorcerer](https://youtu.be/OIpPKcNA9jM)
 
