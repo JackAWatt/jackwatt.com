@@ -1,5 +1,7 @@
 #### 2023/07/10
 
+* [6 Little Known Reasons Why Self Study is the Key to Success in Math](https://youtu.be/AxDpc1lIzRo)
+
 * [8 Psychology Hacks Behind The World’s Biggest Businesses - Richard Shotton / Modern Wisdom 626](https://youtu.be/pPwwIklxXms)
 
 #### 2023/07/09
