@@ -1,5 +1,7 @@
 #### 2023/07/11
 
+* [Rectangle area as product of dimensions same as counting unit squares - Khan Academy](https://youtu.be/DRg2VCo8lP0)
+
 * [Creating rectangles with a given area 2 - Khan Academy](https://youtu.be/cYyfwJSvT-k)
 
 * [Creating rectangles with a given area 1 - Khan Academy](https://youtu.be/JX_ZgrFf2j8)
