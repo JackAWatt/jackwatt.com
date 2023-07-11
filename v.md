@@ -1,5 +1,7 @@
 #### 2023/07/10
 
+* [Five Reasons You are Not Doing Well in Math - The Math Sorcerer](https://youtu.be/UszyAYYw2rs)
+
 * [The Shocking Truth about Cheating in College - The Math Sorcere](https://youtu.be/VpIvpGfnCe0)
 
 * [6 Little Known Reasons Why Self Study is the Key to Success in Math - The Math Sorcerer](https://youtu.be/AxDpc1lIzRo)
