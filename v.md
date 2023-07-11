@@ -1,6 +1,8 @@
 #### 2023/07/11
 
-* [Introduction to area and unit squares / Measurement / Pre-Algebra / Khan Academy](https://youtu.be/A7zPgMV4eTM)
+* [ Measuring area with tiled square units - Khan Academy ](https://youtu.be/iNZZIb_-PA8)
+
+* [Introduction to area and unit squares -Khan Academy](https://youtu.be/A7zPgMV4eTM)
 
 * [Marc Andreessen on Why AI Will Save the World - EconTalk](https://youtu.be/830euh2Y5G8)
 
