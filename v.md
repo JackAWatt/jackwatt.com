@@ -1,3 +1,7 @@
+#### 2023/07/11
+
+* [Marc Andreessen on Why AI Will Save the World - EconTalk](https://youtu.be/830euh2Y5G8)
+
 #### 2023/07/10
 
 * [Five Reasons You are Not Doing Well in Math - The Math Sorcerer](https://youtu.be/UszyAYYw2rs)
