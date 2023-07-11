@@ -76,9 +76,9 @@
 
 ##### My History
 
-###### [Videos](http://jackwatt.com/v)
-###### [Books](http://jackwatt.com/b)
-###### [Courses](http://jackwatt.com/c)
+* [Videos](http://jackwatt.com/v)
+* [Books](http://jackwatt.com/b)
+* [Courses](http://jackwatt.com/c)
 
 <script src="https://tryhackme.com/badge/60767"></script>
 *
