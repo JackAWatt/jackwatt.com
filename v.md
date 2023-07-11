@@ -1,5 +1,7 @@
 #### 2023/07/11
 
+* [Transitioning from counting to multiplying to find area - Khan Academy](https://youtu.be/mu3HHCdYYtY)
+
 * [Rectangle area as product of dimensions same as counting unit squares - Khan Academy](https://youtu.be/DRg2VCo8lP0)
 
 * [Creating rectangles with a given area 2 - Khan Academy](https://youtu.be/cYyfwJSvT-k)
