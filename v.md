@@ -1,5 +1,7 @@
 #### 2023/07/11
 
+* [Creating rectangles with a given area - Khan Academy]https://youtu.be/JX_ZgrFf2j8)
+
 * [ Measuring area with tiled square units - Khan Academy ](https://youtu.be/iNZZIb_-PA8)
 
 * [Introduction to area and unit squares -Khan Academy](https://youtu.be/A7zPgMV4eTM)
