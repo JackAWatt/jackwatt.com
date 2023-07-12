@@ -1,3 +1,7 @@
+#### 2023/07/12
+
+* [The Best Way to Learn Calculus - The Math Sorcerer](https://youtu.be/3dVaOT3pQqc)
+
 #### 2023/07/11
 
 * [Transitioning from counting to multiplying to find area - Khan Academy](https://youtu.be/mu3HHCdYYtY)
