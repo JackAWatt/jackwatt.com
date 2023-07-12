@@ -1,6 +1,6 @@
 #### 2023/07/12
 
-* [The Dark Side of Software Engineering](https://www.youtube.com/watch?v=eNaJ3RGBtiE)
+* [The Dark Side of Software Engineering - The Math Sorcerer](https://www.youtube.com/watch?v=eNaJ3RGBtiE)
 
 * [The Best Way to Learn Calculus - The Math Sorcerer](https://youtu.be/3dVaOT3pQqc)
 
