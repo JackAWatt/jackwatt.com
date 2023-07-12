@@ -1,5 +1,7 @@
 #### 2023/07/12
 
+* [25 Essential Rules For Life (From The Stoics) - Daily Stoic](https://youtu.be/KYZqY1JEOvE)
+
 * [The Best Stoic Insights From Robert Greene - Daily Stoic](https://youtu.be/k80Iyvdbop0)
 
 * [The Dark Side of Software Engineering - The Math Sorcerer](https://www.youtube.com/watch?v=eNaJ3RGBtiE)
