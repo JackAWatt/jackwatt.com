@@ -1,5 +1,6 @@
 #### 2023/07/13
-xxx
+* [Everything Data Science - The Math Sorcerer](https://youtu.be/VPVirZTfcz0)
+
 * [Learn Math & Physics & Computer Programming - The Math Sorcerer](https://youtu.be/uIXkvxz1Eus)
 
 * [Math for Computer Science - The Math Sorcerer](https://youtu.be/8bM9gDJataM)
