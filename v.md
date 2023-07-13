@@ -1,5 +1,7 @@
 #### 2023/07/13
 
+* [Learn Math & Physics & Computer Programming - The Math Sorcerer](https://youtu.be/uIXkvxz1Eus)
+
 * [Math for Computer Science - The Math Sorcerer](https://youtu.be/8bM9gDJataM)
 
 * [4 Steps To Solve Any Problem - The Math Sorcerer](https://www.youtube.com/watch?v=rBa9R32IHxI)
