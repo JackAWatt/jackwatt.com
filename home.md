@@ -1,10 +1,11 @@
-* [http://jackwatt.com/b](http://jackwatt.com/b)
+#### My Stuff
 
-* [http://jackwatt.com/c](http://jackwatt.com/c)
 
-* [http://jackwatt.com](http://jackwatt.com)
+* [Book History](http://jackwatt.com/b)
 
-* [https://www.chess.com/home](https://www.chess.com/home)
+* [Course History](http://jackwatt.com/c)
+
+* [Jackwatt.com](http://jackwatt.com)
 
 * [https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB](https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB)
 
