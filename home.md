@@ -6,20 +6,21 @@
 
 * [Course History](http://jackwatt.com/c) -- [Edit Course History](https://github.com/JackAWatt/jackwatt.com/blob/master/c.md)
 
-
 * [Jackwatt.com](http://jackwatt.com)
-
-* [Modern Wisdom](https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB)
-
-* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
-
-* [Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 
 #### Podcasts
 
-* [Ruby Rogues/](https://topenddevs.com/podcasts/ruby-rogues/)
+* [https://www.youtube.com/@DeepDivewithAliAbdaal/videos](https://www.youtube.com/@DeepDivewithAliAbdaal/videos)
 
-* [https://iptorrents.com/t](https://iptorrents.com/t)
+* [https://www.youtube.com/@a16z/videos](https://www.youtube.com/@a16z/videos)
+
+* [https://verybadwizards.com/episodes](https://verybadwizards.com/episodes)
+
+* [Modern Wisdom](https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB)
+
+* [Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+
+* [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/)
 
 * [https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W](https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W)
 
@@ -65,17 +66,11 @@
 
 * [https://replit.com/](https://replit.com/)
 
-* [http://steamgifts.com](http://steamgifts.com)
 
-* [https://mail.proton.me/u/0/inbox](https://mail.proton.me/u/0/inbox)
 
-* [https://gmail.com](https://gmail.com)
+#### Educational Youtube Channels
 
-* [https://www.textnow.com/messaging](https://www.textnow.com/messaging)
-
-* [http://iptorrents.com](http://iptorrents.com)
-
-* [https://streak.club/](https://streak.club/)
+* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
 
 * [https://www.youtube.com/@WolframResearch/videos](https://www.youtube.com/@WolframResearch/videos)
 
@@ -105,13 +100,9 @@
 
 * [https://www.youtube.com/@BenjaminMcEvoy/videos](https://www.youtube.com/@BenjaminMcEvoy/videos)
 
-* [https://github.com/hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+#### Courses and Educational Platforms
 
-* [https://www.youtube.com/@DeepDivewithAliAbdaal/videos](https://www.youtube.com/@DeepDivewithAliAbdaal/videos)
-
-* [https://www.youtube.com/@a16z/videos](https://www.youtube.com/@a16z/videos)
-
-* [https://verybadwizards.com/episodes](https://verybadwizards.com/episodes)
+* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
 * [https://tryhackme.com/](https://tryhackme.com/)
 
@@ -137,8 +128,22 @@
 
 * [https://exercism.org/tracks](https://exercism.org/tracks)
 
-* [https://www.hackerrank.com/interview/interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+#### Aggregators and Lists
 
-* [https://datatau.net/](https://datatau.net/)
+* [DataTau](https://datatau.net/)
 
-* [https://news.ycombinator.com/](https://news.ycombinator.com/)
+* [Hacker News](https://news.ycombinator.com/)
+
+* [https://github.com/hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+
+#### Other Sites
+
+* [http://steamgifts.com](http://steamgifts.com)
+
+* [https://mail.proton.me/u/0/inbox](https://mail.proton.me/u/0/inbox)
+
+* [https://gmail.com](https://gmail.com)
+
+* [https://www.textnow.com/messaging](https://www.textnow.com/messaging)
+
+* [https://streak.club/](https://streak.club/)
