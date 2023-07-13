@@ -1,6 +1,8 @@
-#### 2023/07/12
+#### 2023/07/13
 
 * [The Obstacle Is The Way / Summarized by the Author (Ryan Holiday) - Daily Stoic](https://youtu.be/Snmh_IJL8M0)
+
+#### 2023/07/12
 
 * [9 Stoic Rules For A Better Life (From Marcus Aurelius) - Daily Stoic](https://youtu.be/heh5XLwZVOY)
 
