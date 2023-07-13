@@ -9,9 +9,9 @@
 
 * [Jackwatt.com](http://jackwatt.com)
 
-* [https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB](https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB)
+* [Modern Wisdom](https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB)
 
-* [https://www.youtube.com/@TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
+* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
 
 * [https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 
