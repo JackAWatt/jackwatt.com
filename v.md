@@ -1,5 +1,7 @@
 #### 2023/07/12
 
+* [9 Stoic Rules For A Better Life (From Marcus Aurelius) - Daily Stoic](https://youtu.be/heh5XLwZVOY)
+
 * [My Math Book Collection (Top Row of a Bookshelf) - The Math Sorcerer](https://youtu.be/WkWZsfrRAoQ)
 
 * [25 Essential Rules For Life (From The Stoics) - Daily Stoic](https://youtu.be/KYZqY1JEOvE)
