@@ -1,5 +1,7 @@
 #### 2023/07/12
 
+* [My Math Book Collection (Top Row of a Bookshelf) - The Math Sorcerer](https://youtu.be/WkWZsfrRAoQ)
+
 * [25 Essential Rules For Life (From The Stoics) - Daily Stoic](https://youtu.be/KYZqY1JEOvE)
 
 * [The Best Stoic Insights From Robert Greene - Daily Stoic](https://youtu.be/k80Iyvdbop0)
