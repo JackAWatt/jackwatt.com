@@ -1,6 +1,6 @@
 #### My Stuff
 
-* [Video History](http://jackwatt.com/v) * [Edit Video History](https://github.com/JackAWatt/jackwatt.com/blob/master/v.md)
+* [Video History](http://jackwatt.com/v) -- [Edit Video History](https://github.com/JackAWatt/jackwatt.com/blob/master/v.md)
 
 * [Book History](http://jackwatt.com/b)
 
