@@ -2,9 +2,10 @@
 
 * [Video History](http://jackwatt.com/v) -- [Edit Video History](https://github.com/JackAWatt/jackwatt.com/blob/master/v.md)
 
-* [Book History](http://jackwatt.com/b)
+* [Book History](http://jackwatt.com/b) -- [Edit Book History](https://github.com/JackAWatt/jackwatt.com/blob/master/b.md)
 
-* [Course History](http://jackwatt.com/c)
+* [Course History](http://jackwatt.com/c) -- [Edit Course History](https://github.com/JackAWatt/jackwatt.com/blob/master/c.md)
+
 
 * [Jackwatt.com](http://jackwatt.com)
 
@@ -14,11 +15,9 @@
 
 * [https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 
-* [https://github.com/JackAWatt/jackwatt.com/blob/master/b.md](https://github.com/JackAWatt/jackwatt.com/blob/master/b.md)
+#### Podcasts
 
-* [https://github.com/JackAWatt/jackwatt.com/blob/master/c.md](https://github.com/JackAWatt/jackwatt.com/blob/master/c.md)
-
-* [https://topenddevs.com/podcasts/ruby-rogues/](https://topenddevs.com/podcasts/ruby-rogues/)
+* [Ruby Rogues/](https://topenddevs.com/podcasts/ruby-rogues/)
 
 * [https://iptorrents.com/t](https://iptorrents.com/t)
 
