@@ -1,5 +1,6 @@
 #### My Stuff
 
+* [Video History](http://jackwatt.com/v) * [Edit Video History](https://github.com/JackAWatt/jackwatt.com/blob/master/v.md)
 
 * [Book History](http://jackwatt.com/b)
 
@@ -12,8 +13,6 @@
 * [https://www.youtube.com/@TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
 
 * [https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
-
-* [https://github.com/JackAWatt/jackwatt.com/blob/master/v.md](https://github.com/JackAWatt/jackwatt.com/blob/master/v.md)
 
 * [https://github.com/JackAWatt/jackwatt.com/blob/master/b.md](https://github.com/JackAWatt/jackwatt.com/blob/master/b.md)
 
