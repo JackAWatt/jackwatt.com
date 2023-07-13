@@ -13,7 +13,7 @@
 
 * [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
 
-* [https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+* [Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 
 #### Podcasts
 
