@@ -1,5 +1,7 @@
 #### 2023/07/14
 
+* [How To Read Books Effectively (7 Stoic Tips) - Daily Stoic](https://www.youtube.com/watch?v=suG-oqsdcGo)
+
 * [The Most Famous Computer Science Books In The World - The Math Sorcerer](https://www.youtube.com/watch?v=R35nogDcFfY)
 
 * [Math Antics - Prime Factorization](https://youtu.be/XGbOiYhHY2c)
