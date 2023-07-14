@@ -1,5 +1,7 @@
 #### 2023/07/14
 
+* [How Do You Get to the Next Level In Math - The Math Sorcerer](https://www.youtube.com/watch?v=TYJYVDB2_BA)
+
 * [Unlocking the Genius Mind: Brain Hacks for Mastering Anything - The Math Sorcerer](https://youtu.be/SYjTPR4_47U)
 
 * [Robert Martin on Structure and Interpretation of Computer Programming](https://www.youtube.com/watch?v=Z0VpFmp_q4A)
