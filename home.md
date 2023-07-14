@@ -34,50 +34,40 @@
 
 * [https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u](https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u)
 
-* [https://www.youtube.com/@Computerphile](https://www.youtube.com/@Computerphile)
-
+* [@Dataskeptic](https://www.youtube.com/@Dataskeptic/videos)
 
 * [https://www.youtube.com/@TheJamesAltucherShow/videos](https://www.youtube.com/@TheJamesAltucherShow/videos)
 
 * [https://www.youtube.com/@DailyStoic/videos](https://www.youtube.com/@DailyStoic/videos)
 
-* [https://www.youtube.com/@njwildberger](https://www.youtube.com/@njwildberger)
-
 * [https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT](https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT)
 
-* [https://www.carasantamaria.com/podcast/](https://www.carasantamaria.com/podcast/)
+* [Talk Nerdy](https://www.carasantamaria.com/podcast/)
 
 * [https://www.youtube.com/@infinitel88ps/videos](https://www.youtube.com/@infinitel88ps/videos)
-
-* [https://www.youtube.com/@veritasium](https://www.youtube.com/@veritasium), [https://www.youtube.com/@upandatom](https://www.youtube.com/@upandatom)
 
 * [EconTalk](https://www.youtube.com/@econtalkwithruss)
 
 
-
-
-
-* [https://replit.com/](https://replit.com/)
-
-
-
 #### Educational Youtube Channels
 
-* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer), [Chycho](https://www.youtube.com/@chycho)
+* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer), [Chycho](https://www.youtube.com/@chycho), [@njwildberger](https://www.youtube.com/@njwildberger)
 
 * [Wolfram](https://www.youtube.com/@WolframResearch/videos)
 
-* [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
+* [@3blue1brown](https://www.youtube.com/@3blue1brown)
 
-* [@Dataskeptic](https://www.youtube.com/@Dataskeptic/videos)
-
-* [https://www.youtube.com/@standupmaths](https://www.youtube.com/@standupmaths)
+* [@standupmaths](https://www.youtube.com/@standupmaths)
 
 * [@numberphile](https://www.youtube.com/@numberphile/videos), [@periodicvideos](https://www.youtube.com/@periodicvideos/videos), * [@sixtysymbols](https://www.youtube.com/@sixtysymbols/videos)
 
 * [@morphocular](https://www.youtube.com/@morphocular), [@MichaelPennMath](https://www.youtube.com/@MichaelPennMath), [@tecmath](https://www.youtube.com/@tecmath)
 * 
 * [@BenjaminMcEvoy](https://www.youtube.com/@BenjaminMcEvoy/videos)
+
+* [@Computerphile](https://www.youtube.com/@Computerphile)
+ 
+* [https://www.youtube.com/@veritasium](https://www.youtube.com/@veritasium), [https://www.youtube.com/@upandatom](https://www.youtube.com/@upandatom) 
 
 #### Courses and Educational Platforms
 
@@ -118,4 +108,6 @@
 * [http://aldaily.com](http://aldaily.com)
 
 * [goodreads](https://www.goodreads.com/user/sign_in)
+
+* [https://replit.com/](https://replit.com/)
 
