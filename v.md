@@ -1,3 +1,7 @@
+#### 2023/07/14
+
+* [The Computer Science Wizard Book - The Math Sorcerer](https://youtu.be/t9AZ8_dX6uA)
+
 #### 2023/07/13
 
 * [Everything Data Science - The Math Sorcerer](https://youtu.be/VPVirZTfcz0)
