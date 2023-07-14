@@ -1,5 +1,7 @@
 #### 2023/07/14
 
+* [Robert Martin on Structure and Interpretation of Computer Programming](https://www.youtube.com/watch?v=Z0VpFmp_q4A)
+
 * [The Computer Science Wizard Book - The Math Sorcerer](https://youtu.be/t9AZ8_dX6uA)
 
 #### 2023/07/13
