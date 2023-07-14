@@ -1,3 +1,5 @@
+###### Videos and Podcasts
+
 #### 2023/07/14
 
 * [How To Read Books Effectively (7 Stoic Tips) - Daily Stoic](https://www.youtube.com/watch?v=suG-oqsdcGo)
