@@ -1,7 +1,5 @@
 #### 2023/07/13
 
-* [Destiny Addresses Joe Rogan's Apology On Impact Theory](https://www.youtube.com/watch?v=uV2zF4nveec)
-
 * [Everything Data Science - The Math Sorcerer](https://youtu.be/VPVirZTfcz0)
 
 * [Learn Math & Physics & Computer Programming - The Math Sorcerer](https://youtu.be/uIXkvxz1Eus)
