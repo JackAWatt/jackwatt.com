@@ -28,8 +28,6 @@
 
 * [https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u](https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u)
 
-* [https://www.edx.org/](https://www.edx.org/)
-
 * [https://www.youtube.com/@Computerphile](https://www.youtube.com/@Computerphile)
 
 * [http://aldaily.com](http://aldaily.com)
@@ -100,7 +98,7 @@
 
 #### Courses and Educational Platforms
 
-* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit) , [TryHackMe](https://tryhackme.com/) , [INE](https://my.ine.com/)
+* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit) , [TryHackMe](https://tryhackme.com/) , [INE](https://my.ine.com/), [https://exercism.org/tracks](https://exercism.org/tracks)
 
 * [https://www.roppers.org/collections](https://www.roppers.org/collections)
 
@@ -110,17 +108,11 @@
 
 * [https://portswigger.net/web-security/learning-path](https://portswigger.net/web-security/learning-path)
 
-* [https://alison.com/](https://alison.com/)
-
-* [https://itmasters.edu.au/](https://itmasters.edu.au/)
-
-* [https://geek-university.com/courses/](https://geek-university.com/courses/)
+* [Alison](https://alison.com/), [ITmasters](https://itmasters.edu.au/), [Geek-University](https://geek-university.com/courses/)
 
 * [https://academy.cyber5w.com/collections](https://academy.cyber5w.com/collections)
 
-* [https://www.open.edu/openlearn/](https://www.open.edu/openlearn/)
-
-* [https://exercism.org/tracks](https://exercism.org/tracks)
+* [OpenLearn](https://www.open.edu/openlearn/), [edX](https://www.edx.org/)
 
 #### Aggregators and Lists
 
