@@ -28,23 +28,23 @@
 
 * [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/)
 
-* [https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W](https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W)
+* [Conversations with Tyler](https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W)
 
 * [Brandon Sanderson](https://www.youtube.com/@BrandSanderson/videos)
 
-* [https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u](https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u)
+* [Dropping In](https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u)
 
 * [@Dataskeptic](https://www.youtube.com/@Dataskeptic/videos)
 
-* [https://www.youtube.com/@TheJamesAltucherShow/videos](https://www.youtube.com/@TheJamesAltucherShow/videos)
+* [@TheJamesAltucherShow](https://www.youtube.com/@TheJamesAltucherShow/videos)
 
-* [https://www.youtube.com/@DailyStoic/videos](https://www.youtube.com/@DailyStoic/videos)
+* [@DailyStoic](https://www.youtube.com/@DailyStoic/videos)
 
-* [https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT](https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT)
+* [Jim Rutt Show](https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT)
 
 * [Talk Nerdy](https://www.carasantamaria.com/podcast/)
 
-* [https://www.youtube.com/@infinitel88ps/videos](https://www.youtube.com/@infinitel88ps/videos)
+* [Infinite Loops](https://www.youtube.com/@infinitel88ps/videos)
 
 * [EconTalk](https://www.youtube.com/@econtalkwithruss)
 
