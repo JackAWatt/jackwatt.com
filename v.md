@@ -1,5 +1,7 @@
 #### 2023/07/14
 
+* [The Most Famous Computer Science Books In The World - The Math Sorcerer](https://www.youtube.com/watch?v=R35nogDcFfY)
+
 * [Math Antics - Prime Factorization](https://youtu.be/XGbOiYhHY2c)
 
 * [The REAL Way to Change Your Life - The Math Sorcerer](https://youtu.be/DFvpX9B7VcI)
