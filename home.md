@@ -10,6 +10,12 @@
 
 #### Podcasts
 
+* [@hubermanlab](https://www.youtube.com/@hubermanlab)
+
+* [https://www.programmingthrowdown.com/](https://www.programmingthrowdown.com/)
+
+* [https://www.youtube.com/@RyanHawk/videos](https://www.youtube.com/@RyanHawk/videos)
+
 * [@DeepDivewithAliAbdaal](https://www.youtube.com/@DeepDivewithAliAbdaal/videos)
 
 * [@a16z](https://www.youtube.com/@a16z/videos)
@@ -30,7 +36,6 @@
 
 * [https://www.youtube.com/@Computerphile](https://www.youtube.com/@Computerphile)
 
-* [http://aldaily.com](http://aldaily.com)
 
 * [https://www.youtube.com/@TheJamesAltucherShow/videos](https://www.youtube.com/@TheJamesAltucherShow/videos)
 
@@ -40,7 +45,6 @@
 
 * [https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT](https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT)
 
-* [https://www.goodreads.com/user/sign_in](https://www.goodreads.com/user/sign_in)
 
 * [https://www.carasantamaria.com/podcast/](https://www.carasantamaria.com/podcast/)
 
@@ -56,9 +60,7 @@
 
 * [https://www.khanacademy.org/](https://www.khanacademy.org/)
 
-* [https://www.programmingthrowdown.com/](https://www.programmingthrowdown.com/)
 
-* [https://www.youtube.com/@RyanHawk/videos](https://www.youtube.com/@RyanHawk/videos)
 
 * [https://replit.com/](https://replit.com/)
 
@@ -84,16 +86,12 @@
 
 * [https://www.youtube.com/@periodicvideos/videos](https://www.youtube.com/@periodicvideos/videos)
 
-* [https://www.youtube.com/@hubermanlab](https://www.youtube.com/@hubermanlab)
 
-* [https://www.youtube.com/@tecmath](https://www.youtube.com/@tecmath)
 
 * [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
 
-* [https://www.youtube.com/@morphocular](https://www.youtube.com/@morphocular)
-
-* [https://www.youtube.com/@MichaelPennMath](https://www.youtube.com/@MichaelPennMath)
-
+* [@morphocular](https://www.youtube.com/@morphocular), [@MichaelPennMath](https://www.youtube.com/@MichaelPennMath), [@tecmath](https://www.youtube.com/@tecmath)
+* 
 * [https://www.youtube.com/@BenjaminMcEvoy/videos](https://www.youtube.com/@BenjaminMcEvoy/videos)
 
 #### Courses and Educational Platforms
@@ -131,4 +129,8 @@
 * [https://streak.club/](https://streak.club/)
 
 * [https://curiositystream.com/](https://curiositystream.com/)
+
+* [http://aldaily.com](http://aldaily.com)
+
+* [goodreads](https://www.goodreads.com/user/sign_in)
 
