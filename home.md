@@ -10,11 +10,11 @@
 
 #### Podcasts
 
-* [https://www.youtube.com/@DeepDivewithAliAbdaal/videos](https://www.youtube.com/@DeepDivewithAliAbdaal/videos)
+* [@DeepDivewithAliAbdaal](https://www.youtube.com/@DeepDivewithAliAbdaal/videos)
 
-* [https://www.youtube.com/@a16z/videos](https://www.youtube.com/@a16z/videos)
+* [@a16z](https://www.youtube.com/@a16z/videos)
 
-* [https://verybadwizards.com/episodes](https://verybadwizards.com/episodes)
+* [verybadwizards](https://verybadwizards.com/episodes)
 
 * [Modern Wisdom](https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB)
 
@@ -25,8 +25,6 @@
 * [https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W](https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W)
 
 * [https://www.youtube.com/@chycho](https://www.youtube.com/@chycho)
-
-* [https://curiositystream.com/](https://curiositystream.com/)
 
 * [https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u](https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u)
 
@@ -102,11 +100,7 @@
 
 #### Courses and Educational Platforms
 
-* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit)
-
-* [https://tryhackme.com/](https://tryhackme.com/)
-
-* [https://my.ine.com/](https://my.ine.com/)
+* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit) , [TryHackMe](https://tryhackme.com/) , [INE](https://my.ine.com/)
 
 * [https://www.roppers.org/collections](https://www.roppers.org/collections)
 
@@ -140,10 +134,9 @@
 
 * [http://steamgifts.com](http://steamgifts.com)
 
-* [https://mail.proton.me/u/0/inbox](https://mail.proton.me/u/0/inbox)
-
-* [https://gmail.com](https://gmail.com)
-
-* [https://www.textnow.com/messaging](https://www.textnow.com/messaging)
+* [Protonmail](https://mail.proton.me/u/0/inbox) , [gmail](https://gmail.com) , [TextNow](https://www.textnow.com/messaging)
 
 * [https://streak.club/](https://streak.club/)
+
+* [https://curiositystream.com/](https://curiositystream.com/)
+
