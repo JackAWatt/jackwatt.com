@@ -1,5 +1,7 @@
 #### 2023/07/14
 
+* [Math Antics - Prime Factorization](https://youtu.be/XGbOiYhHY2c)
+
 * [The REAL Way to Change Your Life - The Math Sorcerer](https://youtu.be/DFvpX9B7VcI)
 
 * [How Do You Get to the Next Level In Math - The Math Sorcerer](https://www.youtube.com/watch?v=TYJYVDB2_BA)
