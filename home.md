@@ -12,9 +12,9 @@
 
 * [@hubermanlab](https://www.youtube.com/@hubermanlab)
 
-* [https://www.programmingthrowdown.com/](https://www.programmingthrowdown.com/)
+* [programmingthrowdown](https://www.programmingthrowdown.com/)
 
-* [https://www.youtube.com/@RyanHawk/videos](https://www.youtube.com/@RyanHawk/videos)
+* [Learning Leader](https://www.youtube.com/@RyanHawk/videos)
 
 * [@DeepDivewithAliAbdaal](https://www.youtube.com/@DeepDivewithAliAbdaal/videos)
 
@@ -30,7 +30,7 @@
 
 * [https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W](https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W)
 
-* [https://www.youtube.com/@chycho](https://www.youtube.com/@chycho)
+* [Brandon Sanderson](https://www.youtube.com/@BrandSanderson/videos)
 
 * [https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u](https://www.youtube.com/playlist?list=PL-uB4OtJ4m9SGZNrxMlRliAPfnMuIyL2u)
 
@@ -45,20 +45,15 @@
 
 * [https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT](https://www.youtube.com/playlist?list=PLvF_IyjkVsd9DCVH5OhXMsPVR6_JqrPfT)
 
-
 * [https://www.carasantamaria.com/podcast/](https://www.carasantamaria.com/podcast/)
 
 * [https://www.youtube.com/@infinitel88ps/videos](https://www.youtube.com/@infinitel88ps/videos)
 
-* [https://www.youtube.com/@veritasium](https://www.youtube.com/@veritasium)
+* [https://www.youtube.com/@veritasium](https://www.youtube.com/@veritasium), [https://www.youtube.com/@upandatom](https://www.youtube.com/@upandatom)
 
-* [https://www.youtube.com/@upandatom](https://www.youtube.com/@upandatom)
+* [EconTalk](https://www.youtube.com/@econtalkwithruss)
 
-* [https://www.instagram.com/](https://www.instagram.com/)
 
-* [https://www.youtube.com/@econtalkwithruss](https://www.youtube.com/@econtalkwithruss)
-
-* [https://www.khanacademy.org/](https://www.khanacademy.org/)
 
 
 
@@ -68,31 +63,21 @@
 
 #### Educational Youtube Channels
 
-* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer)
+* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer), [Chycho](https://www.youtube.com/@chycho)
 
-* [https://www.youtube.com/@WolframResearch/videos](https://www.youtube.com/@WolframResearch/videos)
+* [Wolfram](https://www.youtube.com/@WolframResearch/videos)
 
 * [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
 
-* [https://www.youtube.com/@BrandSanderson/videos](https://www.youtube.com/@BrandSanderson/videos)
-
-* [https://www.youtube.com/@sixtysymbols/videos](https://www.youtube.com/@sixtysymbols/videos)
-
-* [https://www.youtube.com/@Dataskeptic/videos](https://www.youtube.com/@Dataskeptic/videos)
+* [@Dataskeptic](https://www.youtube.com/@Dataskeptic/videos)
 
 * [https://www.youtube.com/@standupmaths](https://www.youtube.com/@standupmaths)
 
-* [https://www.youtube.com/@numberphile/videos](https://www.youtube.com/@numberphile/videos)
-
-* [https://www.youtube.com/@periodicvideos/videos](https://www.youtube.com/@periodicvideos/videos)
-
-
-
-* [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
+* [@numberphile](https://www.youtube.com/@numberphile/videos), [@periodicvideos](https://www.youtube.com/@periodicvideos/videos), * [@sixtysymbols](https://www.youtube.com/@sixtysymbols/videos)
 
 * [@morphocular](https://www.youtube.com/@morphocular), [@MichaelPennMath](https://www.youtube.com/@MichaelPennMath), [@tecmath](https://www.youtube.com/@tecmath)
 * 
-* [https://www.youtube.com/@BenjaminMcEvoy/videos](https://www.youtube.com/@BenjaminMcEvoy/videos)
+* [@BenjaminMcEvoy](https://www.youtube.com/@BenjaminMcEvoy/videos)
 
 #### Courses and Educational Platforms
 
@@ -108,9 +93,11 @@
 
 * [Alison](https://alison.com/), [ITmasters](https://itmasters.edu.au/), [Geek-University](https://geek-university.com/courses/)
 
-* [https://academy.cyber5w.com/collections](https://academy.cyber5w.com/collections)
+* [Cyber5w](https://academy.cyber5w.com/collections)
 
-* [OpenLearn](https://www.open.edu/openlearn/), [edX](https://www.edx.org/)
+* [OpenLearn](https://www.open.edu/openlearn/), [edX](https://www.edx.org/), * [KhanAcademy](https://www.khanacademy.org/)
+
+* [FreeCodeCamp - Platform](https://www.freecodecamp.org/), [@freecodecamp - Youtube](https://www.youtube.com/@freecodecamp)
 
 #### Aggregators and Lists
 
