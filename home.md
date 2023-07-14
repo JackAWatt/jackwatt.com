@@ -67,7 +67,7 @@
 
 * [@Computerphile](https://www.youtube.com/@Computerphile)
  
-* [https://www.youtube.com/@veritasium](https://www.youtube.com/@veritasium), [https://www.youtube.com/@upandatom](https://www.youtube.com/@upandatom) 
+* [@veritasium](https://www.youtube.com/@veritasium), [@upandatom](https://www.youtube.com/@upandatom) 
 
 #### Courses and Educational Platforms
 
@@ -93,19 +93,19 @@
 
 * [Hacker News](https://news.ycombinator.com/)
 
-* [https://github.com/hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+* [Programming-Talks](https://github.com/hellerve/programming-talks)
 
 #### Other Sites
 
-* [http://steamgifts.com](http://steamgifts.com)
+* [SteamGifts](http://steamgifts.com)
 
 * [Protonmail](https://mail.proton.me/u/0/inbox) , [gmail](https://gmail.com) , [TextNow](https://www.textnow.com/messaging)
 
-* [https://streak.club/](https://streak.club/)
+* [Streak.Club](https://streak.club/)
 
-* [https://curiositystream.com/](https://curiositystream.com/)
+* [CuriosityStream](https://curiositystream.com/)
 
-* [http://aldaily.com](http://aldaily.com)
+* [Aldaily](http://aldaily.com)
 
 * [goodreads](https://www.goodreads.com/user/sign_in)
 
