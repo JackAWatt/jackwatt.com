@@ -98,7 +98,7 @@
 
 #### Courses and Educational Platforms
 
-* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit) , [TryHackMe](https://tryhackme.com/) , [INE](https://my.ine.com/), [https://exercism.org/tracks](https://exercism.org/tracks)
+* [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit) , [TryHackMe](https://tryhackme.com/) , [INE](https://my.ine.com/), [Excercism](https://exercism.org/tracks)
 
 * [https://www.roppers.org/collections](https://www.roppers.org/collections)
 
