@@ -2,6 +2,8 @@
 
 #### 2023/07/14
 
+* [16 Life-Changing Ideas You’ve Never Heard Of - George Mack / Modern Wisdom 653](https://youtu.be/qBNw3u4lOr8)
+
 * [How To Read Books Effectively (7 Stoic Tips) - Daily Stoic](https://www.youtube.com/watch?v=suG-oqsdcGo)
 
 * [The Most Famous Computer Science Books In The World - The Math Sorcerer](https://www.youtube.com/watch?v=R35nogDcFfY)
