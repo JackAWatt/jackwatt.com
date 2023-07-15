@@ -2,6 +2,8 @@
 
 #### 2023/07/15
 
+* [Read Books Fast and Efficiently. Jocko Explains How to: Jocko Underground 018](https://www.youtube.com/watch?v=-KlVgrEJD5I)
+
 * [14 Amazing Books Summarized in One Minute (Or Less) - Mark Manson](https://youtu.be/9-xTH7r_QNQ)
 
 * [Activists Tried To Get This Researcher Banned - Michael Bailey / Modern Wisdom 654](https://www.youtube.com/watch?v=xakINkmU1c0) - DNF
