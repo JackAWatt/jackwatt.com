@@ -2,6 +2,8 @@
 
 #### 2023/07/15
 
+* [The Computer Science Cinderella Book - The Math Sorcerer](https://www.youtube.com/watch?v=AQRAX5BASxo)
+
 * [Read Books Fast and Efficiently. Jocko Explains How to: Jocko Underground 018](https://www.youtube.com/watch?v=-KlVgrEJD5I)
 
 * [14 Amazing Books Summarized in One Minute (Or Less) - Mark Manson](https://youtu.be/9-xTH7r_QNQ)
