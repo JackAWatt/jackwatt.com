@@ -2,6 +2,8 @@
 
 #### 2023/07/15
 
+* [Activists Tried To Get This Researcher Banned - Michael Bailey / Modern Wisdom 654](https://www.youtube.com/watch?v=xakINkmU1c0)
+
 * [3 Toxic Habits That Will Kill Your Grades - The Math Sorcerer](https://www.youtube.com/watch?v=ri2azCmoLLY)
 
 * [16 Life-Changing Ideas You’ve Never Heard Of - George Mack / Modern Wisdom 653](https://youtu.be/qBNw3u4lOr8)
