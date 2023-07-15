@@ -2,6 +2,8 @@
 
 #### 2023/07/15
 
+* [David Bentley Hart on Reason, Faith, and Diversity in Religious Thought / Conversations with Tyler](https://www.youtube.com/watch?v=QPEhNqTuD0Q)
+
 * [The Computer Science Cinderella Book - The Math Sorcerer](https://www.youtube.com/watch?v=AQRAX5BASxo)
 
 * [Read Books Fast and Efficiently. Jocko Explains How to: Jocko Underground 018](https://www.youtube.com/watch?v=-KlVgrEJD5I)
