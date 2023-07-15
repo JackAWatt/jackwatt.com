@@ -2,6 +2,8 @@
 
 #### 2023/07/15
 
+* [3 Toxic Habits That Will Kill Your Grades - The Math Sorcerer](https://www.youtube.com/watch?v=ri2azCmoLLY)
+
 * [16 Life-Changing Ideas You’ve Never Heard Of - George Mack / Modern Wisdom 653](https://youtu.be/qBNw3u4lOr8)
 
 #### 2023/07/14
