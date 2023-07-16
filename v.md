@@ -1,6 +1,5 @@
 ###### Videos and Podcasts
 
-
 #### 2023/07/16
 
 * [WTF Happened To MMOs? - Asmongold React](https://youtu.be/4nKfHUlq6-M)
@@ -219,6 +218,8 @@
 * [Jacob Howland on the Hidden Human Costs of AI - EconTalk](https://www.youtube.com/watch?v=N9i93S37xyM)
 
 #### ????
+
+* [Lydia Davis on Language and Literature / Conversations with Tyler](https://youtu.be/1cTvW8h8Tas)
 
 * [Informal History of Physics - Stephen Wolfram](https://www.youtube.com/watch?v=acUf7PuGWXA)
 
