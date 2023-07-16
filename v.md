@@ -1,5 +1,10 @@
 ###### Videos and Podcasts
 
+
+#### 2023/07/16
+
+* [Tom Holland on History, Christianity, and the Value of the Countryside / Conversations with Tyler](https://youtu.be/VLmVCa3zDeI)
+
 #### 2023/07/15
 
 * [David Bentley Hart on Reason, Faith, and Diversity in Religious Thought / Conversations with Tyler](https://www.youtube.com/watch?v=QPEhNqTuD0Q)
