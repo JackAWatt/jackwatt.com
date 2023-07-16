@@ -2,6 +2,8 @@
 
 #### 2023/07/16
 
+* [Michael Munger on the Future of Higher Education 8/17/20](https://www.youtube.com/watch?v=ivQvvlpjBl0)
+
 * [WTF Happened To MMOs? - Asmongold React](https://youtu.be/4nKfHUlq6-M)
 
 * [Developers Say Baldur's Gate 3 Is An Anomaly - Asmongold React](https://youtu.be/KhHJXy457ko)
