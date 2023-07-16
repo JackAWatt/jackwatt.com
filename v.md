@@ -3,6 +3,8 @@
 
 #### 2023/07/16
 
+* [The Collapse Of The UK’s Gender Identity Clinic - Hannah Barnes / Modern Wisdom 611](https://youtu.be/kdBfHwzDYLg)
+
 * [Tom Holland on History, Christianity, and the Value of the Countryside / Conversations with Tyler](https://youtu.be/VLmVCa3zDeI)
 
 #### 2023/07/15
