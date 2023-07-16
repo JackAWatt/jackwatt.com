@@ -76,7 +76,7 @@
 
 ##### My History
 
-* [Videos](http://jackwatt.com/v)
+* [Videos and Podcasts](http://jackwatt.com/v)
 * [Books](http://jackwatt.com/b)
 * [Courses](http://jackwatt.com/c)
 
