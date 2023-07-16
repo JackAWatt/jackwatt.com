@@ -3,6 +3,8 @@
 
 #### 2023/07/16
 
+* [Developers Say Baldur's Gate 3 Is An Anomaly - React asmongold](https://youtu.be/KhHJXy457ko)
+
 * [The Hardest Math - The Math Sorcerer](https://youtu.be/zX-4R1cUjGI)
 
 * [Is Eating Meat Bad for Your Health & Longevity? / Dr Peter Attia - Modern Wisdom](https://youtu.be/N9u_uyb6K1Q)
