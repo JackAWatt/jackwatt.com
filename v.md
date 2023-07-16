@@ -3,6 +3,8 @@
 
 #### 2023/07/16
 
+* [The Hardest Math - The Math Sorcerer](https://youtu.be/zX-4R1cUjGI)
+
 * [Is Eating Meat Bad for Your Health & Longevity? / Dr Peter Attia - Modern Wisdom](https://youtu.be/N9u_uyb6K1Q)
 
 * [RR 155 - Why Ruby Sucks - Ruby Rogues](https://www.youtube.com/watch?v=BlC9U0cqCbg)
