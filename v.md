@@ -3,9 +3,9 @@
 
 #### 2023/07/16
 
-* [WTF Happened To MMOs?](https://youtu.be/4nKfHUlq6-M)
+* [WTF Happened To MMOs? - React Asmongold](https://youtu.be/4nKfHUlq6-M)
 
-* [Developers Say Baldur's Gate 3 Is An Anomaly - React asmongold](https://youtu.be/KhHJXy457ko)
+* [Developers Say Baldur's Gate 3 Is An Anomaly - React Asmongold](https://youtu.be/KhHJXy457ko)
 
 * [The Hardest Math - The Math Sorcerer](https://youtu.be/zX-4R1cUjGI)
 
