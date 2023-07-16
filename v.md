@@ -2,7 +2,7 @@
 
 #### 2023/07/16
 
-* [Michael Munger on the Future of Higher Education 8/17/20](https://www.youtube.com/watch?v=ivQvvlpjBl0)
+* [Michael Munger on the Future of Higher Education - EconTalk](https://www.youtube.com/watch?v=ivQvvlpjBl0)
 
 * [WTF Happened To MMOs? - Asmongold React](https://youtu.be/4nKfHUlq6-M)
 
@@ -246,3 +246,10 @@
 * [EP36 Hanzi Freinacht on Metamodernism - Jim Rutt](https://www.jimruttshow.com/hanzi-freinacht/)
  
 * [EP33 Melanie Mitchell on the Elements of AI - Jim Rutt Show](https://www.jimruttshow.com/melanie-mitchell/)
+
+
+#### Queue
+
+* [Daphne Koller on Education, Coursera, and MOOCs - EconTalk](https://www.youtube.com/watch?v=O-9Bk_gbDtg)
+
+* [John Cochrane on Education and MOOCs - EconTalk](https://youtu.be/67b_xrpWcoc)
