@@ -3,8 +3,6 @@
 
 #### 2023/07/16
 
-* [I found everything Dark Souls took from Berserk - Asmongold React](https://youtu.be/MmANKGlEo1I)
-
 * [WTF Happened To MMOs? - Asmongold React](https://youtu.be/4nKfHUlq6-M)
 
 * [Developers Say Baldur's Gate 3 Is An Anomaly - Asmongold React](https://youtu.be/KhHJXy457ko)
