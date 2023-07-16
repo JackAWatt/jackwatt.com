@@ -3,6 +3,8 @@
 
 #### 2023/07/16
 
+* [Is Eating Meat Bad for Your Health & Longevity? / Dr Peter Attia](https://youtu.be/N9u_uyb6K1Q)
+
 * [RR 155 - Why Ruby Sucks - Ruby Rogues](https://www.youtube.com/watch?v=BlC9U0cqCbg)
 
 * [The Collapse Of The UK’s Gender Identity Clinic - Hannah Barnes / Modern Wisdom 611](https://youtu.be/kdBfHwzDYLg) - DNF
