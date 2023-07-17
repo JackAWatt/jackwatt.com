@@ -50,3 +50,13 @@
 * [Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
 
 * [The Nature of Computation](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
+
+###### Philosophy
+
+* [Plato at the Googleplex: Why Philosophy Won't Go Away](https://www.goodreads.com/book/show/18050049-plato-at-the-googleplex)
+
+###### Fiction
+
+* [The Iliad - Homer]()
+
+* [The Emperor's Soul - Brandon Sanderson](https://www.goodreads.com/book/show/13578175-the-emperor-s-soul)
