@@ -7,3 +7,13 @@
 * Finish [How to Learn Online](https://learning.edx.org/course/course-v1:edX+edx201+1T2020/home)
 
 * Start [How to Learn Online](https://learning.edx.org/course/course-v1:edX+edx201+1T2020/home)
+
+
+
+#### Queue
+
+* [Innovation Through Design: Think, Make, Break, Repeat - Coursera](https://www.coursera.org/learn/innovation-through-design)
+
+* [IBM Data Science Professional Certificate(10 course series) - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+
