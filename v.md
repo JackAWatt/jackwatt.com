@@ -2,6 +2,8 @@
 
 #### 2023/07/16
 
+* [Daphne Koller on Education, Coursera, and MOOCs - EconTalk](https://www.youtube.com/watch?v=O-9Bk_gbDtg)
+
 * [Michael Munger on the Future of Higher Education - EconTalk](https://www.youtube.com/watch?v=ivQvvlpjBl0)
 
 * [WTF Happened To MMOs? - Asmongold React](https://youtu.be/4nKfHUlq6-M)
