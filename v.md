@@ -2,6 +2,8 @@
 
 #### 2023/07/18
 
+* [Best Beginner Data Science Courses on Coursera Damsel in Data](https://youtu.be/fXWW2gvIal0)
+
 * [The math you actually need to know for data science - Damsel in Data](https://youtu.be/eJtHzkMy_1k)
 
 #### 2023/07/16
