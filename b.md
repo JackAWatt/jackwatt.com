@@ -19,13 +19,13 @@
 
 * [Think Like a Data Scientist: Tackle the data science process step-by-step](https://www.goodreads.com/book/show/31670583-think-like-a-data-scientist)
 
+* [Bayesian Statistics the Fun Way: Understanding Statistics and Probability](https://www.goodreads.com/book/show/41392893-bayesian-statistics-the-fun-way)
+
 ###### Math
 
 * [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.ca/How-Solve-Aspect-Mathematical-Method/dp/069116407X)
 
 * [How to Prove It: A Structured Approach](https://www.amazon.ca/How-Prove-Structured-Daniel-Velleman/dp/110842418X)
-
-* [Bayesian Statistics the Fun Way: Understanding Statistics and Probability](https://www.goodreads.com/book/show/41392893-bayesian-statistics-the-fun-way)
 
 * [Mathematics for the Nonmathematician](https://www.goodreads.com/book/show/281821.Mathematics_for_the_Nonmathematician)
 
