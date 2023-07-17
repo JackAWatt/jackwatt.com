@@ -2,6 +2,8 @@
 
 #### 2023/07/16
 
+* [How I Became a Self-Taught Data Scientist with Non-Tech Background - Sundas Khalid](https://youtu.be/Zoc9USYVdWM)
+
 * [Daphne Koller on Education, Coursera, and MOOCs - EconTalk](https://www.youtube.com/watch?v=O-9Bk_gbDtg)
 
 * [Michael Munger on the Future of Higher Education - EconTalk](https://www.youtube.com/watch?v=ivQvvlpjBl0)
