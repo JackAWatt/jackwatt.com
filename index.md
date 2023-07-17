@@ -37,6 +37,10 @@
 * [Lists(lolbas, GTFObins, awesomehacking)](http://jackwatt.com/infosec#lists-and-other-resources)
 * [Podcasts](http://jackwatt.com/podcasts#information-security)
 
+##### Data Science
+
+* [Kaggle](https://www.kaggle.com/) - Kaggle offers a no-setup, customizable, Jupyter Notebooks environment. Access GPUs and a huge repository of community published data & code.
+
 ##### Free Books
 
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
