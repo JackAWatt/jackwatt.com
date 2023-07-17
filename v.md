@@ -2,6 +2,8 @@
 
 #### 2023/07/18
 
+* [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
+
 * [Every Data Scientist Should Read This Book - Data Nash](https://youtu.be/ZbGbqUdjc28)
 
 * [Coursera has an OFFICIAL Data Science Roadmap!? - Greg Hogg](https://youtu.be/y4yYTqjQHjM)
@@ -273,7 +275,5 @@
 * [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months](https://youtu.be/eaFaD_IBYW4)
 
 * [How I Would Learn Data Science in 2022 (If I Had to Start Over)](https://www.youtube.com/watch?v=xpIFS6jZbe8)
-
-* [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
 
 * [John Cochrane on Education and MOOCs - EconTalk](https://youtu.be/67b_xrpWcoc)
