@@ -2,7 +2,7 @@
 
 #### 2023/07/16
 
-* [How Much Math Is REALLY In Data Science / What Math Do You Need For Data Science](https://youtu.be/Fzfxn8U8aMw)
+* [How Much Math Is REALLY In Data Science / What Math Do You Need For Data Science - Data Nash](https://youtu.be/Fzfxn8U8aMw)
 
 * [How I'd Learn Data Science In 2023 (If I Could Restart) / A Beginner's Roadmap - Data Nash](https://youtu.be/Z79AqDouS-Y)
 
