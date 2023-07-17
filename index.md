@@ -96,6 +96,10 @@
 * [Courses](http://jackwatt.com/c)
 * [Blogs and Articles](http://jackwatt.com/a)
 
+##### My Notes
+* [Books](http://jackwatt.com/notes/books)
+* [Courses](http://jackwatt.com/notes/courses)
+
 <script src="https://tryhackme.com/badge/60767"></script>
 *
 <script src="https://www.hackthebox.eu/badge/189855"></script>
