@@ -2,6 +2,8 @@
 
 #### 2023/07/17
 
+* [10 Habits Of The World’s Most Successful People - Polina Pompliano / Modern Wisdom 655](https://youtu.be/NUO2DqCwdiE)
+
 * [ How to spot misinformation using statistics: think like a data scientist - Damsel in Data](https://youtu.be/Io5VfjACoBQ)
 
 * [Every Data Scientist Should Read This Book - Data Nash](https://youtu.be/ZbGbqUdjc28)
