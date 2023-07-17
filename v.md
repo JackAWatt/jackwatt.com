@@ -2,6 +2,8 @@
 
 #### 2023/07/18
 
+* [Every Data Scientist Should Read This Book - Data Nash](https://youtu.be/ZbGbqUdjc28)
+
 * [Coursera has an OFFICIAL Data Science Roadmap!? - Greg Hogg](https://youtu.be/y4yYTqjQHjM)
 
 * [how to learn data science: top resources / do you need a degree(s) to get hired?](https://youtu.be/dJfh-hCJ5F8)
