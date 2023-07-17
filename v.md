@@ -2,6 +2,8 @@
 
 #### 2023/07/18
 
+* [Coursera has an OFFICIAL Data Science Roadmap!? - Greg Hogg](https://youtu.be/y4yYTqjQHjM)
+
 * [how to learn data science: top resources / do you need a degree(s) to get hired?](https://youtu.be/dJfh-hCJ5F8)
 
 * [Best Beginner Data Science Courses on Coursera Damsel in Data](https://youtu.be/fXWW2gvIal0)
