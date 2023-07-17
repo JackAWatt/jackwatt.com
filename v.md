@@ -2,6 +2,8 @@
 
 #### 2023/07/17
 
+* [ How to spot misinformation using statistics: think like a data scientist - Damsel in Data](https://youtu.be/Io5VfjACoBQ)
+
 * [Every Data Scientist Should Read This Book - Data Nash](https://youtu.be/ZbGbqUdjc28)
 
 * [Coursera has an OFFICIAL Data Science Roadmap!? - Greg Hogg](https://youtu.be/y4yYTqjQHjM)
