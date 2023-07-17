@@ -2,6 +2,8 @@
 
 #### 2023/07/18
 
+* [how to learn data science: top resources / do you need a degree(s) to get hired?](https://youtu.be/dJfh-hCJ5F8)
+
 * [Best Beginner Data Science Courses on Coursera Damsel in Data](https://youtu.be/fXWW2gvIal0)
 
 * [The math you actually need to know for data science - Damsel in Data](https://youtu.be/eJtHzkMy_1k)
