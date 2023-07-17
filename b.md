@@ -65,6 +65,3 @@
 
 * [The Emperor's Soul - Brandon Sanderson](https://www.goodreads.com/book/show/13578175-the-emperor-s-soul)
 
-##### Other Non Fiction
-
-* [What We Owe The Future](https://www.amazon.ca/dp/0861542509)
