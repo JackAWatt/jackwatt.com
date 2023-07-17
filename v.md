@@ -2,6 +2,8 @@
 
 #### 2023/07/16
 
+* [How I'd Learn Data Science In 2023 (If I Could Restart) / A Beginner's Roadmap - Data Nash](https://youtu.be/Z79AqDouS-Y)
+
 * [How I Became a Self-Taught Data Scientist with Non-Tech Background - Sundas Khalid](https://youtu.be/Zoc9USYVdWM)
 
 * [Daphne Koller on Education, Coursera, and MOOCs - EconTalk](https://www.youtube.com/watch?v=O-9Bk_gbDtg)
