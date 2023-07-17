@@ -2,7 +2,7 @@
 
 #### 2023/07/17
 
-* [Andrew Tate Goes After Accusers, What Really Happened To Carlee Russell, SAG Scabbing & Today's News](https://www.youtube.com/watch?v=gOr01pPZ0Bc)
+* [Andrew Tate Goes After Accusers, What Really Happened To Carlee Russell, SAG Scabbing & Today's News - Philip DeFranco](https://www.youtube.com/watch?v=gOr01pPZ0Bc)
 
 * [10 Habits Of The World’s Most Successful People - Polina Pompliano / Modern Wisdom 655](https://youtu.be/NUO2DqCwdiE)
 
