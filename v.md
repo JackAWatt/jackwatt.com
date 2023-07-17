@@ -274,6 +274,8 @@
 
 #### Queue
 
+* [George Mack — Marketing, Mental Models, and Technology - Infinite Loops](https://www.youtube.com/watch?v=L22V0lrPgvY)
+
 * [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
 
 * [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months](https://youtu.be/eaFaD_IBYW4)
