@@ -94,6 +94,7 @@
 * [Videos and Podcasts](http://jackwatt.com/v)
 * [Books](http://jackwatt.com/b)
 * [Courses](http://jackwatt.com/c)
+* [Blogs and Articles](http://jackwatt.com/a)
 
 <script src="https://tryhackme.com/badge/60767"></script>
 *
