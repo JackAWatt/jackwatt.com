@@ -55,6 +55,8 @@
 
 * [Plato at the Googleplex: Why Philosophy Won't Go Away](https://www.goodreads.com/book/show/18050049-plato-at-the-googleplex)
 
+* [Think: A Compelling Introduction to Philosophy](https://www.goodreads.com/book/show/1038873.Think)
+
 ###### Fiction
 
 * [The Iliad - Homer]()
