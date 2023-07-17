@@ -40,6 +40,17 @@
 ##### Data Science
 
 * [Kaggle](https://www.kaggle.com/) - Kaggle offers a no-setup, customizable, Jupyter Notebooks environment. Access GPUs and a huge repository of community published data & code.
+* [Sharpest Mind](https://www.sharpestminds.com/) - Find a mentor; Advance your career
+* [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+* [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/) - Commit messages matter. Here's how to write them well.
+* [Basics of Probability for Data Science explained with examples in R](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/)
+* [Essential Math for Data Science:  ‘Why’ and ‘How’](https://www.kdnuggets.com/2018/09/essential-math-data-science.html)
+* [Guide to Experimental Design / Overview, 5 steps & Examples](https://www.scribbr.com/methodology/experimental-design/)
+* [A Gentle Introduction To Math Behind Neural Networks](https://towardsdatascience.com/introduction-to-math-behind-neural-networks-e8b60dbbdeba)
+* [Calculus in Data Science and it uses](https://towardsdatascience.com/calculus-in-data-science-and-its-uses-3f3e1b5e5b35)
+* [Demystifying Optimizations for machine learning](https://towardsdatascience.com/demystifying-optimizations-for-machine-learning-c6c6405d3eea)
+* [Every Data Scientist Should Know The Basics Of Linear Algebra](https://towardsdatascience.com/basics-of-linear-algebra-for-data-science-9e93ada24e5c)
 
 ##### Free Books
 
