@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/18
+
+* [The math you actually need to know for data science - Damsel in Data](https://youtu.be/eJtHzkMy_1k)
+
 #### 2023/07/16
 
 * [How Much Math Is REALLY In Data Science / What Math Do You Need For Data Science - Data Nash](https://youtu.be/Fzfxn8U8aMw)
@@ -259,7 +263,5 @@
 #### Queue
 
 * [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
-
-* [The math you actually need to know for data science - Damsel in Data](https://youtu.be/eJtHzkMy_1k)
 
 * [John Cochrane on Education and MOOCs - EconTalk](https://youtu.be/67b_xrpWcoc)
