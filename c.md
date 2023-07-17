@@ -16,4 +16,8 @@
 
 * [IBM Data Science Professional Certificate(10 course series) - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
+* [Statistics with Python Specialization - Coursera](https://www.coursera.org/specializations/statistics-with-python)
 
+* [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) 
+
+* [Supervised Machine Learning: Regression and Classification - Coursera](https://www.coursera.org/learn/machine-learning)
