@@ -258,4 +258,6 @@
 
 #### Queue
 
+* [The math you actually need to know for data science - Damsel in Data](https://youtu.be/eJtHzkMy_1k)
+
 * [John Cochrane on Education and MOOCs - EconTalk](https://youtu.be/67b_xrpWcoc)
