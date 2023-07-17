@@ -254,6 +254,4 @@
 
 #### Queue
 
-* [Daphne Koller on Education, Coursera, and MOOCs - EconTalk](https://www.youtube.com/watch?v=O-9Bk_gbDtg)
-
 * [John Cochrane on Education and MOOCs - EconTalk](https://youtu.be/67b_xrpWcoc)
