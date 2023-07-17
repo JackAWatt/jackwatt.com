@@ -15,6 +15,8 @@
 
 * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) - Going to need more math first
 
+* [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)
+
 ###### Math
 
 * [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.ca/How-Solve-Aspect-Mathematical-Method/dp/069116407X)
