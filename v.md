@@ -2,7 +2,7 @@
 
 #### 2023/07/18
 
-* [How To Learn Mysterious Math Symbols](https://youtu.be/BtXL3O4nk38)
+* [How To Learn Mysterious Math Symbols - The Math Sorcerer](https://youtu.be/BtXL3O4nk38)
 
 #### 2023/07/17
 
