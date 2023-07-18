@@ -39,6 +39,7 @@
 
 ##### Data Science
 
+* [Anaconda](https://www.anaconda.com/) - The world’s most popular platform to develop and deploy secure Python solutions, faster(both cloud and local environment)
 * [StrataScratch - Master Coding for Data Science](https://www.stratascratch.com/)
 * [Kaggle](https://www.kaggle.com/) - Kaggle offers a no-setup, customizable, Jupyter Notebooks environment. Access GPUs and a huge repository of community published data & code.
 * [Sharpest Mind](https://www.sharpestminds.com/) - Find a mentor; Advance your career
