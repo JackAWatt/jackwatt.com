@@ -1,3 +1,7 @@
+#### 2023/07/18
+
+* Start [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+
 #### 2023/06/29
 
 * Start [Basic geometry and measurement - Khan Academy](https://www.khanacademy.org/math/basic-geo)
