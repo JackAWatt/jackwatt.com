@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/18
+
+* [How To Learn Mysterious Math Symbols](https://youtu.be/BtXL3O4nk38)
+
 #### 2023/07/17
 
 * [Andrew Tate Goes After Accusers, What Really Happened To Carlee Russell, SAG Scabbing & Today's News - Philip DeFranco](https://www.youtube.com/watch?v=gOr01pPZ0Bc)
