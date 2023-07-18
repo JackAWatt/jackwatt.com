@@ -1,3 +1,7 @@
+#### 2023/07/18
+
+* DNF - The Math Book: Big Ideas Simply Explained
+
 #### 2023/07/10
 
 * Start The Math Book: Big Ideas Simply Explained
