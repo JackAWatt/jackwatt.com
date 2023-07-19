@@ -1,6 +1,6 @@
 #### 2023/07/18
 
-* DNF - The Math Book: Big Ideas Simply Explained
+* DNF - The Math Book: Big Ideas Simply Explained - [review](https://www.goodreads.com/review/show/3984700813)
 
 #### 2023/07/10
 
