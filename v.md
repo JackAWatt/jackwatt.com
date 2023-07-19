@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [Polina Pompliano - Profiles Of The World's Greatest Performers - Ryan Holiday](https://youtu.be/RUy9TBl5WXQ)
+
 * [What data science courses don’t tell you - top lessons from 5 years of working as a data scientist - Damsel in Data](https://youtu.be/2m42zstyCH4)
 
 #### 2023/07/18
