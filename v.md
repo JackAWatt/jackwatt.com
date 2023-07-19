@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
+
 * [Strange Pathological Mathematics - The Math Sorcerer](https://youtu.be/NGt6-6mVflM)
 
 * [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism - SAVY WRITES BOOKS](https://youtu.be/c8EkqgJ7WE4) - DNF yet
@@ -295,8 +297,6 @@
 #### Queue
 
 * [George Mack — Marketing, Mental Models, and Technology - Infinite Loops](https://www.youtube.com/watch?v=L22V0lrPgvY)
-
-* [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
 
 * [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months](https://youtu.be/eaFaD_IBYW4)
 
