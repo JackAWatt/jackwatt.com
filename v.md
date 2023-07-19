@@ -1,5 +1,7 @@
 ###### Videos and Podcasts
 
+* [What data science courses don’t tell you - top lessons from 5 years of working as a data scientist - Damsel in Data](https://youtu.be/2m42zstyCH4)
+
 #### 2023/07/18
 
 * [InfluxDB teaches customers an important lesson -  Louis Rossmann](https://youtu.be/krAwJPwaueA)
