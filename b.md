@@ -69,3 +69,7 @@
 
 * [The Emperor's Soul - Brandon Sanderson](https://www.goodreads.com/book/show/13578175-the-emperor-s-soul)
 
+###### Personal Development
+
+* [The Art & Business of Online Writing:](https://geni.us/artonlinewriting)
+
