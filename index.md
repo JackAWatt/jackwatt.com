@@ -43,6 +43,9 @@
 * [StrataScratch - Master Coding for Data Science](https://www.stratascratch.com/)
 * [Kaggle](https://www.kaggle.com/) - Kaggle offers a no-setup, customizable, Jupyter Notebooks environment. Access GPUs and a huge repository of community published data & code.
 * [Sharpest Mind](https://www.sharpestminds.com/) - Find a mentor; Advance your career
+* [365DataScience](https://learn.365datascience.com/) - Learning Platform
+
+###### Articles and Guides
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 * [How to Write a Git Commit Message](https://cbea.ms/git-commit/) - Commit messages matter. Here's how to write them well.
