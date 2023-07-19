@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [7 Daily Habits that Improved My Relationship - Ali Abdaal](https://youtu.be/Ny3u3Z85KdQ)
+
 * [How I Failed in 2022 - Ali Abdaal](https://youtu.be/knPdMQ44jKc)
 
 * [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
