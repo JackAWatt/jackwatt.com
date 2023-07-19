@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [Strange Pathological Mathematics - The Math Sorcerer](https://youtu.be/NGt6-6mVflM)
+
 * [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism - SAVY WRITES BOOKS](https://youtu.be/c8EkqgJ7WE4)
 
 * [Polina Pompliano - Profiles Of The World's Greatest Performers - Ryan Holiday](https://youtu.be/RUy9TBl5WXQ)
