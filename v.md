@@ -2,6 +2,8 @@
 
 #### 2023/07/18
 
+* [InfluxDB teaches customers an important lesson -  Louis Rossmann](https://youtu.be/krAwJPwaueA)
+
 * [The Hidden Genius Behind Millionaires and World Champions / Polina Pompliano](https://youtu.be/bK9ZRN63dhE)
 
 * [How To Learn Mysterious Math Symbols - The Math Sorcerer](https://youtu.be/BtXL3O4nk38)
