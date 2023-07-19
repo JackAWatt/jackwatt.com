@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [How I Failed in 2022 - Ali Abdaal](https://youtu.be/knPdMQ44jKc)
+
 * [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
 
 * [Strange Pathological Mathematics - The Math Sorcerer](https://youtu.be/NGt6-6mVflM)
