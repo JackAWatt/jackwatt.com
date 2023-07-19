@@ -11,7 +11,7 @@
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
-###### Videos by The Math Sorcerer
+###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [Master Mathematics and Become a Wizard](https://youtu.be/H6XejQOsfBY) - This is similar to the start to finish video, but has different book options. 
 * [Learn Algebra from START to FINISH](https://youtu.be/S116mTfk2t8)
@@ -45,7 +45,7 @@
 * [Sharpest Mind](https://www.sharpestminds.com/) - Find a mentor; Advance your career
 * [365DataScience](https://learn.365datascience.com/) - Learning Platform
 
-###### Articles and Guides
+###### - Articles and Guides
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 * [How to Write a Git Commit Message](https://cbea.ms/git-commit/) - Commit messages matter. Here's how to write them well.
