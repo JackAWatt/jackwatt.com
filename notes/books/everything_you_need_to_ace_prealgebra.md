@@ -14,7 +14,7 @@ Examples:
 
 # Chapter 2: Algebraic Properties
 
-The commutative property of addition and multiplcation: the order of opperands in an addition or multiplitation does not matter. A+B=B+A ; A*B=B*A
+The commutative property of addition and multiplcation: the order of opperands in an addition or multiplitation does not matter. A+B=B+A ; A\*B=B\*A
 
 
 
