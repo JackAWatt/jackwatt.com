@@ -2,6 +2,8 @@
 
 #### 2023/07/20
 
+* [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months - Code Basics](https://youtu.be/eaFaD_IBYW4)
+
 * [12 cheap purchases to boost your productivity - Ali Abdaal](https://youtu.be/Uri24Z3oc74)
 
 * [How I Remember Everything I Read - Ali Abdaal](https://youtu.be/AjoxkxM_I5g)
