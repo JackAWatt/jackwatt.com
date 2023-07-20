@@ -2,7 +2,11 @@
 
 #### 2023/07/19
 
-* [12 Productivity Myths Wasting Your Time - Aali Abdaal](https://youtu.be/qc4GU_wHdqw)
+* [How to Beat Procrastination - Ali Abdaal](https://www.youtube.com/watch?v=RP0oVOH4Zz4)
+
+* [5 Essential Tips for Long-Lasting Productivity - Ali Abdaal](https://www.youtube.com/watch?v=FbSNfj2S6Pw)
+
+* [12 Productivity Myths Wasting Your Time - Ali Abdaal](https://youtu.be/qc4GU_wHdqw)
 
 * [7 Daily Habits that Improved My Relationship - Ali Abdaal](https://youtu.be/Ny3u3Z85KdQ)
 
