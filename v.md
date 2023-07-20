@@ -2,6 +2,7 @@
 
 #### 2023/07/19
 
+* [Branchless Programming: Why "If" is Sloowww... and what we can do about it! - Creel](https://youtu.be/bVJ-mWWL7cE)
 
 * [How to Beat Procrastination - Ali Abdaal](https://www.youtube.com/watch?v=RP0oVOH4Zz4)
 
