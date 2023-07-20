@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/20
+
+* [Is the IBM Data Science Certificate Worth it? - Wale Gbads](https://youtu.be/FQEmF3RT-S4)
+
 #### 2023/07/19
 
 * [Branchless Programming: Why "If" is Sloowww... and what we can do about it! - Creel](https://youtu.be/bVJ-mWWL7cE)
