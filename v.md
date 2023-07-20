@@ -2,6 +2,8 @@
 
 #### 2023/07/20
 
+* [2. Variables in python - CodeBasics](https://www.youtube.com/watch?v=8tCe1P_cgoY)
+
 * [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months - Code Basics](https://youtu.be/eaFaD_IBYW4)
 
 * [12 cheap purchases to boost your productivity - Ali Abdaal](https://youtu.be/Uri24Z3oc74)
