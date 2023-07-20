@@ -2,6 +2,8 @@
 
 #### 2023/07/20
 
+* [How I Remember Everything I Read - Ali Abdaal](https://youtu.be/AjoxkxM_I5g)
+
 * [If I Was a Student Again, I'd Do This - Ali Abdaal](https://youtu.be/M_VLcEMPXzk)
 
 * [I started my data analyst career taking these beginner courses - Wale Gbads](https://youtu.be/SfE3aO3LWi0)
