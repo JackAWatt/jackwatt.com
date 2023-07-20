@@ -2,6 +2,8 @@
 
 #### 2023/07/20
 
+* [12 cheap purchases to boost your productivity - Ali Abdaal](https://youtu.be/Uri24Z3oc74)
+
 * [How I Remember Everything I Read - Ali Abdaal](https://youtu.be/AjoxkxM_I5g)
 
 * [If I Was a Student Again, I'd Do This - Ali Abdaal](https://youtu.be/M_VLcEMPXzk)
