@@ -2,6 +2,8 @@
 
 #### 2023/07/20
 
+* [I started my data analyst career taking these beginner courses - Wale Gbads](https://youtu.be/SfE3aO3LWi0)
+
 * [Is the IBM Data Science Certificate Worth it? - Wale Gbads](https://youtu.be/FQEmF3RT-S4)
 
 #### 2023/07/19
