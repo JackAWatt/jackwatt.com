@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [12 Productivity Myths Wasting Your Time - Aali Abdaal](https://youtu.be/qc4GU_wHdqw)
+
 * [7 Daily Habits that Improved My Relationship - Ali Abdaal](https://youtu.be/Ny3u3Z85KdQ)
 
 * [How I Failed in 2022 - Ali Abdaal](https://youtu.be/knPdMQ44jKc)
