@@ -2,6 +2,8 @@
 
 #### 2023/07/20
 
+* [If I Was a Student Again, I'd Do This - Ali Abdaal](https://youtu.be/M_VLcEMPXzk)
+
 * [I started my data analyst career taking these beginner courses - Wale Gbads](https://youtu.be/SfE3aO3LWi0)
 
 * [Is the IBM Data Science Certificate Worth it? - Wale Gbads](https://youtu.be/FQEmF3RT-S4)
