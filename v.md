@@ -2,6 +2,8 @@
 
 #### 2023/07/19
 
+* [This One-Page Productivity Hack Will Change Your Life -  ModernHealthMonk](https://youtu.be/MYk1hPdvgVU)
+
 * [How to Beat Procrastination - Ali Abdaal](https://www.youtube.com/watch?v=RP0oVOH4Zz4)
 
 * [5 Essential Tips for Long-Lasting Productivity - Ali Abdaal](https://www.youtube.com/watch?v=FbSNfj2S6Pw)
