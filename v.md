@@ -2,6 +2,8 @@
 
 #### 2023/07/21
 
+* [How I ranked 1st at Cambridge University - The Essay Memorisation Framework - Ali Abdaal](https://youtu.be/-46Vyiwat_Y)
+
 * [Data Science VS Software Engineering: how to learn the skills and land a job - Damsel in Data](https://youtu.be/LjTAf9f25HM)
 
 #### 2023/07/20
