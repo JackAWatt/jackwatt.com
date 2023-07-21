@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/21
+
+* [Data Science VS Software Engineering: how to learn the skills and land a job - Damsel in Data](https://youtu.be/LjTAf9f25HM)
+
 #### 2023/07/20
 
 * [2. Variables in python - CodeBasics](https://www.youtube.com/watch?v=8tCe1P_cgoY)
