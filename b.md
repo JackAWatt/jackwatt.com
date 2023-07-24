@@ -1,6 +1,6 @@
 #### 2023/07/24
 
-* Start - Gideon Falls, Vol. 1: The Black Barn
+* Read - Gideon Falls, Vol. 1: The Black Barn - [](https://www.goodreads.com/review/show/4709318930)
 
 #### 2023/07/18
 
