@@ -1,3 +1,7 @@
+#### 2023/07/24
+
+* Start - Gideon Falls, Vol. 1: The Black Barn
+
 #### 2023/07/18
 
 * DNF - The Math Book: Big Ideas Simply Explained - [review](https://www.goodreads.com/review/show/3984700813)
