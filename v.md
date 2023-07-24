@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/24
+
+* [If You Want to Learn Math - The Math Sorcerer](https://youtu.be/U68JQ0De5Dw)
+
 #### 2023/07/21
 
 * [An Economist’s Guide To Avoiding A Life of Misery - Erik Angner / Modern Wisdom 657 ](https://youtu.be/gUCFfbUnrKs)
