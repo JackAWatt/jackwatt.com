@@ -16,6 +16,21 @@
 
 * Start Harry Potter and the Methods of Rationality
 
+#### 2014
+
+* Learn Regular Expressions the Hard Way
+
+#### 2013
+
+* Learn Python the Hard Way
+
+* Learn Ruby the Hard Way
+  
+#### 2012
+
+* JavaScript: The Good Parts
+
+* The Selfish Gene
 
 #### Queue
 ###### Data Science
