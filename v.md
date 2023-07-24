@@ -2,6 +2,8 @@
 
 #### 2023/07/24
 
+* [Erik Hoel on Consciousness, Free Will, and the Limits of Science - EconTalk](https://youtu.be/C44RfPsDY-8)
+
 * [If You Want to Learn Math - The Math Sorcerer](https://youtu.be/U68JQ0De5Dw)
 
 #### 2023/07/21
