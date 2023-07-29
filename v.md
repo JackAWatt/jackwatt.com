@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/29
+
+* [Some Math Advice - The Math Sorcerer](https://youtu.be/i8UrAvdRm-A)
+
 #### 2023/07/24
 
 * [Erik Hoel on Consciousness, Free Will, and the Limits of Science - EconTalk](https://youtu.be/C44RfPsDY-8)
