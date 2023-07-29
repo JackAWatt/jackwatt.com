@@ -2,6 +2,8 @@
 
 #### 2023/07/29
 
+* [Advice for Learning Mathematics - The Math Sorcerer](https://youtu.be/Yqjfc_QQOZw)
+
 * [Some Math Advice - The Math Sorcerer](https://youtu.be/i8UrAvdRm-A)
 
 #### 2023/07/24
