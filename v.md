@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics / Lex Fridman Podcast](https://youtu.be/y3cw_9ELpQw)
+
 * [Math's Fundamental Flaw - veritasium](https://youtu.be/HeQX2HjkcNo)
 
 * [Why Oppenheimer Deserves His Own Movie - veritasium](https://youtu.be/Xzv84ZdtlE0)
