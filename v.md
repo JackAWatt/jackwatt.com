@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [He Lost His Math Motivation  - The Math Sorcerer](https://youtu.be/_4rzRagTaaQ)
+
 * [Learning Discrete Math - The Math Sorcerer](https://www.youtube.com/watch?v=LcY-da9D9qE)
 
 #### 2023/07/29
