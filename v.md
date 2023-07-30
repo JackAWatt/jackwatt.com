@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Why Oppenheimer Deserves His Own Movie - veritasium](https://youtu.be/Xzv84ZdtlE0)
+
 * [A very normal ball drop led me to infinity - Up and Atom](https://youtu.be/10rA45pb7dk)
 
 * [Reading Less Made Me Smarter - Data Nash](https://youtu.be/MamiFP5-JLk)
