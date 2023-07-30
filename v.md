@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Ranking all 22 engineering classes I took in college - Zach Star](https://youtu.be/IqMAPOs2tUM)
+
 * [What I've been reading / STEM book recommendations - Zach Star](https://www.youtube.com/watch?v=qHfrCaZscXI)
 
 * [Teaching myself an upper level pure math course (we almost died) - Zach Star](https://youtu.be/eGDtW3BZyyE)
