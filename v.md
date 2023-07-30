@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Teaching myself an upper level pure math course (we almost died) - Zach Star](https://youtu.be/eGDtW3BZyyE)
+
 * [The scariest thing you learn in Electrical Engineering / The Smith Chart - Zach Star](https://youtu.be/pXWbdxOAuDs)
 
 * [Mathematicians Use Numbers Differently From The Rest of Us - veritasium](https://youtu.be/tRaq4aYPzCc)
