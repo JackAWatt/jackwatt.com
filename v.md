@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Teaching myself abstract algebra - Zach Star](https://youtu.be/q_kap_FL9NM)
+
 * [Ranking all 22 engineering classes I took in college - Zach Star](https://youtu.be/IqMAPOs2tUM)
 
 * [What I've been reading / STEM book recommendations - Zach Star](https://www.youtube.com/watch?v=qHfrCaZscXI)
