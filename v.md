@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Mathematicians Use Numbers Differently From The Rest of Us - veritasium](https://youtu.be/tRaq4aYPzCc)
+
 * [Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics / Lex Fridman Podcast](https://youtu.be/y3cw_9ELpQw)
 
 * [Math's Fundamental Flaw - veritasium](https://youtu.be/HeQX2HjkcNo)
