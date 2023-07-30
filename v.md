@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/30
+
+* [Learning Discrete Math - The Math Sorcerer](https://www.youtube.com/watch?v=LcY-da9D9qE)
+
 #### 2023/07/29
 
 * [Advice for Learning Mathematics - The Math Sorcerer](https://youtu.be/Yqjfc_QQOZw)
