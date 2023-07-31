@@ -8,7 +8,7 @@
 
 #### 2023/07/30
 
-* [Jo Boaler: How to Learn Math / Lex Fridman Podcast](https://youtu.be/KZnGSVwIpeU)
+* [Jo Boaler: How to Learn Math / Lex Fridman Podcast](https://youtu.be/KZnGSVwIpeU) - DNF yet
 
 * [How to self study pure math - a step-by-step guide - Aleph 0](https://www.youtube.com/watch?v=byNaO_zn2fI)
 
