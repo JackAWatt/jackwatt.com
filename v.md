@@ -343,7 +343,7 @@
 
 * [Jacob Howland on the Hidden Human Costs of AI - EconTalk](https://www.youtube.com/watch?v=N9i93S37xyM)
 
-#### ????
+#### ???? - these are videos and podcasts from before I started this list. 
 
 * [Lydia Davis on Language and Literature / Conversations with Tyler](https://youtu.be/1cTvW8h8Tas)
 
