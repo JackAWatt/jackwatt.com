@@ -371,7 +371,7 @@
  
 * [EP33 Melanie Mitchell on the Elements of AI - Jim Rutt Show](https://www.jimruttshow.com/melanie-mitchell/)
 
-
+* [How to Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 #### Queue
 
 * [George Mack — Marketing, Mental Models, and Technology - Infinite Loops](https://www.youtube.com/watch?v=L22V0lrPgvY)
