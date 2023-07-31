@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/07/31
+
+* [How to Learn Anything Fast: Teach Your Brain to Focus - Elizabeth Filips](https://youtu.be/brInNApdbL4)
+
 #### 2023/07/30
 
 * [Jo Boaler: How to Learn Math / Lex Fridman Podcast](https://youtu.be/KZnGSVwIpeU)
