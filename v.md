@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [Jo Boaler: How to Learn Math / Lex Fridman Podcast](https://youtu.be/KZnGSVwIpeU)
+
 * [How to self study pure math - a step-by-step guide - Aleph 0](https://www.youtube.com/watch?v=byNaO_zn2fI)
 
 * [Teaching myself abstract algebra - Zach Star](https://youtu.be/q_kap_FL9NM)
