@@ -2,6 +2,8 @@
 
 #### 2023/07/31
 
+* [How My Life Changed Once I Started Reading (A Business/Youtube Story) - Zach Star](https://youtu.be/zIqcrGpqO2g)
+
 * [How to Learn Anything Fast: Teach Your Brain to Focus - Elizabeth Filips](https://youtu.be/brInNApdbL4)
 
 #### 2023/07/30
