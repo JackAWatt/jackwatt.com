@@ -2,6 +2,8 @@
 
 #### 2023/07/30
 
+* [How to self study pure math - a step-by-step guide - Aleph 0](https://www.youtube.com/watch?v=byNaO_zn2fI)
+
 * [Teaching myself abstract algebra - Zach Star](https://youtu.be/q_kap_FL9NM)
 
 * [Ranking all 22 engineering classes I took in college - Zach Star](https://youtu.be/IqMAPOs2tUM)
