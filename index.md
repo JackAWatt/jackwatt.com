@@ -11,6 +11,7 @@
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
+* [How to self study pure math - a step-by-step guide - Aleph 0](https://www.youtube.com/watch?v=byNaO_zn2fI)
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [Master Mathematics and Become a Wizard](https://youtu.be/H6XejQOsfBY) - This is similar to the start to finish video, but has different book options. 
