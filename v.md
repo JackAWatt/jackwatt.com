@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/01
+
+* [The Math Needed for Computer Science - Zach Star](https://youtu.be/eSFA1Fp8jcU)
+
 #### 2023/07/31
 
 * [How An Infinite Hotel Ran Out Of Room - Veritasium](https://youtu.be/OxGsU8oIWjY)
