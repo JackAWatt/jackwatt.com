@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/02
+
+* [The History of Mathematics and Its Applications - Zach Star](https://youtu.be/2No_CMrxBe8)
+
 #### 2023/08/01
 
 * [This Is the Calculus They Won't Teach You - A Well-Rested Dog](https://youtu.be/5M2RWtD4EzI)
