@@ -2,6 +2,10 @@
 
 #### 2023/08/01
 
+* [What happens at infinity? - The Cantor set](https://youtu.be/eSgogjYj_uw)
+
+* [The Real World Uses of Imaginary Numbers - Zach Star](https://youtu.be/_h49ilnTmW4)
+
 * [The Hard Truth About Reading Math Books - The Math Sorcerer](https://youtu.be/pLJSz1KgoOk)
 
 * [Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups](https://youtu.be/KufsL2VgELo)
