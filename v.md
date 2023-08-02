@@ -2,6 +2,8 @@
 
 #### 2023/08/01
 
+* [This Is the Calculus They Won't Teach You - A Well-Rested Dog](https://youtu.be/5M2RWtD4EzI)
+
 * [What happens at infinity? - The Cantor set](https://youtu.be/eSgogjYj_uw)
 
 * [The Real World Uses of Imaginary Numbers - Zach Star](https://youtu.be/_h49ilnTmW4)
