@@ -2,6 +2,8 @@
 
 #### 2023/08/01
 
+* [The High Schooler Who Solved a Prime Number Theorem](https://youtu.be/Kqi_6v2RGB0)
+
 * [Things get weird at infinity - Zach Star](https://youtu.be/6HybPBUNzz8)
 
 * [Gilbert Strang: Linear Algebra, Teaching, and MIT OpenCourseWare / Lex Fridman Podcast](https://youtu.be/lEZPfmGCEk0)
