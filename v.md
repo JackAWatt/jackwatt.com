@@ -2,6 +2,8 @@
 
 #### 2023/08/01
 
+* [Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups](https://youtu.be/KufsL2VgELo)
+
 * [The High Schooler Who Solved a Prime Number Theorem](https://youtu.be/Kqi_6v2RGB0)
 
 * [Things get weird at infinity - Zach Star](https://youtu.be/6HybPBUNzz8)
