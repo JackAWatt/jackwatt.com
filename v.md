@@ -2,6 +2,8 @@
 
 #### 2023/08/02
 
+* [Function vs Relation - ProfRobBob](https://youtu.be/oFwRPH0JrFY?list=PL4FB17E5C77DCCE69)
+
 * [How to Take All the Math Classes You Need Right From Your Computer - Zach Star](https://youtu.be/PNbwH63ezHw)
 
 * [The History of Mathematics and Its Applications - Zach Star](https://youtu.be/2No_CMrxBe8)
