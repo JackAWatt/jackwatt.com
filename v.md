@@ -396,6 +396,8 @@
 * [How to Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 #### Queue
 
+* [1 Billion is Tiny in an Alternate Universe: Introduction to p-adic Numbers - Eric Rowland](https://youtu.be/3gyHKCDq1YA)
+
 * [George Mack — Marketing, Mental Models, and Technology - Infinite Loops](https://www.youtube.com/watch?v=L22V0lrPgvY)
 
 * [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months](https://youtu.be/eaFaD_IBYW4)
