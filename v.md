@@ -2,7 +2,9 @@
 
 #### 2023/08/02
 
-* [Function vs Relation - ProfRobBob (1/162: PreCalculus)](https://youtu.be/oFwRPH0JrFY?list=PL4FB17E5C77DCCE69)
+* [Visually identifying key characteristics of graphs.](https://youtu.be/GALfCd-2XRQ?list=PL4FB17E5C77DCCE69) - (2/162: PreCalculus)
+
+* [Function vs Relation - ProfRobBob](https://youtu.be/oFwRPH0JrFY?list=PL4FB17E5C77DCCE69) - (1/162: PreCalculus)
 
 * [How to Take All the Math Classes You Need Right From Your Computer - Zach Star](https://youtu.be/PNbwH63ezHw)
 
