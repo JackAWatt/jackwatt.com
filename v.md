@@ -2,7 +2,9 @@
 
 #### 2023/08/02
 
-* [Visually identifying key characteristics of graphs.](https://youtu.be/GALfCd-2XRQ?list=PL4FB17E5C77DCCE69) - (2/162: PreCalculus)
+* [ Identifying Domain and Range from a Graph ](https://youtu.be/1UAKQ_2yfxI?list=PL4FB17E5C77DCCE69) - [3/162: PreCalculus]
+
+* [Visually identifying key characteristics of graphs](https://youtu.be/GALfCd-2XRQ?list=PL4FB17E5C77DCCE69) - (2/162: PreCalculus)
 
 * [Function vs Relation - ProfRobBob](https://youtu.be/oFwRPH0JrFY?list=PL4FB17E5C77DCCE69) - (1/162: PreCalculus)
 
