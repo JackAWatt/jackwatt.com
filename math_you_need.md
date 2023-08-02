@@ -7,3 +7,15 @@ Everything here is taken from [Zach Star](https://youtu.be/PNbwH63ezHw)'s [How t
 * [Pre-Calc/Algebra 2 Assignments (With Solutions)](http://tutorial.math.lamar.edu/Problems/Alg/Alg.aspx)
 * [Pre-Calc/Algebra 2 Assignments (Without Solutions)](http://tutorial.math.lamar.edu/ProblemsNS/Alg/Alg.aspx)
 * [Trigonometry Assignments](https://www.khanacademy.org/math/trigonometry)
+
+
+#### Single Variable Calculus/Calculus 1/Calculus AB (Pre-req: Pre-Calculus or Algebra 2):
+
+* [Lectures (Professor Leonard: First Choice)](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5&index=1)
+* [Lectures (MIT Opencourseware)](https://www.youtube.com/watch?v=jbIQW0gkgxo&index=1&list=PLE2215608E2574180)
+* [Assignments (With solutions)](http://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx)
+* [Assignments (Without solutions)](http://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx)
+* Textbook (First Choice): "Calculus" by Ron Larson
+    * This textbook can be used for Calc 1-3 and I have listed this one for all of those lectures below.
+* [Textbook (Second Choice: Listed on MIT Site)](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
+    * This textbook can be used for Calc 1-3 and I have listed this one for all of those lectures below.
