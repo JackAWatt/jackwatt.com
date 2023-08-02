@@ -300,7 +300,7 @@
 
 * [Destiny On Jordan Peterson, Modern Dating, And His Controversial Milo Debate - Dropping In Podcast](https://youtu.be/nVsiDaPMq_s)
 
-* [What is a number? / Arithmetic and Geometry Math Foundations 1 / N J Wildberger](https://youtu.be/91c5Ti6Ddio?list=PL5A714C94D40392AB)
+* [What is a number? / Arithmetic and Geometry  - N J Wildberger](https://youtu.be/91c5Ti6Ddio?list=PL5A714C94D40392AB) - Math Foundations (1/n)
 
 * [When You're Bad At Math - The Math Sorcerer](https://youtu.be/Q0rgVudZXlA)
 
