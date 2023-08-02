@@ -2,6 +2,8 @@
 
 #### 2023/08/02
 
+* [ Unlock Math's Secrets: Exclusive Bookshelf Tour](https://youtu.be/SkS6CycQeEY) - The Math Sorcerer
+
 * [Even Odd Polynomial Functions & Symmetry](https://youtu.be/K2HPNROK3VQ?list=PL4FB17E5C77DCCE69) - (4/162: PreCalculus)
 
 * [ Identifying Domain and Range from a Graph ](https://youtu.be/1UAKQ_2yfxI?list=PL4FB17E5C77DCCE69) - (3/162: PreCalculus)
