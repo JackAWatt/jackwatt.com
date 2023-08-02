@@ -284,13 +284,13 @@
 
 * [Harry Potter And The Cancellation Attempt - Megan Phelps-Roper / Modern Wisdom 647](https://youtu.be/_zh2PJotUIc)
 
-* [The Language of Mathematics (4): The Real Number Set - Part 2 - Chycho](https://youtu.be/iu3gumEh49c?list=PLFA0678B6777BA250)
+* [The Real Number Set - Part 2 - Chycho](https://youtu.be/iu3gumEh49c?list=PLFA0678B6777BA250) - The Language of Mathematics (4/189)
 
-* [The Language of Mathematics (3): The Real Number Set - Part 1 - Chycho](https://youtu.be/SHY0SWmLsLo?list=PLFA0678B6777BA250)
+* [The Real Number Set - Part 1 - Chycho](https://youtu.be/SHY0SWmLsLo?list=PLFA0678B6777BA250) - The Language of Mathematics (4/189)
 
-* [The Language of Mathematics (2): Instructions - Chycho](https://youtu.be/yzZlcS64cXs?list=PLFA0678B6777BA250)
+* [Instructions - Chycho](https://youtu.be/yzZlcS64cXs?list=PLFA0678B6777BA250) - The Language of Mathematics (2/189):
 
-* [The Language of Mathematics (1): Introduction - Chycho](https://youtu.be/5CqzHIeB9D8?list=PLFA0678B6777BA250)
+* [Introduction - Chycho](https://youtu.be/5CqzHIeB9D8?list=PLFA0678B6777BA250) - The Language of Mathematics (1/189)
 
 * [Best Math Disagreement Ever](https://youtu.be/eP_YuJA_QI4?list=PLO1y6V1SXjjOUtb0G5IMF_yPVXn9WLOU4)
 
