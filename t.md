@@ -1,7 +1,7 @@
-| Monday  	| Tuesday  	| Wednesday  	| Thursday  	| Friday  	| Saturday  	| Sunday  	|
-|---	|---	|---	|---	|---	|---	|---	|
-08:30-09:20| Block 1  	| Block 1  	|   	|   	|   	|   	|   	|
-09:30-10:20| Block 1  	| Block 1  	|   	|   	|   	|   	|   	|
+           | Monday  	| Tuesday  	| Wednesday  	| Thursday  	| Friday  	| Saturday  	| Sunday  	|
+           |---	|---	|---	|---	|---	|---	|---	|
+08:30-09:20| Subject 1  	| Subject 1  	|   	|   	|   	|   	|   	|
+09:30-10:20| Subject 1  	| Subject 1  	|   	|   	|   	|   	|   	|
 10:30-11:20|   	|   	|   	|   	|   	|   	|   	|
 11:30-12:20|   	|   	|   	|   	|   	|   	|   	|
 12:30-01:20|   	|   	|   	|   	|   	|   	|   	|
