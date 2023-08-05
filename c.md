@@ -1,3 +1,9 @@
+#### 2023/08/05
+
+* Abandon [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+
+* Abandon [How to Code: Simple Data](https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017/home)
+
 #### 2023/07/18
 
 * Start [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
