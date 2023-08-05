@@ -16,8 +16,8 @@
 | 21:30  	|   	|   	|   	|   	|   	|   	|   	|
 
 ###### Legend
-* 1: [Precalculus/Algebra 2 & Trigonometry](http://jackwatt.com/math_you_need#1---precalculusalgebra-2--trigonometry)
-* 2: [The Foundations of Mathematics](https://www.goodreads.com/book/show/23336534-the-foundations-of-mathematics)
-* 3: [Innovation Through Design: Think, Make, Break, Repeat](https://www.coursera.org/learn/innovation-through-design)
-* 4: [Python: Exercism](https://exercism.org/tracks/python)
-* 5: [R: Exercism](https://exercism.org/tracks/r)
+* 1: [Precalculus/Algebra 2 & Trigonometry](http://jackwatt.com/math_you_need#1---precalculusalgebra-2--trigonometry) -- lectures + practice problems
+* 2: [The Foundations of Mathematics](https://www.goodreads.com/book/show/23336534-the-foundations-of-mathematics) - book
+* 3: [Innovation Through Design: Think, Make, Break, Repeat](https://www.coursera.org/learn/innovation-through-design) - course
+* 4: [Python: Exercism](https://exercism.org/tracks/python) - programming platform
+* 5: [R: Exercism](https://exercism.org/tracks/r) - programming platform
