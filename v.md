@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/05
+
+* [A Guide To The Fundamental Mystery Of The Mind - Erik Hoel / Modern Wisdom 663](https://youtu.be/6QxzCa_d_og)
+
 #### 2023/08/02
 
 * [ Unlock Math's Secrets: Exclusive Bookshelf Tour](https://youtu.be/SkS6CycQeEY) - The Math Sorcerer
