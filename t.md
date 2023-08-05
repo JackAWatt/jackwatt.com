@@ -1,4 +1,4 @@
-| Day    | Monday  	| Tuesday  	| Wednesday  	| Thursday  	| Friday  	| Saturday  	| Sunday  	|
+| Day  	| Monday  	| Tuesday  	| Wednesday  	| Thursday  	| Friday  	| Saturday  	| Sunday  	|
 |---	|---	|---	|---	|---	|---	|---	|
 08:30-09:20| Subject 1  	| Subject 1  	|   	|   	|   	|   	|   	|
 09:30-10:20| Subject 1  	| Subject 1  	|   	|   	|   	|   	|   	|
