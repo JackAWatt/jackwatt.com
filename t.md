@@ -1,4 +1,4 @@
-|   	| Mon  	| Tue  	| Wed  	| Thu  	| Fri  	| Sat  	| Sun  	|
+|   	| Monday  	| Tuesday  	| Wednesday  	| Thursday  	| Friday  	| Saturday  	| Sunday  	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
 | 08:30  	| 1  	| 1  	| 2  	| 2  	| 3  	| 3  	| 1  	|
 | 09:30  	| 1  	| 1  	| 2  	| 2  	| 3  	| 3  	| 1  	|
