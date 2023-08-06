@@ -2,6 +2,8 @@
 
 #### 2023/08/06
 
+* [Will I Ever Write More Wheel of Time/How Was I Selected to Finish the WoT?](https://youtu.be/MITTIur3Ytk)
+
 * [The Poetry of Reality / Peter Boghossian & Richard Dawkins](https://youtu.be/3MfBLPuwwdo)
 
 * [Munk Debate - Mainstream Media ft. Douglas Murray, Matt Taibbi, Malcolm Gladwell, Michelle Goldberg](https://youtu.be/nvaf7XOOFHc)
