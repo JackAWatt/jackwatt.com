@@ -2,6 +2,8 @@
 
 #### 2023/08/06
 
+* [Even and Odd Functions Many Examples](https://youtu.be/WJvwUaRQdiY?list=PL4FB17E5C77DCCE69) - (5/162: PreCalculus)
+
 * [Campfire Chronicles — Ep. 109 of Intentionally Blank](https://youtu.be/WyXZXCaRFZU)
 
 #### 2023/08/05
