@@ -1,10 +1,14 @@
 ###### Videos and Podcasts
 
+#### 2023/08/06
+
+* [Campfire Chronicles — Ep. 109 of Intentionally Blank](https://youtu.be/WyXZXCaRFZU)
+
 #### 2023/08/05
 
-* [ Jordan Peterson - The Keys to Growth, Emotional Resilience & Finding Purpose / Modern Wisdom 436 ](https://youtu.be/laSK7Pxh0_8)
+* [Jordan Peterson - The Keys to Growth, Emotional Resilience & Finding Purpose / Modern Wisdom 436](https://youtu.be/laSK7Pxh0_8)
 
-* [ Why Einstein is a “peerless genius” and Hawking is an “ordinary genius” / Albert-László Barabási ](https://youtu.be/XsBcdfKfy9o)
+* [Why Einstein is a “peerless genius” and Hawking is an “ordinary genius” / Albert-László Barabási](https://youtu.be/XsBcdfKfy9o)
 
 * [A Guide To The Fundamental Mystery Of The Mind - Erik Hoel / Modern Wisdom 663](https://youtu.be/6QxzCa_d_og)
 
