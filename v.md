@@ -2,8 +2,6 @@
 
 #### 2023/08/06
 
-* [Difference Quotient](https://youtu.be/1mlkc3Pfxu4?list=PL4FB17E5C77DCCE69) - (7/162: PreCalculus)
-
 * [Piecewise Functions](https://youtu.be/Vo9Y2X2wGbo?list=PL4FB17E5C77DCCE69) - (6/162: PreCalculus)
 
 * [Even and Odd Functions Many Examples](https://youtu.be/WJvwUaRQdiY?list=PL4FB17E5C77DCCE69) - (5/162: PreCalculus)
