@@ -2,7 +2,7 @@
 
 #### 2023/08/06
 
-* [Will I Ever Write More Wheel of Time/How Was I Selected to Finish the WoT?](https://youtu.be/MITTIur3Ytk)
+* [Will I Ever Write More Wheel of Time/How Was I Selected to Finish the WoT? - Brandon Sanderson](https://youtu.be/MITTIur3Ytk)
 
 * [The Poetry of Reality / Peter Boghossian & Richard Dawkins](https://youtu.be/3MfBLPuwwdo)
 
