@@ -2,6 +2,8 @@
 
 #### 2023/08/06
 
+* [The Poetry of Reality / Peter Boghossian & Richard Dawkins](https://youtu.be/3MfBLPuwwdo)
+
 * [Munk Debate - Mainstream Media ft. Douglas Murray, Matt Taibbi, Malcolm Gladwell, Michelle Goldberg](https://youtu.be/nvaf7XOOFHc)
 
 * [Piecewise Functions](https://youtu.be/Vo9Y2X2wGbo?list=PL4FB17E5C77DCCE69) - (6/162: PreCalculus)
