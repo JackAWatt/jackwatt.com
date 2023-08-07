@@ -2,6 +2,8 @@
 
 #### 2023/08/07
 
+* [religion is ridiculous Sam Harris](https://youtu.be/t4-Sc3kLflk)
+
 * [Charisma Expert Breaks Down the 5 Personality Patterns - Dropping In Podcast](https://youtu.be/dB3zhUvhaNw)
 
 * [Stanford's FREE data science book and course are the best yet - Python Programmer](https://youtu.be/yNYflGw6kJI)
