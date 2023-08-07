@@ -2,6 +2,8 @@
 
 #### 2023/08/07
 
+* [Peter Boghossian & Kathleen Stock: Lesbians Don’t Have Penises](https://youtu.be/BhWyo9iYQNE)
+
 * [religion is ridiculous Sam Harris](https://youtu.be/t4-Sc3kLflk)
 
 * [Charisma Expert Breaks Down the 5 Personality Patterns - Dropping In Podcast](https://youtu.be/dB3zhUvhaNw)
