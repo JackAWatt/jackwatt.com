@@ -1,5 +1,9 @@
 #### 2023/08/06
 
+* Read - Gideon Falls, Vol. 4: The Pentoculus
+
+* Read - Gideon Falls, Vol. 3: Stations at the Cross
+
 * Read - Gideon Falls, Vol. 2: Original Sins
 
 #### 2023/07/24
