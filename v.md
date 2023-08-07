@@ -2,6 +2,8 @@
 
 #### 2023/08/07
 
+* [What Is the Cosmere and Where Did It Come From? - Brandon Sanderson](https://youtu.be/o3V0Zok_kT0?list=PLSH_xM-KC3ZuteHw3G1ZrCDWQrAVgO0ER)
+
 * [Peter Boghossian & Kathleen Stock: Lesbians Don’t Have Penises](https://youtu.be/BhWyo9iYQNE)
 
 * [religion is ridiculous Sam Harris](https://youtu.be/t4-Sc3kLflk)
