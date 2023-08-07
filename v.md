@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/07
+
+* [Stanford's FREE data science book and course are the best yet - Python Programmer](https://youtu.be/yNYflGw6kJI)
+
 #### 2023/08/06
 
 * [Will I Ever Write More Wheel of Time/How Was I Selected to Finish the WoT? - Brandon Sanderson](https://youtu.be/MITTIur3Ytk)
