@@ -1,3 +1,7 @@
+#### 2023/08/06
+
+* Read - Gideon Falls, Vol. 2: Original Sins
+
 #### 2023/07/24
 
 * Read - Gideon Falls, Vol. 1: The Black Barn - [](https://www.goodreads.com/review/show/4709318930)
