@@ -2,6 +2,8 @@
 
 #### 2023/08/08
 
+* [Michael Munger on Obedience to the Unenforceable - EconTalk](https://www.youtube.com/watch?v=kH_PBO0W8Oc)
+
 * [Aliens vs Authors — Ep. 106 of Intentionally Blank](https://youtu.be/q4MwVyff9Ag)
 
 #### 2023/08/07
