@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/08
+
+* [Aliens vs Authors — Ep. 106 of Intentionally Blank](https://youtu.be/q4MwVyff9Ag)
+
 #### 2023/08/07
 
 * [What Is the Cosmere and Where Did It Come From? - Brandon Sanderson](https://youtu.be/o3V0Zok_kT0?list=PLSH_xM-KC3ZuteHw3G1ZrCDWQrAVgO0ER)
