@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/09
+
+* [OPPENHEIMER Explained: The Biggest Questions Answered](https://youtu.be/9CxbyGwt6uw)
+
 #### 2023/08/08
 
 * [Michael Munger on Obedience to the Unenforceable - EconTalk](https://www.youtube.com/watch?v=kH_PBO0W8Oc)
