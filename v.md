@@ -2,6 +2,8 @@
 
 #### 2023/08/09
 
+* [Experience Reading In A New Language! Daniel Greene](https://youtu.be/pL4IQN6Tl0I)
+
 * [Joy Behar hosts Christopher Hitchens and pastor douglas wilson to discuss "if god exists".](https://youtu.be/jy1iydM_f8g)
 
 * [OPPENHEIMER Explained: The Biggest Questions Answered](https://youtu.be/9CxbyGwt6uw)
