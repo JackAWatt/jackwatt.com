@@ -2,6 +2,8 @@
 
 #### 2023/08/09
 
+* [Does Piers Morgan have the RIGHT definition of a woman?](https://youtu.be/T4F6GVLBVcQ) - Rationality Rules
+
 * [Sam Harris’s Best Argument of all time, Part One](https://youtu.be/UO700RmpzCI)
 
 * [Experience Reading In A New Language! Daniel Greene](https://youtu.be/pL4IQN6Tl0I)
