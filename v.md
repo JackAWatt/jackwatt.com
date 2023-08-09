@@ -6,7 +6,7 @@
 
 * [Sam Harris’s Best Argument of all time, Part One](https://youtu.be/UO700RmpzCI)
 
-* [Experience Reading In A New Language! Daniel Greene](https://youtu.be/pL4IQN6Tl0I)
+* [Experience Reading In A New Language!](https://youtu.be/pL4IQN6Tl0I) -  Daniel Greene
 
 * [Joy Behar hosts Christopher Hitchens and pastor douglas wilson to discuss "if god exists".](https://youtu.be/jy1iydM_f8g)
 
