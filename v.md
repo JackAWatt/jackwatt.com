@@ -8,6 +8,8 @@
 
 * [Why Oppenheimer is a MASTERPIECE / Video Essay](https://youtu.be/KuRu8T41u9M)
 
+* [Oppenheimer](https://www.imdb.com/title/tt15398776/)
+
 * [Michael Munger on Obedience to the Unenforceable - EconTalk](https://www.youtube.com/watch?v=kH_PBO0W8Oc)
 
 * [Aliens vs Authors — Ep. 106 of Intentionally Blank](https://youtu.be/q4MwVyff9Ag)
