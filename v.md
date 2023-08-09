@@ -2,6 +2,8 @@
 
 #### 2023/08/09
 
+* [Joy Behar hosts Christopher Hitchens and pastor douglas wilson to discuss "if god exists.](https://youtu.be/jy1iydM_f8g)
+
 * [OPPENHEIMER Explained: The Biggest Questions Answered](https://youtu.be/9CxbyGwt6uw)
 
 * [OPPENHEIMER Explained: What Happened to Lewis Strauss & Heisenberg?](https://youtu.be/5u94x1F_anQ)
