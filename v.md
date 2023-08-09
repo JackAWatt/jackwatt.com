@@ -6,6 +6,8 @@
 
 #### 2023/08/08
 
+* [Why Oppenheimer is a MASTERPIECE / Video Essay](https://youtu.be/KuRu8T41u9M)
+
 * [Michael Munger on Obedience to the Unenforceable - EconTalk](https://www.youtube.com/watch?v=kH_PBO0W8Oc)
 
 * [Aliens vs Authors — Ep. 106 of Intentionally Blank](https://youtu.be/q4MwVyff9Ag)
