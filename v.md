@@ -4,6 +4,8 @@
 
 * [OPPENHEIMER Explained: The Biggest Questions Answered](https://youtu.be/9CxbyGwt6uw)
 
+* [OPPENHEIMER Explained: What Happened to Lewis Strauss & Heisenberg?](https://youtu.be/5u94x1F_anQ)
+
 #### 2023/08/08
 
 * [Why Oppenheimer is a MASTERPIECE / Video Essay](https://youtu.be/KuRu8T41u9M)
