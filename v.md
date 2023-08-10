@@ -2,6 +2,8 @@
 
 #### 2023/08/10
 
+* [All About Cyberpunk — Ep. 102 of Intentionally Blank](https://youtu.be/1JpxAdOBfnw)
+
 * [Michael Knowles DEBUNKS Christopher Hitchens?! / Casually Debunked](https://youtu.be/__yklQvujFQ) - Rationality Rules
 
 * [Was the Enlightenment a Christian Movement? / The Rational Roundtable / Justin Brierley](https://youtu.be/jxcfMpM4YYE)
