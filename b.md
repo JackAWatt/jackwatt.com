@@ -1,5 +1,11 @@
 #### 2023/08/07
 
+* Read - Gideon Falls, Vol. 6: The End
+
+* Read - Gideon Falls, Vol. 5: Wicked Worlds
+
+#### 2023/08/07
+
 * Read - Gideon Falls, Vol. 4: The Pentoculus
 
 * Read - Gideon Falls, Vol. 3: Stations at the Cross
