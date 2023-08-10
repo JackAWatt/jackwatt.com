@@ -1,4 +1,4 @@
-#### 2023/08/07
+#### 2023/08/09
 
 * Read - Gideon Falls, Vol. 6: The End
 
