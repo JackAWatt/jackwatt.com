@@ -2,6 +2,8 @@
 
 #### 2023/08/09
 
+* [Best Living Fantasy Authors — Ep. 114 of Intentionally Blank](https://youtu.be/MsO7SdRGbek)
+
 * [ Addressing Richard Dawkins' comments on "trans ideology" @RenegadeScienceTeacher](https://youtu.be/x_MpSyH5uEA) - Rationality Rules
 
 * [Does Piers Morgan have the RIGHT definition of a woman?](https://youtu.be/T4F6GVLBVcQ) - Rationality Rules
