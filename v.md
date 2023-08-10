@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/10
+
+* [Was the Enlightenment a Christian Movement? / The Rational Roundtable / Justin Brierley](https://youtu.be/jxcfMpM4YYE)
+
 #### 2023/08/09
 
 * [Best Living Fantasy Authors — Ep. 114 of Intentionally Blank](https://youtu.be/MsO7SdRGbek)
