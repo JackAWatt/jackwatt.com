@@ -2,6 +2,8 @@
 
 #### 2023/08/10
 
+* [A Philosophy of Blank — Ep. 88 of Intentionally Blank](https://youtu.be/dWhnv2Xwqys)
+
 * [All About Cyberpunk — Ep. 102 of Intentionally Blank](https://youtu.be/1JpxAdOBfnw)
 
 * [Michael Knowles DEBUNKS Christopher Hitchens?! / Casually Debunked](https://youtu.be/__yklQvujFQ) - Rationality Rules
