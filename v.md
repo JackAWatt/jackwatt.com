@@ -2,6 +2,8 @@
 
 #### 2023/08/11
 
+* [The Secret Weapon of Elite Mathematicians](https://youtu.be/sZ6BNvIvFSI) - The Math Sorcerer
+
 * [Oops! All tangents — Ep. 100 of Intentionally Blank](https://youtu.be/kA4ZMoy1dxE)
 
 #### 2023/08/10
