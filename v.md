@@ -2,6 +2,8 @@
 
 #### 2023/08/11
 
+* [Baldur's Gate 3 Boss Responds To Western Devs Attacking Game! (Blizzard, Obsidian, Insomniac, Etc.)](https://youtu.be/O87Pc3_nWKU)
+
 * [The Secret Weapon of Elite Mathematicians](https://youtu.be/sZ6BNvIvFSI) - The Math Sorcerer
 
 * [Oops! All tangents — Ep. 100 of Intentionally Blank](https://youtu.be/kA4ZMoy1dxE)
