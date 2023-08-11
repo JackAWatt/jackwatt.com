@@ -1,3 +1,7 @@
+#### 2023/08/11
+
+* DNF - [Review](https://www.goodreads.com/review/show/2405556808)
+
 #### 2023/08/09
 
 * Read - Gideon Falls, Vol. 6: The End
