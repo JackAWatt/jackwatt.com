@@ -1,6 +1,8 @@
 #### 2023/08/11
 
-* DNF - Preacher, Volume 1: Gone to Texas -[Review](https://www.goodreads.com/review/show/2405556808)
+* DNF - Preacher, Volume 1: Gone to Texas - [Review](https://www.goodreads.com/review/show/2405556808)
+
+* Finish - Everything You Need to Ace Pre-Algebra and Algebra I - [Review](https://www.goodreads.com/review/show/5729021412)
 
 #### 2023/08/09
 
