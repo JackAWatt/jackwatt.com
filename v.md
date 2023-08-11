@@ -1,5 +1,7 @@
 ###### Videos and Podcasts
 
+#### 2023/08/11
+
 * [Oops! All tangents — Ep. 100 of Intentionally Blank](https://youtu.be/kA4ZMoy1dxE)
 
 #### 2023/08/10
