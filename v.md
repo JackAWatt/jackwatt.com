@@ -2,6 +2,12 @@
 
 #### 2023/08/11
 
+* [ The 10 Coolest Magic Items in Dungeons and Dragons ](https://youtu.be/i7dOD4mRNxw) - MrRhexx
+
+* [ Why do Gods Fear Space in Dungeons and Dragons ](https://youtu.be/-iZHTXOPbJw) - MrRhexx
+
+* [What They Don't Tell You About The Forgotten Realms - D&D Timeline](https://youtu.be/KmRrQRhfVfw) - MrRhexx
+
 * [Five Favorites: Literary Classics w/ Gama Ray Martinez and Brandon Sanderson](https://youtu.be/lVCOyxplamU)
 
 * [The Common Lie Writers Tell You — YallStayHome 2020 Afternoon Keynote](https://youtu.be/oH9sJrAVeC0)
