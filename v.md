@@ -2,6 +2,8 @@
 
 #### 2023/08/12
 
+* [Raulothim - The Strongest Gem Dragon in D&D](https://youtu.be/ebDGS9ta99I) - MrRhexx
+
 * [ What They Don't Tell You About Dragonborns - D&D](https://youtu.be/SgS5_TAdbPc) - MrRhexx
 
 * [Joe Rogan Exposes Dangers of CBDCs](https://youtu.be/xXDeemXRaLQ) - Anthony Pompliano
