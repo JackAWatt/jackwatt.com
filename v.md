@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/12
+
+* [The 5 Strongest Magical Items in Dungeons and Dragons](https://youtu.be/TmsRpUTMTfE) - MrRhexx
+
 #### 2023/08/11
 
 * [ The 10 Coolest Magic Items in Dungeons and Dragons ](https://youtu.be/i7dOD4mRNxw) - MrRhexx
