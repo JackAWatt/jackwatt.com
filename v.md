@@ -2,6 +2,8 @@
 
 #### 2023/08/12
 
+* [authors in reviewer spaces. let's discuss.](https://youtu.be/FI8siCke0so) - Reads with Rachel
+
 * [Why Wired Attacked Brandon Sanderson: A Closer Look](https://youtu.be/VxqCbeXfJc4) - Steininger_Art
 
 * [Brandon Sanderson / Authors Behaving Badly](https://youtu.be/96tsB9Wu3rQ) - Reads with Rachel
