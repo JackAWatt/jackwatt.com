@@ -2,6 +2,8 @@
 
 #### 2023/08/12
 
+* [Joe Rogan Exposes Dangers of CBDCs](https://youtu.be/xXDeemXRaLQ) - Anthony Pompliano
+
 * [The 5 Strongest Magical Items in Dungeons and Dragons](https://youtu.be/TmsRpUTMTfE) - MrRhexx
 
 #### 2023/08/11
