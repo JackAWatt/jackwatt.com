@@ -2,6 +2,8 @@
 
 #### 2023/08/12
 
+* [Why Wired Attacked Brandon Sanderson: A Closer Look](https://youtu.be/VxqCbeXfJc4) - Steininger_Art
+
 * [Brandon Sanderson / Authors Behaving Badly](https://youtu.be/96tsB9Wu3rQ) - Reads with Rachel
 
 * [Raulothim - The Strongest Gem Dragon in D&D](https://youtu.be/ebDGS9ta99I) - MrRhexx
