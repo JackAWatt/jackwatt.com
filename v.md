@@ -2,6 +2,8 @@
 
 #### 2023/08/12
 
+* [ What They Don't Tell You About Dragonborns - D&D](https://youtu.be/SgS5_TAdbPc) - MrRhexx
+
 * [Joe Rogan Exposes Dangers of CBDCs](https://youtu.be/xXDeemXRaLQ) - Anthony Pompliano
 
 * [The 5 Strongest Magical Items in Dungeons and Dragons](https://youtu.be/TmsRpUTMTfE) - MrRhexx
