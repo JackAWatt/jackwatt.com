@@ -2,6 +2,8 @@
 
 #### 2023/08/12
 
+* [Brandon Sanderson / Authors Behaving Badly](https://youtu.be/96tsB9Wu3rQ) - Reads with Rachel
+
 * [Raulothim - The Strongest Gem Dragon in D&D](https://youtu.be/ebDGS9ta99I) - MrRhexx
 
 * [ What They Don't Tell You About Dragonborns - D&D](https://youtu.be/SgS5_TAdbPc) - MrRhexx
