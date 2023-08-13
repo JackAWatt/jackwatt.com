@@ -2,7 +2,7 @@
 
 #### 2023/08/13
 
-* [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism - SAVY WRITES BOOKS](https://youtu.be/c8EkqgJ7WE4)
+* [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism](https://youtu.be/c8EkqgJ7WE4) - SAVY WRITES BOOKS
 
 * [Palarandusk - The Oldest Dragon in D&D](https://youtu.be/ZlSNtDGvCf8) - MrRhexx
 
