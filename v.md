@@ -2,6 +2,8 @@
 
 #### 2023/08/13
 
+* [What They Don't Tell You About 11th Level Spells - D&D](https://youtu.be/rEI0Qt3UO0Y) - MrRhexx
+
 * [Dungeons and Dragons Lore: 10th level spells Revealed](https://youtu.be/kiGBXhpQAUg) - MrRhexx
 
 * [The Cassandra Clare Plagiarism Sh*tshow](https://youtu.be/D6ecHaClbFA) - David M
