@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/13
+
+* [The Cassandra Clare Plagiarism Sh*tshow](https://youtu.be/D6ecHaClbFA) - David M
+
 #### 2023/08/12
 
 * [authors in reviewer spaces. let's discuss.](https://youtu.be/FI8siCke0so) - Reads with Rachel
