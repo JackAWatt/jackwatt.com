@@ -1,5 +1,7 @@
 #### 2023/08/13
 
+* Start - Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
+
 * Read - The Wicked + The Divine, Vol. 1: The Faust Act - [Review](https://www.goodreads.com/review/show/2632079982)
 
 #### 2023/08/11
@@ -34,13 +36,13 @@
 
 #### 2023/07/10
 
-* Start The Math Book: Big Ideas Simply Explained
+* Start - The Math Book: Big Ideas Simply Explained
 
 #### 2023/07/06
 
-* Start Quantum Computing Since Democritus
+* Start - Quantum Computing Since Democritus
 
-* Start Harry Potter and the Methods of Rationality
+* Start - Harry Potter and the Methods of Rationality
 
 #### 2014
 
