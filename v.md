@@ -2,6 +2,8 @@
 
 #### 2023/08/13
 
+* [Theism is IRRATIONAL... here's why @theaylesburyvaleacademy](https://youtu.be/-qeoxFdpoLg) - Rationality Rules
+
 * [Themberchaud - The Fattest Dragon in D&D](https://youtu.be/94lwcdHMJYI) - MrRhexx
 
 * [What They Don't Tell You About 11th Level Spells - D&D](https://youtu.be/rEI0Qt3UO0Y) - MrRhexx
