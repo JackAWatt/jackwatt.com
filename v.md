@@ -2,6 +2,8 @@
 
 #### 2023/08/13
 
+* [Palarandusk - The Oldest Dragon in D&D](https://youtu.be/ZlSNtDGvCf8) - MrRhexx
+
 * [Theism is IRRATIONAL... here's why @theaylesburyvaleacademy](https://youtu.be/-qeoxFdpoLg) - Rationality Rules
 
 * [Themberchaud - The Fattest Dragon in D&D](https://youtu.be/94lwcdHMJYI) - MrRhexx
