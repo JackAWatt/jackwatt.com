@@ -1,3 +1,7 @@
+#### 2023/08/13
+
+* Read - The Wicked + The Divine, Vol. 1: The Faust Act - [Review](https://www.goodreads.com/review/show/2632079982)
+
 #### 2023/08/11
 
 * DNF - Preacher, Volume 1: Gone to Texas - [Review](https://www.goodreads.com/review/show/2405556808)
