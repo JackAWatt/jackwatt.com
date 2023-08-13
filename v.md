@@ -2,6 +2,8 @@
 
 #### 2023/08/13
 
+* [Dungeons and Dragons Lore: 10th level spells Revealed](https://youtu.be/kiGBXhpQAUg) - MrRhexx
+
 * [The Cassandra Clare Plagiarism Sh*tshow](https://youtu.be/D6ecHaClbFA) - David M
 
 #### 2023/08/12
