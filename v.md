@@ -2,6 +2,8 @@
 
 #### 2023/08/13
 
+* [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism - SAVY WRITES BOOKS](https://youtu.be/c8EkqgJ7WE4)
+
 * [Palarandusk - The Oldest Dragon in D&D](https://youtu.be/ZlSNtDGvCf8) - MrRhexx
 
 * [Theism is IRRATIONAL... here's why @theaylesburyvaleacademy](https://youtu.be/-qeoxFdpoLg) - Rationality Rules
@@ -253,8 +255,6 @@
 * [15 Incredible Books to Read in 2023 - Ali Abdaal](https://www.youtube.com/watch?v=N24X8kK7H4Q)
 
 * [Strange Pathological Mathematics - The Math Sorcerer](https://youtu.be/NGt6-6mVflM)
-
-* [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism - SAVY WRITES BOOKS](https://youtu.be/c8EkqgJ7WE4) - DNF yet
 
 * [Polina Pompliano - Profiles Of The World's Greatest Performers - Ryan Holiday](https://youtu.be/RUy9TBl5WXQ) - DNF yet
 
