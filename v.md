@@ -2,7 +2,7 @@
 
 #### 2023/08/13
 
-* [Themberchaud - The Fattest Dragon in D&D](https://youtu.be/94lwcdHMJYI)
+* [Themberchaud - The Fattest Dragon in D&D](https://youtu.be/94lwcdHMJYI) - MrRhexx
 
 * [What They Don't Tell You About 11th Level Spells - D&D](https://youtu.be/rEI0Qt3UO0Y) - MrRhexx
 
