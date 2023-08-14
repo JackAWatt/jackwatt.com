@@ -2,7 +2,11 @@
 
 #### 2023/08/14
 
-* [What D&D Books Should You BUY? (2023)](https://youtu.be/dgaWCmtAtkw)
+* [The Ultimate D&D SESSION 0 Checklist!](https://youtu.be/KYzFaYjglWQ) - Bob World Builder
+
+* [What your DM wants YOU to do!](https://www.youtube.com/watch?v=e2-68ZHnz2Y) - Bob World Builder
+
+* [What D&D Books Should You BUY? (2023)](https://youtu.be/dgaWCmtAtkw) - Bob World Builder
 
 #### 2023/08/13
 
