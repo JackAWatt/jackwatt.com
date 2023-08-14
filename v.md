@@ -2,6 +2,8 @@
 
 #### 2023/08/14
 
+* [ What They Don't Tell You About Baldur's Gate - D&D ](https://youtu.be/JX-DVKmd1xg) - MrRhexx
+
 * [The Ultimate D&D SESSION 0 Checklist!](https://youtu.be/KYzFaYjglWQ) - Bob World Builder
 
 * [What your DM wants YOU to do!](https://www.youtube.com/watch?v=e2-68ZHnz2Y) - Bob World Builder
