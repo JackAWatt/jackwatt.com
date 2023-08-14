@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/14
+
+* [What D&D Books Should You BUY? (2023)](https://youtu.be/dgaWCmtAtkw)
+
 #### 2023/08/13
 
 * [I Interviewed Brandon Sanderson on the Future of Book Publishing Under Capitalism](https://youtu.be/c8EkqgJ7WE4) - SAVY WRITES BOOKS
