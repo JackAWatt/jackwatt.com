@@ -1,6 +1,8 @@
 #### 2023/08/15
 
-* Read - Delphine - Richard Sala [Review](https://www.goodreads.com/review/show/5769996311)
+* Read - Ms. Marvel, Vol. 1 - G Willow Wilson - [Review](https://www.goodreads.com/review/show/5770285186)
+
+* Read - Delphine - Richard Sala - [Review](https://www.goodreads.com/review/show/5769996311)
 
 #### 2023/08/13
 
