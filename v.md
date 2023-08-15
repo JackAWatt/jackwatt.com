@@ -2,6 +2,8 @@
 
 #### 2023/08/15
 
+* [Why Gary Gygax Would Hate Your D&D Games](https://youtu.be/z2nvAet67NQ) - Dungeons & Discourse
+
 * [Is 5e the LAST Edition of D&D?](https://youtu.be/zzMb0QUulsA) - Bob World Builder
 
 * [ Baldur’s Gate 3 Controversy Goes NUCLEAR](https://youtu.be/t3w_quudZVo) - EndymionTv
