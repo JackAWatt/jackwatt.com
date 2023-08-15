@@ -2,6 +2,8 @@
 
 #### 2023/08/14
 
+* [The Shocking Stats behind WEAPON Choice in D&D 5e](https://youtu.be/caMRKiQU2aU) - Bob World Builder
+
 * [ What They Don't Tell You About Baldur's Gate - D&D ](https://youtu.be/JX-DVKmd1xg) - MrRhexx
 
 * [The Ultimate D&D SESSION 0 Checklist!](https://youtu.be/KYzFaYjglWQ) - Bob World Builder
