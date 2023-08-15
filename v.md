@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/15
+
+* [ Baldur’s Gate 3 Controversy Goes NUCLEAR](https://youtu.be/t3w_quudZVo) - EndymionTv
+
 #### 2023/08/14
 
 * [The Shocking Stats behind WEAPON Choice in D&D 5e](https://youtu.be/caMRKiQU2aU) - Bob World Builder
