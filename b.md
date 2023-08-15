@@ -1,5 +1,7 @@
 #### 2023/08/15
 
+* DNF - Do You See What I See? Discovering the Obvious - [Review](https://www.goodreads.com/review/show/5770667970)
+
 * Read - Ms. Marvel, Vol. 1 - G Willow Wilson - [Review](https://www.goodreads.com/review/show/5770285186)
 
 * Read - Delphine - Richard Sala - [Review](https://www.goodreads.com/review/show/5769996311)
