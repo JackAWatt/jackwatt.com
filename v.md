@@ -2,6 +2,8 @@
 
 #### 2023/08/15
 
+* [Baldurs Gate 3 Just Changed Dungeons & Dragons FOREVER](https://youtu.be/VPLlsNmAhAg) - Dungeons & Discourse
+
 * [The D&D AI Scandal Just Got Worse](https://youtu.be/VLVVJ0XesHM) - Dungeons & Discourse
 
 * [Why Gary Gygax Would Hate Your D&D Games](https://youtu.be/z2nvAet67NQ) - Dungeons & Discourse
