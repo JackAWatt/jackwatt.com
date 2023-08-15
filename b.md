@@ -1,3 +1,7 @@
+#### 2023/08/15
+
+* Read - Delphine - Richard Sala [Review](https://www.goodreads.com/review/show/5769996311)
+
 #### 2023/08/13
 
 * Start - Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
