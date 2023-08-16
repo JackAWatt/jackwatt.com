@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/16
+
+* [John Cochrane on Education and MOOCs](https://youtu.be/67b_xrpWcoc) - EconTalk
+
 #### 2023/08/15
 
 * [Bob World Builder Talks: Making RPGs EPIC, Real Life D&D Stats and MORE](https://youtu.be/n1i8OgO7vUs) - Roll for Insight
