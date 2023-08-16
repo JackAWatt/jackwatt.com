@@ -2,6 +2,8 @@
 
 #### 2023/08/15
 
+* [Bob World Builder Talks: Making RPGs EPIC, Real Life D&D Stats and MORE](https://youtu.be/n1i8OgO7vUs) - Roll for Insight
+
 * [Baldurs Gate 3 Just Changed Dungeons & Dragons FOREVER](https://youtu.be/VPLlsNmAhAg) - Dungeons & Discourse
 
 * [The D&D AI Scandal Just Got Worse](https://youtu.be/VLVVJ0XesHM) - Dungeons & Discourse
