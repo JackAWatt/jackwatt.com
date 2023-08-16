@@ -1,5 +1,7 @@
 #### 2023/08/16
 
+* Start - I Seem To Be A Verb - R. Buckminster Fuller
+
 * Read - The Wicked + The Divine, Vol. 2: Fandemonium - [Review](https://www.goodreads.com/review/show/5771089680)
 
 #### 2023/08/15
