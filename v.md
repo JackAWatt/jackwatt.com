@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/17
+
+* [It Can Happen To Anyone](https://youtu.be/mVnwrJytHsw) - The Math Sorcerer
+
 #### 2023/08/16
 
 * [John Cochrane on Education and MOOCs](https://youtu.be/67b_xrpWcoc) - EconTalk
