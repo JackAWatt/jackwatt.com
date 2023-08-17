@@ -1,6 +1,6 @@
 #### 2023/08/17
 
-
+* Read - Sentient - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5775986278)
 
 * Read - The Wicked + The Divine, Vol. 3: Commercial Suicide - [Review](https://www.goodreads.com/review/show/5774191882)
 
