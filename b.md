@@ -1,3 +1,9 @@
+#### 2023/08/17
+
+
+
+* Read - The Wicked + The Divine, Vol. 3: Commercial Suicide - [Review](https://www.goodreads.com/review/show/5774191882)
+
 #### 2023/08/16
 
 * Start - I Seem To Be A Verb - R. Buckminster Fuller
