@@ -2,6 +2,8 @@
 
 #### 2023/08/17
 
+* [ Critical Role's Daggerheart ISN'T a D&D Killer. Stop.](https://youtu.be/2tThVoghu7I) - Tavern Adjacent
+
 * [It Can Happen To Anyone](https://youtu.be/mVnwrJytHsw) - The Math Sorcerer
 
 #### 2023/08/16
