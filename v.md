@@ -1,8 +1,12 @@
 ###### Videos and Podcasts
 
+#### 2023/08/18
+
+* [The World's WORST RPG Company Just Got Worse.](https://youtu.be/5sWmr5_yELE) - Dungeons & Discourse 
+
 #### 2023/08/17
 
-* [Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love](https://youtu.be/eTBAxD6lt2g) - Lex Fridman Podcast
+* [Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love](https://youtu.be/eTBAxD6lt2g) - Lex Fridman Podcast - DNF yet
 
 * [ Critical Role's Daggerheart ISN'T a D&D Killer. Stop.](https://youtu.be/2tThVoghu7I) - Tavern Adjacent
 
