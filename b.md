@@ -1,3 +1,7 @@
+#### 2023/08/18
+
+* Read - Snow Angels - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5777790165)
+
 #### 2023/08/17
 
 * Read - Sentient - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5775986278)
