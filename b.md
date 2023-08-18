@@ -1,6 +1,8 @@
 #### 2023/08/18
 
-* Read - Snow Angels - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5777790165)
+* Read - Snow Angels, Vol 2 - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5777993192)
+
+* Read - Snow Angels, Vol 1 - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5777790165)
 
 #### 2023/08/17
 
