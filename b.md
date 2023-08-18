@@ -1,5 +1,7 @@
 #### 2023/08/18
 
+* Read - Cat Burglar Black - Richard Sala - [Review](https://www.goodreads.com/book/show/6362841-cat-burglar-black)
+
 * Read - Snow Angels, Vol 2 - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5777993192)
 
 * Read - Snow Angels, Vol 1 - Jeff Lemire - [Review](https://www.goodreads.com/review/show/5777790165)
