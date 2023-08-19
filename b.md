@@ -1,3 +1,7 @@
+#### 2023/08/19
+
+* Read - Beautiful Darkness - [Review](https://www.goodreads.com/review/show/5780135266)
+
 #### 2023/08/18
 
 * Read - Cat Burglar Black - Richard Sala - [Review](https://www.goodreads.com/book/show/6362841-cat-burglar-black)
