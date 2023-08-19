@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/19
+
+* [JIM BUTCHER - INTERVIEW](https://youtu.be/NpLssK14iL8) - Daniel Greene
+
 #### 2023/08/18
 
 * [Interview with Jim Butcher](https://youtu.be/vV8laNywrYU) - Troi
