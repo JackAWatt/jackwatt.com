@@ -2,6 +2,8 @@
 
 #### 2023/08/18
 
+* [Interview with Jim Butcher](https://youtu.be/vV8laNywrYU) - Troi
+
 * [New Cosmere World!🪐 Baldur's Gate Backlash?🙋 Robin Hobb Book! ~FANTASY NEWS~](https://youtu.be/77-ZVOkGTdg) - Daniel Greene
 
 * [The World's WORST RPG Company Just Got Worse.](https://youtu.be/5sWmr5_yELE) - Dungeons & Discourse 
