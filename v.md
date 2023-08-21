@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/21
+
+* [The Current State of Lost Ark ft. Saintone, Asmongold, ATK & OHBENJI](https://youtu.be/k7zRX0T2A2Q)
+
 #### 2023/08/19
 
 * [JIM BUTCHER - INTERVIEW](https://youtu.be/NpLssK14iL8) - Daniel Greene
