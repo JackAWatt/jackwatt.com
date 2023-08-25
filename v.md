@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/25
+
+* [LOST ARK'S FUTURE CHANGES ARE WHAT I ASKED FOR A YEAR, FINALLY!](https://youtu.be/fc_sEcnNxU0) - ZealsAmbition
+
 #### 2023/08/21
 
 * [The Current State of Lost Ark ft. Saintone, Asmongold, ATK & OHBENJI](https://youtu.be/k7zRX0T2A2Q)
