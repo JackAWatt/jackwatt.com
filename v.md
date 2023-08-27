@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/27
+
+* [Baldur's Gate 3 is great for RPGs... but also might ruin WOTC's plan for D&D (Rules Lawyer)](https://youtu.be/y2wr-8DtyDs)
+
 #### 2023/08/25
 
 * [LOST ARK'S FUTURE CHANGES ARE WHAT I ASKED FOR A YEAR, FINALLY!](https://youtu.be/fc_sEcnNxU0) - ZealsAmbition
