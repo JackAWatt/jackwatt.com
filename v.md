@@ -2,7 +2,7 @@
 
 #### 2023/08/28
 
-* [Path of Exile Ruined Diablo 4 For Us](https://www.youtube.com/watch?v=mbKUzGjmKD0)
+* [Path of Exile Ruined Diablo 4 For Us / Asmongold Reacts](https://www.youtube.com/watch?v=mbKUzGjmKD0)
 
 * [We Need To Talk About This Company / Asmongold Reacts](https://youtu.be/HuV5QHqM7vQ)
 
