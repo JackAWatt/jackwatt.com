@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/28
+
+* [We Need To Talk About This Company / Asmongold Reacts](https://youtu.be/HuV5QHqM7vQ)
+
 #### 2023/08/27
 
 * [Baldur's Gate 3 is great for RPGs... but also might ruin WOTC's plan for D&D (Rules Lawyer)](https://youtu.be/y2wr-8DtyDs)
