@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/30
+
+* [Our Entire History with Ninja Turtles — Ep. 117 of Intentionally Blank](https://youtu.be/iW4fFmhoYuc)
+
 #### 2023/08/28
 
 * [Path of Exile Ruined Diablo 4 For Us / Asmongold Reacts](https://www.youtube.com/watch?v=mbKUzGjmKD0)
