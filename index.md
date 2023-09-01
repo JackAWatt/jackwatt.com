@@ -102,6 +102,7 @@
 * [Books](http://jackwatt.com/b)
 * [Courses](http://jackwatt.com/c)
 * [Blogs and Articles](http://jackwatt.com/a)
+* [chatGPT prompts](http://jackwatt.com/chatGPT)
 
 ##### My Notes
 * [Books](http://jackwatt.com/notes/books)
