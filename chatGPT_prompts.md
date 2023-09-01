@@ -1,3 +1,5 @@
+* [write a fictional story in the style of fantasy that includes chicken tenders, dungeons and dragons, geogusser, and a discord channel full of nerds](http://jackwatt.com/chatGPT/tendies_and_dragons)
+
 * [make up an epistolary sci-fi story that includes computer hacking, information security professionals, dragons, sorting algorithms, real analysis, the smalltalk programming language, crystal meth, ducks, and vitamin water](http://jackwatt.com/chatGPT/infosec_and_ducks)
 
 * [Write a short sci-fi story that includes bayesian statistics, the halting problem, and heartbreak](http://jackwatt.com/chatGPT/bayesian_scifi)
