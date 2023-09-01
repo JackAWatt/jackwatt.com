@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/08/31
+
+* [Hades Has Finally Been Conquered](https://youtu.be/-akO4ZyTdOs)
+
 #### 2023/08/30
 
 * [Our Entire History with Ninja Turtles — Ep. 117 of Intentionally Blank](https://youtu.be/iW4fFmhoYuc)
