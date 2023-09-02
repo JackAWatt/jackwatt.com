@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/02
+
+* [10 Underrated JRPGs That You Must Play](https://youtu.be/5wX3KSMmvFI)
+
 #### 2023/08/31
 
 * [Hades Has Finally Been Conquered](https://youtu.be/-akO4ZyTdOs)
