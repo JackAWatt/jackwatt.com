@@ -4,6 +4,8 @@
 
 * [Baldur's Gate 3 Is Going To Get Bigger](https://youtu.be/YCrm_9SIZpk)
 
+* [What Happened to JRPGs?](https://youtu.be/FjZFmdG5U50)
+
 #### 2023/09/02
 
 * [10 Great JRPGs I Want To Replay! / Backlog Battle](https://youtu.be/VZato_Ff9MI)
