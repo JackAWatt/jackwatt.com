@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/03
+
+* [Baldur's Gate 3 Is Going To Get Bigger](https://youtu.be/YCrm_9SIZpk)
+
 #### 2023/09/02
 
 * [10 Great JRPGs I Want To Replay! / Backlog Battle](https://youtu.be/VZato_Ff9MI)
