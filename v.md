@@ -2,7 +2,7 @@
 
 #### 2023/09/02
 
-* [10 Great JRPGs I Want To Replay! | Backlog Battle](https://youtu.be/VZato_Ff9MI)
+* [10 Great JRPGs I Want To Replay! / Backlog Battle](https://youtu.be/VZato_Ff9MI)
 
 * [10 Underrated JRPGs That You Must Play](https://youtu.be/5wX3KSMmvFI)
 
