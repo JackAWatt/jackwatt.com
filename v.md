@@ -2,6 +2,8 @@
 
 #### 2023/09/03
 
+* [8 JRPGs I've Been Playing - Are They Any Good?](https://youtu.be/sDPUweE0pwc)
+
 * [Baldur's Gate 3 Is Going To Get Bigger](https://youtu.be/YCrm_9SIZpk)
 
 * [What Happened to JRPGs?](https://youtu.be/FjZFmdG5U50)
