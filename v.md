@@ -2,6 +2,8 @@
 
 #### 2023/09/04
 
+* [Marc Andreessen: How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience](https://youtu.be/yixIc1Ai6jM) - Andrew Huberman
+
 * [12 Productivity Myths Wasting Your Time](https://youtu.be/qc4GU_wHdqw) - Ali Abdaal
 
 * [How to Finally Beat Procrastination](https://youtu.be/hJZ5v7dpKKM) - Ali Abdaal
