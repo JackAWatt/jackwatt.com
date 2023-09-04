@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/04
+
+* [How to Finally Beat Procrastination](https://youtu.be/hJZ5v7dpKKM)
+
 #### 2023/09/03
 
 * [8 JRPGs I've Been Playing - Are They Any Good?](https://youtu.be/sDPUweE0pwc)
