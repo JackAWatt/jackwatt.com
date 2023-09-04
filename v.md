@@ -2,7 +2,7 @@
 
 #### 2023/09/04
 
-* [How to Finally Beat Procrastination](https://youtu.be/hJZ5v7dpKKM)
+* [How to Finally Beat Procrastination](https://youtu.be/hJZ5v7dpKKM) - Ali Abdaal
 
 #### 2023/09/03
 
