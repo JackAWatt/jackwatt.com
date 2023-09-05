@@ -2,6 +2,8 @@
 
 #### 2023/09/05
 
+* [ Sea of Stars Review (Switch)](https://youtu.be/MP7ketiuoqY) - Backlog Battle
+
 * [ We Need To Talk About Monochrome Mobius... ](https://youtu.be/Qx4F7PMpapg) -  Erick Landon R
 
 #### 2023/09/04
