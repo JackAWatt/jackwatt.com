@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/05
+
+* [ We Need To Talk About Monochrome Mobius... ](https://youtu.be/Qx4F7PMpapg) -  Erick Landon R
+
 #### 2023/09/04
 
 * [Marc Andreessen: How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience](https://youtu.be/yixIc1Ai6jM) - Andrew Huberman
