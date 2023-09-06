@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/06
+
+* [How to Study Consistently *Without* Burning Out](https://youtu.be/DzBzWAOzdmo) - Dr. Izzy Sealey
+
 #### 2023/09/05
 
 * [ Sea of Stars Review (Switch)](https://youtu.be/MP7ketiuoqY) - Backlog Battle
