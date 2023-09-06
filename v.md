@@ -2,6 +2,8 @@
 
 #### 2023/09/06
 
+* [Mission Impossible: Dead Reckoning — Ep. 116 of Intentionally Blank](https://youtu.be/xqaZfUAvN9Y)
+
 * [Chained Echoes vs Sea of Stars: Which One Is Right For You?](https://youtu.be/DO9AIuY4G80) -  Backlog Battle
 
 * [How to Study Consistently *Without* Burning Out](https://youtu.be/DzBzWAOzdmo) - Dr. Izzy Sealey
