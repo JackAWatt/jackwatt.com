@@ -2,13 +2,15 @@
 
 #### 2023/09/06
 
+* [Chained Echoes vs Sea of Stars: Which One Is Right For You?](https://youtu.be/DO9AIuY4G80) -  Backlog Battle
+
 * [How to Study Consistently *Without* Burning Out](https://youtu.be/DzBzWAOzdmo) - Dr. Izzy Sealey
 
 #### 2023/09/05
 
-* [ Sea of Stars Review (Switch)](https://youtu.be/MP7ketiuoqY) - Backlog Battle
+* [Sea of Stars Review (Switch)](https://youtu.be/MP7ketiuoqY) - Backlog Battle
 
-* [ We Need To Talk About Monochrome Mobius... ](https://youtu.be/Qx4F7PMpapg) -  Erick Landon R
+* [We Need To Talk About Monochrome Mobius... ](https://youtu.be/Qx4F7PMpapg) -  Erick Landon R
 
 #### 2023/09/04
 
