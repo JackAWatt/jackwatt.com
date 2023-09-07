@@ -2,6 +2,8 @@
 
 #### 2023/09/07
 
+* [JOE ABERCROMBIE AND BRANDON SANDERSON LIVE CHAT!](https://youtu.be/CRD-mtBq0pM) - Daniel Greene
+
 * [How I Read 70 Books a Year (5 Tips to Read More)](https://youtu.be/ZmLGZ8MIlgs) - Tika Ghafar
 
 * [Why I'm Never Tired (Evidence-Based Tips to Boost Your Energy)](https://youtu.be/cLB5JSTCtsU) - Tika Ghafar
