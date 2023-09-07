@@ -2,6 +2,8 @@
 
 #### 2023/09/07
 
+* [How I Read 70 Books a Year (5 Tips to Read More)](https://youtu.be/ZmLGZ8MIlgs) - Tika Ghafar
+
 * [Why I'm Never Tired (Evidence-Based Tips to Boost Your Energy)](https://youtu.be/cLB5JSTCtsU) - Tika Ghafar
 
 * [10 Switch JRPGs I REALLY Should Have Played By Now](https://youtu.be/w4mHNJ3-G_Y) - Just the Gems
