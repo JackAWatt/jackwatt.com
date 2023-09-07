@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/07
+
+* [10 Switch JRPGs I REALLY Should Have Played By Now](https://youtu.be/w4mHNJ3-G_Y) - Just the Gems
+
 #### 2023/09/06
 
 * [Mission Impossible: Dead Reckoning — Ep. 116 of Intentionally Blank](https://youtu.be/xqaZfUAvN9Y)
