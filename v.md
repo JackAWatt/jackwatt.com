@@ -2,6 +2,8 @@
 
 #### 2023/09/07
 
+* [Why I'm Never Tired (Evidence-Based Tips to Boost Your Energy)](https://youtu.be/cLB5JSTCtsU) - Tika Ghafar
+
 * [10 Switch JRPGs I REALLY Should Have Played By Now](https://youtu.be/w4mHNJ3-G_Y) - Just the Gems
 
 #### 2023/09/06
