@@ -1,3 +1,7 @@
+#### 2023/09/08
+
+* Start - The Dispossessed - Ursula K. Le Guin
+
 #### 2023/08/19
 
 * Read - Beautiful Darkness - [Review](https://www.goodreads.com/review/show/5780135266)
