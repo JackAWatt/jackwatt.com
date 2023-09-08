@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/08
+
+* [10 JRPGs That Are Easily BROKEN](https://youtu.be/CECpkRiScG0) - Erick Landon RPG
+
 #### 2023/09/07
 
 * [Joe Abercrombie on breaking into novel writing, dark humour, and finishing fantasy stories!](https://youtu.be/Kym1Er6Oob4)
