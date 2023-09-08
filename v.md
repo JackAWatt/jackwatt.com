@@ -2,6 +2,8 @@
 
 #### 2023/09/07
 
+* [Joe Abercrombie on breaking into novel writing, dark humour, and finishing fantasy stories!](https://youtu.be/Kym1Er6Oob4)
+
 * [JOE ABERCROMBIE AND BRANDON SANDERSON LIVE CHAT!](https://youtu.be/CRD-mtBq0pM) - Daniel Greene
 
 * [How I Read 70 Books a Year (5 Tips to Read More)](https://youtu.be/ZmLGZ8MIlgs) - Tika Ghafar
