@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/09
+
+* [Top 50 Best PS1 JRPGs Ever (Random Order)](https://youtu.be/-GknCXJJr50) - Erick Landon RPG
+
 #### 2023/09/08
 
 * [10 JRPGs That Are Easily BROKEN](https://youtu.be/CECpkRiScG0) - Erick Landon RPG
