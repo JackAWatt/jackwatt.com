@@ -2,6 +2,8 @@
 
 #### 2023/09/09
 
+* [Ranking EVERY 3Ds JRPG Ever (Tier List)](https://youtu.be/SR7WKmCkA5M) - Eric Landon RPG
+
 * [Top 50 Best Nintendo DS JRPGs Ever! (Random Order)](https://youtu.be/rVxIqXLRViY) - Erick Landon RPG
 
 * [Top 10 Super Obscure RPG Gems 2](https://youtu.be/WgiFpGkNwbQ) - Erick Landon RPG
