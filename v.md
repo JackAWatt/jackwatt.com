@@ -2,6 +2,8 @@
 
 #### 2023/09/09
 
+* [Top 50 Best Nintendo DS JRPGs Ever! (Random Order)](https://youtu.be/rVxIqXLRViY) - Erick Landon RPG
+
 * [Top 10 Super Obscure RPG Gems 2](https://youtu.be/WgiFpGkNwbQ) - Erick Landon RPG
 
 * [Top 10 Most Complex JRPGs Ever](https://youtu.be/2usv56fA9WE) - Erick Landon RPG
