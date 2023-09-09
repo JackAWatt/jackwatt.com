@@ -2,6 +2,8 @@
 
 #### 2023/09/09
 
+* [10 JRPGs Everyone Knows But NO ONE PLAYS](https://youtu.be/hA1X3zkvIxs) -  Erick Landon RPG
+
 * [What's the Most Important Thing in JRPGs?](https://youtu.be/QyAVhJg_194) -  Erick Landon RPG
 
 * [Top 50 Best PS1 JRPGs Ever (Random Order)](https://youtu.be/-GknCXJJr50) - Erick Landon RPG
