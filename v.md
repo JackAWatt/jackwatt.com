@@ -2,6 +2,8 @@
 
 #### 2023/09/09
 
+* [Top 10 Best Mature-Rated JRPGs](https://youtu.be/26PwH9jLIbs) - Erick Landon RPG
+
 * [10 JRPGs Everyone Knows But NO ONE PLAYS](https://youtu.be/hA1X3zkvIxs) -  Erick Landon RPG
 
 * [What's the Most Important Thing in JRPGs?](https://youtu.be/QyAVhJg_194) -  Erick Landon RPG
