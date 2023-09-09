@@ -2,6 +2,8 @@
 
 #### 2023/09/09
 
+* [What's the Most Important Thing in JRPGs?](https://youtu.be/QyAVhJg_194) -  Erick Landon RPG
+
 * [Top 50 Best PS1 JRPGs Ever (Random Order)](https://youtu.be/-GknCXJJr50) - Erick Landon RPG
 
 #### 2023/09/08
