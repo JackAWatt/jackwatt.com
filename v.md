@@ -2,6 +2,8 @@
 
 #### 2023/09/09
 
+* [Top 10 Super Obscure RPG Gems 2](https://youtu.be/WgiFpGkNwbQ) - Erick Landon RPG
+
 * [Top 10 Most Complex JRPGs Ever](https://youtu.be/2usv56fA9WE) - Erick Landon RPG
 
 * [Top 10 Best Mature-Rated JRPGs](https://youtu.be/26PwH9jLIbs) - Erick Landon RPG
