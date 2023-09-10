@@ -2,6 +2,8 @@
 
 #### 2023/09/10
 
+* [Vegan Schools Vegetarian / Anti-Vegan Arguments Debunked](https://youtu.be/11Fup16gl04) - Rationality Rules
+
 * [10 Bizarre JRPGs You -Probably- Didn't Know Existed](https://youtu.be/qkW17UtMN6s)  - Eric Landon RPG
 
 #### 2023/09/09
