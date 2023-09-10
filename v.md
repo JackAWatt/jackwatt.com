@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/10
+
+* [10 Bizarre JRPGs You -Probably- Didn't Know Existed](https://youtu.be/qkW17UtMN6s)  - Eric Landon RPG
+
 #### 2023/09/09
 
 * [Ranking EVERY 3Ds JRPG Ever (Tier List)](https://youtu.be/SR7WKmCkA5M) - Eric Landon RPG
