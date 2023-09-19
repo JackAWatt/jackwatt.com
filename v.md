@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/19
+
+* [15 Years Writing C++ - Advice for new programmers](https://youtu.be/37VZu3b045k)
+
 #### 2023/09/10
 
 * [Vegan Schools Vegetarian / Anti-Vegan Arguments Debunked](https://youtu.be/11Fup16gl04) - Rationality Rules
