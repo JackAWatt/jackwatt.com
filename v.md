@@ -2,6 +2,8 @@
 
 #### 2023/09/20
 
+* [Culinary Catastrophes — Ep. 120 of Intentionally Blank](https://youtu.be/eeGbd9kwH_U)
+
 * [Lazarus Lake on Endurance, Uncertainty, and Reaching One’s Potential / Conversations with Tyler](https://youtu.be/kkdpfzaElg8)
 
 #### 2023/09/19
