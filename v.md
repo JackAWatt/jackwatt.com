@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/20
+
+* [Lazarus Lake on Endurance, Uncertainty, and Reaching One’s Potential / Conversations with Tyler](https://youtu.be/kkdpfzaElg8)
+
 #### 2023/09/19
 
 * [15 Years Writing C++ - Advice for new programmers](https://youtu.be/37VZu3b045k)
