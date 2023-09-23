@@ -2,7 +2,9 @@
 
 #### 2023/09/23
 
-* [RESIDENT EVIL 4: How Survival Horror Was Changed Forever](https://youtu.be/cGHBFKDhNHE)
+* [RESIDENT EVIL 7 - How Auteur Family Horror Saved A Franchise](https://youtu.be/YuaKk9M7_w4) - Matt Draper
+
+* [RESIDENT EVIL 4: How Survival Horror Was Changed Forever](https://youtu.be/cGHBFKDhNHE) - Matt Draper
 
 * [RESIDENT EVIL 1 vs REMAKE: The Two Sides of Survival Horror](https://youtu.be/Ygybvrkrqvc) - Matt Draper
 
