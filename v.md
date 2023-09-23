@@ -1,20 +1,24 @@
 ###### Videos and Podcasts
 
+#### 2023/09/23
+
+* [5 JRPGs That Changed the Genre FOREVER!](https://youtu.be/OluIsr_acRI) - Just the Gems
+
 #### 2023/09/22
 
-* [The Top 15 CLASSIC JRPGs on Steam!](https://www.youtube.com/watch?v=GyceOcj4iJI)
+* [The Top 15 CLASSIC JRPGs on Steam!](https://www.youtube.com/watch?v=GyceOcj4iJI) - Just the Gems
 
-* [Grand Theft Auto Timeline - Part 2 - The HD & 2D Universes (What You Need to Know!)](https://youtu.be/mDmBYcOswQg)
+* [Grand Theft Auto Timeline - Part 2 - The HD & 2D Universes (What You Need to Know!)](https://youtu.be/mDmBYcOswQg) - Suggestive Gaming
 
-* [Grand Theft Auto Timeline - Part 1 - The 3D Universe (What You Need to Know!)](https://youtu.be/SvIW5w3Y9MA)
+* [Grand Theft Auto Timeline - Part 1 - The 3D Universe (What You Need to Know!)](https://youtu.be/SvIW5w3Y9MA) - Suggestive Gaming
 
-* [Tomb Raider Legend Timeline - The Complete Story - What You Need to Know!](https://youtu.be/pM-rFp5MDf0)
+* [Tomb Raider Legend Timeline - The Complete Story - What You Need to Know!](https://youtu.be/pM-rFp5MDf0) - Suggestive Gaming
 
-* [Tomb Raider Classic Timeline - The Complete Story - What You Need to Know!](https://youtu.be/0ATV0Vgl8XY)
+* [Tomb Raider Classic Timeline - The Complete Story - What You Need to Know!](https://youtu.be/0ATV0Vgl8XY) - Suggestive Gaming
 
 * [The Spencer Mansion Incident / A Resident Evil File Documentary (Full Doc)](https://www.youtube.com/watch?v=kxMdZqsuK1o)
 
-* [Resident Evil: The Complete Timeline - What You Need to Know! (UPDATED)](https://youtu.be/nZ3hiWnBSYs)
+* [Resident Evil: The Complete Timeline - What You Need to Know! (UPDATED)](https://youtu.be/nZ3hiWnBSYs) - Suggestive Gaming
 
 #### 2023/09/20
 
