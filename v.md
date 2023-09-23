@@ -2,6 +2,8 @@
 
 #### 2023/09/23
 
+* [RESIDENT EVIL 4: How Survival Horror Was Changed Forever](https://youtu.be/cGHBFKDhNHE)
+
 * [RESIDENT EVIL 1 vs REMAKE: The Two Sides of Survival Horror](https://youtu.be/Ygybvrkrqvc) - Matt Draper
 
 * [The Fall of Raccoon City: The Story That Defined RESIDENT EVIL](https://youtu.be/wmHZPhDILQc) - Matt Draper
