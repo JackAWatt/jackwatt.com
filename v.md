@@ -2,6 +2,8 @@
 
 #### 2023/09/23
 
+* [The Fall of Raccoon City: The Story That Defined RESIDENT EVIL](https://youtu.be/wmHZPhDILQc)
+
 * [Forget Velocity, Let's Talk Acceleration • Jessica Kerr • GOTO 2017](https://youtu.be/Lbcyyu8XB_Y)
 
 * [5 JRPGs That Changed the Genre FOREVER!](https://youtu.be/OluIsr_acRI) - Just the Gems
