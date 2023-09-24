@@ -2,6 +2,8 @@
 
 #### 2023/09/23
 
+* [A review of every major CRPG from the last ten years](https://youtu.be/4P4xJ34dmqQ) - NeverKnowsBest
+
 * [RESIDENT EVIL 7 - How Auteur Family Horror Saved A Franchise](https://youtu.be/YuaKk9M7_w4) - Matt Draper
 
 * [RESIDENT EVIL 4: How Survival Horror Was Changed Forever](https://youtu.be/cGHBFKDhNHE) - Matt Draper
