@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/24
+
+* [The Two Sides Of Tomb Raider](https://youtu.be/WA-7J7bbiXQ) - Brad Garlinghouse
+
 #### 2023/09/23
 
 * [A review of every major CRPG from the last ten years](https://youtu.be/4P4xJ34dmqQ) - NeverKnowsBest
