@@ -2,6 +2,8 @@
 
 #### 2023/09/25
 
+* [Deus Ex - An Entire Series Retrospective and Analysis](https://youtu.be/_H1yVWHRu5I)
+
 * [The Strange State of Jill Valentine](https://youtu.be/51LykyqdQrA) - ThrillingDuck
 
 * [Insane Cheater Finally Caught In Black Ops 3 Zombies - Karl Jobst](https://www.youtube.com/watch?v=QtHbqf2lGaw)
