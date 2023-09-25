@@ -2,6 +2,8 @@
 
 #### 2023/09/25
 
+* [Peter Attia on Lifespan, Healthspan, and Outlive](https://youtu.be/u378odYz0io) - EconTalk
+
 * [Deus Ex - An Entire Series Retrospective and Analysis](https://youtu.be/_H1yVWHRu5I) - NeverKnowsBest
 
 * [The Strange State of Jill Valentine](https://youtu.be/51LykyqdQrA) - ThrillingDuck
