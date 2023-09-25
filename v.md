@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/25
+
+* [The Strange State of Jill Valentine](https://youtu.be/51LykyqdQrA) - ThrillingDuck
+
 #### 2023/09/24
 
 * [The Two Sides Of Tomb Raider](https://youtu.be/WA-7J7bbiXQ) - Brad Garlinghouse
