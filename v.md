@@ -4,7 +4,19 @@
 
 * [The Strange State of Jill Valentine](https://youtu.be/51LykyqdQrA) - ThrillingDuck
 
+* [Insane Cheater Finally Caught In Black Ops 3 Zombies - Karl Jobst](https://www.youtube.com/watch?v=QtHbqf2lGaw)
+
 #### 2023/09/24
+
+* [Diablo 4: The Billion Dollar Tragedy / Asmongold Reacts](https://youtu.be/3H4x7V0HlgQ)
+
+* [Corey Rodrigues: Un-Triggered - Full Comedy Special](https://www.youtube.com/watch?v=uH0K5QVxTP0)
+
+* [Kevin Bozeman: God's Work - Full Comedy Special](https://youtu.be/0pmB0YI3OHA)
+
+* [Dry Bar Double Feature - Shayne Smith](https://www.youtube.com/watch?v=7tWavWJ8NBQ)
+
+* [How To Get Banned From Karate. Shayne Smith](https://www.youtube.com/watch?v=HxgDaCOS-tE)
 
 * [The Two Sides Of Tomb Raider](https://youtu.be/WA-7J7bbiXQ) - Brad Garlinghouse
 
