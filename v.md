@@ -56,6 +56,10 @@
 
 #### 2023/09/20
 
+* [Kabir Singh: Bollerwood - Full Comedy Special](https://youtu.be/mAHuYh8EUbg)
+
+* [Stay Single As Long As You Can. Kabir Singh - Full Special](https://youtu.be/3CYCXAXPWaQ)
+
 * [Culinary Catastrophes — Ep. 120 of Intentionally Blank](https://youtu.be/eeGbd9kwH_U)
 
 * [Lazarus Lake on Endurance, Uncertainty, and Reaching One’s Potential / Conversations with Tyler](https://youtu.be/kkdpfzaElg8)
