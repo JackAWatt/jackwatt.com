@@ -2,6 +2,8 @@
 
 #### 2023/09/26
 
+* [Final Fantasy 7 Remake Critique](https://youtu.be/pTJQSdq2DQQ) - NeverKnowsBest
+
 * [Michael Munger on How Adam Smith Solved the Trolley Problem](https://youtu.be/Er9aQJdBnUE) - EconTalk
 
 #### 2023/09/25
