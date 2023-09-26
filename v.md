@@ -2,6 +2,10 @@
 
 #### 2023/09/25
 
+* [Michael Munger on How Adam Smith Solved the Trolley Problem](https://youtu.be/Er9aQJdBnUE) - EconTalk
+
+#### 2023/09/25
+
 * [Pillars of Eternity Retrospective](https://youtu.be/SbCpHtHAbSE) - NeverKnowsBest
 
 * [Peter Attia on Lifespan, Healthspan, and Outlive](https://youtu.be/u378odYz0io) - EconTalk
