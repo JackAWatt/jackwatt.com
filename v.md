@@ -1,6 +1,6 @@
 ###### Videos and Podcasts
 
-#### 2023/09/25
+#### 2023/09/26
 
 * [Michael Munger on How Adam Smith Solved the Trolley Problem](https://youtu.be/Er9aQJdBnUE) - EconTalk
 
