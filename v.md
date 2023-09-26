@@ -2,7 +2,7 @@
 
 #### 2023/09/25
 
-* [Pillars of Eternity Retrospective](https://youtu.be/SbCpHtHAbSE)
+* [Pillars of Eternity Retrospective](https://youtu.be/SbCpHtHAbSE) - NeverKnowsBest
 
 * [Peter Attia on Lifespan, Healthspan, and Outlive](https://youtu.be/u378odYz0io) - EconTalk
 
