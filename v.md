@@ -6,6 +6,10 @@
 
 #### 2023/09/26
 
+* [Why Diablo 4 Content Creators Are Quitting](https://www.youtube.com/watch?v=8v0kfGavXek) - AsmongoldTV
+
+* [Diablo 2 and Torchlight Devs are making a new APRG!](https://www.youtube.com/watch?v=9W47-SDQtX0) - Flexin85
+
 * [Final Fantasy 7 Remake Critique](https://youtu.be/pTJQSdq2DQQ) - NeverKnowsBest
 
 * [Michael Munger on How Adam Smith Solved the Trolley Problem](https://youtu.be/Er9aQJdBnUE) - EconTalk
