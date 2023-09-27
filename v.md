@@ -6,6 +6,10 @@
 
 #### 2023/09/26
 
+* [Pillars of Eternity 2: Deadfire - One Year Later](https://youtu.be/WN75NhL9Va4) - Never Knows Best
+
+* [The Most Underrated Tales, Ys & Fire Emblem Game](https://www.youtube.com/watch?v=AuFuNenVADU) - Erick Landon RPG
+
 * [Why Diablo 4 Content Creators Are Quitting](https://www.youtube.com/watch?v=8v0kfGavXek) - AsmongoldTV
 
 * [Diablo 2 and Torchlight Devs are making a new APRG!](https://www.youtube.com/watch?v=9W47-SDQtX0) - Flexin85
