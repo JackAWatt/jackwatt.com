@@ -2,19 +2,19 @@
 
 #### 2023/09/28
 
-* [Combining like terms, but more complicated / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/FNnmseBlvaY)
+* [Combining like terms, but more complicated / Introduction to algebra / Algebra I](https://youtu.be/FNnmseBlvaY)
 
-* [How to simplify an expression by combining like terms and the distributive property / Khan Academy](https://youtu.be/3NHSwiv_pSE)
+* [How to simplify an expression by combining like terms and the distributive property](https://youtu.be/3NHSwiv_pSE)
 
-* [Combining like terms introduction / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/CLWpkv6ccpA)
+* [Combining like terms introduction / Introduction to algebra / Algebra I](https://youtu.be/CLWpkv6ccpA)
 
-* [How to evaluate expressions in two variables with decimals and fractions / 6th grade / Khan Academy](https://youtu.be/GmD7Czmol0k)
+* [How to evaluate expressions in two variables with decimals and fractions / 6th grade](https://youtu.be/GmD7Czmol0k)
 
-* [How to evaluate expressions with two variables / 6th grade / Khan Academy](https://youtu.be/S_OX3ByvBSc)
+* [How to evaluate expressions with two variables / 6th grade](https://youtu.be/S_OX3ByvBSc)
 
-* [How to evaluate an expression with variables / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/AJNDeVt9UOo)
+* [How to evaluate an expression with variables / Introduction to algebra / Algebra I](https://youtu.be/AJNDeVt9UOo)
 
-* [Why aren't we using the multiplication sign? / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/vDaIKB19TvY)
+* [Why aren't we using the multiplication sign? / Introduction to algebra / Algebra I](https://youtu.be/vDaIKB19TvY) - Khan Academy
 
 * [What is a variable? / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/tHYis-DP0oU)
 
