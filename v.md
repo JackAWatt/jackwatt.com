@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [What is a variable? / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/tHYis-DP0oU)
+
 * [My Nintendo 3DS Collection - SO Many JRPGs!](https://youtu.be/bkaFCPieCKI) - Just The Gems
 
 #### 2023/09/27
