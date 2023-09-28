@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [Combining like terms introduction / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/CLWpkv6ccpA)
+
 * [How to evaluate expressions in two variables with decimals and fractions / 6th grade / Khan Academy](https://youtu.be/GmD7Czmol0k)
 
 * [How to evaluate expressions with two variables / 6th grade / Khan Academy](https://youtu.be/S_OX3ByvBSc)
