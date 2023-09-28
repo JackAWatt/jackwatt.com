@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [How to evaluate expressions in two variables with decimals and fractions / 6th grade / Khan Academy](https://youtu.be/GmD7Czmol0k)
+
 * [How to evaluate expressions with two variables / 6th grade / Khan Academy](https://youtu.be/S_OX3ByvBSc)
 
 * [How to evaluate an expression with variables / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/AJNDeVt9UOo)
