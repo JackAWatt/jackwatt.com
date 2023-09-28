@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [Why aren't we using the multiplication sign? / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/vDaIKB19TvY)
+
 * [What is a variable? / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/tHYis-DP0oU)
 
 * [My Nintendo 3DS Collection - SO Many JRPGs!](https://youtu.be/bkaFCPieCKI) - Just The Gems
