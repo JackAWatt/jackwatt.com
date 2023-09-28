@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [Examples of simplifying expressions involving rational numbers / 7th grade](https://youtu.be/rtNuo7R3scY) - Khan Academy
+
 * [Criticized For Explaining The Solution](https://youtu.be/UKTz0YCDOOU) - The Math Sorcerer
 
 * [Combining like terms, but more complicated / Introduction to algebra / Algebra I](https://youtu.be/FNnmseBlvaY) - Khan Academy
