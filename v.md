@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [Fallout Creator Explains Why Modern Games Suck](https://youtu.be/GUOmTLHSlns) - AsmongoldTV
+
 * [Examples of simplifying expressions involving rational numbers / 7th grade](https://youtu.be/rtNuo7R3scY) - Khan Academy
 
 * [Criticized For Explaining The Solution](https://youtu.be/UKTz0YCDOOU) - The Math Sorcerer
