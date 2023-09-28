@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/28
+
+* [My Nintendo 3DS Collection - SO Many JRPGs!](https://youtu.be/bkaFCPieCKI) - Just The Gems
+
 #### 2023/09/27
 
 * [Looking back at what the last ten years have meant for video games](https://youtu.be/u68iQAp4ces) - NeverKnowsBest
