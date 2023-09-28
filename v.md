@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [How to evaluate expressions with two variables / 6th grade / Khan Academy](https://youtu.be/S_OX3ByvBSc)
+
 * [How to evaluate an expression with variables / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/AJNDeVt9UOo)
 
 * [Why aren't we using the multiplication sign? / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/vDaIKB19TvY)
