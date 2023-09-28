@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [Criticized For Explaining The Solution](https://youtu.be/UKTz0YCDOOU) - The Math Sorcerer
+
 * [Combining like terms, but more complicated / Introduction to algebra / Algebra I](https://youtu.be/FNnmseBlvaY) - Khan Academy
 
 * [How to simplify an expression by combining like terms and the distributive property](https://youtu.be/3NHSwiv_pSE) - Khan Academy
