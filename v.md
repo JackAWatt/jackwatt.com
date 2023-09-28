@@ -2,6 +2,8 @@
 
 #### 2023/09/28
 
+* [Combining like terms, but more complicated / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/FNnmseBlvaY)
+
 * [How to simplify an expression by combining like terms and the distributive property / Khan Academy](https://youtu.be/3NHSwiv_pSE)
 
 * [Combining like terms introduction / Introduction to algebra / Algebra I / Khan Academy](https://youtu.be/CLWpkv6ccpA)
