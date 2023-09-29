@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/09/29
+
+* [Learn Mathematics Like Ramanujan Did](https://youtu.be/qr6d_bC7jMI) - The Math Sorcerer
+
 #### 2023/09/28
 
 * [Fallout Creator Explains Why Modern Games Suck](https://youtu.be/GUOmTLHSlns) - AsmongoldTV
