@@ -2,6 +2,8 @@
 
 #### 2023/09/29
 
+* [Top 10 Rarest/Most Expensive JRPGs So Far](https://youtu.be/mnmiyHKJjYQ) - Erick Landon RPG
+
 * [Learn Mathematics Like Ramanujan Did](https://youtu.be/qr6d_bC7jMI) - The Math Sorcerer
 
 #### 2023/09/28
