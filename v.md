@@ -2,6 +2,8 @@
 
 #### 2023/09/29
 
+* [Baldurs gate 2 vs Diablo 2 vs Dark Souls vs Chrono Trigger. Wait a minute... ARPGs vs CRPGs vs JRPS?](https://youtu.be/V0BqbZsyoPk)
+
 * [The Curious Story of China's Indie Gaming Scene](https://youtu.be/_VrTZ_UeUxM) - NeverKnowsBest
 
 * [Top 10 Rarest/Most Expensive JRPGs So Far](https://youtu.be/mnmiyHKJjYQ) - Erick Landon RPG
