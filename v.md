@@ -2,6 +2,8 @@
 
 #### 2023/10/01
 
+* [The Most Important Math Test](https://youtu.be/NDuQRk9MajI) - The Math Sorcerer
+
 * [The Only Physics Video You Will Ever Need](https://youtu.be/ZcoyWNliZhw) - The Math Sorcerer
 
 * [And this is how we review RPGs. What is truly important?](https://youtu.be/QWD6AQWlIfw) - Ye Old Entertainment
