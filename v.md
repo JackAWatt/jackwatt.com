@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/01
+
+* [Final Fantasy - An Entire Series Retrospective and Analysis](https://youtu.be/cMduvZhatYY) - NeverKnowsBest
+
 #### 2023/09/30
 
 * [Asmongold Vs Rhykker: Diablo IV, Path of Exile, Fun Factor, Difficulty and builds](https://youtu.be/vyILTOACg4E) - Ye Old Entertainment
