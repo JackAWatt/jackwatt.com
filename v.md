@@ -2,6 +2,8 @@
 
 #### 2023/10/01
 
+* [The Only Physics Video You Will Ever Need](https://youtu.be/ZcoyWNliZhw) - The Math Sorcerer
+
 * [And this is how we review RPGs. What is truly important?](https://youtu.be/QWD6AQWlIfw) - Ye Old Entertainment
 
 * [Final Fantasy - An Entire Series Retrospective and Analysis](https://youtu.be/cMduvZhatYY) - NeverKnowsBest
