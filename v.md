@@ -1,5 +1,12 @@
 ###### Videos and Podcasts
 
+#### 2023/10/02
+
+* [Best Games (we've reviewed so far) per category. Baldur's Gate II, Torment, Arcanum. Where's yours?](https://youtu.be/SGyIKBWG9MY) - Ye Old Entertainment
+
+* [Best CRPGs For Beginners & Where To Go From There](https://youtu.be/I02IAUnT0g0) - Mortismal Gaming
+
+
 #### 2023/10/01
 
 * [Wasteland 3 Review. Is it truly the Fallout spiritual successor you have been waiting for?](https://youtu.be/oOe71fSqw0I) - Ye Old Entertainment
