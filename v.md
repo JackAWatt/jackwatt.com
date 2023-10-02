@@ -2,6 +2,8 @@
 
 #### 2023/10/01
 
+* [Wasteland 3 Review. Is it truly the Fallout spiritual successor you have been waiting for?](https://youtu.be/oOe71fSqw0I) - Ye Old Entertainment
+
 * [Monster train review: Ah! a worthy successor to Slay the Spire](https://youtu.be/1n8VEHTaxc4) - Ye Old Entertainment
 
 * [The Most Important Math Test](https://youtu.be/NDuQRk9MajI) - The Math Sorcerer
