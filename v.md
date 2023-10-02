@@ -2,6 +2,8 @@
 
 #### 2023/10/01
 
+* [Monster train review: Ah! a worthy successor to Slay the Spire](https://youtu.be/1n8VEHTaxc4) - Ye Old Entertainment
+
 * [The Most Important Math Test](https://youtu.be/NDuQRk9MajI) - The Math Sorcerer
 
 * [The Only Physics Video You Will Ever Need](https://youtu.be/ZcoyWNliZhw) - The Math Sorcerer
