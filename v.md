@@ -2,6 +2,8 @@
 
 #### 2023/10/02
 
+* [How GOOD Is 1,000 Chess Elo?](https://youtu.be/NZhdAPhq7eM) - GothamChess
+
 * [How to WIN with the London System!](https://youtu.be/ECMMct_jnEM) - GothamChess
 
 * [The History of MMOs (and where it all went wrong) - Part One](https://youtu.be/IHQE0ILci4o) - NeverKnowsBest
