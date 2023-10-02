@@ -2,6 +2,8 @@
 
 #### 2023/10/02
 
+* [Want to become 1200 at Chess?](https://youtu.be/U62QrEGJ--M) - GothamChess
+
 * [How GOOD Is 1,000 Chess Elo?](https://youtu.be/NZhdAPhq7eM) - GothamChess
 
 * [How to WIN with the London System!](https://youtu.be/ECMMct_jnEM) - GothamChess
