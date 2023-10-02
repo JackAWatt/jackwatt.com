@@ -2,7 +2,7 @@
 
 #### 2023/10/02
 
-* [The History of MMOs (and where it all went wrong)](https://youtu.be/IHQE0ILci4o) - NeverKnowsBest
+* [The History of MMOs (and where it all went wrong) - Part One](https://youtu.be/IHQE0ILci4o) - NeverKnowsBest
 
 * [Best Games (we've reviewed so far) per category. Baldur's Gate II, Torment, Arcanum. Where's yours?](https://youtu.be/SGyIKBWG9MY) - Ye Old Entertainment
 
