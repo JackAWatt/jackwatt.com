@@ -2,6 +2,8 @@
 
 #### 2023/10/03
 
+* [The History of MMOs (and where it all went wrong) - Part Three](https://youtu.be/IHQE0ILci4o?t=1668) - NeverKnowsBest
+
 * [Magnus Carlsen vs 2500: The Difference](https://youtu.be/slvH7xZ_msc)
 
 * [The Mathematics of Secrets](https://youtu.be/KYFIC_PJcYU) - The Math Sorcerer
