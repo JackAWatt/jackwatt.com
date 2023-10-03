@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/03
+
+* [The History of MMOs (and where it all went wrong) - Part Two](https://youtu.be/IHQE0ILci4o?t=1668) - NeverKnowsBest
+
 #### 2023/10/02
 
 * [Want to become 1200 at Chess?](https://youtu.be/U62QrEGJ--M) - GothamChess
