@@ -2,6 +2,8 @@
 
 #### 2023/10/03
 
+* [The Mathematics of Secrets](https://youtu.be/KYFIC_PJcYU) - The Math Sorcerer
+
 * [The History of MMOs (and where it all went wrong) - Part Two](https://youtu.be/IHQE0ILci4o?t=1668) - NeverKnowsBest
 
 #### 2023/10/02
