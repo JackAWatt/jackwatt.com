@@ -2,6 +2,8 @@
 
 #### 2023/10/04
 
+* [Precalculus: Mathematics for Calculus](https://youtu.be/N-JXs_n2JhI) - The Math Sorcerer
+
 * [STOP PLAYING These 4 Chess Openings](https://youtu.be/GLpYQCCcZ6w) - GothamChess
 
 * [CHESS STEPS #2 (600-1000)](https://youtu.be/ScY7qXkmTwA) - GothamChess
