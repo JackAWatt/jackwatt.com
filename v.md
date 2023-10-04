@@ -2,7 +2,7 @@
 
 #### 2023/10/04
 
-* [STOP PLAYING These 4 Chess Openings](https://youtu.be/GLpYQCCcZ6w)
+* [STOP PLAYING These 4 Chess Openings](https://youtu.be/GLpYQCCcZ6w) - GothamChess
 
 * [CHESS STEPS #2 (600-1000)](https://youtu.be/ScY7qXkmTwA) - GothamChess
 
