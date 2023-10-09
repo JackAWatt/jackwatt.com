@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/09
+
+* [How To Be More Socially Attractive - Charlie Houpert / Modern Wisdom Podcast 420](https://www.youtube.com/watch?v=XieCU9nzrl8)
+
 #### 2023/10/04
 
 * [Precalculus: Mathematics for Calculus](https://youtu.be/N-JXs_n2JhI) - The Math Sorcerer
