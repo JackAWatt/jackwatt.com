@@ -1,8 +1,12 @@
 ###### Videos and Podcasts
 
+#### 2023/10/10
+
+* [Why Do People Lie About Their Relationships? - Daniel Sloss](https://youtu.be/fQuzntznSvg) - Modern Wisdom
+
 #### 2023/10/09
 
-* [How To Be More Socially Attractive - Charlie Houpert / Modern Wisdom Podcast 420](https://www.youtube.com/watch?v=XieCU9nzrl8)
+* [How To Be More Socially Attractive - Charlie Houpert](https://www.youtube.com/watch?v=XieCU9nzrl8) - Modern Wisdom
 
 #### 2023/10/04
 
