@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/12
+
+* [Planescape Torment review: the GOAT of RPGs? Does it compare with Baldur's Gate 2 and Icewind Dale](https://youtu.be/ZqmfSFLw_HI) - Ye Old Entertainment
+
 #### 2023/10/10
 
 * [Why Do People Lie About Their Relationships? - Daniel Sloss](https://youtu.be/fQuzntznSvg) - Modern Wisdom
