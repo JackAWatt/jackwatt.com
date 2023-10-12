@@ -2,6 +2,8 @@
 
 #### 2023/10/12
 
+* [Icewind Dale review: Is it living in the shadows of Baldur's Gate? Is this RPG worth playing in 2021](https://youtu.be/mXI20SjDHAQ) - Ye Old Entertainment
+
 * [Planescape Torment review: the GOAT of RPGs? Does it compare with Baldur's Gate 2 and Icewind Dale](https://youtu.be/ZqmfSFLw_HI) - Ye Old Entertainment
 
 #### 2023/10/10
