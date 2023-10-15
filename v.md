@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/15
+
+* [Baldur's Gate 3 Review: best RPG ever made? utterly overrated? or somewhere in between?](https://youtu.be/DGSBECjCMX4) - Ye Old Entertainment
+
 #### 2023/10/12
 
 * [Icewind Dale review: Is it living in the shadows of Baldur's Gate? Is this RPG worth playing in 2021](https://youtu.be/mXI20SjDHAQ) - Ye Old Entertainment
