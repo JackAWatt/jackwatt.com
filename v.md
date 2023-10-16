@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/16
+
+* [Top 10 Expansion Packs in RPGs: Mass Effect, Dark Souls, Underrail, Diablo 3, what's your favorite?](https://youtu.be/T3_7WYnEORk) - Ye Old Entertainment
+
 #### 2023/10/15
 
 * [Baldur's Gate 3 Review: best RPG ever made? utterly overrated? or somewhere in between?](https://youtu.be/DGSBECjCMX4) - Ye Old Entertainment
