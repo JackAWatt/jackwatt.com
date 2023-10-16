@@ -2,6 +2,8 @@
 
 #### 2023/10/16
 
+* [Do LLMs Make Ethical Choices - Josh Albrecht, CTO of Imbue](https://youtu.be/Lb6lH7YM7Mk) - Data Skeptic
+
 * [Top 10 Expansion Packs in RPGs: Mass Effect, Dark Souls, Underrail, Diablo 3, what's your favorite?](https://youtu.be/T3_7WYnEORk) - Ye Old Entertainment
 
 #### 2023/10/15
