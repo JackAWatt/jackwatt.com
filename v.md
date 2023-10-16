@@ -2,7 +2,7 @@
 
 #### 2023/10/16
 
-* [Why Is Modern Dating Such A Mess? - Sadia Khan](https://youtu.be/mm9y7YbUZUI) -  - Modern Wisdom 694
+* [Why Is Modern Dating Such A Mess? - Sadia Khan](https://youtu.be/mm9y7YbUZUI) -  - Modern Wisdom
 
 * [Do LLMs Make Ethical Choices - Josh Albrecht, CTO of Imbue](https://youtu.be/Lb6lH7YM7Mk) - Data Skeptic
 
