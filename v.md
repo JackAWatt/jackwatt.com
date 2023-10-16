@@ -2,8 +2,6 @@
 
 #### 2023/10/16
 
-* [Stop Being A Low Value Man](https://youtu.be/or6A1Pl04ss) - HealthyGamerGG
-
 * [Why Is Modern Dating Such A Mess? - Sadia Khan](https://youtu.be/mm9y7YbUZUI) -  - Modern Wisdom
 
 * [Do LLMs Make Ethical Choices - Josh Albrecht, CTO of Imbue](https://youtu.be/Lb6lH7YM7Mk) - Data Skeptic
