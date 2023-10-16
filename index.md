@@ -96,6 +96,18 @@
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
 * [Cooking For Engineers](https://www.cookingforengineers.com/) - Have an analytical mind? Like to cook? This is the site to read!
 
+##### Video Games
+
+* [Ye Old Entertainment](https://www.youtube.com/@YeOldEntertainment) - Retrospectives on older CRPGs
+* [NeverKnowsBest](https://www.youtube.com/@NeverKnowsBest) - Histories and Retrospectives
+* [Mortismal Gaming](https://www.youtube.com/@MortismalGaming/videos) - RPGs
+* [Erick Landon RPG](https://www.youtube.com/@ErickLandonRPG) - JRPGs
+* [Just the Gems](https://www.youtube.com/@JustTheGems) - JRPGs
+* [Backlog Battle](https://www.youtube.com/@BacklogBattle) - JRPGs
+* [Karl Jobst](https://www.youtube.com/@karljobst) - Speedrunning
+* [Suggestive Gaming](https://www.youtube.com/@SuggestiveGaming) - Storytelling
+* [Matt Draper](https://www.youtube.com/@MattDraper/videos) - Storytelling
+
 ##### My History
 
 * [Videos and Podcasts](http://jackwatt.com/v)
