@@ -2,6 +2,8 @@
 
 #### 2023/10/17
 
+* [How to find equivalent expressions by combining like terms and using the distributive property](https://youtu.be/rHNY01R2VSQ - Khan Academy
+
 * [Examples of simplifying expressions involving rational numbers](https://youtu.be/rtNuo7R3scY) - Khan Academy
 
 * [Adam Mastroianni on Learning and Mostly Forgetting](https://youtu.be/KZ9SXxeCRKY) - EconTalk
