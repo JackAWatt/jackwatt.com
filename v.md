@@ -2,6 +2,8 @@
 
 #### 2023/10/17
 
+* [Examples of simplifying expressions involving rational numbers](https://youtu.be/rtNuo7R3scY) - Khan Academy
+
 * [Adam Mastroianni on Learning and Mostly Forgetting](https://youtu.be/KZ9SXxeCRKY) - EconTalk
 
 #### 2023/10/16
