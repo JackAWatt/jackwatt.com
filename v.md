@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/17
+
+* [Adam Mastroianni on Learning and Mostly Forgetting](https://youtu.be/KZ9SXxeCRKY) - EconTalk
+
 #### 2023/10/16
 
 * [Why Is Modern Dating Such A Mess? - Sadia Khan](https://youtu.be/mm9y7YbUZUI) -  - Modern Wisdom
