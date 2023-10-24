@@ -1,7 +1,7 @@
 
 * My suggestion is to start with the first link(SQL Challenges on HackerRank). 
 * If you need a refresher on SQL then check out Learn SQL under learning platforms. It's interactive and everything can be completed in the browser
-* The book Learn SQL the hard way is also a good starting point, and will be the most in depth option, but it requires installing sqlite on your machine
+* The book Learn SQL the hard way is also a good starting point, and will be the most in depth option, but it requires installing sqlite on a linux machine. You could do windows, but the instructions are all for linux.
 
 #### Challenges
 
