@@ -1,8 +1,12 @@
 ###### Videos and Podcasts
 
+#### 2023/10/24
+
+* [How To Succeed In The Modern Dating Market - Sadia Khan](https://www.youtube.com/shorts/yDkAUedhjXA) - Modern Wisdom
+
 #### 2023/10/19
 
-* [Patrick Bet David - A Deep & Spiritual Conversation](https://youtu.be/CkKcpjVBxvk) - George Janko
+* [Patrick Bet David - A Deep & Spiritual Conversation](https://youtu.be/CkKcpjVBxvk) - George Janko - DNF
 
 #### 2023/10/17
 
