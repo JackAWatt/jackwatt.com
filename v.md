@@ -2,6 +2,8 @@
 
 #### 2023/10/24
 
+* [Why 70% Relationships End in The First Year / Sadia Khan](https://youtu.be/ExaMJRg5xks) - Lewis Howes
+
 * [How To Succeed In The Modern Dating Market - Sadia Khan](https://www.youtube.com/shorts/yDkAUedhjXA) - Modern Wisdom
 
 #### 2023/10/19
