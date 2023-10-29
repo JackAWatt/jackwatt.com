@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/29
+
+* [Shia LaBeouf on REAL ONES with Jon Bernthal](https://youtu.be/nnVKqQiQyTQ?list=TLPQMjkxMDIwMjM8apPsQWO6xg)
+
 #### 2023/10/24
 
 * [Why 70% Relationships End in The First Year / Sadia Khan](https://youtu.be/ExaMJRg5xks) - Lewis Howes
