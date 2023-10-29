@@ -2,6 +2,8 @@
 
 #### 2023/10/29
 
+* [#1 Dating Coach Reveals The Red Flags Everyone Should Know - Matthew Hussey](https://youtu.be/dR-plImpf_8) - Modern Wisdom
+
 * [Shia LaBeouf on REAL ONES with Jon Bernthal](https://youtu.be/nnVKqQiQyTQ?list=TLPQMjkxMDIwMjM8apPsQWO6xg)
 
 #### 2023/10/24
