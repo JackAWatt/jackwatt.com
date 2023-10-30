@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/30
+
+* [3 Things that Make a Man Look "High Status"](https://youtu.be/HmF_0iRTPqE) - How to Beast
+
 #### 2023/10/29
 
 * [#1 Dating Coach Reveals The Red Flags Everyone Should Know - Matthew Hussey](https://youtu.be/dR-plImpf_8) - Modern Wisdom
