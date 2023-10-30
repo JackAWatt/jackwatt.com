@@ -2,7 +2,9 @@
 
 #### 2023/10/30
 
-* ["I'm 30% Body Fat... What Should I Do?"](https://youtu.be/P5COM98y4VI)
+* [The Victims of Bill Burr](https://youtu.be/XlIsOLPp_IY) - Patrick CC:
+
+* ["I'm 30% Body Fat... What Should I Do?"](https://youtu.be/P5COM98y4VI) - Mario Tomic
 
 * [JWaller REVEALS Tate’s #1 Mistake, Multiple Wives, & NoFap Lies](https://youtu.be/6e6P0Y2T7CM) - How to Beast Talks
 
