@@ -2,6 +2,8 @@
 
 #### 2023/10/30
 
+* [5 Things I Do Every Day to Stay in Shape (all year round)](https://youtu.be/JvFDp-mcEMI)
+
 * [5 Most Underrated Habits to Get Lean](https://youtu.be/i2T_0FGhVkM) - How to Beast
 
 * [3 Things that Make a Man Look "High Status"](https://youtu.be/HmF_0iRTPqE) - How to Beast
