@@ -2,7 +2,9 @@
 
 #### 2023/10/30
 
-* [How I'd Train if I started over from ZERO Gains (mistakes to avoid)](https://youtu.be/xYzmKsvyqjQ)
+* [The Exercises That Built My Physique (Top 6 for an Aesthetic Body)](https://youtu.be/iI6jmfQkmCs) - How to Beast
+
+* [How I'd Train if I started over from ZERO Gains (mistakes to avoid)](https://youtu.be/xYzmKsvyqjQ) - How to Beast
 
 * [5 Things I Do Every Day to Stay in Shape (all year round)](https://youtu.be/JvFDp-mcEMI) - How to Beast
 
