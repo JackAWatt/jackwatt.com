@@ -2,6 +2,8 @@
 
 #### 2023/10/30
 
+* [4 Early Signs You’re Not Building Muscle (You Need To Know This!)](https://youtu.be/K3kn_V8RTbs) - Mario Tomic
+
 * [The Victims of Bill Burr](https://youtu.be/XlIsOLPp_IY) - Patrick CC:
 
 * ["I'm 30% Body Fat... What Should I Do?"](https://youtu.be/P5COM98y4VI) - Mario Tomic
