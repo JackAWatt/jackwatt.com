@@ -2,6 +2,8 @@
 
 #### 2023/10/30
 
+* [How I'd Train if I started over from ZERO Gains (mistakes to avoid)](https://youtu.be/xYzmKsvyqjQ)
+
 * [5 Things I Do Every Day to Stay in Shape (all year round)](https://youtu.be/JvFDp-mcEMI) - How to Beast
 
 * [5 Most Underrated Habits to Get Lean](https://youtu.be/i2T_0FGhVkM) - How to Beast
