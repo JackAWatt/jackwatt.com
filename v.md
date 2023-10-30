@@ -2,6 +2,8 @@
 
 #### 2023/10/30
 
+* [JWaller REVEALS Tate’s #1 Mistake, Multiple Wives, & NoFap Lies](https://youtu.be/6e6P0Y2T7CM) - How to Beast Talks
+
 * [My Wife REVEALS Submitting to Me, Her Problem with Feminism & Spending All Our Money](https://youtu.be/vE4dQdJCIG8) - How to Beast Talks
 
 * [A Generation of LOST MEN (The Masculinity Crisis)](https://youtu.be/PPNPIUNjkro) - How to Beast
