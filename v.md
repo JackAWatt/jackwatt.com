@@ -2,7 +2,7 @@
 
 #### 2023/10/30
 
-* [My Wife REVEALS Submitting to Me, Her Problem with Feminism & Spending All Our Money](https://youtu.be/vE4dQdJCIG8) - How to Beast
+* [My Wife REVEALS Submitting to Me, Her Problem with Feminism & Spending All Our Money](https://youtu.be/vE4dQdJCIG8) - How to Beast Talks
 
 * [A Generation of LOST MEN (The Masculinity Crisis)](https://youtu.be/PPNPIUNjkro) - How to Beast
 
