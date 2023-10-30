@@ -2,6 +2,8 @@
 
 #### 2023/10/30
 
+* [A Generation of LOST MEN (The Masculinity Crisis)](https://youtu.be/PPNPIUNjkro) - How to Beast
+
 * [The Exercises That Built My Physique (Top 6 for an Aesthetic Body)](https://youtu.be/iI6jmfQkmCs) - How to Beast
 
 * [How I'd Train if I started over from ZERO Gains (mistakes to avoid)](https://youtu.be/xYzmKsvyqjQ) - How to Beast
