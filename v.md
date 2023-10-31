@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/10/31
+
+* [Why Ab Workouts Are A Waste Of Time (DO THIS INSTEAD!)](https://youtu.be/FXloHGTJ_k0) - Sean Nalewanyj
+
 #### 2023/10/30
 
 * [4 Early Signs You’re Not Building Muscle (You Need To Know This!)](https://youtu.be/K3kn_V8RTbs) - Mario Tomic
