@@ -2,6 +2,8 @@
 
 #### 2023/10/31
 
+* [How To Eat To Gain Muscle (THE 3 MOST IMPORTANT RULES!)](https://youtu.be/6y-R3dNx4vA) - Sean Nalewanyj
+
 * [10 Worst Things To Do Before A Workout (AVOID THESE)](https://youtu.be/mC4fpcZPiLg) - Sean Nalewanyj
 
 * [The No. 1 Reason a Man SUDDENLY COMMITS / Lewis Howes](https://youtu.be/-SwZiU2kw-Y) - Matthew Hussey
