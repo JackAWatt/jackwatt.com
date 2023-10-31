@@ -2,6 +2,8 @@
 
 #### 2023/10/31
 
+* [The BEST Way to Use Cardio to Lose Fat (Based on Science)](https://youtu.be/yWnacRo2VbA) - Jeremy Ethier
+
 * [Finding Courage To Communicate](https://youtu.be/UGjQtBTaSMY) - Give It To Me Straight Podcast
 
 * [How To Eat To Gain Muscle (THE 3 MOST IMPORTANT RULES!)](https://youtu.be/6y-R3dNx4vA) - Sean Nalewanyj
