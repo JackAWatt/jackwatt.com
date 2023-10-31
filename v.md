@@ -2,6 +2,8 @@
 
 #### 2023/10/31
 
+* [The No. 1 Reason a Man SUDDENLY COMMITS / Lewis Howes](https://youtu.be/-SwZiU2kw-Y) - Matthew Hussey
+
 * [Why Ab Workouts Are A Waste Of Time (DO THIS INSTEAD!)](https://youtu.be/FXloHGTJ_k0) - Sean Nalewanyj
 
 #### 2023/10/30
