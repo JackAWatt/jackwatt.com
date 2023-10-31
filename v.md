@@ -2,6 +2,8 @@
 
 #### 2023/10/31
 
+* [Finding Courage To Communicate](https://youtu.be/UGjQtBTaSMY) - Give It To Me Straight Podcast
+
 * [How To Eat To Gain Muscle (THE 3 MOST IMPORTANT RULES!)](https://youtu.be/6y-R3dNx4vA) - Sean Nalewanyj
 
 * [10 Worst Things To Do Before A Workout (AVOID THESE)](https://youtu.be/mC4fpcZPiLg) - Sean Nalewanyj
