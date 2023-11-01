@@ -2,6 +2,8 @@
 
 #### 2023/11/01
 
+* [How to BECOME a High Value Man (3 key steps)](https://youtu.be/IYfgZV3NAos) - How to Beast
+
 * [3 Reasons You LOST the Girl (ATTRACTION KILLERS)](https://youtu.be/DY_GwUDVtHc) - How to Beast
 
 * [6 Things Introverts Need in a Partner](https://youtu.be/5nPxSq3tFrI) - Psych2Go
