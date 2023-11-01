@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/11/01
+
+* [6 Things Introverts Need in a Partner](https://youtu.be/5nPxSq3tFrI) - Psych2Go
+
 #### 2023/10/31
 
 * [The BEST Way to Use Cardio to Lose Fat (Based on Science)](https://youtu.be/yWnacRo2VbA) - Jeremy Ethier
