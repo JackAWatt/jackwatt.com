@@ -2,6 +2,8 @@
 
 #### 2023/11/01
 
+* [How to Unf*ck Your Life](https://youtu.be/xtaqbWomixg) - How to Beast
+
 * [How to Be Confident in ANY Situation](https://youtu.be/DulJTDPtEgA) - How to Beast
 
 * [How to BECOME a High Value Man (3 key steps)](https://youtu.be/IYfgZV3NAos) - How to Beast
