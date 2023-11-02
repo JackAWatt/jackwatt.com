@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/11/02
+
+* [5 Things I Wish I STOPPED Sooner](https://youtu.be/881stKXE9W0) - How to Beast
+
 #### 2023/11/01
 
 * [How to Unf*ck Your Life](https://youtu.be/xtaqbWomixg) - How to Beast
