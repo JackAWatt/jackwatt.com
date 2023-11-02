@@ -2,6 +2,8 @@
 
 #### 2023/11/02
 
+* [You Can Have It All As A Man](https://youtu.be/xOo3Wj1tLlk) - How to Beast
+
 * [5 Things I Wish I STOPPED Sooner](https://youtu.be/881stKXE9W0) - How to Beast
 
 #### 2023/11/01
