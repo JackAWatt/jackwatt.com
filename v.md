@@ -2,6 +2,8 @@
 
 #### 2023/11/03
 
+* [Why We Become “Too Nice” When We Like Someone](https://youtu.be/8nAPKAKyy_A) - Matthew Hussey
+
 * [What Happens When Men Face Their Fears...](https://youtu.be/xOo3Wj1tLlk) - How to Beast
 
 * [3 Bad Habits Keeping Men Weak](https://youtu.be/lRYroz4FrHM) - How to Beast
