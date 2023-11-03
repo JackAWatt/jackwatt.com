@@ -2,6 +2,8 @@
 
 #### 2023/11/03
 
+* [What Happens When Men Face Their Fears...](https://youtu.be/xOo3Wj1tLlk) - How to Beast
+
 * [3 Bad Habits Keeping Men Weak](https://youtu.be/lRYroz4FrHM) - How to Beast
 
 * [3 Bad Habits that DESTROY your Confidence](https://youtu.be/5SCIzqmaMsg) - How to Beast
