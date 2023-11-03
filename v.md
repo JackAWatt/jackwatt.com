@@ -1,8 +1,10 @@
 ###### Videos and Podcasts
 
-#### 2023/11/02
+#### 2023/11/03
 
 * [3 Bad Habits that DESTROY your Confidence](https://youtu.be/5SCIzqmaMsg) - How to Beast
+
+#### 2023/11/02
 
 * [You Can Have It All As A Man](https://youtu.be/xOo3Wj1tLlk) - How to Beast
 
