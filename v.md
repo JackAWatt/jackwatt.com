@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/11/06
+
+* [FULL GUIDE TO UNF*CK YOUR LIFE](https://youtu.be/ESO0MATHZtE) - How to Beast
+
 #### 2023/11/03
 
 * [Why We Become “Too Nice” When We Like Someone](https://youtu.be/8nAPKAKyy_A) - Matthew Hussey
