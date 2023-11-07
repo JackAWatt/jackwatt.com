@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/11/07
+
+* [The 7 Rules To Become Unshakeable](https://youtu.be/CT-bYTPPPdM) - Shi Heng Yi
+
 #### 2023/11/06
 
 * [FULL GUIDE TO UNF*CK YOUR LIFE](https://youtu.be/ESO0MATHZtE) - How to Beast
