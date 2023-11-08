@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/11/08
+
+* [Patrick Bet-David - Why Does No One Trust The Media Anymore?](https://youtu.be/dMPLCie1G_I) - Chris Williamson
+
 #### 2023/11/07
 
 * [The 7 Rules To Become Unshakeable](https://youtu.be/CT-bYTPPPdM) - Shi Heng Yi
