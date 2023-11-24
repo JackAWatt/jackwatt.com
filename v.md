@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/11/24
+
+* [5 Stoic Rules That Turn Boys Into Men](https://youtu.be/uQbPyGOh8EU) - How to Beast
+
 #### 2023/11/08
 
 * [Patrick Bet-David - Why Does No One Trust The Media Anymore?](https://youtu.be/dMPLCie1G_I) - Chris Williamson
