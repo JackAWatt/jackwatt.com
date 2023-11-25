@@ -2,6 +2,8 @@
 
 #### 2023/11/24
 
+* [Mike Munger on Exchange, Exploitation and Euvoluntary Transactions](https://youtu.be/1rbWR_RoTXI) - EconTalk
+
 * [5 Stoic Rules That Turn Boys Into Men](https://youtu.be/uQbPyGOh8EU) - How to Beast
 
 #### 2023/11/08
