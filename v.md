@@ -1,5 +1,10 @@
 ###### Videos and Podcasts
-####2023/11/27
+
+#### 2023/11/30
+
+* [ Revealing the Book Club Schedule for 2024 (Hardcore Literature)](https://youtu.be/lVTJ3IsrCNU)- Benjamin McEvoy
+
+#### 2023/11/27
 
 * [Tyler Cowen on the GOAT of Economics 11/27/23](https://youtu.be/_jDiL220E4M) - EconTalk
 
