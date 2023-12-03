@@ -1,5 +1,13 @@
 ###### Videos and Podcasts
 
+#### 2023/12/03
+
+* [Jimmy O. Yang (Silicon Valley, Love Hard) / HAIYAA #20](https://youtu.be/tJibiO8HDJo)
+
+####2023/12/02
+
+* [Tyler Cowen on the GOAT of Economics](https://youtu.be/_jDiL220E4M) - EconTalk
+
 #### 2023/11/30
 
 * [ Revealing the Book Club Schedule for 2024 (Hardcore Literature)](https://youtu.be/lVTJ3IsrCNU)- Benjamin McEvoy
