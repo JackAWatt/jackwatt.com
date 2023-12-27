@@ -71,6 +71,8 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 * Tartuff - Moliere
 * Mathematical Principles of Natural Philosophy - Newton
 * Theological-Political Treatise, Spinoza
+* The Rover - Aphra Behn
+* Oroonoko - Aphra Behn
 * Pensées, Pascal
 * Ethics, Spinoza
 * Second Treatise of Government, Locke
