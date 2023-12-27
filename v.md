@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/12/27
+
+* [The Most Important Female Author You've Never Heard Of](https://www.youtube.com/watch?v=KD8zIPSJI7o) - Drawn to Books
+
 #### 2023/12/03
 
 * [Jimmy O. Yang (Silicon Valley, Love Hard) / HAIYAA #20](https://youtu.be/tJibiO8HDJo)
