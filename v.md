@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2023/12/30
+
+* [ Master Shi Heng Yi – 5 hindrances to self-mastery / Shi Heng YI / TEDxVitosha ](https://youtu.be/4-079YIasck)
+
 #### 2023/12/27
 
 * [The Most Important Female Author You've Never Heard Of](https://www.youtube.com/watch?v=KD8zIPSJI7o) - Drawn to Books
