@@ -1,5 +1,15 @@
 ###### Videos and Podcasts
 
+#### 2024/01/15
+
+* [Rails Bridge with Sarah Mei](https://open.spotify.com/episode/6uNxqn7EkchmJbEPHGZsYR?si=d0671760fe7947f1 - Ruby Rogues
+
+* [Functional vs Object Oriented Programming with Michael Feathers](https://open.spotify.com/episode/25K2x4ogbmBiPhTIEUB2gL?si=aYKFea5BQE6oc1azYai6xw) - Ruby Rogues
+
+#### 2023/01/14
+
+* [Michael Munger on Obedience to the Unenforceable](https://youtu.be/kH_PBO0W8Oc) - EconTalk
+
 #### 2023/12/30
 
 * [ Master Shi Heng Yi – 5 hindrances to self-mastery / Shi Heng YI / TEDxVitosha ](https://youtu.be/4-079YIasck)
