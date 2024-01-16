@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/01/16
+
+* [Rhetoric - Joseph Wilk](https://open.spotify.com/episode/4xElvxaFQx8PklYWCQGpgP?si=556a1c83a95b494c) - Ruby Rogues
+
 #### 2024/01/15
 
 * [Rails Bridge with Sarah Mei](https://open.spotify.com/episode/6uNxqn7EkchmJbEPHGZsYR?si=d0671760fe7947f1) - Ruby Rogues
