@@ -2,6 +2,10 @@
 
 #### 2024/01/16
 
+* [Why Ruby Sucks](https://open.spotify.com/episode/4A2vb4fwG7hvOQ6VaPeuFB?si=177a3f4c00034b5e) - Ruby Rogues
+
+* [It Only Takes Two Weeks](https://youtu.be/sZ60bY2pJfo) - The Math Sorcerer
+ 
 * [Rhetoric - Joseph Wilk](https://open.spotify.com/episode/4xElvxaFQx8PklYWCQGpgP?si=556a1c83a95b494c) - Ruby Rogues
 
 #### 2024/01/15
