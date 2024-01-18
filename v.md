@@ -1,5 +1,11 @@
 ###### Videos and Podcasts
 
+#### 2024/01/17
+
+* [What's Missing? with Greg Wilson](https://open.spotify.com/episode/0iM1pMVYC3o2yIbIcfysiP?si=2xaigRNuTZqTiqKsNc55yQ) - Ruby Rogues
+
+* [What We Actually Know About Software Development and Why We Believe It's True with Greg Wilson and Andreas Stefik](https://open.spotify.com/episode/0S7aI3OYGRcoLwYPMlwTox?si=5bc6085d6a734e2d) - Ruby Rogues
+
 #### 2024/01/16
 
 * [Why Ruby Sucks](https://open.spotify.com/episode/4A2vb4fwG7hvOQ6VaPeuFB?si=177a3f4c00034b5e) - Ruby Rogues
