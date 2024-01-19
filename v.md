@@ -1,5 +1,19 @@
 ###### Videos and Podcasts
 
+#### 2024/01/19
+
+* [Sneako Tries To Bait Dr K Into A Debate And Gets Shut Down Instantly](https://youtu.be/mOqO5xnBTXQ) - Destiny
+
+* [Confessions](https://open.spotify.com/episode/1GTguZznHfjZxnfIoo3TzK?si=653afee3cad3468a) - Ruby Rogues
+
+#### 2024/01/18
+
+* [Polyglot Programming](https://open.spotify.com/episode/5WAh6cKwSUR0K4sSls0Enm?si=1ed93624d21c48b0) - Ruby Rogues
+
+* [The Debugging Mindset with Danielle Sucher](https://open.spotify.com/episode/7lqD7POpCy0jgCVcXzwxlh?si=d74edd7c073b451e) - Ruby Rogues
+
+* [Function and Object Oriented Programming with Jessica Kerr](https://open.spotify.com/episode/5EWfLNpuAlFKDtAsqxrYe1?si=3dd19cd86c334c37) - Ruby Rogues
+
 #### 2024/01/17
 
 * [What's Missing? with Greg Wilson](https://open.spotify.com/episode/0iM1pMVYC3o2yIbIcfysiP?si=2xaigRNuTZqTiqKsNc55yQ) - Ruby Rogues
