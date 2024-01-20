@@ -1,5 +1,11 @@
 ###### Videos and Podcasts
 
+#### 2024/01/20
+
+* [Evaluating yourself](https://open.spotify.com/episode/542d0K5zI6reAyWysdH8Qr?si=4ca1aa7202154317) - Ruby Rogues
+
+* [Gaming, Gamedev, and Mental Health w/ Thor from @PirateSoftware](https://youtu.be/430UIt6mLW4) - HealthyGamerGG
+
 #### 2024/01/19
 
 * [Sneako Tries To Bait Dr K Into A Debate And Gets Shut Down Instantly](https://youtu.be/mOqO5xnBTXQ) - Destiny
