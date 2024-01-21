@@ -1,5 +1,11 @@
 ###### Videos and Podcasts
 
+#### 2024/01/21
+
+* [Clueless Lawyer Defends The Completionist](https://youtu.be/2p5U4OfJ1NA) - Karl Jobst
+
+* [Eloquent Ruby by Russ Olsen](https://open.spotify.com/episode/3ejbYh10q4sULWpmMHvI0P?si=e2a7196eefaf498e) - Ruby Rogues
+
 #### 2024/01/20
 
 * [Evaluating yourself](https://open.spotify.com/episode/542d0K5zI6reAyWysdH8Qr?si=4ca1aa7202154317) - Ruby Rogues
