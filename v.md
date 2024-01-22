@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/01/22
+
+* [Programming Language Fundementals](https://open.spotify.com/episode/0nY9BcLP6uvCiDx12Vi9Ry?si=703557d93fa64298) - Ruby Rogues
+
 #### 2024/01/21
 
 * [Clueless Lawyer Defends The Completionist](https://youtu.be/2p5U4OfJ1NA) - Karl Jobst
