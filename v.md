@@ -2,7 +2,7 @@
 
 #### 2024/01/22
 
-* [Teen DESTROYS Shapiro with one calm question | Casually Debunked](https://www.youtube.com/watch?v=gxt0HqS24Oc) - Rationality Rules
+* [Teen DESTROYS Shapiro with one calm question / Casually Debunked](https://www.youtube.com/watch?v=gxt0HqS24Oc) - Rationality Rules
 
 * [Programming Language Fundementals](https://open.spotify.com/episode/0nY9BcLP6uvCiDx12Vi9Ry?si=703557d93fa64298) - Ruby Rogues
 
