@@ -2,6 +2,8 @@
 
 #### 2024/01/25
 
+* [11 books you need to read in 2024 *fiction*](https://youtu.be/4p_T6robNv0) - Jack Edwards
+
 * [Rebecca F. Kuang on National Literatures, Book Publishing, and History in Fiction](https://youtu.be/0KXw4ZgRSyU?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W) - Conversations with Tyler
 
 #### 2024/01/24
