@@ -1,5 +1,13 @@
 ###### Videos and Podcasts
 
+#### 2024/01/25
+
+* [Rebecca F. Kuang on National Literatures, Book Publishing, and History in Fiction](https://youtu.be/0KXw4ZgRSyU?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W) - Conversations with Tyler
+
+#### 2024/01/24
+
+* [Hidden Psychology Of The World’s Best Advertising - Rory Sutherland](https://youtu.be/DaYTvwe0Wo0) - Modern Wisdom
+
 #### 2024/01/22
 
 * [Alex O'Connor](https://youtu.be/cJcySv8Q9cQ) - Andrew Gold
