@@ -2,6 +2,8 @@
 
 #### 2024/01/26
 
+* [How to Become "Well Read"](https://youtu.be/cuf5EGsDPNY) - William Dozier
+
 * [What is the difference between a regular and irregular polygon](https://youtu.be/3g_s6LZ2MMo) - Brian McLogan
 
 #### 2024/01/25
