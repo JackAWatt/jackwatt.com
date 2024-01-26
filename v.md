@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/01/26
+
+* [What is the difference between a regular and irregular polygon](https://youtu.be/3g_s6LZ2MMo) - Brian McLogan
+
 #### 2024/01/25
 
 * [11 books you need to read in 2024 *fiction*](https://youtu.be/4p_T6robNv0) - Jack Edwards
