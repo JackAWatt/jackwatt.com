@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/01/27
+
+* [I'm FINALLY Starting The Stormlight Archive Series in 2024 - Here's Why I Waited](https://youtu.be/yZC4MUEUCHY) - Renfail
+
 #### 2024/01/26
 
 * [How to Become "Well Read"](https://youtu.be/cuf5EGsDPNY) - William Dozier
