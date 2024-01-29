@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/01/29
+
+* [Why dividing by zero is undefined](https://youtu.be/SQzjzStU1RQ) -KhanAcademy
+
 #### 2024/01/28
 
 * [We have an organ harvesting problem](https://youtu.be/BRzdiHG3_eY) - MrBallen
