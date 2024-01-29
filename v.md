@@ -2,6 +2,8 @@
 
 #### 2024/01/29
 
+* [The problem with dividing zero by zero](https://youtu.be/PDReqvXfkBA) - KhanAcademy
+
 * [Why dividing by zero is undefined](https://youtu.be/SQzjzStU1RQ) -KhanAcademy
 
 #### 2024/01/28
