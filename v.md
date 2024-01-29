@@ -8,7 +8,7 @@
 
 * [We have an organ harvesting problem](https://youtu.be/BRzdiHG3_eY) - MrBallen
 
-* [Deep Focus: Why Your Brain Needs Understimulation](https://youtu.be/qiZZbyHPHzc)
+* [Deep Focus: Why Your Brain Needs Understimulation](https://youtu.be/qiZZbyHPHzc) - Elizabeth Filips
 
 #### 2024/01/27
 
