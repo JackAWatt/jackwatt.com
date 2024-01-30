@@ -1102,6 +1102,59 @@
 
 * [Jacob Howland on the Hidden Human Costs of AI - EconTalk](https://www.youtube.com/watch?v=N9i93S37xyM)
 
+
+####  2021/12/20
+
+*[Log4j is a mess](https://open.spotify.com/episode/4tVlVMfEfNvkq2YBHpnk2H?si=917e0f3655ae4918) - Open Source Security Podcast
+
+#### 2021/12/17
+
+* [Annie Duke - How to Decide](https://open.spotify.com/episode/6axsOez1oosGOGHUbAwKOy?si=70a93a3de37f409e) - Infinte Loops
+
+#### 2021/10/27
+
+* [Stephen Wolfram: Complexity and the Fabric of Reality](https://open.spotify.com/episode/4oRi0gmKAKlgpG9anDShHk?si=2bd8fb96c9604880) - Lex Fridman
+
+#### 2021/09/17
+
+* [Vanessa Bohns (Part 2) : How to have more influence](https://open.spotify.com/episode/1F4yegYhSFu7mBpv2MjmlD?si=b3b51d0dd6164b3c) - The James Altucher Show
+
+#### 2021/09/11
+
+* [David Gelernter on Consciousness, Computers, and the Tides of Mind](https://open.spotify.com/episode/172ECHkJzZQiaYxKswf2Nb?si=787585e385574545) - EconTalk
+
+#### 2021/09/09
+
+* [Jack Schafer / Flipping the Like Switch part 2](https://open.spotify.com/episode/4jIqx9I6MQWQdvUF21ka2z?si=f4977a6a133945ce) - The Jordan Harbinger Show
+
+#### 2021/09/07
+
+* [Consilience: The Unity of Knowledge](https://open.spotify.com/episode/5sIzGurRjF9IhJqcnyjqeN?si=acb5b76fe67c44c4) - Rationality Speaking
+
+#### 2021/09/05
+
+* [Jordan Peterson on 12 Rules for Life](https://open.spotify.com/episode/3bEJcwCFPRNAZM1PbPVxQO?si=4c56b7f42c2046d0) - EconTalk
+
+#### 2021/09/04
+
+* [Ryan Holiday on Ego is the Enemy](https://open.spotify.com/episode/0jKWmjwjNDJBINZmDZJ7Q3?si=cb3b56deb8a34847) - EconTalk
+
+* [Tim O'Reilly on Technology and Work](https://open.spotify.com/episode/1qga3DMB2QwgbG9HRpm32U?si=173af32f1199454b) - EconTalk
+
+#### 2021/09/03
+
+* [Tyler Cowen on The Complacent Class](https://open.spotify.com/episode/1w25twVFNYcqc16vW5aWO5?si=2c25f2f88ca2476b) - EconTalk
+
+#### 2021/09/01
+
+* [Invisible Asperger's: Michelle Vines on Late-Life Diagnosis](https://open.spotify.com/episode/04JEXAIXu5kG0B4YFpI3Xv?si=1de7d52ba18f4921) - Point of Inquiry
+
+#### 2021/08/31
+
+* [Matt Dillahunty / Meta-Ethics and Veganism](https://open.spotify.com/episode/7gjtQZcHg4YQYuTy1f0tlr?si=e6a7838d32094f44) - Within Reason
+
+* [Skeptics Guide #842](https://open.spotify.com/episode/1Zu4FJvaGyfMrlrCZ8DBWK?si=241f71556b654985) - The Skeptics' Guide to the Universe
+
 #### ???? - these are videos and podcasts from before I started this list. 
 
 * [Lydia Davis on Language and Literature / Conversations with Tyler](https://youtu.be/1cTvW8h8Tas)
