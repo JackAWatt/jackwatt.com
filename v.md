@@ -2,6 +2,8 @@
 
 #### 2024/01/30
 
+* [Parasocial relationships in East Asia: A look into obsession](https://www.youtube.com/watch?v=u2Iy-WKeZrU) - Aini
+
 * [Katherine Gehl on Breaking Partisan Gridlock](https://youtu.be/tP6CJgemhNA) - The Jim Rutt Show
 
 * [Determining rates with fractions / 7th grade / Khan Academy](https://youtu.be/2DBBKArGfus) - KhanAcademy
