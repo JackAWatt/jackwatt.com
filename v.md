@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/01/30
+
+* [ Solving a two-step inequality / Linear inequalities / Algebra I / Khan Academy ](https://youtu.be/y7QLay8wrW8) - KhanAcademy
+
 #### 2024/01/29
 
 * [The problem with dividing zero by zero](https://youtu.be/PDReqvXfkBA) - KhanAcademy
