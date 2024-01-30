@@ -2,6 +2,8 @@
 
 #### 2024/01/30
 
+* [Dr Joe Dispenza Reacts To Theo Von & Sean Strickland On Trauma](https://youtu.be/p_3uHM6o0OY) - Chris Williamson
+
 * [ Solving a two-step inequality / Linear inequalities / Algebra I / Khan Academy ](https://youtu.be/y7QLay8wrW8) - KhanAcademy
 
 #### 2024/01/29
