@@ -2,6 +2,8 @@
 
 #### 2024/01/30
 
+* [Determining rates with fractions / 7th grade / Khan Academy](https://youtu.be/2DBBKArGfus) - KhanAcademy
+
 * [Why Chinese Students study so hard](https://youtu.be/RDkTgc1SeYU) - Aini
 
 * [Dr Joe Dispenza Reacts To Theo Von & Sean Strickland On Trauma](https://youtu.be/p_3uHM6o0OY) - Chris Williamson
