@@ -2,6 +2,8 @@
 
 #### 2024/01/30
 
+* [Katherine Gehl on Breaking Partisan Gridlock](https://youtu.be/tP6CJgemhNA) - The Jim Rutt Show
+
 * [Determining rates with fractions / 7th grade / Khan Academy](https://youtu.be/2DBBKArGfus) - KhanAcademy
 
 * [Why Chinese Students study so hard](https://youtu.be/RDkTgc1SeYU) - Aini
