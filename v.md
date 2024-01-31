@@ -2,6 +2,8 @@
 
 #### 2024/01/31
 
+* [stop denying women their autonomy.](https://youtu.be/asjmdBOUjQI) - olisunvia
+
 * [Guild Wars 2 is a Dead Game....](https://youtu.be/li0vli2m3vg) - LionMeows
 
 * [Why Chinese People Will Choose $5 Over $10](https://youtu.be/410JIy9y3_Y) - Aini
