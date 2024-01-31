@@ -2,6 +2,8 @@
 
 #### 2024/01/31
 
+* [I've Read Over 100 Books on Python. Here are the Top 3](https://youtu.be/MqywbqLmjp4) - Python Programmer
+
 * [stop denying women their autonomy.](https://youtu.be/asjmdBOUjQI) - olisunvia
 
 * [Guild Wars 2 is a Dead Game....](https://youtu.be/li0vli2m3vg) - LionMeows
