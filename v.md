@@ -1,5 +1,11 @@
 ###### Videos and Podcasts
 
+#### 2024/01/31
+
+* [Why Chinese People Will Choose $5 Over $10](https://youtu.be/410JIy9y3_Y) - Aini
+
+* [My 14-Year-Old Said She’s Bisexual (How Do We Respond?)](https://youtu.be/lRvPBsOU2bE) - The Dr John Delony Show
+
 #### 2024/01/30
 
 * [Parasocial relationships in East Asia: A look into obsession](https://www.youtube.com/watch?v=u2Iy-WKeZrU) - Aini
