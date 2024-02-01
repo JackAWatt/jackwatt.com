@@ -2,6 +2,10 @@
 
 #### 2024/01/31
 
+* [The Limits of Self-Knowledge - Stephen Fleming](https://open.spotify.com/episode/1ni679VUoefEa4JkbK8Nvn?si=039111c63e924465) - Making Sense with Sam Harris
+
+* [Deep Time - Oliver Burkeman](https://open.spotify.com/episode/2j3qPgyPCr7US3R0p69taD?si=7dfc3c3bb6f6461a) - Making Sense with Sam Harris
+
 * [I've Read Over 100 Books on Python. Here are the Top 3](https://youtu.be/MqywbqLmjp4) - Python Programmer
 
 * [stop denying women their autonomy.](https://youtu.be/asjmdBOUjQI) - olisunvia
