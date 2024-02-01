@@ -2,6 +2,8 @@
 
 #### 2024/02/01
 
+* [The STANFORD secret to MEMORISE anything FASTER](https://youtu.be/03LbEPVKXRs) - Julian Lin
+
 * [The STANFORD secret to learning 10x FASTER](https://youtu.be/r8MLGFbOhYM) - Julian Lin
 
 * [Why Spec Ops: The Line Mattered](https://youtu.be/tYk0BS84ItY) - Game Maker's Toolkit
