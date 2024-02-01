@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/01
+
+* ["Jordan Peterson: I can NOW OPENLY SHARE EVERY DETAIL with you!!"](https://youtu.be/MPDsTZoXUjo) - Point of View
+
 #### 2024/01/31
 
 * [The Limits of Self-Knowledge - Stephen Fleming](https://open.spotify.com/episode/1ni679VUoefEa4JkbK8Nvn?si=039111c63e924465) - Making Sense with Sam Harris
