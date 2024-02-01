@@ -2,6 +2,8 @@
 
 #### 2024/02/01
 
+* [The STANFORD secret to learning 10x FASTER](https://youtu.be/r8MLGFbOhYM) - Julian Lin
+
 * [Why Spec Ops: The Line Mattered](https://youtu.be/tYk0BS84ItY) - Game Maker's Toolkit
 
 * ["Jordan Peterson: I can NOW OPENLY SHARE EVERY DETAIL with you!!"](https://youtu.be/MPDsTZoXUjo) - Point of View
