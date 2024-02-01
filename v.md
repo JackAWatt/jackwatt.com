@@ -2,6 +2,8 @@
 
 #### 2024/02/01
 
+* [Why Spec Ops: The Line Mattered](https://youtu.be/tYk0BS84ItY) - Game Maker's Toolkit
+
 * ["Jordan Peterson: I can NOW OPENLY SHARE EVERY DETAIL with you!!"](https://youtu.be/MPDsTZoXUjo) - Point of View
 
 #### 2024/01/31
