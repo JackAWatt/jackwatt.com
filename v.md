@@ -2,6 +2,8 @@
 
 #### 2024/02/03
 
+* [2-Column Proof](https://youtu.be/R7okVQwM7Hc) - Cheryl Morehouse
+
 * [12 Minutes A Day Gets You "Rich" in GW2 - A Guild Wars 2 Gold Guide](https://youtu.be/UzfOMr0AWFU) - MukLuk
 
 #### 2024/02/01
