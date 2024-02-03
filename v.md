@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/03
+
+* [12 Minutes A Day Gets You "Rich" in GW2 - A Guild Wars 2 Gold Guide](https://youtu.be/UzfOMr0AWFU) - MukLuk
+
 #### 2024/02/01
 
 * [The STANFORD secret to MEMORISE anything FASTER](https://youtu.be/03LbEPVKXRs) - Julian Lin
