@@ -48,6 +48,8 @@
 
 #### 2024/01/29
 
+* [A Conversation So Intense it Might Transcend Time and Space / John Vervaeke](https://open.spotify.com/episode/43M4YHP5X4MsU5vQIsUdo9?si=-xDwadw6R_6s8psFEXCF2Q) - Jordan Peterson
+
 * [The problem with dividing zero by zero](https://youtu.be/PDReqvXfkBA) - KhanAcademy
 
 * [Why dividing by zero is undefined](https://youtu.be/SQzjzStU1RQ) -KhanAcademy
