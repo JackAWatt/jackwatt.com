@@ -2,6 +2,8 @@
 
 #### 2024/02/05
 
+* [Examples recognizing transformations](https://www.youtube.com/watch?v=K7QTjFdUIyk) - Khan Academy
+
 * [Transformations - dilation](https://www.youtube.com/watch?v=Kv-lyVmQ5ps) - Khan Academy
 
 * [Introduction to transformations / Transformations / Geometry](https://www.youtube.com/watch?v=XiAoUDfrar0&t=4s) - Khan Academy
