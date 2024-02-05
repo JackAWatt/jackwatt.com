@@ -42,6 +42,10 @@ In geometry, a translation moves a thing up and down or left and right. Translat
 
 In geometry, a rotation is a transformation that turns a figure or object around a fixed point known as the center of rotation. The object remains the same shape and size, but it is repositioned in space by a certain angle. The center of rotation is the point that stays fixed during the rotation, and the distance from any point on the object to the center of rotation remains constant.
 
+Conventionally, positive angle measures describe counterclockwise rotations. If we want to describe a clockwise rotation, we use negative angle measures.
+
+For example, here's the result of rotating a point about ‍P by -30
+
 ***
 
 * quadrants of the coordinate plane
@@ -49,4 +53,9 @@ In geometry, a rotation is a transformation that turns a figure or object around
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/8d0ff8c9-1a7a-47fa-b6d8-7b8eb5a45d7b)
 
 ***
+
+* Pre-images and Images
+
+For any transformation, we have the pre-image figure, which is the figure we are performing the transformation upon, and the image figure, which is the result of the transformation. For example, if our rotation, the pre-image point was ‍A, then the image point would be A'. (A' is pronounced "A Prime")
+ 
 
