@@ -1,0 +1,3 @@
+* Degrees: °
+* Lambda: λ
+* Congrunece: ≅
