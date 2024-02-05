@@ -58,4 +58,12 @@ For example, here's the result of rotating a point about ‍P by -30
 
 For any transformation, we have the pre-image figure, which is the figure we are performing the transformation upon, and the image figure, which is the result of the transformation. For example, if our rotation, the pre-image point was ‍A, then the image point would be A'. (A' is pronounced "A Prime")
  
+***
 
+* Reflection
+
+In geometry, a reflection is a transformation that flips or mirrors a figure over a line, creating a mirror image. The line over which the reflection occurs is called the "line of reflection" or "mirror line." Each point on the original figure is equidistant from the line of reflection and its corresponding point on the reflected image.
+
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/39b87922-c1a0-4912-86ca-6430d36e023a)
+
+***
