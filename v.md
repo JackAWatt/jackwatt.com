@@ -2,6 +2,8 @@
 
 #### 2024/02/05
 
+* [Transformations - dilation](https://www.youtube.com/watch?v=Kv-lyVmQ5ps) - Khan Academy
+
 * [Introduction to transformations / Transformations / Geometry](https://www.youtube.com/watch?v=XiAoUDfrar0&t=4s) - Khan Academy
 
 * [Geometric precision practice / Introduction to Euclidean geometry / Geometry](https://www.youtube.com/watch?v=iDQ1foxYf0o&t=3s) - Khan Academy
