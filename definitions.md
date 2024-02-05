@@ -31,3 +31,10 @@ The choice of the origin is arbitrary, but once it is established, it provides a
 Dilations are a type of non-rigid transformation. They change the size of a shape by scaling it up or down, making it bigger or smaller. Unlike rigid transformations, dilations do not keep the shape's size the same.
 
 ***
+
+* Translation
+
+In geometry, a translation moves a thing up and down or left and right. Translations only move things from one place to another; they don't change their size, arrangement, or direction.
+
+***
+
