@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/04
+
+* [Euclid as the father of geometry / Introduction to Euclidean geometry / Geometry / Khan Academy](https://youtu.be/WqzK3UAXaHs)
+
 #### 2024/02/03
 
 * [The Secret to Easily Making Gold in Guild Wars 2](https://youtu.be/2_92QRcysh8) - ConnorConCarne
