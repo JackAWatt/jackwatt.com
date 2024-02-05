@@ -38,3 +38,9 @@ In geometry, a translation moves a thing up and down or left and right. Translat
 
 ***
 
+* Rotation
+
+In geometry, a rotation is a transformation that turns a figure or object around a fixed point known as the center of rotation. The object remains the same shape and size, but it is repositioned in space by a certain angle. The center of rotation is the point that stays fixed during the rotation, and the distance from any point on the object to the center of rotation remains constant.
+
+***
+
