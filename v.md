@@ -1,6 +1,8 @@
 ###### Videos and Podcasts
 
-#### 2024/02/04
+#### 2024/02/05
+
+* [Introduction to transformations / Transformations / Geometry](https://www.youtube.com/watch?v=XiAoUDfrar0&t=4s) - Khan Academy
 
 * [Geometric precision practice / Introduction to Euclidean geometry / Geometry](https://www.youtube.com/watch?v=iDQ1foxYf0o&t=3s) - Khan Academy
 
