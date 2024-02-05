@@ -2,6 +2,8 @@
 
 #### 2024/02/05
 
+* [Example translating points](https://www.youtube.com/watch?v=SxxzfojT1Pw) - Khan Academy
+
 * [Examples recognizing transformations](https://www.youtube.com/watch?v=K7QTjFdUIyk) - Khan Academy
 
 * [Transformations - dilation](https://www.youtube.com/watch?v=Kv-lyVmQ5ps) - Khan Academy
