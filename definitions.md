@@ -19,3 +19,7 @@ In geometry, the term "origin" typically refers to a specific point in a coordin
 In a three-dimensional Cartesian coordinate system, there is also a z-axis, and the origin is the point where all three axes intersect. The coordinates of the three-dimensional origin are (0, 0, 0).
 
 The choice of the origin is arbitrary, but once it is established, it provides a consistent reference point for describing the positions of other points in the coordinate system. Coordinates are typically given as ordered pairs (for two dimensions) or ordered triples (for three dimensions), indicating the distances along each axis from the origin to the point in question.
+***
+* Dialoation
+Dilations are a type of non-rigid transformation. They change the size of a shape by scaling it up or down, making it bigger or smaller. Unlike rigid transformations, dilations do not keep the shape's size the same.
+***
