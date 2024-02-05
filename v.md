@@ -2,6 +2,8 @@
 
 #### 2024/02/04
 
+* [Basic geometry: language and labels / Introduction to Euclidean geometry / Geometry](https://www.youtube.com/watch?v=il0EJrY64qE&t=1s) - Khan Academy
+
 * [Euclid as the father of geometry / Introduction to Euclidean geometry / Geometry](https://youtu.be/WqzK3UAXaHs) -  Khan Academy
 
 #### 2024/02/03
