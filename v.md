@@ -2,7 +2,7 @@
 
 #### 2024/02/04
 
-* [Geometric precision practice / Introduction to Euclidean geometry / Geometry / Khan Academy](https://www.youtube.com/watch?v=il0EJrY64qE&t=1s) - Khan Academy
+* [Geometric precision practice / Introduction to Euclidean geometry / Geometry](https://www.youtube.com/watch?v=iDQ1foxYf0o&t=3s) - Khan Academy
 
 * [Basic geometry: language and labels / Introduction to Euclidean geometry / Geometry](https://www.youtube.com/watch?v=il0EJrY64qE&t=1s) - Khan Academy
 
