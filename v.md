@@ -2,7 +2,7 @@
 
 #### 2024/02/04
 
-* [Euclid as the father of geometry / Introduction to Euclidean geometry / Geometry / Khan Academy](https://youtu.be/WqzK3UAXaHs)
+* [Euclid as the father of geometry / Introduction to Euclidean geometry / Geometry](https://youtu.be/WqzK3UAXaHs) -  Khan Academy
 
 #### 2024/02/03
 
