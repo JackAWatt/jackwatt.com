@@ -26,7 +26,8 @@ The choice of the origin is arbitrary, but once it is established, it provides a
 
 ***
 
-* Dialoation
+* Dialation
+
 Dilations are a type of non-rigid transformation. They change the size of a shape by scaling it up or down, making it bigger or smaller. Unlike rigid transformations, dilations do not keep the shape's size the same.
 
 ***
