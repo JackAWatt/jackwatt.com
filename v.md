@@ -2,6 +2,8 @@
 
 #### 2024/02/05
 
+* [Formal translation tool example / Transformations / Geometry](https://www.youtube.com/watch?v=BrYEuO7fwMw) - Khan Academy
+
 * [Example translating points](https://www.youtube.com/watch?v=SxxzfojT1Pw) - Khan Academy
 
 * [Examples recognizing transformations](https://www.youtube.com/watch?v=K7QTjFdUIyk) - Khan Academy
