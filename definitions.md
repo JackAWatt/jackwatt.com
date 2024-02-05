@@ -44,3 +44,9 @@ In geometry, a rotation is a transformation that turns a figure or object around
 
 ***
 
+* quadrants of the coordinate plane
+
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/8d0ff8c9-1a7a-47fa-b6d8-7b8eb5a45d7b)
+
+***
+
