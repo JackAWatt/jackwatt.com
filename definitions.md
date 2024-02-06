@@ -98,6 +98,6 @@ This theorem states that the square of the length of the hypotenuse is equal to 
 
 * The Law of Sines:
 
-- $\dfrac{Sin \, A}{a}=\dfrac{Sin \, B}{b}=\dfrac{Sin \, C}{c}$
+- $\dfrac{Sin{\,}A}{a}=\dfrac{Sin \, B}{b}=\dfrac{Sin \, C}{c}$
 
 
