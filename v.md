@@ -2,6 +2,8 @@
 
 #### 2024/02/06
 
+* [The Sine Law Part 1](https://youtu.be/ckx8V6tfaOk)
+
 * [Law of Sines Proof ](https://youtu.be/4_yQZgjFYy8) -  Jonathan Fjelstrom
 
 * [Law of sines for missing angle | Trig identities and examples | Trigonometry](https://www.youtube.com/watch?v=IJySBMtFlnQ) - Khan Academy
