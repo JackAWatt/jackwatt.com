@@ -2,6 +2,8 @@
 
 #### 2024/02/06
 
+* [ Law of sines for missing angle | Trig identities and examples | Trigonometry](https://www.youtube.com/watch?v=IJySBMtFlnQ) - Khan Academy
+
 * [Law of sines / Trig identities and examples / Trigonometry](https://www.youtube.com/watch?v=VjmFKle7xIw) - Khan Academy
 
 #### 2024/02/05
