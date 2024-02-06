@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/06
+
+* [Law of sines / Trig identities and examples / Trigonometry](https://www.youtube.com/watch?v=VjmFKle7xIw) - Khan Academy
+
 #### 2024/02/05
 
 * [Formal translation tool example / Transformations / Geometry](https://www.youtube.com/watch?v=BrYEuO7fwMw) - Khan Academy
