@@ -98,8 +98,6 @@ This theorem states that the square of the length of the hypotenuse is equal to 
 
 * The Law of Sines:
 
-- $ Sin A \div A$ = $ Sin B \div b$ = $ Sin C \div c$
-
-- $Sin A \div a$
+- $\dfrac{Sin A}{a}$
 
 
