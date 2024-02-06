@@ -2,3 +2,5 @@
 * Lambda: λ
 * Congrunece: ≅
 * Theta: θ
+* ² [more found here](https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts)
+* 
