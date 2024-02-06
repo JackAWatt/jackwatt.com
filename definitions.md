@@ -100,4 +100,6 @@ This theorem states that the square of the length of the hypotenuse is equal to 
 
 - $ Sin A \div A$ = $ Sin B \div b$ = $ Sin C \div c$
 
+- $Sin A \div a$
+
 
