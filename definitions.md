@@ -67,3 +67,13 @@ In geometry, a reflection is a transformation that flips or mirrors a figure ove
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/39b87922-c1a0-4912-86ca-6430d36e023a)
 
 ***
+
+* Theta
+
+In mathematics, the symbol θ (theta) is often used to represent an angle in geometry and trigonometry. It's commonly used alongside other Greek letters such as α (alpha) and β (beta) to denote angles in mathematical equations, diagrams, and proofs.
+
+Theta is also used in various mathematical contexts beyond geometry and trigonometry. For example, in complex analysis, it's frequently used to represent the polar angle of a complex number in the complex plane. In statistics, θ is often used to represent parameters of a statistical model or distribution.
+
+The specific meaning of θ depends on the context in which it appears, but it generally signifies an angle or parameter in mathematical expressions.
+
+***
