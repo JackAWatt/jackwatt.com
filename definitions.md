@@ -95,3 +95,9 @@ a²+b²=c²
 This theorem states that the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides. It's a fundamental principle used in geometry and has applications in various fields, including physics, engineering, and architecture.
 
 ***
+
+* The Law of Sines:
+
+- $ Sin A \div A$ = $ Sin B \div b$ = $ Sin C \div c$
+
+
