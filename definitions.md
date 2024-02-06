@@ -83,3 +83,15 @@ The specific meaning of θ depends on the context in which it appears, but it ge
 An oblique triangle is a triangle that does not have a right angle. In other words, all of its interior angles are acute angles (less than 90 degrees). Unlike right triangles, which have one angle equal to 90 degrees, oblique triangles have all three angles less than 90 degrees.
 
 ***
+
+* hypotenuse
+
+The hypotenuse is a term used in geometry, specifically in right-angled triangles. It refers to the side of the triangle that is opposite the right angle. In other words, it's the longest side of the triangle and is the side that the other two sides (the legs) form the right angle with.
+
+For any right triangle with legs of lengths a and b and hypotenuse of length c, the relationship between these sides is described by the Pythagorean theorem:
+
+a²+b²=c²
+
+This theorem states that the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides. It's a fundamental principle used in geometry and has applications in various fields, including physics, engineering, and architecture.
+
+***
