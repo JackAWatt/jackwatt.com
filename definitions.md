@@ -77,3 +77,9 @@ Theta is also used in various mathematical contexts beyond geometry and trigonom
 The specific meaning of θ depends on the context in which it appears, but it generally signifies an angle or parameter in mathematical expressions.
 
 ***
+
+* Oblique Triangle
+
+An oblique triangle is a triangle that does not have a right angle. In other words, all of its interior angles are acute angles (less than 90 degrees). Unlike right triangles, which have one angle equal to 90 degrees, oblique triangles have all three angles less than 90 degrees.
+
+***
