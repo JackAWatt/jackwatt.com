@@ -1,5 +1,7 @@
 ###### Videos and Podcasts
 
+* [LEGENDARY AMULET SPEEDRUN (Part 1/2) - Zero to Hero S2E02](https://youtu.be/8QKwb4B8eSM) - MightyTeapot
+
 #### 2024/02/06
 
 * [The Sine Law Part 1](https://youtu.be/ckx8V6tfaOk)
