@@ -1,5 +1,11 @@
 ###### Videos and Podcasts
 
+#### 2024/02/10
+
+* [ this is so gross. | Asmongold Reacts ](https://youtu.be/ky8PFPd6tsM)
+
+#### 2024/02/08
+
 * [LEGENDARY AMULET SPEEDRUN (Part 1/2) - Zero to Hero S2E02](https://youtu.be/8QKwb4B8eSM) - MightyTeapot
 
 #### 2024/02/06
