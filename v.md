@@ -2,6 +2,10 @@
 
 #### 2024/02/11
 
+* [ The Ambiguous Case for Sine Law](https://youtu.be/RCyjglaJo5w) - nerdstudy
+
+* [ Determining if Triangles Exist](https://youtu.be/iNCFx3XR-hw) - nerdstudy
+
 * [ Law of Sines, Basic Introduction, AAS & SSA - One Solution, Two Solutions vs No Solution, Trigonomet ](https://youtu.be/9fS0uA4iLxI)
 
 #### 2024/02/10
