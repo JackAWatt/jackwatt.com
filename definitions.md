@@ -100,4 +100,13 @@ This theorem states that the square of the length of the hypotenuse is equal to 
 
 - $\dfrac{\sin A}{a}=\dfrac{\sin B}{b}=\dfrac{\sin C}{c}$
 
+***
+
+* 6 trig functions:
+* sin = opposite / hypotenuse
+* cos = adjacent / hypotenuse
+* tan = opposite / adjacent
+* csc(cosecant) = reciprocal(sin)
+* sec(secant) = reciprocal(cos)
+* cot(cotangent) = reciprocal(tan)
 
