@@ -4,9 +4,11 @@
 
 * [ The Ambiguous Case for Sine Law](https://youtu.be/RCyjglaJo5w) - nerdstudy
 
+* [Trigonometry For Beginners!](https://youtu.be/PUB0TaZ7bhA) - The Organic Chemistry Tutor
+
 * [ Determining if Triangles Exist](https://youtu.be/iNCFx3XR-hw) - nerdstudy
 
-* [ Law of Sines, Basic Introduction, AAS & SSA - One Solution, Two Solutions vs No Solution, Trigonomet ](https://youtu.be/9fS0uA4iLxI)
+* [ Law of Sines, Basic Introduction, AAS & SSA - One Solution, Two Solutions vs No Solution, Trigonomet ](https://youtu.be/9fS0uA4iLxI) - The Organic Chemistry Tutor
 
 #### 2024/02/10
 
