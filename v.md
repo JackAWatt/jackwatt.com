@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/11
+
+* [ Law of Sines, Basic Introduction, AAS & SSA - One Solution, Two Solutions vs No Solution, Trigonomet ](https://youtu.be/9fS0uA4iLxI)
+
 #### 2024/02/10
 
 * [ this is so gross. | Asmongold Reacts ](https://youtu.be/ky8PFPd6tsM)
