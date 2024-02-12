@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/12
+
+* [Why Stacking Will ALWAYS Be Guild Wars 2's Most Overpowered Strategy](https://youtu.be/WEZCL2ZV0h8)
+
 #### 2024/02/11
 
 * [ The Ambiguous Case for Sine Law](https://youtu.be/RCyjglaJo5w) - nerdstudy
