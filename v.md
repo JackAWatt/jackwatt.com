@@ -2,6 +2,8 @@
 
 #### 2024/02/16
 
+* [Law of Cosine Introduction](https://youtu.be/Dc7ZWJ1Llzs) - ProfRobBob
+
 * [Law of Sine Introduction](https://youtu.be/lzlbHe5Fyr8) -ProfRobBob
 
 #### 2024/02/12
