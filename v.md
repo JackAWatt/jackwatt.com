@@ -2,6 +2,8 @@
 
 #### 2024/02/16
 
+* [SNEBTIME - The Importance of LFG Language](https://youtu.be/bxukn7VwwTs) - MightyTeapot
+
 * [Law of Sine Ambiguous Case](https://youtu.be/LzqGFOsZlGY) - Prof RobBob
 
 * [Law of Cosine Introduction](https://youtu.be/Dc7ZWJ1Llzs) - ProfRobBob
