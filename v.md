@@ -2,6 +2,8 @@
 
 #### 2024/02/16
 
+* [Why This Unnecessary How I Met Your Mother Series Failed](https://youtu.be/0C0vyfzksX0) - Nerdstalgic
+
 * [SNEBTIME - The Importance of LFG Language](https://youtu.be/bxukn7VwwTs) - MightyTeapot
 
 * [Law of Sine Ambiguous Case](https://youtu.be/LzqGFOsZlGY) - Prof RobBob
