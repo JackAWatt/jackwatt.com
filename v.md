@@ -2,6 +2,8 @@
 
 #### 2024/02/17
 
+* [The Tetris World Record Just Got Shattered](https://youtu.be/sx2qPhPb5iQ) - aGameScout
+
 * [Philosophy: A Beginner's Guide](https://youtu.be/tiZ5tb8Idlg) - Jared Henderson
 
 #### 2024/02/16
