@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/17
+
+* [Philosophy: A Beginner's Guide](https://youtu.be/tiZ5tb8Idlg) - Jared Henderson
+
 #### 2024/02/16
 
 * [Why This Unnecessary How I Met Your Mother Series Failed](https://youtu.be/0C0vyfzksX0) - Nerdstalgic
