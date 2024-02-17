@@ -2,6 +2,8 @@
 
 #### 2024/02/17
 
+* [Cosine Law (Grade 10)](https://youtu.be/ZlyuCXnCnyA) - AlRichards314
+
 * [The Tetris World Record Just Got Shattered](https://youtu.be/sx2qPhPb5iQ) - aGameScout
 
 * [Philosophy: A Beginner's Guide](https://youtu.be/tiZ5tb8Idlg) - Jared Henderson
