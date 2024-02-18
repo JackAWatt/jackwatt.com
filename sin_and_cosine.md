@@ -4,6 +4,7 @@
 
 ##### Law of Cosine
 For a side:
+
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/cdd00421-15cf-4eda-9d5d-36d593e4d1d1)
 
 For an angle:
