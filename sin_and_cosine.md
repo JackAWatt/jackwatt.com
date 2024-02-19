@@ -11,3 +11,4 @@ For an angle:
 
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/bfdd0674-256d-4823-a671-e41d77fac871)
 
+\chemfig{H-C(-[2]H)(-[6]H)-C(=[1]O)-[7]H}
