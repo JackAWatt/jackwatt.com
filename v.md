@@ -1,5 +1,10 @@
 ###### Videos and Podcasts
 
+
+#### 2024/02/19
+
+* [Streamer Fakes Blindfold Speedrun For Clout](https://youtu.be/ugT5eLpuwMo) - Karl Jobst
+
 #### 2024/02/18
 
 * [Sine and Cosine Laws When do You Use Each One](https://youtu.be/CPjB_z7PZt0) - AlRichards314
