@@ -1,5 +1,10 @@
 ###### Videos and Podcasts
 
+#### 2024/02/21
+
+* [How She Faked EVERYTHING (Karl Jobst Investigation)](https://www.youtube.com/watch?v=fSfbGq-gEjo) - Asmongold
+
+* [The Most Blindfolded Speedrun](https://youtu.be/FLlUEhsAjY0) - Asmongold
 
 #### 2024/02/19
 
