@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [Intro to intercepts](https://youtu.be/LNSB0N6esPU) - Khan Academy
+
 * [Horizontal & vertical lines](https://youtu.be/J43CIbKpdWc) - Khan Academy
 
 * [Slope of a horizontal line](https://youtu.be/CFSHq099Mx0) - Khan Academy
