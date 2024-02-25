@@ -2,7 +2,7 @@
 
 #### 2024/02/25
 
-* [Solutions to 2-variable equations](https://www.youtube.com/watch?v=qk69pR91R00)
+* [Solutions to 2-variable equations](https://www.youtube.com/watch?v=qk69pR91R00) - Khan Academy
 
 * [Two-variable linear equations intro](https://www.youtube.com/watch?v=AOxMJRtoR2A) - Khan Academy
 
