@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [Worked example: slope from graph](https://youtu.be/R948Tsyq4vA) - Khan Academy
+
 * [Positive & negative slope](https://youtu.be/EQoNfxToez0) - Khan Academy
 
 * [Intro to slope](https://youtu.be/MeU-KzdCBps) - Khan Academy
