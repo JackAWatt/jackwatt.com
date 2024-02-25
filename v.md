@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [x-intercept of a line](https://youtu.be/xiIQQNufFuU) - Khan Academy
+
 * [Intro to intercepts](https://youtu.be/LNSB0N6esPU) - Khan Academy
 
 * [Horizontal & vertical lines](https://youtu.be/J43CIbKpdWc) - Khan Academy
