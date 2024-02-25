@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [Slope of a horizontal line](https://youtu.be/CFSHq099Mx0) - Khan Academy
+
 * [Worked example: slope from two points](https://youtu.be/WkspBxrzuZo) - Khan Academy
 
 * [Calculating slope from tables](https://www.youtube.com/watch?v=pGsicLglzY8&t=9s) - Khan Academy
