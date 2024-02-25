@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [Positive & negative slope](https://youtu.be/EQoNfxToez0) - Khan Academy
+
 * [Intro to slope](https://youtu.be/MeU-KzdCBps) - Khan Academy
 
 * [Completing solutions to 2-variable equations](https://www.youtube.com/watch?v=EHR-YDwrrhM) - Khan Academy
