@@ -84,7 +84,7 @@
 
 #### 2024/02/06
 
-* [The Sine Law Part 1](https://youtu.be/ckx8V6tfaOk)
+* [The Sine Law Part 1](https://youtu.be/ckx8V6tfaOk) - AlRichards314
 
 * [Law of Sines Proof ](https://youtu.be/4_yQZgjFYy8) -  Jonathan Fjelstrom
 
