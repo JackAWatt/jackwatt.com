@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [5.5 - Lesson - Graphing Linear Inequalities Video Lesson](https://youtu.be/5h6YzRRxzO4) - MrJSaintGermain
+
 * [x-intercept of a line](https://youtu.be/xiIQQNufFuU) - Khan Academy
 
 * [Intro to intercepts](https://youtu.be/LNSB0N6esPU) - Khan Academy
