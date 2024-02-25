@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/25
+
+* [Two-variable linear equations intro](https://www.youtube.com/watch?v=AOxMJRtoR2A) - Khan Academy
+
 #### 2024/02/21
 
 * [How She Faked EVERYTHING (Karl Jobst Investigation)](https://www.youtube.com/watch?v=fSfbGq-gEjo) - Asmongold
