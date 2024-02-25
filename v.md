@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [Worked example: slope from two points](https://youtu.be/WkspBxrzuZo) - Khan Academy
+
 * [Calculating slope from tables](https://www.youtube.com/watch?v=pGsicLglzY8&t=9s) - Khan Academy
 
 * [Graphing a line given point and slope](https://youtu.be/5mgH-_5UJ54) - Khan Academy
