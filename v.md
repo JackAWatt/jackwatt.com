@@ -2,6 +2,8 @@
 
 #### 2024/02/25
 
+* [Graphing a line given point and slope](https://youtu.be/5mgH-_5UJ54) - Khan Academy
+
 * [Worked example: slope from graph](https://youtu.be/R948Tsyq4vA) - Khan Academy
 
 * [Positive & negative slope](https://youtu.be/EQoNfxToez0) - Khan Academy
