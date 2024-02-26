@@ -2,6 +2,8 @@
 
 #### 2024/02/26
 
+* [tier-ranking every classic book (so you know which ones to read)](https://youtu.be/92QbQOK8VTI) - Jack Edward
+
 * [why i'm unhauling every book i own](https://youtu.be/cPUHlf3J3vY) - Jack Edwards
 
 * [Intercepts from an equation](https://youtu.be/xGmef7lFc5w) - Khan Academy
