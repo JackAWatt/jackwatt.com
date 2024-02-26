@@ -2,6 +2,8 @@
 
 #### 2024/02/26
 
+* [The ONLY Time To Tell Kids That Santa Isn't Real. Kevin Bozeman - Full Special](https://youtu.be/aOjM9JBQH78) - Dry Bar Comedy
+
 * [tier-ranking every classic book (so you know which ones to read)](https://youtu.be/92QbQOK8VTI) - Jack Edward
 
 * [why i'm unhauling every book i own](https://youtu.be/cPUHlf3J3vY) - Jack Edwards
