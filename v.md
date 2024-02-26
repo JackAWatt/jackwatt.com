@@ -2,6 +2,8 @@
 
 #### 2024/02/26
 
+* [Intercepts from an equation](https://youtu.be/xGmef7lFc5w) - Khan Academy
+
 * [ BE GOOD AT TWO THINGS feat. Rory Sutherland: Vice-Chairman of Ogilvy UK / Every London Office ](https://www.youtube.com/watch?v=AyhLUyXwYYY) - One One One
 
 #### 2024/02/25
