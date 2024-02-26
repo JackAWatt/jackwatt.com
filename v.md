@@ -2,6 +2,8 @@
 
 #### 2024/02/26
 
+* [why i'm unhauling every book i own](https://youtu.be/cPUHlf3J3vY) - Jack Edwards
+
 * [Intercepts from an equation](https://youtu.be/xGmef7lFc5w) - Khan Academy
 
 * [ BE GOOD AT TWO THINGS feat. Rory Sutherland: Vice-Chairman of Ogilvy UK / Every London Office ](https://www.youtube.com/watch?v=AyhLUyXwYYY) - One One One
