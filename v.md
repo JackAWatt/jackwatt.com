@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/26
+
+* [ BE GOOD AT TWO THINGS feat. Rory Sutherland: Vice-Chairman of Ogilvy UK / Every London Office ](https://www.youtube.com/watch?v=AyhLUyXwYYY) - One One One
+
 #### 2024/02/25
 
 * [5.5 - Lesson - Graphing Linear Inequalities Video Lesson](https://youtu.be/5h6YzRRxzO4) - MrJSaintGermain
