@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/27
+
+* [Why You MUST Farm Andariel's Terrorzones / Diablo 2 Resurrected](https://youtu.be/dA2ooz8eS1M) -MrLlamaSC
+
 #### 2024/02/26
 
 * [The ONLY Time To Tell Kids That Santa Isn't Real. Kevin Bozeman - Full Special](https://youtu.be/aOjM9JBQH78) - Dry Bar Comedy
