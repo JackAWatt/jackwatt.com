@@ -2,6 +2,8 @@
 
 #### 2024/02/27
 
+* [These 2 MMOs Aren't Out Yet And They're Already Dead](https://youtu.be/SgQEKQapBWQ) - Asmongold TV
+
 * [Why You MUST Farm Andariel's Terrorzones / Diablo 2 Resurrected](https://youtu.be/dA2ooz8eS1M) -MrLlamaSC
 
 #### 2024/02/26
