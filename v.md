@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/02/28
+
+* [Equation with variables on both sides: fractions](https://youtu.be/PL9UYj2awDc) - Khan Academy
+
 #### 2024/02/27
 
 * [These 2 MMOs Aren't Out Yet And They're Already Dead](https://youtu.be/SgQEKQapBWQ) - Asmongold TV
