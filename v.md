@@ -2,6 +2,8 @@
 
 #### 2024/02/28
 
+* [Number of solutions to equations](https://youtu.be/qsL_5Y8uWPU) - Khan Academy
+
 * [Equation with variables on both sides: fractions](https://youtu.be/PL9UYj2awDc) - Khan Academy
 
 #### 2024/02/27
