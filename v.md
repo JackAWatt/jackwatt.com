@@ -2,7 +2,9 @@
 
 #### 2024/02/28
 
-* [https://youtu.be/uQs100shv-A](https://youtu.be/uQs100shv-A) - Khan Academy
+* [Creating an equation with infinitely many solutions](https://youtu.be/Dq0xFgQB9qo)
+
+* [Creating an equation with no solutions](https://youtu.be/uQs100shv-A) - Khan Academy
 
 * [Worked example: number of solutions to equations](https://youtu.be/zKotuhQWIRg) - Khan Academy
 
