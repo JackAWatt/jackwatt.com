@@ -2,6 +2,8 @@
 
 #### 2024/02/28
 
+* [https://youtu.be/uQs100shv-A](https://youtu.be/uQs100shv-A) - Khan Academy
+
 * [Worked example: number of solutions to equations](https://youtu.be/zKotuhQWIRg) - Khan Academy
 
 * [Number of solutions to equations](https://youtu.be/qsL_5Y8uWPU) - Khan Academy
