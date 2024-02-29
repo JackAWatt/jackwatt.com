@@ -1,8 +1,12 @@
 ###### Videos and Podcasts
 
-#### 2024/02/28
+#### 2024/02/29
+
+* [Caught Red-Handed: Streamer FAKES A Blindfolded Speedrun](https://youtu.be/_OlxQb0jT-w) - Abyssoft
 
 * [ This FAKE Blindfold Speedrun Fooled Everyone... ](https://youtu.be/OTLfU4ysKHg) - Karl Jobst
+
+#### 2024/02/28
 
 * [Creating an equation with infinitely many solutions](https://youtu.be/Dq0xFgQB9qo) - Khan Academy
 
