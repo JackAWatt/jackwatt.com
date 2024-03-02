@@ -8,7 +8,7 @@
 
 #### 2024/02/29
 
-* [ Helldivers 2 is a wake up call | Asmongold Reacts ](https://youtu.be/qowX7x2bEX8) - Legendary Drops
+* [ Helldivers 2 is a wake up call / Asmongold Reacts ](https://youtu.be/qowX7x2bEX8) - Legendary Drops
 
 * [Caught Red-Handed: Streamer FAKES A Blindfolded Speedrun](https://youtu.be/_OlxQb0jT-w) - Abyssoft
 
