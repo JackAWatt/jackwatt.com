@@ -1303,7 +1303,7 @@
 
 ####  2021/12/20
 
-*[Log4j is a mess](https://open.spotify.com/episode/4tVlVMfEfNvkq2YBHpnk2H?si=917e0f3655ae4918) - Open Source Security Podcast
+* [Log4j is a mess](https://open.spotify.com/episode/4tVlVMfEfNvkq2YBHpnk2H?si=917e0f3655ae4918) - Open Source Security Podcast
 
 #### 2021/12/17
 
