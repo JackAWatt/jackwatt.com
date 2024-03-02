@@ -126,7 +126,7 @@
 
 #### 2024/02/10
 
-* [ this is so gross. | Asmongold Reacts ](https://youtu.be/ky8PFPd6tsM)
+* [ this is so gross. / Asmongold Reacts ](https://youtu.be/ky8PFPd6tsM)
 
 #### 2024/02/08
 
@@ -138,7 +138,7 @@
 
 * [Law of Sines Proof ](https://youtu.be/4_yQZgjFYy8) -  Jonathan Fjelstrom
 
-* [Law of sines for missing angle | Trig identities and examples | Trigonometry](https://www.youtube.com/watch?v=IJySBMtFlnQ) - Khan Academy
+* [Law of sines for missing angle / Trig identities and examples / Trigonometry](https://www.youtube.com/watch?v=IJySBMtFlnQ) - Khan Academy
 
 * [Law of sines / Trig identities and examples / Trigonometry](https://www.youtube.com/watch?v=VjmFKle7xIw) - Khan Academy
 
