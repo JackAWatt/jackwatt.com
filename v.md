@@ -2,6 +2,8 @@
 
 #### 2024/03/02
 
+* [The Obstacles in Our Path (Powerful Short Story)](https://youtu.be/l3axY69bEFM) - RedFrost Motivation
+
 * [How To Solve Linear Equations In Algebra](https://youtu.be/7DPWeBszNSM?list=PL0o_zxa4K1BVzbQjmhQxe5eQwuFQx2oV_) - The Organic Chemistry Tutor
 
 * [ Responding To Melonie Mac ](https://youtu.be/9H3AFQeBGHg) - Asmongold TV
