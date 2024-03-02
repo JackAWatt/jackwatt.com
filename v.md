@@ -2,6 +2,8 @@
 
 #### 2024/03/02
 
+* [ Life Changing Poems for Hard Times ](https://youtu.be/fiHoYVrB6so?list=TLPQMDIwMzIwMjRe9eISOove1w) - RedFrost Motivation
+
 * [The Obstacles in Our Path (Powerful Short Story)](https://youtu.be/l3axY69bEFM) - RedFrost Motivation
 
 * [How To Solve Linear Equations In Algebra](https://youtu.be/7DPWeBszNSM?list=PL0o_zxa4K1BVzbQjmhQxe5eQwuFQx2oV_) - The Organic Chemistry Tutor
