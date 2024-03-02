@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/03/02
+
+* [ Responding To Melonie Mac ](https://youtu.be/9H3AFQeBGHg) - Asmongold TV
+
 #### 2024/02/29
 
 * [ Helldivers 2 is a wake up call | Asmongold Reacts ](https://youtu.be/qowX7x2bEX8) - Legendary Drops
