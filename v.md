@@ -2,6 +2,8 @@
 
 #### 2024/03/02
 
+* [ALL the new Wizards Vault Changes! Guild Wars 2](https://youtu.be/x3llLIZMeYs) - DarensGw2
+
 * [ Life Changing Poems for Hard Times ](https://youtu.be/fiHoYVrB6so?list=TLPQMDIwMzIwMjRe9eISOove1w) - RedFrost Motivation
 
 * [The Obstacles in Our Path (Powerful Short Story)](https://youtu.be/l3axY69bEFM) - RedFrost Motivation
