@@ -2,6 +2,8 @@
 
 #### 2024/03/03
 
+* [ You’re not bad at math: What I learned after 7500 hours of studying math ](https://youtu.be/Ukm1a9zSHQ8) - Han Zhango
+
 * [ Linear Programming (Optimization) 2 Examples Minimize & Maximize ](https://youtu.be/Y7e7DCsDUMY) - Mario's Math Tutoring
 
 * [ Linear Programming ](https://youtu.be/Bzzqx1F23a8) - The Organic Chemistry Tutor
