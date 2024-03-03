@@ -2,6 +2,8 @@
 
 #### 2024/03/03
 
+* [ Lin Inequalities ](https://youtu.be/aM13F-eaZp0) - Cheryl Morehouse
+
 * [ BEST choices for your Astral Acclaim! Wizard Vault Tierlist! ](https://youtu.be/mVjsqa5QtJI) - DarensGw2
 
 * [ How To Find The Distance Between Two Points ](https://youtu.be/CWUr6Jo6tag?list=PL0o_zxa4K1BVzbQjmhQxe5eQwuFQx2oV_) - The Organic Chemistry Tutor
