@@ -2,6 +2,8 @@
 
 #### 2024/03/03
 
+* [ Linear Programming ](https://youtu.be/Bzzqx1F23a8) - The Organic Chemistry Tutor
+
 * [ Lin Inequalities ](https://youtu.be/aM13F-eaZp0) - Cheryl Morehouse
 
 * [ BEST choices for your Astral Acclaim! Wizard Vault Tierlist! ](https://youtu.be/mVjsqa5QtJI) - DarensGw2
