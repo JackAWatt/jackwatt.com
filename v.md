@@ -2,6 +2,8 @@
 
 #### 2024/03/03
 
+* [ Linear Programming (Optimization) 2 Examples Minimize & Maximize ](https://youtu.be/Y7e7DCsDUMY) - Mario's Math Tutoring
+
 * [ Linear Programming ](https://youtu.be/Bzzqx1F23a8) - The Organic Chemistry Tutor
 
 * [ Lin Inequalities ](https://youtu.be/aM13F-eaZp0) - Cheryl Morehouse
