@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/03/03
+
+* [ Graphing On The Coordinate Plane Explained! ](https://youtu.be/yaOf7ioCgFQ?list=PL0o_zxa4K1BVzbQjmhQxe5eQwuFQx2oV_) - The Organic Chemistry Tutor
+
 #### 2024/03/02
 
 * [ALL the new Wizards Vault Changes! Guild Wars 2](https://youtu.be/x3llLIZMeYs) - DarensGw2
