@@ -2,6 +2,8 @@
 
 #### 2024/03/03
 
+* [ How To Find The Distance Between Two Points ](https://youtu.be/CWUr6Jo6tag?list=PL0o_zxa4K1BVzbQjmhQxe5eQwuFQx2oV_) - The Organic Chemistry Tutor
+
 * [ Graphing On The Coordinate Plane Explained! ](https://youtu.be/yaOf7ioCgFQ?list=PL0o_zxa4K1BVzbQjmhQxe5eQwuFQx2oV_) - The Organic Chemistry Tutor
 
 #### 2024/03/02
