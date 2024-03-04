@@ -2,6 +2,8 @@
 
 #### 2024/03/04
 
+* [ Adding and Subtracting Integers Using a Simple Method ](https://youtu.be/jVvvUiExjes?list=PL0o_zxa4K1BVoTlaXWFcFZ7fU3RvmFMMG) - The Organic Chemistry Tutor
+
 * [The Secrets of Great Conversation (with Charles Duhigg)](https://youtu.be/iR51Zou2GKA) - EconTalk
 
 #### 2024/03/03
