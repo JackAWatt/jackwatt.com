@@ -2,6 +2,8 @@
 
 #### 2024/03/03
 
+* [ The SECRET to Straight A's NO MATTER WHAT ](https://youtu.be/73P5nFiAUkE) - wAmy
+
 * [ The math study tip they are NOT telling you - Ivy League math major ](https://youtu.be/I5KNKsA8YpI) - Han Zhango
 
 * [ You’re not bad at math: What I learned after 7500 hours of studying math ](https://youtu.be/Ukm1a9zSHQ8) - Han Zhango
