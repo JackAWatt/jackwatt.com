@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/03/04
+
+* [The Secrets of Great Conversation (with Charles Duhigg)](https://youtu.be/iR51Zou2GKA) - EconTalk
+
 #### 2024/03/03
 
 * [ The SECRET to Straight A's NO MATTER WHAT ](https://youtu.be/73P5nFiAUkE) - wAmy
