@@ -2,6 +2,8 @@
 
 #### 2024/03/04
 
+* [ No, that's NOT how Autism Works... ](https://youtu.be/aaXCRVYOFj4) - I'm Autistic, Now What?
+
 * [ Precalculus Introduction, Basic Overview, Graphing Parent Functions, Transformations, Domain & Range ](https://youtu.be/JrWJnwCMlP0?list=PL0o_zxa4K1BU5sTWZ2YxFhpXwsnMfMke7) - The Organic Chemistry Tutor
 
 * [ Adding and Subtracting Integers Using a Simple Method ](https://youtu.be/jVvvUiExjes?list=PL0o_zxa4K1BVoTlaXWFcFZ7fU3RvmFMMG) - The Organic Chemistry Tutor
