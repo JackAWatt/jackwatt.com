@@ -2,6 +2,8 @@
 
 #### 2024/03/07
 
+* [ A Student Is Crossing My Boundaries (What Should I Do?) ](https://youtu.be/nIDotdzqlrU) - The Dr. John Delony Show
+
 * [ Last Epoch Review (From OG Diablo Player Kripparrian) ](https://youtu.be/82_Z9HUsfKE) - Asmongold TV
 
 #### 2024/03/04
