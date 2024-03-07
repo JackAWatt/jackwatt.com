@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/03/07
+
+* [ Last Epoch Review (From OG Diablo Player Kripparrian) ](https://youtu.be/82_Z9HUsfKE) - Asmongold TV
+
 #### 2024/03/04
 
 * [ No, that's NOT how Autism Works... ](https://youtu.be/aaXCRVYOFj4) - I'm Autistic, Now What?
