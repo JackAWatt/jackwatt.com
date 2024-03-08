@@ -2,6 +2,8 @@
 
 #### 2024/03/08
 
+* [ How to Factor any Quadratic Equation Easily - Trick for factorising ](https://youtu.be/ZGmKQa45PVw) - tecmath
+
 * [EasyCal 21 - Quadratic Eqn Trick 3 - Faster way of Factorization of Quadratic Eqn Type 2](https://youtu.be/eRNtiOkHhfo) - sweetmini2002
 
 #### 2024/03/07
