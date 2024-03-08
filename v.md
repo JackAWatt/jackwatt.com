@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/03/08
+
+* [EasyCal 21 - Quadratic Eqn Trick 3 - Faster way of Factorization of Quadratic Eqn Type 2](https://youtu.be/eRNtiOkHhfo) - sweetmini2002
+
 #### 2024/03/07
 
 * [ Brandon Sanderson Forced Audible To Change!! 🎧 ](https://youtu.be/kqRC7SNQoFY) - Daniel Greene
