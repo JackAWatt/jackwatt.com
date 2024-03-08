@@ -2,6 +2,8 @@
 
 #### 2024/03/07
 
+* [ Brandon Sanderson Forced Audible To Change!! 🎧 ](https://youtu.be/kqRC7SNQoFY) - Daniel Greene
+
 * [ He’s a Different Person After Getting Sober ](https://youtu.be/iiu-xPd9E8M) - The Dr. John Delony Show
 
 * [ A Student Is Crossing My Boundaries (What Should I Do?) ](https://youtu.be/nIDotdzqlrU) - The Dr. John Delony Show
