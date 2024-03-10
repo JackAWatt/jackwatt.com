@@ -2,6 +2,8 @@
 
 #### 2024/03/10
 
+* [How To Solve Quadratic Equations By Factoring](https://youtu.be/qeByhTF8WEw) - The Organic Cehmistry Tutor
+
 * [ Intro to Quadratic Functions (Relations) ](https://youtu.be/xSpFz8JDbZk) - NerdStudy
 
 * [The Best Time to Study](https://youtu.be/YYdA4NuaStE) - The Math Sorcerer
