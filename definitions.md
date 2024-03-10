@@ -126,6 +126,6 @@ The vertex of a quadratic function is a critical point because it is where the f
 
 * Domain and Range
 
-Domain is the set of all possible *x* values
+Domain is the set of all possible ***x*** values
 
-Range is the set of all possible *y* values
+Range is the set of all possible ***y*** values
