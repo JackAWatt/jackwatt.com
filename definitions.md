@@ -129,3 +129,11 @@ The vertex of a quadratic function is a critical point because it is where the f
 Domain is the set of all possible ***x*** values
 
 Range is the set of all possible ***y*** values
+
+***
+
+* Axis of Symmetry
+
+In the context of quadratic equations, the axis of symmetry is a vertical line that passes through the vertex of the parabola defined by the quadratic equation. For any quadratic equation in the form y = ax^2 + bx + c, the axis of symmetry is given by the equation x = - b/2a​.
+
+This means that the axis of symmetry is always perpendicular to the direction in which the parabola opens (upward or downward), and it divides the parabola into two symmetrical halves. The vertex, which lies on the axis of symmetry, is the highest or lowest point on the parabola, depending on whether the parabola opens upwards or downwards.
