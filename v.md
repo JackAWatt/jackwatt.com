@@ -2,7 +2,7 @@
 ######## DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 #### 2024/03/10
 
-* [How To Solve Quadratic Equations By Factoring](https://youtu.be/qeByhTF8WEw) - The Organic Cehmistry Tutor
+* [How To Solve Quadratic Equations By Factoring](https://youtu.be/qeByhTF8WEw) - The Organic Cehmistry Tutor - DNU&CBL
 
 * [ Intro to Quadratic Functions (Relations) ](https://youtu.be/xSpFz8JDbZk) - NerdStudy
 
