@@ -1,5 +1,5 @@
 # Word definitions and explanations
-
+###### this is a living document, I'll be removing defitions when I feel like I've commited them to memory and don't need to look up what they mean anymore. 
 
 ## Math:
 
