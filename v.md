@@ -4,6 +4,8 @@
 
 #### 2024/03/10
 
+* [ What is the best ARPG of all time (in my opinion) ? ](https://youtu.be/iRl3THDwV0k) - Zizaran
+
 * [How To Solve Quadratic Equations By Factoring](https://youtu.be/qeByhTF8WEw) - The Organic Cehmistry Tutor - DNU&CBL
 
 * [ Intro to Quadratic Functions (Relations) ](https://youtu.be/xSpFz8JDbZk) - NerdStudy
