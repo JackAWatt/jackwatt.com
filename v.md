@@ -1,5 +1,9 @@
 ###### Videos and Podcasts
 
+#### 2024/03/10
+
+* [I had a grown adult scream at me because he insisted 0.999...=1. Reddit r/ConfidentlyIncorrect](https://youtu.be/2jGgY23P3cI) - bprp calculus basics
+
 #### 2024/03/08
 
 * [ How to Factor any Quadratic Equation Easily - Trick for factorising ](https://youtu.be/ZGmKQa45PVw) - tecmath
