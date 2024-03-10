@@ -137,3 +137,10 @@ Range is the set of all possible ***y*** values
 In the context of quadratic equations, the axis of symmetry is a vertical line that passes through the vertex of the parabola defined by the quadratic equation. For any quadratic equation in the form y = ax^2 + bx + c, the axis of symmetry is given by the equation x = - b/2a​.
 
 This means that the axis of symmetry is always perpendicular to the direction in which the parabola opens (upward or downward), and it divides the parabola into two symmetrical halves. The vertex, which lies on the axis of symmetry, is the highest or lowest point on the parabola, depending on whether the parabola opens upwards or downwards.
+
+***
+
+* Second Differences
+
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/a54f8f39-29f8-4678-8576-a5ab11408b74)
+
