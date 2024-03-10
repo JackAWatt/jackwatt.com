@@ -2,6 +2,8 @@
 
 #### 2024/03/10
 
+* [The Best Time to Study](https://youtu.be/YYdA4NuaStE) - The Math Sorcerer
+
 * [ Dragon's Dogma 2 - What We Learned From The Preview ](https://youtu.be/NEJCG74yvvQ) - Asmongold TV - DNF
 
 * [I had a grown adult scream at me because he insisted 0.999...=1. Reddit r/ConfidentlyIncorrect](https://youtu.be/2jGgY23P3cI) - bprp calculus basics
