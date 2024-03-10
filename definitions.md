@@ -145,3 +145,10 @@ This means that the axis of symmetry is always perpendicular to the direction in
 The second difference will always be constant for quadratics
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/a54f8f39-29f8-4678-8576-a5ab11408b74)
 
+***
+
+* a,b, and c in quadratic equations
+
+* Changing a alters the curvature of the parabola and the direction it opens.
+* Changing b alters the slope.
+* Changing c moves the parabola up and down.
