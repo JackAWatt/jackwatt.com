@@ -2,6 +2,8 @@
 
 #### 2024/03/10
 
+* [ Intro to Quadratic Functions (Relations) ](https://youtu.be/xSpFz8JDbZk) - NerdStudy
+
 * [The Best Time to Study](https://youtu.be/YYdA4NuaStE) - The Math Sorcerer
 
 * [ Dragon's Dogma 2 - What We Learned From The Preview ](https://youtu.be/NEJCG74yvvQ) - Asmongold TV - DNF
