@@ -114,7 +114,7 @@ This theorem states that the square of the length of the hypotenuse is equal to 
 
 * Vertex (Quadratic Equations)
 
-In the context of quadratic equations, a vertex refers to the point on the graph of the quadratic function where the function reaches its maximum or minimum value. For a quadratic function in standard form f(x)=ax2+bx+cf(x)=ax2+bx+c, the vertex is given by the coordinates (−b2a,4ac−b24a)(−2ab​,4a4ac−b2​).
+In the context of quadratic equations, a vertex refers to the point on the graph of the quadratic function where the function reaches its maximum or minimum value. For a quadratic function in standard form f(x) = ax^2 + bx + c, the vertex is given by the coordinates (- b/2a, 4ac-b^2/4a)
 
 * If the coefficient of x2x2 term ( aa ) is positive, the parabola opens upwards and the vertex represents the minimum point on the graph.
 
