@@ -123,3 +123,9 @@ In the context of quadratic equations, a vertex refers to the point on the graph
 The vertex of a quadratic function is a critical point because it is where the function changes direction, transitioning from increasing to decreasing (or vice versa). It's also the point where the function attains its extreme value (maximum or minimum) within a given interval.
 
 ***
+
+* Domain and Range
+
+Domain is the set of all possible *x* values
+
+Range is the set of all possible *y* values
