@@ -142,5 +142,6 @@ This means that the axis of symmetry is always perpendicular to the direction in
 
 * Second Differences
 
+The second difference will always be constant for quadratics
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/a54f8f39-29f8-4678-8576-a5ab11408b74)
 
