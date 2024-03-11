@@ -4,6 +4,10 @@
 
 #### 2024/03/11
 
+* [ How The Most Useless Branch of Math Could Save Your Life ](https://youtu.be/8DBhTXM_Br4) - Veritasium
+
+* [ The Oldest Unsolved Problem in Math ](https://youtu.be/Zrv1EDIqHkY) - Veritasium
+
 * [ The Future of Artificial Intelligence - Melanie Mitchell](https://youtu.be/HAiXT1mGTXc) - Distinctive Voices
 
 * [ 4:53 is Possible ](https://youtu.be/xP2PVsiIY1Y) - Kosmic
