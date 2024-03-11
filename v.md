@@ -4,6 +4,8 @@
 
 #### 2024/03/11
 
+* [ 4:53 is Possible ](https://youtu.be/xP2PVsiIY1Y) - Kosmic
+
 * [ Michael Munger on Obedience to the Unenforceable](https://youtu.be/kH_PBO0W8Oc) - EconTalk
 
 #### 2024/03/10
