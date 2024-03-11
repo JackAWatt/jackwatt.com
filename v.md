@@ -4,6 +4,8 @@
 
 #### 2024/03/11
 
+* [ The Future of Artificial Intelligence - Melanie Mitchell](https://youtu.be/HAiXT1mGTXc) - Distinctive Voices
+
 * [ 4:53 is Possible ](https://youtu.be/xP2PVsiIY1Y) - Kosmic
 
 * [ Michael Munger on Obedience to the Unenforceable](https://youtu.be/kH_PBO0W8Oc) - EconTalk
