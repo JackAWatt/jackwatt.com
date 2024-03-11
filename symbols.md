@@ -1,4 +1,4 @@
-####### list is used to easily be able to copy when needed
+###### list is used to easily be able to copy when needed
 
 * Degrees: °
 * Lambda: λ
