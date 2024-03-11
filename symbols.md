@@ -1,3 +1,5 @@
+####### list is used to easily be able to copy when needed
+
 * Degrees: °
 * Lambda: λ
 * Congrunece: ≅
