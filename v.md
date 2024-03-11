@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+#### 2024/03/11
+
+* [ Michael Munger on Obedience to the Unenforceable](https://youtu.be/kH_PBO0W8Oc) - EconTalk
+
 #### 2024/03/10
 
 * [ What is the best ARPG of all time (in my opinion) ? ](https://youtu.be/iRl3THDwV0k) - Zizaran
