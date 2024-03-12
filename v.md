@@ -4,6 +4,8 @@
 
 #### 2024/03/12
 
+* [ This Is the Calculus They Won't Teach You ](https://youtu.be/5M2RWtD4EzI) - A Well-Rested Dog 
+
 * [ My Review after completing everything in Last Epoch ](https://youtu.be/XSrPlJBywiI) - Wudijo
 
 #### 2024/03/11
