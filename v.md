@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+#### 2024/03/12
+
+* [ My Review after completing everything in Last Epoch ](https://youtu.be/XSrPlJBywiI) - Wudijo
+
 #### 2024/03/11
 
 * [ How Trackmania Players Conquered Bugs ](https://youtu.be/eCdppL8pS_0) - Wirtual
