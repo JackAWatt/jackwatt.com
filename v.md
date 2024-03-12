@@ -4,6 +4,8 @@
 
 #### 2024/03/11
 
+* [ The $35 Game That's Trashing Diablo 4 ](https://youtu.be/tpNXVAYCkGw) - Bellular News 
+
 * [ How The Most Useless Branch of Math Could Save Your Life ](https://youtu.be/8DBhTXM_Br4) - Veritasium
 
 * [ The Oldest Unsolved Problem in Math ](https://youtu.be/Zrv1EDIqHkY) - Veritasium
