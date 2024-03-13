@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+#### 2024/03/13
+
+* [Marc Andreessen on AI and Dynamism](https://youtu.be/wGWirl2fUwE) - Conversations with Tyler 
+
 #### 2024/03/12
 
 * [ This Is the Calculus They Won't Teach You ](https://youtu.be/5M2RWtD4EzI) - A Well-Rested Dog 
