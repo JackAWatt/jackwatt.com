@@ -4,6 +4,8 @@
 
 #### 2024/03/14
 
+* [ Israel-Palestine Debate: Finkelstein, Destiny, M. Rabbani & Benny Morris](https://youtu.be/1X_KdkoGxSs) - Lex Fridman Podcast
+
 * [ extremely specific book recommendations for every type of person ](https://youtu.be/-Qdpl4u4zNw) - Jack Edwards
 
 #### 2024/03/13
