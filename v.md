@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+#### 2024/03/16
+
+* [ Marc Andreessen: Future of the Internet, Technology, and AI](https://youtu.be/-hxeDjAxvJ8) - Lex Fridman Podcast
+
 #### 2024/03/14
 
 * [ Israel-Palestine Debate: Finkelstein, Destiny, M. Rabbani & Benny Morris](https://youtu.be/1X_KdkoGxSs) - Lex Fridman Podcast
