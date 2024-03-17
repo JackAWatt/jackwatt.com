@@ -4,6 +4,8 @@
 
 #### 2024/03/16
 
+* [ Living with Exponential Change (with Azeem Azhar)](https://youtu.be/MZcnymw4Moo) - EconTalk
+
 * [ Marc Andreessen: Future of the Internet, Technology, and AI](https://youtu.be/-hxeDjAxvJ8) - Lex Fridman Podcast
 
 #### 2024/03/14
