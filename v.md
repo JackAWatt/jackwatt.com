@@ -2,6 +2,17 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+
+#### 2024/06/18
+
+* [ Books every software engineer should read in 2024. ](https://youtu.be/Y2iJOPxw0JU) - Engineering with Utsav
+
+#### 2024/06/17
+
+* [Tyler Cowen on the GOAT of Economics](https://youtu.be/_jDiL220E4M) - EconTalk
+
+* [Tyler Cowen on the Risks and Impact of Artificial Intelligence](https://youtu.be/FBMgSXY2STk) - EconTalk
+
 #### 2024/03/16
 
 * [ Living with Exponential Change (with Azeem Azhar)](https://youtu.be/MZcnymw4Moo) - EconTalk
