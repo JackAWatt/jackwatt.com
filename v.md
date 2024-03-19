@@ -2,6 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+#### 2024/06/19
+
+* [ How I Healed My Brain in 1200 Days ](https://youtu.be/W5_xWtsTulI) - Jona Ragogna
 
 #### 2024/06/18
 
