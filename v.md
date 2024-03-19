@@ -4,6 +4,8 @@
 
 #### 2024/06/19
 
+* [Tyler Cowen on Reading](https://youtu.be/rmR3GJHI0-Y) - EconTalk
+
 * [ Psychologist Dr. Michael Gervais On The Problem With Stoicism ](https://youtu.be/CFKRZYyUCE4) - Daily Stoic
 
 * [ How I Healed My Brain in 1200 Days ](https://youtu.be/W5_xWtsTulI) - Jona Ragogna
