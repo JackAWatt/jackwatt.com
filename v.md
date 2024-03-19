@@ -5,6 +5,8 @@
 
 #### 2024/06/18
 
+* [ The Strangest Cheated Trackmania Record ](https://youtu.be/j52SLGZ0RHY) - Wirtual
+
 * [ Books every software engineer should read in 2024. ](https://youtu.be/Y2iJOPxw0JU) - Engineering with Utsav
 
 #### 2024/06/17
