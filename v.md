@@ -4,6 +4,8 @@
 
 #### 2024/06/19
 
+* [Greatest philosophical novels of all time, Part 1](https://youtu.be/YcGX7x9ZR1A) - Arguably, The Reading Quest 
+
 * [Tyler Cowen on Reading](https://youtu.be/rmR3GJHI0-Y) - EconTalk
 
 * [ Psychologist Dr. Michael Gervais On The Problem With Stoicism ](https://youtu.be/CFKRZYyUCE4) - Daily Stoic
