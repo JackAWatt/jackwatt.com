@@ -4,6 +4,8 @@
 
 #### 2024/06/20
 
+* [ 6 MUST READ Software Engineering Books 2022 ](https://youtu.be/9t7R4GBUAq0) - Keep on Coding
+
 * [ 5 Books That Can Change A Developer’s Career ](https://youtu.be/RfOYWeu5pGk) - Continuous Delivery - WA
 
 #### 2024/06/19
