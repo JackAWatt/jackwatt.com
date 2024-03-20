@@ -4,6 +4,8 @@
 
 #### 2024/06/20
 
+* [Doug Lemov on Making People Better](https://open.spotify.com/episode/6S9KdvtqPt2l3lNImDn7f2?si=ZGZvfLkwQKq9zyiFx0M_9A) - Intentional Performers
+
 * [ 6 MUST READ Software Engineering Books 2022 ](https://youtu.be/9t7R4GBUAq0) - Keep on Coding
 
 * [ 5 Books That Can Change A Developer’s Career ](https://youtu.be/RfOYWeu5pGk) - Continuous Delivery - WA
