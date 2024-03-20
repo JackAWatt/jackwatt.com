@@ -4,6 +4,8 @@
 
 #### 2024/06/19
 
+* [Doug Lemov on Reading](https://youtu.be/ZUcmu7BWhX8) - EconTalk
+
 * [Greatest philosophical novels of all time, Part 1](https://youtu.be/YcGX7x9ZR1A) - Arguably, The Reading Quest 
 
 * [Tyler Cowen on Reading](https://youtu.be/rmR3GJHI0-Y) - EconTalk
