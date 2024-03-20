@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
 
+#### 2024/06/20
+
+* [ 5 Books That Can Change A Developer’s Career ](https://youtu.be/RfOYWeu5pGk) - Continuous Delivery
+
 #### 2024/06/19
 
 * [Doug Lemov on Reading](https://youtu.be/ZUcmu7BWhX8) - EconTalk
