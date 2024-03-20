@@ -1,10 +1,10 @@
 ###### Videos and Podcasts
 
-###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later
+###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
 #### 2024/06/20
 
-* [ 5 Books That Can Change A Developer’s Career ](https://youtu.be/RfOYWeu5pGk) - Continuous Delivery
+* [ 5 Books That Can Change A Developer’s Career ](https://youtu.be/RfOYWeu5pGk) - Continuous Delivery - WA
 
 #### 2024/06/19
 
