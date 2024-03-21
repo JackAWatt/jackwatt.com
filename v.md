@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/21
+
+* [ Solving Math Problems ](https://youtu.be/TReeC5_a1J4) - The Math Sorcerer
+
 #### 2024/06/20
 
 * [Doug Lemov on Making People Better](https://open.spotify.com/episode/6S9KdvtqPt2l3lNImDn7f2?si=ZGZvfLkwQKq9zyiFx0M_9A) - Intentional Performers
