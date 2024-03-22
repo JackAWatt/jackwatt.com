@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/22
+
+* [ Fischer's Rule Will Prevent 50% of Your Chess Mistakes ](https://youtu.be/_h4KLNqvLWw) - Remote Chess Academy
+
 #### 2024/06/21
 
 * [ Solving Math Problems ](https://youtu.be/TReeC5_a1J4) - The Math Sorcerer
