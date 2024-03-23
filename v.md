@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why Darth Maul was Deeply Ashamed of the Way Qui-Gon Died - IN-DEPTH ANALYSIS ](https://www.youtube.com/watch?v=-Pz8Z-zeriY) - The Stupendous Wave
+
 * [ Why Is 1/137 One of the Greatest Unsolved Problems In Physics? ](https://youtu.be/RCSSgxV9qNw) -  PBS Space Time
 
 * [ Why Dooku Believed Yoda Was Trained in the Dark Side - Star Wars Explained ](https://youtu.be/FQ4pNw2rCi8) - The Stupendous Wave
