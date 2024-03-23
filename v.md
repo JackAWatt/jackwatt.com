@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Jordan Peterson - How to Know You're Being Authentic Or Fake  ](https://youtu.be/ph2Ddo36wC4) - THE BESTS
+
 * [ How to Choose a Major in 2024 (and beyond) ](https://youtu.be/8Fb0GDrwcG4) - William Dozier 
 
 #### 2024/06/22
