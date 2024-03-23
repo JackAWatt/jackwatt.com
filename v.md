@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why Is 1/137 One of the Greatest Unsolved Problems In Physics? ](https://youtu.be/RCSSgxV9qNw) -  PBS Space Time
+
 * [ Why Dooku Believed Yoda Was Trained in the Dark Side - Star Wars Explained ](https://youtu.be/FQ4pNw2rCi8) - The Stupendous Wave
 
 * [ Did Sauron know about Gandalf? ](https://youtu.be/_LcFI0KG5oM) - In Deep Geek
