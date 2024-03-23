@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why not throw the Ring into the Sea? ](https://youtu.be/AsDMNLYM4tE) - In Deep Geek
+
 * [ Why couldn't Sauron sense Bilbo? ](https://youtu.be/tGV4airgSNc) - In Deep Geek
 
 * [ Why Rubik's Cubers nod their head ](https://youtu.be/x1u_CVWUU00) - Lateral with Tom Scott
