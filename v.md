@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why Dooku Believed Yoda Was Trained in the Dark Side - Star Wars Explained ](https://youtu.be/FQ4pNw2rCi8) - The Stupendous Wave
+
 * [ Did Sauron know about Gandalf? ](https://youtu.be/_LcFI0KG5oM) - In Deep Geek
 
 * [ Why not send the ring to Valinor? ](https://youtu.be/ONiE-FEb3Ys) - In Deep Geek
