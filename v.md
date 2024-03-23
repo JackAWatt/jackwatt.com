@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/23
+
+* [ How to Choose a Major in 2024 (and beyond) ](https://youtu.be/8Fb0GDrwcG4) - William Dozier 
+
 #### 2024/06/22
 
 * [ Fischer's Rule Will Prevent 50% of Your Chess Mistakes ](https://youtu.be/_h4KLNqvLWw) - Remote Chess Academy
