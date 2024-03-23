@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why couldn't Sauron sense Bilbo? ](https://youtu.be/tGV4airgSNc) - In Deep Geek
+
 * [ Why Rubik's Cubers nod their head ](https://youtu.be/x1u_CVWUU00) - Lateral with Tom Scott
 
 * [ Jordan Peterson - How to Know You're Being Authentic Or Fake  ](https://youtu.be/ph2Ddo36wC4) - THE BESTS
