@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why Rubik's Cubers nod their head ](https://youtu.be/x1u_CVWUU00) - Lateral with Tom Scott
+
 * [ Jordan Peterson - How to Know You're Being Authentic Or Fake  ](https://youtu.be/ph2Ddo36wC4) - THE BESTS
 
 * [ How to Choose a Major in 2024 (and beyond) ](https://youtu.be/8Fb0GDrwcG4) - William Dozier 
