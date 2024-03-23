@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Did Sauron know about Gandalf? ](https://youtu.be/_LcFI0KG5oM) - In Deep Geek
+
 * [ Why not send the ring to Valinor? ](https://youtu.be/ONiE-FEb3Ys) - In Deep Geek
 
 * [ Why not throw the Ring into the Sea? ](https://youtu.be/AsDMNLYM4tE) - In Deep Geek
