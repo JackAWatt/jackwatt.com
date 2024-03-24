@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why FULL Potential Anakin Would EMBARRASS Abeloth - Star Wars Explained ](https://youtu.be/LUBlfWPMiFA) - The Stupendous Wave
+
 * [ Why Palpatine Said He was WAY More AFRAID of Luke than ANAKIN ](https://youtu.be/0YaYTMrBCxw) -  The Stupendous Wave
 
 * [ Why Darth Maul was Deeply Ashamed of the Way Qui-Gon Died - IN-DEPTH ANALYSIS ](https://youtu.be/zWGXFvCe6O8) -  The Stupendous Wave
