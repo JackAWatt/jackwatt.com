@@ -31,7 +31,7 @@ $$y = (x+3)(x-5)$$
 ##### Example:
 $$3x^2 + 10x - 8$$
 
-$-24$ is the number $r$ and $s$ multiplies to and $10$ is the number $r$ and $s$ add to
+$r$ and $s$ multiply to $-24$ to and $r$ and $s$ add to $10$
 
 $r = 12, s = -2$
 
