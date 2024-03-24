@@ -15,3 +15,13 @@ $$-4 = -4a$$
 $$\frac {-4}{-4} = a$$
 
 $$a = 1$$
+
+Therefore, we can write the equation of the parabola:
+
+$$y = (x -2)(x - 6)$$
+
+or, we can expand to get this in standard form:
+
+$$y = x^2 -6x -2x + 12$$
+
+$$y = x^2 -8x + 12$$
