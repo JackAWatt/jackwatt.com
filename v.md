@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ Graph Quadratics Using the x-Intercepts Part 1 ](https://youtu.be/cSGObgLOu3U) - AlRichards314
+
 * [ Quadratic Relations of the Form y = a(x – r)(x – s) ](https://youtu.be/C8YcqPLAz3A) - AlRichards314
 
 * [ How To Factor Difficult Quadratic Equations ](https://youtu.be/VG1luiL_INQ) - The Organic Chemistry Tutor
