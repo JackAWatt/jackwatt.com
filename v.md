@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ Why not give the ring to Gimli? ](https://youtu.be/4ARtHN8ldbw) - In Deep Geek
+
 * [ Graph Quadratics Using the x-Intercepts Part 1 ](https://youtu.be/cSGObgLOu3U) - AlRichards314
 
 * [ Quadratic Relations of the Form y = a(x – r)(x – s) ](https://youtu.be/C8YcqPLAz3A) - AlRichards314
