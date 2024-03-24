@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ The Lord of the Rings from Sauron's perspective ](https://youtu.be/iU9FEimgsRw) - In Deep Geek
+
 * [ Tolkien's Unfinished Sequel to The Lord of the Rings ](https://youtu.be/QNId0pPkX28) - In Deep Geek
 
 * [ Why Anakin is Now the MOST Powerful Character in Star Wars ](https://youtu.be/J7QFSErel0s) - The Stupendous Wave
