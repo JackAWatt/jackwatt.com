@@ -1,8 +1,8 @@
 # Basic
 ```
-- $3x + 5y - 2z$
+$3x + 5y - 2z$
 ```
-- $3x + 5y - 2z$
+$3x + 5y - 2z$
 
 # Equations
 * quadratic
