@@ -11,5 +11,6 @@ $$2x^2 + 3x -2 = 0 $$
 $$x = \frac {-(3) \pm \sqrt{(3)^2 -4(2)(-2)}} {2(2)}$$
 ##### work out the discriminant
 $$\sqrt{(3)^2 -4(2)(-2)}$$
-$$\sqrt{25}$$
+
+$\sqrt{25}$
 
