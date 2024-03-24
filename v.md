@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ How To Solve Quadratic Equations By Factoring](https://youtu.be/qeByhTF8WEw) - The Organic Chemistry Tutor
+
 * [ Why not fly the eagles to Mordor? ](https://youtu.be/1M2G6_enARY) - In Deep Geek
 
 * [ Jordan Peterson Refuses to Debate Matt Dillahunty ](https://youtu.be/bw9xFLPz85I) - Deep Drinks
