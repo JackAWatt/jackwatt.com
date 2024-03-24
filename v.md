@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ Why not fly the eagles to Mordor? ](https://youtu.be/1M2G6_enARY) - In Deep Geek
+
 * [ Jordan Peterson Refuses to Debate Matt Dillahunty ](https://youtu.be/bw9xFLPz85I) - Deep Drinks
 
 * [ Magnus Carlsen on Cheating in Chess, Being the GOAT, and Retiring from the Game.. ](https://youtu.be/CWP1phkx2I0) - chess.com
