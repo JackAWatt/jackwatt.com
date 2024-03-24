@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why does Lord of the Rings have so many endings? ](https://youtu.be/nKo7CQxylZg) - In Deep Geek
+
 * [ The Lord of the Rings from Sauron's perspective ](https://youtu.be/iU9FEimgsRw) - In Deep Geek
 
 * [ Tolkien's Unfinished Sequel to The Lord of the Rings ](https://youtu.be/QNId0pPkX28) - In Deep Geek
