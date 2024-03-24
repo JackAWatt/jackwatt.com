@@ -1,16 +1,18 @@
 * squareroot
 
 ```
-- $x + y$
-- $x - y$
+- $x + y$ - $z
+```
+- $x + y$ - $z
+```
 - $x \times y$ 
-- $x \div y$
+```
+- $x \times y$ \div $y
+```
 - $\dfrac{x}{y}$
+```
+- $\dfrac{x}{y}$
+```
 - $\sqrt{x}$
 ```
-- $x + y$
-- $x - y$
-- $x \times y$ 
-- $x \div y$
-- $\dfrac{x}{y}$
 - $\sqrt{x}$
