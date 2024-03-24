@@ -14,5 +14,5 @@ $$\sqrt{(3)^2 -4(2)(-2)}$$
 
 $$\sqrt{25}$$
 ##### plug the discriminant back in
-$$x = \frac {-(3) \pm \sqrt{25}$$
+$$x = \frac {-(3) \pm \sqrt{25}}$$
 
