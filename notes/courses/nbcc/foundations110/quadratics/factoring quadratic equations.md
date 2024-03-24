@@ -31,9 +31,9 @@ $$y = (x+3)(x-5)$$
 ##### Example:
 $$3x^2 + 10x - 8$$
 
-$r$ and $s$ multiply to $-24$ to and $r$ and $s$ add to $10$
+$num1$ and $num2$ multiply to $-24$ to and $r$ and $s$ add to $10$
 
-$r = 12, s = -2$
+$num1 = 12, num2 = -2$
 
 Then we divide by $a$ which is $3$ resulting in $r = \frac {12}{3}, s = \frac {-2}{3}$
 
