@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why Anakin is Now the MOST Powerful Character in Star Wars ](https://youtu.be/J7QFSErel0s) - The Stupendous Wave
+
 * [ Why FULL Potential Anakin Would EMBARRASS Abeloth - Star Wars Explained ](https://youtu.be/LUBlfWPMiFA) - The Stupendous Wave
 
 * [ Why Palpatine Said He was WAY More AFRAID of Luke than ANAKIN ](https://youtu.be/0YaYTMrBCxw) -  The Stupendous Wave
