@@ -14,4 +14,4 @@ $$3x^2 + 6x + 24 = 0$$
 
 $$x^2 + 2x + 8 = 0$$
 
-2. Find factor pairs of ```$$a \times c$$```
+2. Find factor pairs of $a \times c$: Multiply a and c, then find pairs of numbers that multiply to $a \times c$ and add up to $b$. These pairs will be the coefficients of the factors
