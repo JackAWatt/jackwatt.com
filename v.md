@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Graph Quadratics Using the x-Intercepts Part 2](https://youtu.be/c-IuTy6W2Jw) - AlRichards314
+
 * [Factoring Quadratics... How? ](https://youtu.be/YtN9_tCaRQc) - NancyPi
 
 * [ Why not give the ring to Gimli? ](https://youtu.be/4ARtHN8ldbw) - In Deep Geek
