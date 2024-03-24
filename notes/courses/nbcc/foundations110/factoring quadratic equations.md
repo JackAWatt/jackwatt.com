@@ -21,3 +21,20 @@ $$x^2 + 2x + 8 = 0$$
 $$y = x^2 -2x -15$$
 
 $$y = (x+3)(x-5)$$
+
+### method for difficult to factor equations:
+
+1. $a \times c$ is the number $r$ and $s$ multiply to. $b$ is the number $r$ and $s$ add to.
+2. divide $r$ and $s$ by by $a$
+3. the numerator becomes the constant and the denominator becomes the coefficient of $r$ and $s$
+
+##### Example:
+$$3x^2 + 10x - 8$$
+
+$-24$ is the number $r$ and $s$ multiplies to and $10$ is the number $r$ and $s$ add to
+
+$r = 12, s = -2$
+
+Then we divide by $a$ which is $3$ resulting in $r = \frac {12}{3}, s = \frac {-2}{3}
+
+Then we simplify resulting in $r = \frac {4}{1}, s = \frac {-2}{3}$
