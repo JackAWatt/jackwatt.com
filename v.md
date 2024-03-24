@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ How To Factor Difficult Quadratic Equations ](https://youtu.be/VG1luiL_INQ) - The Organic Chemistry Tutor
+
 * [ How To Solve Quadratic Equations Using The Quadratic Formula ](https://youtu.be/IlNAJl36-10) - The Organic Chemistry Tutor
 
 * [ How To Solve Quadratic Equations By Factoring](https://youtu.be/qeByhTF8WEw) - The Organic Chemistry Tutor
