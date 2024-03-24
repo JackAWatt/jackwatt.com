@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ Magnus Carlsen on Cheating in Chess, Being the GOAT, and Retiring from the Game.. ](https://youtu.be/CWP1phkx2I0) - chess.com
+
 * [ Why had Sauron not heard of the Shire? ](https://youtu.be/c7QLNqf4TtI) - In Deep Geek
 
 #### 2024/06/23
