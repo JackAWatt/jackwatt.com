@@ -7,7 +7,7 @@
 ```
 - $x \times y$ 
 ```
-- $x \times y$ \div $y
+- $x \times y$ \div y$
 ```
 - $\dfrac{x}{y}$
 ```
