@@ -4,6 +4,8 @@
 
 #### 2024/06/23
 
+* [ Why Palpatine Said He was WAY More AFRAID of Luke than ANAKIN ](https://youtu.be/0YaYTMrBCxw) -  The Stupendous Wave
+
 * [ Why Darth Maul was Deeply Ashamed of the Way Qui-Gon Died - IN-DEPTH ANALYSIS ](https://youtu.be/zWGXFvCe6O8) -  The Stupendous Wave
 
 * [ Why Darth Maul was Deeply Ashamed of the Way Qui-Gon Died - IN-DEPTH ANALYSIS ](https://www.youtube.com/watch?v=-Pz8Z-zeriY) - The Stupendous Wave
