@@ -38,3 +38,5 @@ $r = 12, s = -2$
 Then we divide by $a$ which is $3$ resulting in $r = \frac {12}{3}, s = \frac {-2}{3}$
 
 Then we simplify resulting in $r = \frac {4}{1}, s = \frac {-2}{3}$
+
+factored form: $(x + 4)(3s -2)$
