@@ -15,4 +15,8 @@ $$\sqrt{(3)^2 -4(2)(-2)}$$
 $$\sqrt{25}$$
 ##### plug the discriminant back in
 $$x = \frac {-(3) \pm \sqrt{25}} {2(2)}$$
+##### work out both roots
+$$x = \frac {-(3) + \sqrt{25}} {2(2)}$$
+
+$$x = \frac {-(3) - \sqrt{25}} {2(2)}$$
 
