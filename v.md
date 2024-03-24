@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/24
+
+* [ Why had Sauron not heard of the Shire? ](https://youtu.be/c7QLNqf4TtI) - In Deep Geek
+
 #### 2024/06/23
 
 * [ Why does Lord of the Rings have so many endings? ](https://youtu.be/nKo7CQxylZg) - In Deep Geek
