@@ -4,6 +4,8 @@
 
 #### 2024/06/25
 
+* [Zero & Infinity, Introduction to Limits (Division/Dividing by Zero)](https://youtu.be/_ORHmRaPEzc?list=PLFA0678B6777BA250) - The Language of Mathematics (5/189)
+
 * [ Lord of the Rings from Gandalf's perspective ](https://youtu.be/GKAriArLQy8) - In Deep Geek
 
 * [ Joplin vs Obsidian - My Experience with Both Programs ](https://youtu.be/C37WOqEjsoo) - MKs Software House
