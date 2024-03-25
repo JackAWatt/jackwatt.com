@@ -4,6 +4,8 @@
 
 #### 2024/06/25
 
+* [Reasoning with linear equations](https://youtu.be/BV-TGIMUXaw) - KhanAcademy
+
 * [Equations with parentheses](https://youtu.be/YZBStgZGyDY) - KhanAcademy
 
 * [Equation with the variable in the denominator](https://youtu.be/Z7C69xP08d8) - KhanAcademy
