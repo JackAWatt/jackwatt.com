@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Carlsen's Unusual Double Sacrifice Baffles The Chess Commentators](https://youtu.be/VBPLw9ANQOA) - Epic Chess
+
 * [Lecture 0 - Welcome](https://www.coursera.org/learn/mathematical-thinking/lecture/8UyP0/lecture-0-welcome) - Mathematical Thinking
 
 * [ When did Saruman turn evil? ](https://youtu.be/ypgYte5XxWs) - In Deep Geek
