@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Lecture 0 - Welcome](https://www.coursera.org/learn/mathematical-thinking/lecture/8UyP0/lecture-0-welcome)
+
 * [ When did Saruman turn evil? ](https://youtu.be/ypgYte5XxWs) - In Deep Geek
 
 * [ A Disaster You've Never Heard of is Still Controlling Our Timeline ](https://youtu.be/BaGJBlKT8NA) - MrBallen
