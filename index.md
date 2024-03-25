@@ -1,5 +1,12 @@
 # Resources 
 
+##### Useful Websites and Programs
+
+* [Web Based Pomodoro Timer](https://pomodor.app/timer)
+* [Joplin Hierarchical Notes](https://joplinapp.org/) - easy to use
+* [CherryTree Hierarchical Notes](https://www.giuspen.net/cherrytree/) - best for deep nesting of notes
+* [Obsidian Notes](https://obsidian.md/) - most powerful
+
 ##### Complete Computer Science, Data Science, and Math curriculums
 
 * OSSU Open Source Computer Science [GitHub](https://github.com/ossu/computer-science), [Website](https://ossu.firebaseapp.com/#/), [Course Page](https://ossu.thinkific.com/courses/computer-science-v7)
@@ -95,18 +102,6 @@
 * [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
 * [Cooking For Engineers](https://www.cookingforengineers.com/) - Have an analytical mind? Like to cook? This is the site to read!
-
-##### Video Games
-
-* [Ye Old Entertainment](https://www.youtube.com/@YeOldEntertainment) - Retrospectives on older CRPGs
-* [NeverKnowsBest](https://www.youtube.com/@NeverKnowsBest) - Histories and Retrospectives
-* [Mortismal Gaming](https://www.youtube.com/@MortismalGaming/videos) - RPGs
-* [Erick Landon RPG](https://www.youtube.com/@ErickLandonRPG) - JRPGs
-* [Just the Gems](https://www.youtube.com/@JustTheGems) - JRPGs
-* [Backlog Battle](https://www.youtube.com/@BacklogBattle) - JRPGs
-* [Karl Jobst](https://www.youtube.com/@karljobst) - Speedrunning
-* [Suggestive Gaming](https://www.youtube.com/@SuggestiveGaming) - Storytelling
-* [Matt Draper](https://www.youtube.com/@MattDraper/videos) - Storytelling
 
 ##### My History
 
