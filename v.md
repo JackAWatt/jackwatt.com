@@ -4,6 +4,8 @@
 
 #### 2024/06/25
 
+* [Number of solutions to equations](https://youtu.be/qsL_5Y8uWPU) - KhanAcademy
+
 * [Reasoning with linear equations](https://youtu.be/BV-TGIMUXaw) - KhanAcademy
 
 * [Equations with parentheses](https://youtu.be/YZBStgZGyDY) - KhanAcademy
