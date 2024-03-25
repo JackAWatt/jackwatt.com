@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/25
+
+* [Equation with the variable in the denominator](https://youtu.be/Z7C69xP08d8) - KhanAcademy
+
 #### 2024/06/24
 
 * [Carlsen's Unusual Double Sacrifice Baffles The Chess Commentators](https://youtu.be/VBPLw9ANQOA) - Epic Chess
