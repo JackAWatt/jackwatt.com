@@ -4,6 +4,8 @@
 
 #### 2024/06/25
 
+* [ Joplin vs Obsidian - My Experience with Both Programs ](https://youtu.be/C37WOqEjsoo) - MKs Software House
+
 * [Linear equations with unknown coefficients](https://youtu.be/adPgapI-h3g) - KhanAcademy
 
 * [Number of solutions to equations](https://youtu.be/qsL_5Y8uWPU) - KhanAcademy
