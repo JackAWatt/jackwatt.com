@@ -4,6 +4,8 @@
 
 #### 2024/06/25
 
+* [Linear equations with unknown coefficients](https://youtu.be/adPgapI-h3g) - KhanAcademy
+
 * [Number of solutions to equations](https://youtu.be/qsL_5Y8uWPU) - KhanAcademy
 
 * [Reasoning with linear equations](https://youtu.be/BV-TGIMUXaw) - KhanAcademy
