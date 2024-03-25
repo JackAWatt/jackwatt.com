@@ -1,1 +1,1 @@
-* [linear equations with unknown coefficients](http://jackwatt.com/math/linear equations with unknown coefficients.md)
+* [linear equations with unknown coefficients](http://jackwatt.com/math/linear_equations_with_unknown_coefficients.md)
