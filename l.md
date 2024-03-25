@@ -1,7 +1,11 @@
-The roots are:
+$$2t^2 + 11t + 5$$
 
-$$ t_1 = \frac{{-5 + 7}}{2} = 1 $$
+$$1 * 10 = 10, 1 + 10 = 11$$
 
-$$ t_2 = \frac{{-5 - 7}}{2} = -6 $$
+$$2t^2 + 10t + t + 5$$
 
-Therefore, the roots of the quadratic equation $ t^2 + 5t - 6 = 0$ are $ t = 1 $ and $ t = -6 $
+$$(2t^2 + 10t)(t + 5)$$
+
+$$2t(t + 5) 1(t + 5)$$
+
+$$$2(t + 1)(t + 5)$$
