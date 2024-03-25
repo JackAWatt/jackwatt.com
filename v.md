@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ When did Saruman turn evil? ](https://youtu.be/ypgYte5XxWs) - In Deep Geek
+
 * [ A Disaster You've Never Heard of is Still Controlling Our Timeline ](https://youtu.be/BaGJBlKT8NA) - MrBallen
 
 * [Graph Quadratics Using the x-Intercepts Part 2](https://youtu.be/c-IuTy6W2Jw) - AlRichards314
