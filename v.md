@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [ A Disaster You've Never Heard of is Still Controlling Our Timeline ](https://youtu.be/BaGJBlKT8NA) - MrBallen
+
 * [Graph Quadratics Using the x-Intercepts Part 2](https://youtu.be/c-IuTy6W2Jw) - AlRichards314
 
 * [Factoring Quadratics... How? ](https://youtu.be/YtN9_tCaRQc) - NancyPi
