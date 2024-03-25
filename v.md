@@ -4,6 +4,8 @@
 
 #### 2024/06/25
 
+* [ Lord of the Rings from Gandalf's perspective ](https://youtu.be/GKAriArLQy8) - In Deep Geek
+
 * [ Joplin vs Obsidian - My Experience with Both Programs ](https://youtu.be/C37WOqEjsoo) - MKs Software House
 
 * [Linear equations with unknown coefficients](https://youtu.be/adPgapI-h3g) - KhanAcademy
