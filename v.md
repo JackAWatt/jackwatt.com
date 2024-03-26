@@ -5,6 +5,8 @@
 
 #### 2024/06/26
 
+* [Using inequalities to solve problems](https://youtu.be/E6rn-YD_2_Q) - KhanAcademy
+
 * [Linear equations with unknown coefficients](https://youtu.be/adPgapI-h3g) - KhanAcademy
 
 #### 2024/06/25
