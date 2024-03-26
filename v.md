@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+
+#### 2024/06/26
+
+* [Linear equations with unknown coefficients](https://youtu.be/adPgapI-h3g) - KhanAcademy
+
 #### 2024/06/25
 
 * [Adding and Subtracting](https://youtu.be/ZtTWZXCOd6I?list=PLFA0678B6777BA250) - The Language of Mathematics (6/189)
