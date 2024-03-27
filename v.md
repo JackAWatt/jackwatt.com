@@ -4,6 +4,8 @@
 
 #### 2024/06/27
 
+* [Why Are Stories Stickier Than Statistics?](https://open.spotify.com/episode/2qlXyMdjn47WxQRFneoxT9?si=3f66276cb9364b91) - No Stupid Questions
+
 * [ Elise Crull on Philosophy of Physics](https://open.spotify.com/episode/0VHfH5lbKIhl7j0AARWrc6?si=O1iBjKwDT8iK7pUjrN0tSw) - Rationally Speaking
 
 #### 2024/06/26
