@@ -2,6 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/27
+
+* [ Elise Crull on Philosophy of Physics](https://open.spotify.com/episode/0VHfH5lbKIhl7j0AARWrc6?si=O1iBjKwDT8iK7pUjrN0tSw) - Rationally Speaking
 
 #### 2024/06/26
 
