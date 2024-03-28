@@ -2,6 +2,8 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+* [Distance and displacement introduction](https://youtu.be/vQCkYm3v3aA) - KhanAcademy
+
 #### 2024/06/27
 
 * [Is Emotional Intelligence Really So Important?](https://youtu.be/frtwIF_sjNM?list=PLZz6EbWQ52msowlH5kGJCD0n925x-oujF) - No Stupid Questions
