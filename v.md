@@ -2,6 +2,12 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/29
+
+* [ SNEBTIME : The Guild Wars 3 Rumours! ](https://youtu.be/pct9cJwOwzg) - MightyTeapot
+
+#### 2024/06/28
+
 * [Distance and displacement in one dimension](https://youtu.be/w2mbvtpQKrM) - KhanAcademy
 
 * [Distance and displacement introduction](https://youtu.be/vQCkYm3v3aA) - KhanAcademy
