@@ -4,6 +4,8 @@
 
 #### 2024/06/29
 
+* [ What I Never Realized About Gollum ](https://youtu.be/S1o4IHGqD18) - Archetypal Wisdom
+
 * [ Tolkien's unpublished Epilogue to The Lord of the Rings ](https://youtu.be/H2yRW4xmZFY) - In Deep Geek
 
 * [ When Tolkien changed The Hobbit ](https://youtu.be/_C9hXqXRopI) - In Deep Geek
