@@ -152,3 +152,9 @@ The second difference will always be constant for quadratics
 * Changing a alters the curvature of the parabola and the direction it opens.
 * Changing b alters the slope.
 * Changing c moves the parabola up and down.
+
+***
+
+* translating word problems
+
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/8f46c03d-70cd-4c2e-a030-cf2c524cc8de)
