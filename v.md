@@ -4,6 +4,8 @@
 
 #### 2024/06/29
 
+* [ What is Tolkien's Canon? ](https://youtu.be/B8AhJty-sig) - In Deep Geek
+
 * [ Galadriel's gifts Explained ](https://youtu.be/utX5RRD6ASs) - In Deep Geek
 
 * [ SNEBTIME : The Guild Wars 3 Rumours! ](https://youtu.be/pct9cJwOwzg) - MightyTeapot
