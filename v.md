@@ -4,6 +4,8 @@
 
 #### 2024/06/29
 
+* [ When Tolkien changed The Hobbit ](https://youtu.be/_C9hXqXRopI) - In Deep Geek
+
 * [ What is Tolkien's Canon? ](https://youtu.be/B8AhJty-sig) - In Deep Geek
 
 * [ Galadriel's gifts Explained ](https://youtu.be/utX5RRD6ASs) - In Deep Geek
