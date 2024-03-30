@@ -4,6 +4,8 @@
 
 #### 2024/06/30
 
+* [ What happened to the Blue Wizards? ](https://youtu.be/UvMRnmK85CM) - In Deep Geek
+
 * [ Fake Super Mario World Record Caught After 12 Years ](https://youtu.be/dockhgV__pE) - Karl Jobst
 
 * [Only the top 1% students know THIS (a REAL subliminal)](https://youtu.be/1TxZm8Ij65A) - wAmy
