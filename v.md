@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/30
+
+* [Only the top 1% students know THIS (a REAL subliminal)](https://youtu.be/1TxZm8Ij65A) - wAmy
+
 #### 2024/06/29
 
 * [ What I Never Realized About Gollum ](https://youtu.be/S1o4IHGqD18) - Archetypal Wisdom
