@@ -15,5 +15,5 @@ $$7x+x+7$$
 8. The quotient of a number and four diminished by seven
 $$\frac {x}{4} -7$$
 9. Three times the square of a number divided into seventeen
-$$\frac {17}{x^2*3} \therefore x$$
+$$\frac {17}{x^2*3} \therefore x \implies y$$
 
