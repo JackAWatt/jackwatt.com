@@ -1,19 +1,16 @@
-Practice Problems with answers.
-1. Six times a number less 12
-$$6x-12$$
-3. Three times a number plus five times a different number (use ‘y’ for the different
-number)
-$$3x+5y$$
-4. The sum of two numbers divided by a third (use ‘z’ for the third number)
-$$\frac {x+y}{z}$$
-5. The sum of four consecutive numbers
-$$4x+6$$
-6. The sum of three consecutive even numbers
-$$3x+6$$
-7. The product of seven and a number plus their sum
-$$7x+x+7$$
-8. The quotient of a number and four diminished by seven
-$$\frac {x}{4} -7$$
-9. Three times the square of a number divided into seventeen
-$$\frac {17}{x^2*3} \therefore x \implies y$$
+1. The area of a rectangular field is $2275m^2$. The field is enclosed by $200m$ of fencing.
+What are the dimensions of the field?
 
+2. The product of two consecutive even numbers is 168. What are the numbers?
+
+3. A toy rocket is fired off the ground at a target 24 feet away. It is designed to reach a
+maximum height of 36 feet as it heads toward its target on a parabolic path. Find the
+equation that represents the height off the ground versus the distance travelled for this
+rocket. State the equation in standard form, “$𝑦 = 𝑎𝑥^2 + 𝑏𝑥 + 𝑐$”. HINT: The path of the
+rocket is an “upside down” parabola, with one of the x-intercepts at the origin and the
+other at $(24,0)$. We also know the y-value of the vertex. We can use this information to
+find “$a$”, the coefficient of the $x^2$ term. One way to find this is to plug the known values into the factored form of the equation, ie. $𝑦 = 𝑎(𝑥 − 𝑟)(𝑥 − 𝑠)$
+
+4.
+
+5.
