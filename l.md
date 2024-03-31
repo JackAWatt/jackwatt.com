@@ -50,7 +50,7 @@ $$L = \frac {70}{2}$$
 $$L = 35$$
 
 
-$35 \times 65 = 2275 \therefore$ the dimensions of the field are $Length = 65$ and $width = 35$
+$35 \times 65 = 2275 \therefore$ the dimensions of the field are $Length = 65$ and $Width = 35$
 
 2. The product of two consecutive even numbers is 168. What are the numbers?
 
