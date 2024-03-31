@@ -17,5 +17,5 @@ $$\frac {x}{4} -7$$
 9. Three times the square of a number divided into seventeen
 $$\frac {17}{x^2*3}$$
 10. Simplify “twenty times a number divided by four ninths”
-$$\frac {20x}{\frac {4}{9}}$$
+$$\frac {20x}{\frac {4}{\frac {\frac {\frac {4}{9}}{9}}{\frac {4}{9}}}}$$
 11. Simplify “two times a number divided by three and a third”
