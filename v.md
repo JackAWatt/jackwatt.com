@@ -2,7 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
-#### 2024/06/30
+#### 2024/03/31
+
+* [ What is the Watcher in the Water? ](https://youtu.be/dOaXN4L6ZTo) - In Deep Geek
+
+#### 2024/03/30
 
 * [ What happened to the Blue Wizards? ](https://youtu.be/UvMRnmK85CM) - In Deep Geek
 
@@ -10,7 +14,7 @@
 
 * [Only the top 1% students know THIS (a REAL subliminal)](https://youtu.be/1TxZm8Ij65A) - wAmy
 
-#### 2024/06/29
+#### 2024/03/29
 
 * [ What I Never Realized About Gollum ](https://youtu.be/S1o4IHGqD18) - Archetypal Wisdom
 
@@ -24,13 +28,13 @@
 
 * [ SNEBTIME : The Guild Wars 3 Rumours! ](https://youtu.be/pct9cJwOwzg) - MightyTeapot
 
-#### 2024/06/28
+#### 2024/03/28
 
 * [Distance and displacement in one dimension](https://youtu.be/w2mbvtpQKrM) - KhanAcademy
 
 * [Distance and displacement introduction](https://youtu.be/vQCkYm3v3aA) - KhanAcademy
 
-#### 2024/06/27
+#### 2024/03/27
 
 * [Is Emotional Intelligence Really So Important?](https://youtu.be/frtwIF_sjNM?list=PLZz6EbWQ52msowlH5kGJCD0n925x-oujF) - No Stupid Questions
 
@@ -38,13 +42,13 @@
 
 * [ Elise Crull on Philosophy of Physics](https://open.spotify.com/episode/0VHfH5lbKIhl7j0AARWrc6?si=O1iBjKwDT8iK7pUjrN0tSw) - Rationally Speaking
 
-#### 2024/06/26
+#### 2024/03/26
 
 * [Using inequalities to solve problems](https://youtu.be/E6rn-YD_2_Q) - KhanAcademy
 
 * [Linear equations with unknown coefficients](https://youtu.be/adPgapI-h3g) - KhanAcademy
 
-#### 2024/06/25
+#### 2024/03/25
 
 * [Adding and Subtracting](https://youtu.be/ZtTWZXCOd6I?list=PLFA0678B6777BA250) - The Language of Mathematics (6/189)
 
@@ -64,7 +68,7 @@
 
 * [Equation with the variable in the denominator](https://youtu.be/Z7C69xP08d8) - KhanAcademy
 
-#### 2024/06/24
+#### 2024/03/24
 
 * [Carlsen's Unusual Double Sacrifice Baffles The Chess Commentators](https://youtu.be/VBPLw9ANQOA) - Epic Chess
 
@@ -98,7 +102,7 @@
 
 * [ Why had Sauron not heard of the Shire? ](https://youtu.be/c7QLNqf4TtI) - In Deep Geek
 
-#### 2024/06/23
+#### 2024/03/23
 
 * [ Why does Lord of the Rings have so many endings? ](https://youtu.be/nKo7CQxylZg) - In Deep Geek
 
@@ -134,15 +138,15 @@
 
 * [ How to Choose a Major in 2024 (and beyond) ](https://youtu.be/8Fb0GDrwcG4) - William Dozier 
 
-#### 2024/06/22
+#### 2024/03/22
 
 * [ Fischer's Rule Will Prevent 50% of Your Chess Mistakes ](https://youtu.be/_h4KLNqvLWw) - Remote Chess Academy
 
-#### 2024/06/21
+#### 2024/03/21
 
 * [ Solving Math Problems ](https://youtu.be/TReeC5_a1J4) - The Math Sorcerer
 
-#### 2024/06/20
+#### 2024/03/20
 
 * [Doug Lemov on Making People Better](https://open.spotify.com/episode/6S9KdvtqPt2l3lNImDn7f2?si=ZGZvfLkwQKq9zyiFx0M_9A) - Intentional Performers
 
@@ -150,7 +154,7 @@
 
 * [ 5 Books That Can Change A Developer’s Career ](https://youtu.be/RfOYWeu5pGk) - Continuous Delivery - WA
 
-#### 2024/06/19
+#### 2024/03/19
 
 * [Doug Lemov on Reading](https://youtu.be/ZUcmu7BWhX8) - EconTalk
 
@@ -162,13 +166,13 @@
 
 * [ How I Healed My Brain in 1200 Days ](https://youtu.be/W5_xWtsTulI) - Jona Ragogna
 
-#### 2024/06/18
+#### 2024/03/18
 
 * [ The Strangest Cheated Trackmania Record ](https://youtu.be/j52SLGZ0RHY) - Wirtual
 
 * [ Books every software engineer should read in 2024. ](https://youtu.be/Y2iJOPxw0JU) - Engineering with Utsav
 
-#### 2024/06/17
+#### 2024/03/17
 
 * [Tyler Cowen on the GOAT of Economics](https://youtu.be/_jDiL220E4M) - EconTalk
 
