@@ -36,6 +36,7 @@ $$L = \frac {-(-100) \pm \sqrt{900}}{2}$$
 $$L = \frac {100 \pm 30}{2}$$
 
 Working out the two possible values for L
+
 1.
 $$L = \frac {100 + 30}{2}$$
 $$L = \frac {130}{2}$$
