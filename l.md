@@ -15,7 +15,5 @@ $$7x+x+7$$
 8. The quotient of a number and four diminished by seven
 $$\frac {x}{4} -7$$
 9. Three times the square of a number divided into seventeen
-$$\frac {17}{x^2*3}$$
-10. Simplify “twenty times a number divided by four ninths”
-$$\frac {20x}{\frac {\frac {\frac {4}{9}}{\frac {4}{9}}}{\frac {\frac {\frac {\frac {4}{9}}{9}}{\frac {4}{9}}}{\frac {4}{9}}}}$$
-11. Simplify “two times a number divided by three and a third”
+$$\frac {17}{x^2*3} \therefore x$$
+
