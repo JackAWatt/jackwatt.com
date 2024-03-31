@@ -53,7 +53,7 @@ $$L = 35$$
 $35 \times 65 = 2275 \therefore$ the dimensions of the field are $Length = 65$ and $Width = 35$
 
 
-
+***
 
 
 2. The product of two consecutive even numbers is 168. What are the numbers?
@@ -65,7 +65,7 @@ $$\frac {2x}{2} = \frac {166}{2}$$
 $$x = 83$$
 $83+85 = 168 \therefore$ the two consecutive even numbers are $83$ and $85$
 
-
+***
 
 3. A toy rocket is fired off the ground at a target 24 feet away. It is designed to reach a
 maximum height of 36 feet as it heads toward its target on a parabolic path. Find the
@@ -76,4 +76,6 @@ other at $(24,0)$. We also know the y-value of the vertex. We can use this infor
 find $a$, the coefficient of the $x^2$ term. One way to find this is to plug the known values into the factored form of the equation, ie. $𝑦 = 𝑎(𝑥 − 𝑟)(𝑥 − 𝑠)$
 
 4. A plane traveled from Moncton to Winnipeg, a distance of $1940km$. On the return
-trip, the plane’s speed increased by $100km/h$ due to a tailwind. The total round trip took 6 hours. Find the average speed of the plane in each part of its journey, i.e. on the way to Winnipeg, and on the way back to Moncton. 
+trip, the plane’s speed increased by $100km/h$ due to a tailwind. The total round trip took 6 hours. Find the average speed of the plane in each part of its journey, i.e. on the way to Winnipeg, and on the way back to Moncton.
+
+
