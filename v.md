@@ -4,6 +4,8 @@
 
 #### 2024/03/31
 
+* [ Quadratic Word Problems ](https://youtu.be/BDHYt50PAuo) - Cheryl Morehouse
+
 * [ Quadratics Part 2 ](https://youtu.be/mpEwIMDnZu0) - Cheryl Morehouse
 
 * [Quadratics Part1](https://youtu.be/8bM_1Gv3AY4) - Cheryl Morehouse
