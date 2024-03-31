@@ -63,7 +63,7 @@ $$2x+2 = 168$$
 $$2x = 166$$
 $$\frac {2x}{2} = \frac {166}{2}$$
 $$x = 83$$
-$83+85 = 168 \therefore$ the two consecutive even numbers are $83, and 85$
+$83+85 = 168 \therefore$ the two consecutive even numbers are $83$ and $85$
 
 
 
