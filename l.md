@@ -96,6 +96,10 @@ $$t_{m} = \frac {1940}{s+100}$$
 
 building the quadratic
 
-$$t_{w} + t_{m} = 6$$ - total hours for the trip
+$$t_{w} + t_{m} = 6$$
 
 $$\frac {1940}{s} + \frac {1940}{s+100} = 6$$
+
+To solve for v we need to clear the fraction by multiplying every term by $v(v+ 100)$. (I had to get help with this part, I wasn't sure what to do. The next line was shown to me, but I did the rest of the work myself. 
+
+$$\frac {1940}{v} \times v(v + 100) + \frac {1940}{v+100} \times v(v+ 100) = 6 \times v(v + 100)$$
