@@ -94,3 +94,8 @@ $$t_{m} \times (s+100) = 1940$$
 
 $$t_{m} = \frac {1940}{s+100}$$
 
+building the quadratic
+
+$$t_{w} + t_{m} = 6$$ - total hours for the trip
+
+$$\frac {1940}{s} + \frac {1940}{s+100} = 6$$
