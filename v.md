@@ -4,6 +4,8 @@
 
 #### 2024/03/31
 
+* [Quadratics Part1](https://youtu.be/8bM_1Gv3AY4) - Cheryl Morehouse
+
 * [ What is the Watcher in the Water? ](https://youtu.be/dOaXN4L6ZTo) - In Deep Geek
 
 #### 2024/03/30
