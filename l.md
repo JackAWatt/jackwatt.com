@@ -28,7 +28,8 @@ $$100L - L^2 -2275 = 0$$
 $$-L^2 + 100L -2275 = 0$$
 
 Solve for L.
-$$L = \frac {-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+$$L = \frac {-(100) \pm \sqrt{(100)^2 - 4(1)(-2275)}}{2(1)}$$
+$$L = \frac {-(100) \pm \sqrt{(100)^2 - 4(1)(-2275)}}{2(1)}$$
 
 
 2. The product of two consecutive even numbers is 168. What are the numbers?
