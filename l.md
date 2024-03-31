@@ -1,9 +1,32 @@
 1. The area of a rectangular field is $2275m^2$. The field is enclosed by $200m$ of fencing.
 What are the dimensions of the field?
 
-a. $$2275 = L \times W$$
-b. $$200 = 2 \times (L + W)$$
+a. 
+$$2275 = L \times W$$
+
+b. 
+$$200 = 2 \times (L + W)$$
 $$100 = L + W$$
+
+Solving for W. 
+$$100 -W = L$$
+$$-w = L -100$$
+$$w = 100 -L$$
+
+Solving for L.
+$$100 -L = W$$
+$$-L = -100 + w$$
+$$L = 100 -W$$
+
+Substitute one of the expressions into the first equation.
+$$2275 = L \times (100 -L)$$
+$$2275 = 100L - L^2$$
+
+Rearrange into standard form.
+$$$100L - L^2 = 2275$$
+$$100L - L^2 -2275 = 0$$
+$$-L^2 + 100L -2275 = 0$$
+$$$$$
 
 
 2. The product of two consecutive even numbers is 168. What are the numbers?
