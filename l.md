@@ -75,6 +75,8 @@ rocket is an “upside down” parabola, with one of the x-intercepts at the ori
 other at $(24,0)$. We also know the y-value of the vertex. We can use this information to
 find $a$, the coefficient of the $x^2$ term. One way to find this is to plug the known values into the factored form of the equation, ie. $𝑦 = 𝑎(𝑥 − 𝑟)(𝑥 − 𝑠)$
 
+***
+
 4. A plane traveled from Moncton to Winnipeg, a distance of $1940km$. On the return
 trip, the plane’s speed increased by $100km/h$ due to a tailwind. The total round trip took 6 hours. Find the average speed of the plane in each part of its journey, i.e. on the way to Winnipeg, and on the way back to Moncton.
 
