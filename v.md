@@ -4,6 +4,8 @@
 
 #### 2024/03/31
 
+* [ The History of Khazad-Dum (Moria) ](https://youtu.be/TlVT-XsvAqw) - In Deep Geek
+
 * [ Quadratic Word Problems ](https://youtu.be/BDHYt50PAuo) - Cheryl Morehouse
 
 * [ Quadratics Part 2 ](https://youtu.be/mpEwIMDnZu0) - Cheryl Morehouse
