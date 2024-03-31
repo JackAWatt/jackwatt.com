@@ -67,7 +67,7 @@ $83+85 = 168 \therefore$ the two consecutive even numbers are $83$ and $85$
 
 
 
-4. A toy rocket is fired off the ground at a target 24 feet away. It is designed to reach a
+3. A toy rocket is fired off the ground at a target 24 feet away. It is designed to reach a
 maximum height of 36 feet as it heads toward its target on a parabolic path. Find the
 equation that represents the height off the ground versus the distance travelled for this
 rocket. State the equation in standard form, $𝑦 = 𝑎𝑥^2 + 𝑏𝑥 + 𝑐$. HINT: The path of the
@@ -75,7 +75,5 @@ rocket is an “upside down” parabola, with one of the x-intercepts at the ori
 other at $(24,0)$. We also know the y-value of the vertex. We can use this information to
 find $a$, the coefficient of the $x^2$ term. One way to find this is to plug the known values into the factored form of the equation, ie. $𝑦 = 𝑎(𝑥 − 𝑟)(𝑥 − 𝑠)$
 
-5. A plane traveled from Moncton to Winnipeg, a distance of $1940km$. On the return
-trip, the plane’s speed increased by $100km/h$ due to a tailwind. The total round trip took
-6 hours. Find the average speed of the plane in each part of its journey, i.e. on the way
-to Winnipeg, and on the way back to Moncton. 
+4. A plane traveled from Moncton to Winnipeg, a distance of $1940km$. On the return
+trip, the plane’s speed increased by $100km/h$ due to a tailwind. The total round trip took 6 hours. Find the average speed of the plane in each part of its journey, i.e. on the way to Winnipeg, and on the way back to Moncton. 
