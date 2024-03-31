@@ -1,6 +1,11 @@
 1. The area of a rectangular field is $2275m^2$. The field is enclosed by $200m$ of fencing.
 What are the dimensions of the field?
 
+a. $$2275 = L \times W$$
+b. $$200 = 2 \times (L + W)$$
+$$100 = L + W$$
+
+
 2. The product of two consecutive even numbers is 168. What are the numbers?
 
 3. A toy rocket is fired off the ground at a target 24 feet away. It is designed to reach a
