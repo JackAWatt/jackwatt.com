@@ -1,10 +1,10 @@
 1. The area of a rectangular field is $2275m^2$. The field is enclosed by $200m$ of fencing.
 What are the dimensions of the field?
 
-a. 
+a. Area
 $$2275 = L \times W$$
 
-b. 
+b. Perimiter
 $$200 = 2 \times (L + W)$$
 $$100 = L + W$$
 
@@ -26,7 +26,9 @@ Rearrange into standard form.
 $$100L - L^2 = 2275$$
 $$100L - L^2 -2275 = 0$$
 $$-L^2 + 100L -2275 = 0$$
-$$$$$
+
+Solve for L.
+$$L = \frac {-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 
 2. The product of two consecutive even numbers is 168. What are the numbers?
