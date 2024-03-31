@@ -84,7 +84,7 @@ let $t_{w} =$ time to Winnepeg, $t_{m} =$ time to Moncton ,  $s = speed$
 
 a. Trip to Winnipeg
 
-$$t \times s = 1940$$
+$$t_{w} \times s = 1940$$
 
 b. Trip to Moncton
-$$t \times (s+100) = 1940$$
+$$t_{m} \times (s+100) = 1940$$
