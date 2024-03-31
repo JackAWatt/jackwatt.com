@@ -33,9 +33,20 @@ $$L = \frac {-b \pm \sqrt{(b^2 - 4ac}}{2a}$$
 $$L = \frac {-(-100) \pm \sqrt{(-100)^2 - 4(1)(2275)}}{2(1)}$$
 $$L = \frac {-(-100) \pm \sqrt{10000 - 9100}}{2}$$
 $$L = \frac {-(-100) \pm \sqrt{900}}{2}$$
-$$L = \frac {-(-100) \pm 30}{2}$$
+$$L = \frac {100 \pm 30}{2}$$
 
+Working out the two possible values for L
+1.
+$$L = \frac {100 + 30}{2}$$
+$$L = \frac {130}{2}$$
+$$L = 65$$
 
+2.
+$$L = \frac {100 - 30}{2}$$
+$$L = \frac {70}{2}$$
+$$L = 35$$
+
+$$35 \times 65 = 2275 \therefore the dimensions of the field are 65 and 35$$
 
 2. The product of two consecutive even numbers is 168. What are the numbers?
 
