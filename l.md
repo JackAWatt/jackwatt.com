@@ -40,12 +40,14 @@ Working out the two possible values for L
 1.
 $$L = \frac {100 + 30}{2}$$
 $$L = \frac {130}{2}$$
-$L = 65$
+
+$$L = 65$$
 
 2.
 $$L = \frac {100 - 30}{2}$$
 $$L = \frac {70}{2}$$
-$L = 35$
+
+$$L = 35$$
 
 
 $35 \times 65 = 2275 \therefore$ the dimensions of the field are $Length = 65$ and $width = 35$
