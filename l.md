@@ -115,3 +115,7 @@ $$6s^2 + 600s = 3880s + 194000$$
 $$6s^2 + 600s - 3880s - 194000 = 0$$
 
 $$6s^2 - 3280s - 194000 = 0$$
+
+Using the formula to solve for s:
+
+$$s = \frac {-b \pm \sqrt{b^2-4ac}}{2a}$$
