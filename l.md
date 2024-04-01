@@ -121,3 +121,5 @@ Using the formula to solve for s:
 $$s = \frac {-b \pm \sqrt{b^2-4ac}}{2a}$$
 
 $$s = \frac {-(-3280) \pm \sqrt{(-3280)^2-4(6)(-194000)}}{2(6)}$$
+
+$$s = \frac {-(-3280) \pm \sqrt{10758400 +4656000}}{12}$$
