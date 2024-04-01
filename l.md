@@ -150,3 +150,5 @@ $$s = -53.8431396051$$
 final:
 
 $$s = 600.5, or -53.8$$
+
+Because our speed is not going to be negative we know that the number we are looking for is $600.5$. Then with $1940/600.5+1940/700.5$ we get $6.0009$ we know that we got the right answer because this is $s$ and $s+100$. I would have rounded down to 600 and 700, but using the $.5$ value got me closer to $6$ hours, so I kept it. 
