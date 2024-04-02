@@ -4,6 +4,8 @@
 
 #### 2024/04/02
 
+* [ Simple Interest Formula ](https://youtu.be/NCYNXkbTTUo) - The Organic Chemistry Tutor
+
 * [ Simple Interest Tutorial ](https://youtu.be/ZWCXrbnMN-E) - InspireMathTutorials 
 
 #### 2024/04/01
