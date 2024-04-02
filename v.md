@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/01
+
+* [ The REAL Reason Slim Charles Killed Cheese / The Wire Explained ](https://youtu.be/1LeUVGZ2TzM) - CineRanter
+
 #### 2024/03/31
 
 * [ The History of Khazad-Dum (Moria) ](https://youtu.be/TlVT-XsvAqw) - In Deep Geek
