@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/02
+
+* [ Simple Interest Tutorial ](https://youtu.be/ZWCXrbnMN-E) - InspireMathTutorials 
+
 #### 2024/04/01
 
 * [ The REAL Reason Slim Charles Killed Cheese / The Wire Explained ](https://youtu.be/1LeUVGZ2TzM) - CineRanter
