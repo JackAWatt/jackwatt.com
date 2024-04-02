@@ -4,7 +4,7 @@
 
 #### 2024/04/02
 
-* [ What are the Barrow-wights? ](https://youtu.be/vg1_0NX7q4Y)
+* [ What are the Barrow-wights? ](https://youtu.be/vg1_0NX7q4Y) - In Deep Geek
 
 * [ Simple Interest Formula ](https://youtu.be/NCYNXkbTTUo) - The Organic Chemistry Tutor
 
