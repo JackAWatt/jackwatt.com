@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [Annual percentage rate (APR) and effective APR](https://youtu.be/RuPMsK0mQC8) - KhanAcademy
+
 * [Compound interest](https://youtu.be/t4zfiBw0hwM) - KhanAcademy
 
 * [Introduction to interest](https://youtu.be/GtaoP0skPWc) - KhanAcademy
