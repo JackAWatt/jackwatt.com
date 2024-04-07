@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [The rule of 72 for compound interest](https://youtu.be/mec-QpjQMXY) - KhanAcademy
+
 * [Compound interest introduction](https://youtu.be/Rm6UdfRs3gw) - KhanAcademy
 
 * [ Why Did Avon Help Marlo? / The Wire Explained / The REAL Reason... ](https://youtu.be/ia-8f2cHXHM) - CineRanter
