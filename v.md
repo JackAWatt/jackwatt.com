@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [ What Happened to Randy After The Show Ended? / SHOCKING Hidden Plot Twist / The Wire Explained ](https://youtu.be/JAkNcltOwdw) - EconTalk
+
 * [ Simple Interest Tutorial ](https://youtu.be/ZWCXrbnMN-E) - InspireMathTutorials 
 
 * [ Simple Interest Formula ](https://youtu.be/NCYNXkbTTUo) - The Organic Chemistry Tutor
