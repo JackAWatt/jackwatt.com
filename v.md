@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [ Why Paulie always kept his hands in front of him / The Sopranos Explained ](https://youtu.be/pg_yTy5qIIg) - CineRanter
+
 * [ Why Did Cheese Betray Proposition Joe? / The REAL Reason / The Wire Explained ](https://youtu.be/JyefYXISpkE) - CineRanter
 
 #### 2024/04/02
