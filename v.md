@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [ Why Didn't The Co-op Just Kill Marlo? / The Wire Explained ](https://youtu.be/ykRSWDARqqM) - CineRanter
+
 * [ Why Did The Greek Choose Marlo Over Proposition Joe? The Wire Explained ](https://youtu.be/rkOT4kokT98) - CineRanter
 
 * [ Exploring the Mysterious Origins of Brother Mouzone / The Wire Explained ](https://youtu.be/bXPSh8-UKRE) - CineRanter
