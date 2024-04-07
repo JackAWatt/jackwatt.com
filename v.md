@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [ Why Did The Greek Choose Marlo Over Proposition Joe? The Wire Explained ](https://youtu.be/rkOT4kokT98) - CineRanter
+
 * [ Exploring the Mysterious Origins of Brother Mouzone / The Wire Explained ](https://youtu.be/bXPSh8-UKRE) - CineRanter
 
 * [ Why Paulie always kept his hands in front of him / The Sopranos Explained ](https://youtu.be/pg_yTy5qIIg) - CineRanter
