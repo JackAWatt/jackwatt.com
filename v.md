@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [ Simple Interest Tutorial ](https://youtu.be/ZWCXrbnMN-E) - InspireMathTutorials 
+
 * [ Simple Interest Formula ](https://youtu.be/NCYNXkbTTUo) - The Organic Chemistry Tutor
 
 * [𝑒 and compound interest](https://youtu.be/BKGx8GMVu88) - KhanAcademy
