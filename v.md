@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [Payday loans](https://youtu.be/BHTMuHvmarU) - KhanAcademy
+
 * [Institutional roles in issuing and processing credit cards](https://youtu.be/IPxQQNyCxas) - KhanAcademy
 
 * [Annual percentage rate (APR) and effective APR](https://youtu.be/RuPMsK0mQC8) - KhanAcademy
