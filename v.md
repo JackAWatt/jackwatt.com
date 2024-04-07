@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/07
+
+* [ Why Did Cheese Betray Proposition Joe? / The REAL Reason / The Wire Explained ](https://youtu.be/JyefYXISpkE) - CineRanter
+
 #### 2024/04/02
 
 * [ What are the Barrow-wights? ](https://youtu.be/vg1_0NX7q4Y) - In Deep Geek
