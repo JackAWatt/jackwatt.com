@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [Compound interest introduction](https://youtu.be/Rm6UdfRs3gw) - KhanAcademy
+
 * [ Why Did Avon Help Marlo? / The Wire Explained / The REAL Reason... ](https://youtu.be/ia-8f2cHXHM) - CineRanter
 
 * [ Why Didn't The Co-op Just Kill Marlo? / The Wire Explained ](https://youtu.be/ykRSWDARqqM) - CineRanter
