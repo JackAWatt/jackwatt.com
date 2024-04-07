@@ -4,7 +4,9 @@
 
 #### 2024/04/07
 
-* [ What Happened to Randy After The Show Ended? / SHOCKING Hidden Plot Twist / The Wire Explained ](https://youtu.be/JAkNcltOwdw) - EconTalk
+* [ Why Did Nobody Just Shoot Omar in The Streets? / The Wire Explained ](https://youtu.be/Xdxd-OBNiEo) - CineRanter
+
+* [ What Happened to Randy After The Show Ended? / SHOCKING Hidden Plot Twist / The Wire Explained ](https://youtu.be/JAkNcltOwdw) - CineRanter
 
 * [ Simple Interest Tutorial ](https://youtu.be/ZWCXrbnMN-E) - InspireMathTutorials 
 
