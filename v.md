@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [𝑒 and compound interest](https://youtu.be/BKGx8GMVu88)
+
 * [Payday loans](https://youtu.be/BHTMuHvmarU) - KhanAcademy
 
 * [Institutional roles in issuing and processing credit cards](https://youtu.be/IPxQQNyCxas) - KhanAcademy
