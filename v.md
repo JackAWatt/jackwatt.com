@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [Compound interest](https://youtu.be/t4zfiBw0hwM) - KhanAcademy
+
 * [Introduction to interest](https://youtu.be/GtaoP0skPWc) - KhanAcademy
 
 * [The rule of 72 for compound interest](https://youtu.be/mec-QpjQMXY) - KhanAcademy
