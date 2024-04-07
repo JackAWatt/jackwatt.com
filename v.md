@@ -4,6 +4,8 @@
 
 #### 2024/04/07
 
+* [ Exploring the Mysterious Origins of Brother Mouzone / The Wire Explained ](https://youtu.be/bXPSh8-UKRE) - CineRanter
+
 * [ Why Paulie always kept his hands in front of him / The Sopranos Explained ](https://youtu.be/pg_yTy5qIIg) - CineRanter
 
 * [ Why Did Cheese Betray Proposition Joe? / The REAL Reason / The Wire Explained ](https://youtu.be/JyefYXISpkE) - CineRanter
