@@ -4,7 +4,9 @@
 
 #### 2024/04/07
 
-* [𝑒 and compound interest](https://youtu.be/BKGx8GMVu88)
+* [ Simple Interest Formula ](https://youtu.be/NCYNXkbTTUo) - The Organic Chemistry Tutor
+
+* [𝑒 and compound interest](https://youtu.be/BKGx8GMVu88) - KhanAcademy
 
 * [Payday loans](https://youtu.be/BHTMuHvmarU) - KhanAcademy
 
