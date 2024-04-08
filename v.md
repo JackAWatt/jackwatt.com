@@ -2,6 +2,14 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/08
+
+* [ The Wire - Why Every Season Matters ](https://youtu.be/AgJKaOO6wQ0) - Thomas Flight
+
+* [ Why Wasn't Sergei Killed For His Betrayal? / The Wire Explained ](https://youtu.be/t3Of3rVFkYI) - CineRanter
+
+* [ Is Chris A Former Cop? / The Wire Explained ](https://youtu.be/WZpn6LU_KOQ) - CineRanter
+
 #### 2024/04/07
 
 * [ Why Did Nobody Just Shoot Omar in The Streets? / The Wire Explained ](https://youtu.be/Xdxd-OBNiEo) - CineRanter
