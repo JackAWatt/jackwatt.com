@@ -4,6 +4,8 @@
 
 #### 2024/07/08
 
+* [ 'The Wire' 20th Anniversary Interviews / Dominic West, Wendell Pierce Lance Reddick & More](https://youtu.be/zBLUTNAl7GM) - CinemaBlend
+
 * [ The Wire - Why Every Season Matters ](https://youtu.be/AgJKaOO6wQ0) - Thomas Flight
 
 * [ Why Wasn't Sergei Killed For His Betrayal? / The Wire Explained ](https://youtu.be/t3Of3rVFkYI) - CineRanter
