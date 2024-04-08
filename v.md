@@ -4,6 +4,8 @@
 
 #### 2024/07/08
 
+* [ The Scene Idris Elba REFUSED To Film / The Wire ](https://youtu.be/TeyiSEaad1k) - CineRanter
+
 * [ 'The Wire' 20th Anniversary Interviews / Dominic West, Wendell Pierce Lance Reddick & More](https://youtu.be/zBLUTNAl7GM) - CinemaBlend
 
 * [ The Wire - Why Every Season Matters ](https://youtu.be/AgJKaOO6wQ0) - Thomas Flight
