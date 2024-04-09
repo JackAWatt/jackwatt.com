@@ -11,3 +11,5 @@
 * [ Andrea Bocelli - La Vie En Rose ](https://youtu.be/0vzywsRDdYg)
 
 * [ Elton John & Pavoratti - Live Like Horses ](https://youtu.be/zw_gEpGqnqQ)
+
+* [Mercedes Sosa - Gracias A La Vida ](https://youtu.be/cIrGQD84F1g?list=RDcIrGQD84F1g)
