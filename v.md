@@ -4,6 +4,8 @@
 
 #### 2024/07/11
 
+* [ Why This Breaking Bad Character Almost Never Existed ](https://youtu.be/fClbT8ruaCU) -  Nerdstalgic
+
 * [ Cunk On Britain S01E01 Beginings ](https://youtu.be/wc4evkC33rs)
 
 * [Funny Money Cartoon: Building Long-Term Wealth](https://vimeo.com/26706518) - Eli 360
