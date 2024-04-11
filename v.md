@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/11
+
+* [Funny Money Cartoon: Building Long-Term Wealth](https://vimeo.com/26706518) - Eli 360
+
 #### 2024/07/08
 
 * [ The Scene Idris Elba REFUSED To Film / The Wire ](https://youtu.be/TeyiSEaad1k) - CineRanter
