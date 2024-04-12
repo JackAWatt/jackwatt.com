@@ -1,11 +1,6 @@
 # Resources 
 
-##### Useful Websites and Programs
 
-* [Web Based Pomodoro Timer](https://pomodor.app/timer)
-* [Joplin Hierarchical Notes](https://joplinapp.org/) - easy to use
-* [CherryTree Hierarchical Notes](https://www.giuspen.net/cherrytree/) - best for deep nesting of notes
-* [Obsidian Notes](https://obsidian.md/) - most powerful
 
 ##### Complete Computer Science, Data Science, and Math curriculums
 
@@ -103,7 +98,13 @@
 * [lobste.rs](https://lobste.rs) - compsci link aggregator
 * [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
-* [Cooking For Engineers](https://www.cookingforengineers.com/) - Have an analytical mind? Like to cook? This is the site to read!
+
+##### Useful Websites and Programs
+
+* [Web Based Pomodoro Timer](https://pomodor.app/timer)
+* [Joplin Hierarchical Notes](https://joplinapp.org/) - easy to use
+* [CherryTree Hierarchical Notes](https://www.giuspen.net/cherrytree/) - best for deep nesting of notes
+* [Obsidian Notes](https://obsidian.md/) - most powerful
 
 ##### Useful Short Videos
 
