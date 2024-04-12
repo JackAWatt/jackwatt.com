@@ -56,7 +56,9 @@
 
 * [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) (kind of visual novel meets turn based meets point and click)
 
-* [Citizen_Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/) - Inspired by Table Top Games. 
+* [Citizen_Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/) - Inspired by Table Top Games.
+
+* [Dragons Dogma Dark Arisen](https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/)
 
 
 #### [Add me on steam](https://steamcommunity.com/id/CrimsonMagicCastles/)
