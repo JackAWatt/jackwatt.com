@@ -105,6 +105,10 @@
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
 * [Cooking For Engineers](https://www.cookingforengineers.com/) - Have an analytical mind? Like to cook? This is the site to read!
 
+##### Useful Short Videos
+
+* [Fixed vs Flexible Tasks](https://www.youtube.com/watch?v=8wew5yZts4I)
+
 ##### My History
 
 * [Videos and Podcasts](http://jackwatt.com/v)
