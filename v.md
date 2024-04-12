@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/12
+
+* [ Debating The Moral Landscape With Sam Harris ](https://youtu.be/vEuzo_jUjAc) - Alex O'Connor
+
 #### 2024/07/11
 
 * [ Why This Breaking Bad Character Almost Never Existed ](https://youtu.be/fClbT8ruaCU) -  Nerdstalgic
