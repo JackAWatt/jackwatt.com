@@ -1,4 +1,5 @@
 * These are all games I want to play. Most were found through one of the youtube channels linked at the bottom of this page
+* Will add JRPGs eventually, right now the list is heavily focused on CRPGs and Adventure RPGs.
 
 #### Visual Novel
 
