@@ -91,8 +91,6 @@
 
 * [Mortismal Gaming](https://www.youtube.com/@MortismalGaming/videos) - RPGs
 
-* [Backlog Battle](https://www.youtube.com/@BacklogBattle) - JRPGs
-
 * [Karl Jobst](https://www.youtube.com/@karljobst) - Speedrunning
 
 * [Abyssoft](https://www.youtube.com/@Abyssoft) - Speedrunning
@@ -104,5 +102,7 @@
 * [Erick Landon RPG](https://www.youtube.com/@ErickLandonRPG) - JRPGs
 
 * [Just the Gems](https://www.youtube.com/@JustTheGems) - JRPGs
+
+* [Backlog Battle](https://www.youtube.com/@BacklogBattle) - JRPGs
 
 #### [Add me on steam](https://steamcommunity.com/id/CrimsonMagicCastles/)
