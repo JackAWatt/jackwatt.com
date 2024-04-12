@@ -46,6 +46,8 @@
 
 * [Vampire: The Masquerade - Bloodlines](https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/) - classic
 
+* [Stray](https://store.steampowered.com/app/1332010/Stray/)
+
 * [Deus Ex](https://store.steampowered.com/app/6910/Deus_Ex_Game_of_the_Year_Edition/) - Classic
 
 * [Grim Dawn](https://store.steampowered.com/app/219990/Grim_Dawn/) - ARPG with a good storyline
