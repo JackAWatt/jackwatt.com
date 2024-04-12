@@ -20,6 +20,8 @@
 
 * [Tyranny](https://store.steampowered.com/app/362960/Tyranny/)
 
+* [Moonring](https://store.steampowered.com/app/2373630/Moonring/)
+
 * [Underrail](https://store.steampowered.com/app/250520/UnderRail/)
 
 * [King Arthur Knights Tale](https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/)
@@ -39,6 +41,8 @@
 * [Tainted Grail Conquest](https://store.steampowered.com/app/1199030/Tainted_Grail_Conquest/)
 
 * [Wildermyth](https://store.steampowered.com/app/763890/Wildermyth/)
+
+* [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/) - Card-Based
 
 #### Adventure/Action/RPG
 
