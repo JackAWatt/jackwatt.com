@@ -4,6 +4,8 @@
 
 #### 2024/07/12
 
+* [ Hardest Math Course ](https://youtu.be/pmbffdfOC1I) - The Math Sorcerer
+
 * [ Debating The Moral Landscape With Sam Harris ](https://youtu.be/vEuzo_jUjAc) - Alex O'Connor
 
 #### 2024/07/11
