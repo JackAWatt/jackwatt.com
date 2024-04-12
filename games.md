@@ -28,7 +28,7 @@
 
 * [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) - Card Battler
 
-* [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/)
+* [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/) - Roguelike meets Turn Based
 
 * [Circus Electrique](https://store.steampowered.com/app/1666250/Circus_Electrique/) - Inspired by Darkest Dungeon
 
