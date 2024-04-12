@@ -28,9 +28,15 @@
 
 * [The Age of Decadence](https://store.steampowered.com/app/230070/The_Age_of_Decadence/)
 
+* [Wartales](https://store.steampowered.com/app/1527950/Wartales/) - Sandbox
+
+* [Star Traders Frontiers](https://store.steampowered.com/app/335620/Star_Traders_Frontiers/) - Sandbox
+
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/) - Card Battler
 
 * [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) - Card Battler
+
+* [Vagrus: The Riven Realms](https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/) - Sandbox
 
 * [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/) - Roguelike meets Turn Based
 
