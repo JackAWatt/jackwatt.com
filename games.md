@@ -82,15 +82,14 @@
 * [Dragons Dogma Dark Arisen](https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/)
 
 
+
+#### Youtube Channels
+
 * [Ye Old Entertainment](https://www.youtube.com/@YeOldEntertainment) - Retrospectives on older CRPGs
 
 * [NeverKnowsBest](https://www.youtube.com/@NeverKnowsBest) - Histories and Retrospectives
 
 * [Mortismal Gaming](https://www.youtube.com/@MortismalGaming/videos) - RPGs
-
-* [Erick Landon RPG](https://www.youtube.com/@ErickLandonRPG) - JRPGs
-
-* [Just the Gems](https://www.youtube.com/@JustTheGems) - JRPGs
 
 * [Backlog Battle](https://www.youtube.com/@BacklogBattle) - JRPGs
 
@@ -101,5 +100,9 @@
 * [Suggestive Gaming](https://www.youtube.com/@SuggestiveGaming) - Storytelling
 
 * [Matt Draper](https://www.youtube.com/@MattDraper/videos) - Storytelling
+
+* [Erick Landon RPG](https://www.youtube.com/@ErickLandonRPG) - JRPGs
+
+* [Just the Gems](https://www.youtube.com/@JustTheGems) - JRPGs
 
 #### [Add me on steam](https://steamcommunity.com/id/CrimsonMagicCastles/)
