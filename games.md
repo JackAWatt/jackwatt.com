@@ -22,6 +22,8 @@
 
 * [Underrail](https://store.steampowered.com/app/250520/UnderRail/)
 
+* [King Arthur Knights Tale](https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/)
+
 * [The Age of Decadence](https://store.steampowered.com/app/230070/The_Age_of_Decadence/)
 
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/) - Card Battler
@@ -35,6 +37,8 @@
 * [Arcanum Of Steamworks and Magick Obscura](https://store.steampowered.com/app/500810/Arcanum_Of_Steamworks_and_Magick_Obscura/) - True CRPG like BG2 or Planescape Tourment
 
 * [Tainted Grail Conquest](https://store.steampowered.com/app/1199030/Tainted_Grail_Conquest/)
+
+* [Wildermyth](https://store.steampowered.com/app/763890/Wildermyth/)
 
 #### Adventure/Action/RPG
 
