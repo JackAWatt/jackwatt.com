@@ -110,6 +110,8 @@
 
 * [Fixed vs Flexible Tasks](https://www.youtube.com/watch?v=8wew5yZts4I)
 
+* [How to practice a hard math problem](https://www.youtube.com/watch?v=e__x0HyIi5o)
+
 ##### My History
 
 * [Videos and Podcasts](http://jackwatt.com/v)
