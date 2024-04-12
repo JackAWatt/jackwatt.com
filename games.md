@@ -1,3 +1,5 @@
+* These are all games I want to play. Most were found through one of the youtube channels linked at the bottom of this page
+
 #### Visual Novel
 
 * [Phoenix Wright: Ace Attorney Trilogy](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/)
@@ -78,5 +80,25 @@
 
 * [Dragons Dogma Dark Arisen](https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/)
 
+
+* [Ye Old Entertainment](https://www.youtube.com/@YeOldEntertainment) - Retrospectives on older CRPGs
+
+* [NeverKnowsBest](https://www.youtube.com/@NeverKnowsBest) - Histories and Retrospectives
+
+* [Mortismal Gaming](https://www.youtube.com/@MortismalGaming/videos) - RPGs
+
+* [Erick Landon RPG](https://www.youtube.com/@ErickLandonRPG) - JRPGs
+
+* [Just the Gems](https://www.youtube.com/@JustTheGems) - JRPGs
+
+* [Backlog Battle](https://www.youtube.com/@BacklogBattle) - JRPGs
+
+* [Karl Jobst](https://www.youtube.com/@karljobst) - Speedrunning
+
+* [Abyssoft](https://www.youtube.com/@Abyssoft) - Speedrunning
+
+* [Suggestive Gaming](https://www.youtube.com/@SuggestiveGaming) - Storytelling
+
+* [Matt Draper](https://www.youtube.com/@MattDraper/videos) - Storytelling
 
 #### [Add me on steam](https://steamcommunity.com/id/CrimsonMagicCastles/)
