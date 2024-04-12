@@ -4,6 +4,8 @@
 
 #### 2024/07/12
 
+* [ A Warning to Hopeless Romantics ](https://youtu.be/809KL2qIeWs) - Renzy
+
 * [ Hardest Math Course ](https://youtu.be/pmbffdfOC1I) - The Math Sorcerer
 
 * [ Debating The Moral Landscape With Sam Harris ](https://youtu.be/vEuzo_jUjAc) - Alex O'Connor
