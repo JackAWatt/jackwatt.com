@@ -105,6 +105,7 @@
 * [Joplin Hierarchical Notes](https://joplinapp.org/) - easy to use
 * [CherryTree Hierarchical Notes](https://www.giuspen.net/cherrytree/) - best for deep nesting of notes
 * [Obsidian Notes](https://obsidian.md/) - most powerful
+* [Thea Study](https://www.thea.study/register?referralCode=amy1)
 
 ##### Useful Short Videos
 
