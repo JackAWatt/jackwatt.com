@@ -4,6 +4,8 @@
 
 #### 2024/07/13
 
+* [Tired? My system to study effectively NO MATTER WHAT](https://youtu.be/XDcaamkHGSU) -wAmy
+
 * [ The Wire: The Life Cycle of The Game ](https://youtu.be/UROIYr_SiQ0) - Just an Observation
 
 #### 2024/07/12
