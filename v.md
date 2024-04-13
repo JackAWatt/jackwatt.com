@@ -4,7 +4,7 @@
 
 #### 2024/07/13
 
-* [](https://youtu.be/UROIYr_SiQ0) 
+* [ The Wire: The Life Cycle of The Game ](https://youtu.be/UROIYr_SiQ0) - Just an Observation
 
 #### 2024/07/12
 
