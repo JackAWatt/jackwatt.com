@@ -4,6 +4,10 @@
 
 #### 2024/07/13
 
+* [The Wire - Omar Little’s Flexible Morality](https://youtu.be/MGkRgJ2Mte4) - Just an Observation
+
+* [ How to Excel at Math and Science ](https://youtu.be/yjdhNyEmYpo) - Zach Star
+
 * [Tired? My system to study effectively NO MATTER WHAT](https://youtu.be/XDcaamkHGSU) -wAmy
 
 * [ The Wire: The Life Cycle of The Game ](https://youtu.be/UROIYr_SiQ0) - Just an Observation
