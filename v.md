@@ -4,6 +4,10 @@
 
 #### 2024/07/12
 
+* [The Sin of Moral Equivalence](https://samharris.org/episode/SE225469147) - Making Sense with Sam Harris
+
+* [ Jonathan Haidt on Adjusting to Smartphones and Social Media](https://youtu.be/sQoNd9oEeoI) - Conversations with Tyler
+
 * [ A Warning to Hopeless Romantics ](https://youtu.be/809KL2qIeWs) - Renzy
 
 * [ Hardest Math Course ](https://youtu.be/pmbffdfOC1I) - The Math Sorcerer
