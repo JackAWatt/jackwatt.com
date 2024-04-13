@@ -2,13 +2,17 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/13
+
+* [](https://youtu.be/UROIYr_SiQ0) 
+
 #### 2024/07/12
 
 * [The Sin of Moral Equivalence](https://samharris.org/episode/SE225469147) - Making Sense with Sam Harris
 
 * [ Jonathan Haidt on Adjusting to Smartphones and Social Media](https://youtu.be/sQoNd9oEeoI) - Conversations with Tyler
 
-* [Just an Observation](https://youtu.be/kbY6t5_Gjqc) -  Good Will Hunting: Overcoming Fear 
+* [Good Will Hunting: Overcoming Fear](https://youtu.be/kbY6t5_Gjqc) - Just an Observation
 
 * [ A Warning to Hopeless Romantics ](https://youtu.be/809KL2qIeWs) - Renzy
 
