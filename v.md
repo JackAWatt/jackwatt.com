@@ -4,6 +4,8 @@
 
 #### 2024/07/13
 
+* [ Engineering Degrees Ranked By Difficulty (Tier List) ](https://youtu.be/DAK_UT894sc) - Becoming an Engineer
+
 * [The Wire - Omar Little’s Flexible Morality](https://youtu.be/MGkRgJ2Mte4) - Just an Observation
 
 * [ How to Excel at Math and Science ](https://youtu.be/yjdhNyEmYpo) - Zach Star
