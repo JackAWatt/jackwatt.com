@@ -14,6 +14,8 @@
 
 * [ How to Excel at Math and Science ](https://youtu.be/yjdhNyEmYpo) - Zach Star
 
+* [Resilience - A Conversation with Amanda Knox](https://samharris.org/episode/SEFAA3586D7) - Making Sense with Sam Harris
+
 * [Tired? My system to study effectively NO MATTER WHAT](https://youtu.be/XDcaamkHGSU) -wAmy
 
 * [ The Wire: The Life Cycle of The Game ](https://youtu.be/UROIYr_SiQ0) - Just an Observation
