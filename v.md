@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/14
+
+* [ Can't focus? The SECRET to study with LASER FOCUS ](https://youtu.be/77WWUstcJ4o) - wAmy
+
 #### 2024/07/13
 
 * [ Engineering Degrees Ranked By Difficulty (Tier List) ](https://youtu.be/DAK_UT894sc) - Becoming an Engineer
