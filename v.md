@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/15
+
+* [ Norse in the subtropics - new evidence ](https://youtu.be/OE_tmd1PI-Y) - Stefan Milo
+
 #### 2024/07/14
 
 * [ Can't focus? The SECRET to study with LASER FOCUS ](https://youtu.be/77WWUstcJ4o) - wAmy
