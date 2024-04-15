@@ -4,6 +4,8 @@
 
 #### 2024/07/15
 
+* [Equations for proportional relationships](https://youtu.be/qcz1Cm_-l50) - KhanAcademy
+
 * [Constant of proportionality from equation](https://youtu.be/wXtzBbU_cl8) - KhanAcademy
 
 * [Identifying the constant of proportionality from equation](https://youtu.be/rj7DweP8e58) - KhanAcademy
