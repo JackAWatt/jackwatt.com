@@ -4,6 +4,8 @@
 
 #### 2024/07/15
 
+* [Part to whole ratio word problem using tables](https://youtu.be/ZJ6y8OVJRw8) - KhanAcademy
+
 * [ Norse in the subtropics - new evidence ](https://youtu.be/OE_tmd1PI-Y) - Stefan Milo
 
 #### 2024/07/14
