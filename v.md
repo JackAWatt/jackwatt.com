@@ -4,6 +4,10 @@
 
 #### 2024/07/15
 
+* []()
+
+* [Graphing proportional relationships: unit rate](https://youtu.be/1F7LAJEVp-U) - KhanAcademy
+
 * [Equations for proportional relationships](https://youtu.be/qcz1Cm_-l50) - KhanAcademy
 
 * [Constant of proportionality from equation](https://youtu.be/wXtzBbU_cl8) - KhanAcademy
