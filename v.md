@@ -4,6 +4,8 @@
 
 #### 2024/07/15
 
+* [Constant of proportionality from equation](https://youtu.be/wXtzBbU_cl8) - KhanAcademy
+
 * [Identifying the constant of proportionality from equation](https://youtu.be/rj7DweP8e58) - KhanAcademy
 
 * [Part to whole ratio word problem using tables](https://youtu.be/ZJ6y8OVJRw8) - KhanAcademy
