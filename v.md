@@ -4,6 +4,8 @@
 
 #### 2024/07/16
 
+* [Comparing irrational numbers with radicals](https://youtu.be/KibTbfkoPTs)
+
 * [Solving a scale drawing word problem](https://youtu.be/EgOyJJxuuP8) - KhanAcademy
 
 * [Scale factors and area](https://youtu.be/h-qwno7n5F4) - KhanAcademy
