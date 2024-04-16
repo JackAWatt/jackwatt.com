@@ -4,7 +4,7 @@
 
 #### 2024/07/15
 
-* []()
+* [Writing proportional equations](https://youtu.be/MRFrQXDZim0)
 
 * [Graphing proportional relationships: unit rate](https://youtu.be/1F7LAJEVp-U) - KhanAcademy
 
