@@ -4,6 +4,8 @@
 
 #### 2024/07/16
 
+* [Scale factors and area](https://youtu.be/h-qwno7n5F4) - KhanAcademy
+
 * [Identifying scale factor in drawings](https://youtu.be/ZeY1mgog2YQ) - KhanAcademy
 
 * [ Extra: The Men Who Started a Thinking Revolution (Update)](https://youtu.be/siVpWqPjmlo) - Freakonomics Radio 
