@@ -4,6 +4,8 @@
 
 #### 2024/07/16
 
+* [Identifying scale factor in drawings](https://youtu.be/ZeY1mgog2YQ) - KhanAcademy
+
 * [ Extra: The Men Who Started a Thinking Revolution (Update)](https://youtu.be/siVpWqPjmlo) - Freakonomics Radio 
 
 * [Predicting Reality - A Conversation with Andy Clark](https://samharris.org/episode/SE4BD73D69C) - Making Sense with Sam Harris
