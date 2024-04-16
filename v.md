@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/16
+
+* [Predicting Reality - A Conversation with Andy Clark](https://samharris.org/episode/SE4BD73D69C) - Making Sense with Sam Harris
+
 #### 2024/07/15
 
 * [Writing proportional equations](https://youtu.be/MRFrQXDZim0)
