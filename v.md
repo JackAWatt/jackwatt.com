@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Writing linear equations in all forms](https://youtu.be/-6Fu2T_RSGM) - KhanAcademy
+
 * [Linear & nonlinear functions: missing value](https://youtu.be/HUnF0mZmMKc) - KhanAcademy
 
 * [Linear & nonlinear functions: word problem](https://youtu.be/OWPVZoxNe-U) - KhanAcademy
