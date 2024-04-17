@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Equations for proportional relationships](https://youtu.be/qcz1Cm_-l50) - KhanAcademy
+
 * [ Efficient studying: If I am a student again, I’d do this ](https://youtu.be/mR-jrGs13HE) -  Han Zhango
 
 #### 2024/07/16
