@@ -2,9 +2,13 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/17
+
+* [ Efficient studying: If I am a student again, I’d do this ](https://youtu.be/mR-jrGs13HE) -  Han Zhango
+
 #### 2024/07/16
 
-* [Comparing irrational numbers with radicals](https://youtu.be/KibTbfkoPTs)
+* [Comparing irrational numbers with radicals](https://youtu.be/KibTbfkoPTs) - KhanAcademy
 
 * [Solving a scale drawing word problem](https://youtu.be/EgOyJJxuuP8) - KhanAcademy
 
