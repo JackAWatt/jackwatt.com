@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Square root of decimal](https://youtu.be/tRHLEWSUjrQ) - KhanAcademy
+
 * [Powers of products & quotients (integer exponents)](https://youtu.be/dC1ojsMi1yU) - KhanAcademy
 
 * [Proportion word problem: cookies](https://youtu.be/4ywTWCaLmXE) - KhanAcademy
