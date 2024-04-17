@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [https://youtu.be/OOim0QPsJ9o](https://youtu.be/OOim0QPsJ9o) - KhanAcademy
+
 * [Square root of decimal](https://youtu.be/tRHLEWSUjrQ) - KhanAcademy
 
 * [Powers of products & quotients (integer exponents)](https://youtu.be/dC1ojsMi1yU) - KhanAcademy
