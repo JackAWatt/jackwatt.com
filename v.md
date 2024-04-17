@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Proportion word problem: cookies](https://youtu.be/4ywTWCaLmXE) - KhanAcademy
+
 * [Worked example: Solving proportions](https://youtu.be/GO5ajwbFqVQ) - KhanAcademy
 
 * [ Chemistry Beginners Start Here ](https://youtu.be/Xt9U_Xzn_oI) - The Math Sorcerer
