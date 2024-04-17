@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Worked example: Solving proportions](https://youtu.be/GO5ajwbFqVQ) - KhanAcademy
+
 * [ Chemistry Beginners Start Here ](https://youtu.be/Xt9U_Xzn_oI) - The Math Sorcerer
 
 * [Equations for proportional relationships](https://youtu.be/qcz1Cm_-l50) - KhanAcademy
