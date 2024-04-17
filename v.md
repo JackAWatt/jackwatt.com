@@ -4,7 +4,7 @@
 
 #### 2024/07/17
 
-* [https://youtu.be/OOim0QPsJ9o](https://youtu.be/OOim0QPsJ9o) - KhanAcademy
+* [Obtaining a function from an equation](https://youtu.be/OOim0QPsJ9o) - KhanAcademy
 
 * [Square root of decimal](https://youtu.be/tRHLEWSUjrQ) - KhanAcademy
 
