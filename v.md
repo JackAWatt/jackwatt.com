@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [ Chemistry Beginners Start Here ](https://youtu.be/Xt9U_Xzn_oI) - The Math Sorcerer
+
 * [Equations for proportional relationships](https://youtu.be/qcz1Cm_-l50) - KhanAcademy
 
 * [ Efficient studying: If I am a student again, I’d do this ](https://youtu.be/mR-jrGs13HE) -  Han Zhango
