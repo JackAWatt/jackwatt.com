@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Linear & nonlinear functions: table](https://youtu.be/Pt-Tn6L60-o) - KhanAcademy
+
 * [Obtaining a function from an equation](https://youtu.be/OOim0QPsJ9o) - KhanAcademy
 
 * [Square root of decimal](https://youtu.be/tRHLEWSUjrQ) - KhanAcademy
