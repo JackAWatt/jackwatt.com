@@ -8,6 +8,8 @@
 
 #### 2024/07/16
 
+* [ Doom's Oldest World Record Was Finally Beaten! ](https://youtu.be/mOSvxhzoLS0) - Karl Jobst
+
 * [Comparing irrational numbers with radicals](https://youtu.be/KibTbfkoPTs) - KhanAcademy
 
 * [Solving a scale drawing word problem](https://youtu.be/EgOyJJxuuP8) - KhanAcademy
