@@ -4,6 +4,8 @@
 
 #### 2024/07/17
 
+* [Linear & nonlinear functions: missing value](https://youtu.be/HUnF0mZmMKc) - KhanAcademy
+
 * [Linear & nonlinear functions: word problem](https://youtu.be/OWPVZoxNe-U) - KhanAcademy
 
 * [Linear & nonlinear functions: table](https://youtu.be/Pt-Tn6L60-o) - KhanAcademy
