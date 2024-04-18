@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+
+#### 2024/07/18
+
+* [ Why Anakin & Obi-Wan Became UNSTOPPABLE on the Battlefield TOGETHER (The Perfect Form) ](https://youtu.be/d16HZkI7Big)
+
 #### 2024/07/17
 
 * [Writing linear equations in all forms](https://youtu.be/-6Fu2T_RSGM) - KhanAcademy
