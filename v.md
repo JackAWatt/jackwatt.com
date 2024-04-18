@@ -6,6 +6,8 @@
 
 #### 2024/07/18
 
+* [ How Machiavellian was Walter White? ](https://youtu.be/LblAA5XQUwk) - Bully Whispers
+
 * [  Who drew the Heisenberg/ Walter White sketch?  ](https://youtu.be/ZWU6Rio2kbU) - Bully Whispers
 
 * [ Why did Gus Fring kill Victor? The overlooked player ](https://youtu.be/Ast7zuowwog) - Bully Whispers
