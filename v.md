@@ -9,7 +9,8 @@
 
 * [ Marlo didn't steal Stringer's dream...Slim Charles did. ](https://youtu.be/gg8A0MwHv6g) - Bully Whispers
 
-* [ Why Anakin & Obi-Wan Became UNSTOPPABLE on the Battlefield TOGETHER (The Perfect Form) ](https://youtu.be/d16HZkI7Big)
+* [ Why Anakin & Obi-Wan Became UNSTOPPABLE on the Battlefield TOGETHER (The Perfect Form) ](https://youtu.be/d16HZkI7Big) - The Stupendous Wave
+
 
 #### 2024/07/17
 
