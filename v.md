@@ -5,6 +5,8 @@
 
 #### 2024/07/18
 
+* [ Why did Gus Fring kill Victor? The overlooked player ](https://youtu.be/Ast7zuowwog) - Bully Whispers
+
 * [Transformative Experiences - A Conversation with L.A. Paul](https://samharris.org/episode/SE14B34D735) - Making Sense with Sam Harris
 
 * [ Marlo didn't steal Stringer's dream...Slim Charles did. ](https://youtu.be/gg8A0MwHv6g) - Bully Whispers
