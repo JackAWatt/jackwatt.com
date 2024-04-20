@@ -2,7 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/19
 
+* [Physics & Philosophy](https://samharris.org/episode/SE2C4280649) - Making Sense with Sam Harris
 
 #### 2024/07/18
 
