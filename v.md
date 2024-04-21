@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/21
+
+* [ Why Better Call Saul Has The Perfect Ending ](https://youtu.be/nhG8aHpzhCQ) - BrainPilot
+
 #### 2024/04/19
 
 * [Physics & Philosophy](https://samharris.org/episode/SE2C4280649) - Making Sense with Sam Harris
