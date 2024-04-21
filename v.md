@@ -2,11 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
-#### 2024/07/19
+#### 2024/04/19
 
 * [Physics & Philosophy](https://samharris.org/episode/SE2C4280649) - Making Sense with Sam Harris
 
-#### 2024/07/18
+#### 2024/04/18
 
 * [ How Machiavellian was Walter White? ](https://youtu.be/LblAA5XQUwk) - Bully Whispers
 
@@ -21,7 +21,7 @@
 * [ Why Anakin & Obi-Wan Became UNSTOPPABLE on the Battlefield TOGETHER (The Perfect Form) ](https://youtu.be/d16HZkI7Big) - The Stupendous Wave
 
 
-#### 2024/07/17
+#### 2024/04/17
 
 * [Writing linear equations in all forms](https://youtu.be/-6Fu2T_RSGM) - KhanAcademy
 
@@ -47,7 +47,7 @@
 
 * [ Efficient studying: If I am a student again, I’d do this ](https://youtu.be/mR-jrGs13HE) -  Han Zhango
 
-#### 2024/07/16
+#### 2024/04/16
 
 * [ Doom's Oldest World Record Was Finally Beaten! ](https://youtu.be/mOSvxhzoLS0) - Karl Jobst
 
@@ -63,7 +63,7 @@
 
 * [Predicting Reality - A Conversation with Andy Clark](https://samharris.org/episode/SE4BD73D69C) - Making Sense with Sam Harris
 
-#### 2024/07/15
+#### 2024/04/15
 
 * [Writing proportional equations](https://youtu.be/MRFrQXDZim0) - KhanAcademy
 
@@ -79,11 +79,11 @@
 
 * [ Norse in the subtropics - new evidence ](https://youtu.be/OE_tmd1PI-Y) - Stefan Milo
 
-#### 2024/07/14
+#### 2024/04/14
 
 * [ Can't focus? The SECRET to study with LASER FOCUS ](https://youtu.be/77WWUstcJ4o) - wAmy
 
-#### 2024/07/13
+#### 2024/04/13
 
 * [ Engineering Degrees Ranked By Difficulty (Tier List) ](https://youtu.be/DAK_UT894sc) - Becoming an Engineer
 
@@ -97,7 +97,7 @@
 
 * [ The Wire: The Life Cycle of The Game ](https://youtu.be/UROIYr_SiQ0) - Just an Observation
 
-#### 2024/07/12
+#### 2024/04/12
 
 * [The Sin of Moral Equivalence](https://samharris.org/episode/SE225469147) - Making Sense with Sam Harris
 
@@ -111,7 +111,7 @@
 
 * [ Debating The Moral Landscape With Sam Harris ](https://youtu.be/vEuzo_jUjAc) - Alex O'Connor
 
-#### 2024/07/11
+#### 2024/04/11
 
 * [ Why This Breaking Bad Character Almost Never Existed ](https://youtu.be/fClbT8ruaCU) -  Nerdstalgic
 
@@ -119,7 +119,7 @@
 
 * [Funny Money Cartoon: Building Long-Term Wealth](https://vimeo.com/26706518) - Eli 360
 
-#### 2024/07/08
+#### 2024/04/08
 
 * [ The Scene Idris Elba REFUSED To Film / The Wire ](https://youtu.be/TeyiSEaad1k) - CineRanter
 
