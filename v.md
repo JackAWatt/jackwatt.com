@@ -9,6 +9,10 @@
 
 #### 2024/04/21
 
+* [Science & Survival - A Conversation with Martin Rees](https://samharris.org/episode/SEEC4A9832F) - Making Sense with Sam Harris
+
+* [Where is Happiness? - A Conversation with Arthur C. Brooks](https://samharris.org/episode/SEA5EC4A983) - Making Sense with Sam Harris
+
 * [ Why Better Call Saul Has The Perfect Ending ](https://youtu.be/nhG8aHpzhCQ) - BrainPilot
 
 #### 2024/04/19
