@@ -5,6 +5,8 @@
 
 #### 2024/04/22
 
+* [Shapes and angles](https://youtu.be/FehnQ_2SgsM) - KhanAcademy
+
 * [Orders of magnitude exercise example 2](https://youtu.be/DaoJmvqU3FI) - KhanAcademy
 
 * [Creating an equation with no solutions](https://youtu.be/uQs100shv-A) - KhanAcademy
