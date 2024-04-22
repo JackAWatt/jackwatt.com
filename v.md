@@ -5,6 +5,8 @@
 
 #### 2024/04/22
 
+* [ Better Call Saul - Why Tony Dalton Is So Captivating As Lalo Salamanca ](https://youtu.be/ddXnhoQ1I-4) - Just an Observation
+
 * [ The Dark Psychology of Michael Corleone ](https://youtu.be/TFDgPJuSEPY) - J Wisdom
 
 * [ The Dark Psychology of Tariq St Patrick ](https://youtu.be/l67yaSxwxTE) - J Wisdom
