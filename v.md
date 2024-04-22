@@ -5,6 +5,8 @@
 
 #### 2024/04/22
 
+* [ The Dark Psychology of Ghost in Power ](https://youtu.be/GjjDy_n17wY) - J Wisdom
+
 * [Shapes and angles](https://youtu.be/FehnQ_2SgsM) - KhanAcademy
 
 * [Orders of magnitude exercise example 2](https://youtu.be/DaoJmvqU3FI) - KhanAcademy
