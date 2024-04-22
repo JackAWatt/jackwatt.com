@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+
+#### 2024/04/22
+
+* [ The Dark Psychology of Gustavo Fring from Breaking Bad and Better Call Saul ](https://youtu.be/fSxrD56YQZM) - J Wisdom
+
 #### 2024/04/21
 
 * [ Why Better Call Saul Has The Perfect Ending ](https://youtu.be/nhG8aHpzhCQ) - BrainPilot
