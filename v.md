@@ -5,6 +5,8 @@
 
 #### 2024/04/22
 
+* [ The Dark Psychology of Tariq St Patrick ](https://youtu.be/l67yaSxwxTE) - J Wisdom
+
 * [ The Dark Psychology of Ghost in Power ](https://youtu.be/GjjDy_n17wY) - J Wisdom
 
 * [Shapes and angles](https://youtu.be/FehnQ_2SgsM) - KhanAcademy
