@@ -5,6 +5,8 @@
 
 #### 2024/04/22
 
+* [Orders of magnitude exercise example 2](https://youtu.be/DaoJmvqU3FI) - KhanAcademy
+
 * [Creating an equation with no solutions](https://youtu.be/uQs100shv-A) - KhanAcademy
 
 * [ The Dark Psychology of Walter White from Breaking Bad ](https://www.youtube.com/watch?v=r0MD1CKLIe8) - J Wisdom
