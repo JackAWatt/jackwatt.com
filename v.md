@@ -5,6 +5,12 @@
 
 #### 2024/04/22
 
+* [ London System: Middlegame Attacking Plans to Win Easily ](https://youtu.be/TgQb2qVz_18) - Remote Chess Academy
+
+* [ How to WIN with the London System! ](https://youtu.be/ECMMct_jnEM) - GothamChess
+
+* [ How To Use Pawns In Chess Middlegames ](https://youtu.be/h58-sBkPQt8) - GothamChess
+
 * [ Better Call Saul - Why Tony Dalton Is So Captivating As Lalo Salamanca ](https://youtu.be/ddXnhoQ1I-4) - Just an Observation
 
 * [ The Dark Psychology of Michael Corleone ](https://youtu.be/TFDgPJuSEPY) - J Wisdom
