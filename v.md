@@ -5,6 +5,8 @@
 
 #### 2024/04/23
 
+* [Intro to dimensional analysis](https://youtu.be/hIAdCTNi1S8) - KhanAcademy
+
 * [ The Messy Morality of Mike Ehrmantraut (Better Call Saul & Breaking Bad) ](https://youtu.be/DOEzpSnDA_0) - Just an Observation
 
 
