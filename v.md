@@ -3,6 +3,11 @@
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
 
+#### 2024/04/23
+
+* [ The Messy Morality of Mike Ehrmantraut (Better Call Saul & Breaking Bad) ](https://youtu.be/DOEzpSnDA_0) - Just an Observation
+
+
 #### 2024/04/22
 
 * [ London System: Middlegame Attacking Plans to Win Easily ](https://youtu.be/TgQb2qVz_18) - Remote Chess Academy
