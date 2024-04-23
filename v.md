@@ -5,6 +5,8 @@
 
 #### 2024/04/23
 
+* [ The Questionable Morality of Nacho Varga (Better Call Saul) ](https://youtu.be/F87r9p6zHRY) - Just an Observation
+
 * [Intro to dimensional analysis](https://youtu.be/hIAdCTNi1S8) - KhanAcademy
 
 * [ The Messy Morality of Mike Ehrmantraut (Better Call Saul & Breaking Bad) ](https://youtu.be/DOEzpSnDA_0) - Just an Observation
