@@ -2,6 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/24
+
+* [ Better Call Saul: How Jimmy McGill Evolves ](https://youtu.be/zn9-inB_f0Y) - Just an Observation
 
 #### 2024/04/23
 
