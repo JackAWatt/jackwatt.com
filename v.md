@@ -4,6 +4,8 @@
 
 #### 2024/04/27
 
+* [ Better Call Saul's Most Tragic Character - Howard Hamlin ](https://youtu.be/UUVWZuCiPiI) - Misterz 
+
 * [ Why You Hate Chuck McGill - Better Call Saul ](https://youtu.be/fZQPnQwPo1w) - Misterz
 
 * [ Jump King's Biggest Barrier Was Finally Broken! ](https://youtu.be/UI5aNFCuhjI) - Karl Jobst
