@@ -4,6 +4,8 @@
 
 #### 2024/04/27
 
+* [ Why They Cut The Real Ending Of The Lord Of The Rings ](https://youtu.be/KxsPtoronL0) - Nerdstalgic
+
 * [ Better Call Saul's Most Tragic Character - Howard Hamlin ](https://youtu.be/UUVWZuCiPiI) - Misterz 
 
 * [ Why You Hate Chuck McGill - Better Call Saul ](https://youtu.be/fZQPnQwPo1w) - Misterz
