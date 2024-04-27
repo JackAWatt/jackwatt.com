@@ -4,6 +4,8 @@
 
 #### 2024/04/27
 
+* [ Why You Hate Chuck McGill - Better Call Saul ](https://youtu.be/fZQPnQwPo1w) - Misterz
+
 * [ Jump King's Biggest Barrier Was Finally Broken! ](https://youtu.be/UI5aNFCuhjI) - Karl Jobst
 
 * [ Pure maths has painted itself into a corner / Sociology and Pure Maths / N J Wildberger ](https://youtu.be/YhN4X56E7iM) - Insights into Mathematics
