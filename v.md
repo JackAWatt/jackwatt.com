@@ -4,6 +4,9 @@
 
 #### 2024/04/27
 
+* [ Pure maths has painted itself into a corner / Sociology and Pure Maths / N J Wildberger ](https://youtu.be/YhN4X56E7iM) - Insights into Mathematics
+
+
 * [ Inside The Twisted Mind Of Lamar Silas From BMF ](https://youtu.be/ld00lkINEj4) - J Wisdom
 
 #### 2024/04/24
