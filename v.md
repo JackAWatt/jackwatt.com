@@ -4,6 +4,8 @@
 
 #### 2024/04/27
 
+* [ Jump King's Biggest Barrier Was Finally Broken! ](https://youtu.be/UI5aNFCuhjI) - Karl Jobst
+
 * [ Pure maths has painted itself into a corner / Sociology and Pure Maths / N J Wildberger ](https://youtu.be/YhN4X56E7iM) - Insights into Mathematics
 
 * [ Inside The Twisted Mind Of Lamar Silas From BMF ](https://youtu.be/ld00lkINEj4) - J Wisdom
