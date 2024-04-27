@@ -4,6 +4,8 @@
 
 #### 2024/04/27
 
+* [ Why Palpatine said Vader was Bad For the Rule of 2 Sith - Star Wars Explained ](https://youtu.be/LUK6xEV2Edg) - The Stupendous Wave 
+
 * [ Better Call Saul's Hidden Evil - Kim Wexler ](https://youtu.be/pteFbu_JKWE) - Misterz
 
 * [ New Skip BREAKS Mario Kart DS After 18 Years ](https://youtu.be/cYcLJOJWD_s) - Abyssoft
