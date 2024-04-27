@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/27
+
+* [ Inside The Twisted Mind Of Lamar Silas From BMF ](https://youtu.be/ld00lkINEj4) - J Wisdom
+
 #### 2024/04/24
 
 * [ Better Call Saul: How Jimmy McGill Evolves ](https://youtu.be/zn9-inB_f0Y) - Just an Observation
