@@ -4,6 +4,8 @@
 
 #### 2024/04/27
 
+* [ Better Call Saul's Hidden Evil - Kim Wexler ](https://youtu.be/pteFbu_JKWE) - Misterz
+
 * [ New Skip BREAKS Mario Kart DS After 18 Years ](https://youtu.be/cYcLJOJWD_s) - Abyssoft
 
 * [ Why They Cut The Real Ending Of The Lord Of The Rings ](https://youtu.be/KxsPtoronL0) - Nerdstalgic
