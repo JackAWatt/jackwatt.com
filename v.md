@@ -4,6 +4,8 @@
 
 #### 2024/04/28
 
+* [ Better Call Saul Finale - What It All Meant ](https://youtu.be/5GRdJr8rTCs) - Just an Observation
+
 * [ so, you want to cosplay poverty ](https://youtu.be/mLgg8yrlKfg) - Yhara zayd
 
 * [ Why Yoda REFUSED to Join the Rebellion - Star Wars Explained ](https://youtu.be/upsmidIeUJQ) - The Stupendous Wave
