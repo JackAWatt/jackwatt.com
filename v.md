@@ -4,6 +4,8 @@
 
 #### 2024/04/28
 
+* [ Christian Caller DESTROYED Over Slavery in the Bible! Matt Dillahunty & Arden Hart ](https://youtu.be/apMfDVWVS0U) - The Line
+
 * [ dark matter is not a theory ](https://youtu.be/PbmJkMhmrVI) - Angela Collier 
 
 * [ The Scourge of the Shire ](https://youtu.be/lKOGaAPDbdM) - Angela Collier
