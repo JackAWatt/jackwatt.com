@@ -4,6 +4,8 @@
 
 #### 2024/04/28
 
+* [ The Scourge of the Shire ](https://youtu.be/lKOGaAPDbdM) - Angela Collier
+
 * [ How That ‘Better Call Saul’ Death Was Kept Secret From Bob Odenkirk & Rhea Seehorn / Making A Scene ](https://youtu.be/X7jnkDQAWwk) - Variety
 
 * [ Better Call Saul Finale - What It All Meant ](https://youtu.be/5GRdJr8rTCs) - Just an Observation
