@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/28
+
+* [ Gandalf's forgotten first mission to Middle Earth ](https://youtu.be/inZ3mj5sk8Y) - In Deep Geek
+
 #### 2024/04/27
 
 * [ Why Palpatine said Vader was Bad For the Rule of 2 Sith - Star Wars Explained ](https://youtu.be/LUK6xEV2Edg) - The Stupendous Wave 
