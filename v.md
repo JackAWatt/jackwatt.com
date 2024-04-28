@@ -4,6 +4,8 @@
 
 #### 2024/04/28
 
+* [ Why Yoda REFUSED to Join the Rebellion - Star Wars Explained ](https://youtu.be/upsmidIeUJQ) - The Stupendous Wave
+
 * [ Gandalf's forgotten first mission to Middle Earth ](https://youtu.be/inZ3mj5sk8Y) - In Deep Geek
 
 #### 2024/04/27
