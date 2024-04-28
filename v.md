@@ -4,6 +4,8 @@
 
 #### 2024/04/28
 
+* [ so, you want to cosplay poverty ](https://youtu.be/mLgg8yrlKfg) - Yhara zayd
+
 * [ Why Yoda REFUSED to Join the Rebellion - Star Wars Explained ](https://youtu.be/upsmidIeUJQ) - The Stupendous Wave
 
 * [ Gandalf's forgotten first mission to Middle Earth ](https://youtu.be/inZ3mj5sk8Y) - In Deep Geek
