@@ -28,9 +28,13 @@
 
 #### 2024/04/24
 
+* [Facts & Values - Clarifying the Moral Landscape](https://samharris.org/episode/SEC3B1F7B00) - Making Sense with Sam Harris
+
 * [ Better Call Saul: How Jimmy McGill Evolves ](https://youtu.be/zn9-inB_f0Y) - Just an Observation
 
 #### 2024/04/23
+
+* [Do You Really Have a Self? - A Conversation with Jay Garfield](https://samharris.org/episode/SE688B1FC27) - Making Sense with Sam Harris
 
 * [ The Questionable Morality of Nacho Varga (Better Call Saul) ](https://youtu.be/F87r9p6zHRY) - Just an Observation
 
