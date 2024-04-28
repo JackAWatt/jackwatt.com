@@ -28,6 +28,8 @@
 
 #### 2024/04/24
 
+* [The Future of Intelligence - A Conversation with Jeff Hawkins](https://samharris.org/episode/SE8B1FC27E5) - Making Sense with Sam Harris
+
 * [Facts & Values - Clarifying the Moral Landscape](https://samharris.org/episode/SEC3B1F7B00) - Making Sense with Sam Harris
 
 * [ Better Call Saul: How Jimmy McGill Evolves ](https://youtu.be/zn9-inB_f0Y) - Just an Observation
