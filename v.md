@@ -4,6 +4,8 @@
 
 #### 2024/04/29
 
+* [ Breaking Bad - How Aaron Paul Perfected Jesse Pinkman ](https://youtu.be/wVgmN9TXPiU) - Just an Observation
+
 * [Towards a Sociology of Pure Mathematics / Sociology and Pure Maths / N J Wildberger](https://youtu.be/UZah3BqsU8w?list=PLIljB45xT85A-qCypcmZqRvaS1pGXpTua) - Insights into Mathematics
 
 #### 2024/04/28
