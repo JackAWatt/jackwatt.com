@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/29
+
+* [Towards a Sociology of Pure Mathematics / Sociology and Pure Maths / N J Wildberger](https://youtu.be/UZah3BqsU8w?list=PLIljB45xT85A-qCypcmZqRvaS1pGXpTua) - Insights into Mathematics
+
 #### 2024/04/28
 
 * [ Christian Caller DESTROYED Over Slavery in the Bible! Matt Dillahunty & Arden Hart ](https://youtu.be/apMfDVWVS0U) - The Line
