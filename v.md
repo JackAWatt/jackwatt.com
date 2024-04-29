@@ -4,6 +4,8 @@
 
 #### 2024/04/29
 
+* [Negative exponents](https://youtu.be/JnpqlXN9Whw) - KhanAcademy
+
 * [ Breaking Bad - How Aaron Paul Perfected Jesse Pinkman ](https://youtu.be/wVgmN9TXPiU) - Just an Observation
 
 * [Towards a Sociology of Pure Mathematics / Sociology and Pure Maths / N J Wildberger](https://youtu.be/UZah3BqsU8w?list=PLIljB45xT85A-qCypcmZqRvaS1pGXpTua) - Insights into Mathematics
