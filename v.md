@@ -4,6 +4,8 @@
 
 #### 2024/04/29
 
+* [ The Demand for Mature Fantasy](https://youtu.be/sMG4Jpk9ZOk) - Intentionally Blank
+
 * [Negative exponent intuition](https://youtu.be/Tqpcku0hrPU) - KhanAcademy
 
 * [Negative exponents](https://youtu.be/JnpqlXN9Whw) - KhanAcademy
