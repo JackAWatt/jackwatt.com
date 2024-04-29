@@ -4,6 +4,8 @@
 
 #### 2024/04/29
 
+* [Negative exponent intuition](https://youtu.be/Tqpcku0hrPU) - KhanAcademy
+
 * [Negative exponents](https://youtu.be/JnpqlXN9Whw) - KhanAcademy
 
 * [ Breaking Bad - How Aaron Paul Perfected Jesse Pinkman ](https://youtu.be/wVgmN9TXPiU) - Just an Observation
