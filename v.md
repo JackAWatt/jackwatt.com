@@ -4,6 +4,8 @@
 
 #### 2024/04/30
 
+* [ The Clone Wars... before you watch (first time watch guide) ](https://youtu.be/voAy2uaEOC4) - ExactlyOneSasquatch
+
 * [The Power of Compassion - A Conversation with James R. Doty](https://samharris.org/episode/SE0473677B9) - Making Sense with Sam Harris
 
 #### 2024/04/29
