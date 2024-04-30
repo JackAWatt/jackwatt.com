@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/04/30
+
+* [The Power of Compassion - A Conversation with James R. Doty](https://samharris.org/episode/SE0473677B9) - Making Sense with Sam Harris
+
 #### 2024/04/29
 
 * [ The Demand for Mature Fantasy](https://youtu.be/sMG4Jpk9ZOk) - Intentionally Blank
