@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/01
+
+* [ If A Rude Person Disrespects You, Say This To Make Them Regret It ](https://youtu.be/BSXoI9MDvU0) - Charisma on Command
+
 #### 2024/04/30
 
 * [ The Clone Wars... before you watch (first time watch guide) ](https://youtu.be/voAy2uaEOC4) - ExactlyOneSasquatch
