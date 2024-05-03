@@ -2,6 +2,16 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/03
+
+* [Chapter 1: Plotted in Darkness](https://open.spotify.com/episode/0uMAxXAwxUHKylHx9uSoJ1) - The Witch Trials of J.K. Rowling
+
+#### 2024/05/02
+
+* [The Cancellation of J.K. Rowling - A Conversation with Megan Phelps-Roper](https://samharris.org/episode/SEA209A066C) - making Sense with Sam Harris
+
+* [Reckoning with Parfit - A Conversation with David Edmonds](https://samharris.org/episode/SE3BA209A06) - making Sense with Sam Harris
+
 #### 2024/05/01
 
 * [ If A Rude Person Disrespects You, Say This To Make Them Regret It ](https://youtu.be/BSXoI9MDvU0) - Charisma on Command
