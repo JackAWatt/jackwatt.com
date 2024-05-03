@@ -4,6 +4,8 @@
 
 #### 2024/05/03
 
+* [Anakin Didn't 'Turn' into Darth Vader, He Always was Him: Star Wars Character Analysis](https://youtu.be/B8MY5dgoT9U) - Geetsly's
+
 * [Chapter 1: Plotted in Darkness](https://open.spotify.com/episode/0uMAxXAwxUHKylHx9uSoJ1) - The Witch Trials of J.K. Rowling
 
 #### 2024/05/02
