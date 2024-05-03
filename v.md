@@ -4,6 +4,12 @@
 
 #### 2024/05/03
 
+* [Chapter 4: TERF Wars](https://open.spotify.com/episode/2ewu7fRcFRBF1LmUswBR0n) - The Witch Trials of J.K. Rowling
+
+* [Chapter 3: New Pyre](https://open.spotify.com/episode/6DLJ0jQpCBd0MjxRbHa7RL) - The Witch Trials of J.K. Rowling
+
+* [Chapter 2: Burn the Witch](https://open.spotify.com/episode/5KHzjG673oNEFPdJ5E4pJI) - The Witch Trials of J.K. Rowling
+
 * [Anakin Didn't 'Turn' into Darth Vader, He Always was Him: Star Wars Character Analysis](https://youtu.be/B8MY5dgoT9U) - Geetsly's
 
 * [Chapter 1: Plotted in Darkness](https://open.spotify.com/episode/0uMAxXAwxUHKylHx9uSoJ1) - The Witch Trials of J.K. Rowling
