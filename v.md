@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/04
+
+* [ he said it’s basically a silent movie ](https://youtu.be/gq0g0iW36cg) - CinemaStix
+
 #### 2024/05/03
 
 * [Chapter 4: TERF Wars](https://open.spotify.com/episode/2ewu7fRcFRBF1LmUswBR0n) - The Witch Trials of J.K. Rowling
