@@ -4,6 +4,10 @@
 
 #### 2024/05/05
 
+* [Chapter 6: Natalie and Noah](https://open.spotify.com/episode/1m6rScRp9P1Z5rh3ZLVsCs) - The Witch Trials of J.K. Rowling
+
+* [Chapter 5: The Tweets](https://open.spotify.com/episode/5r8SZLhLsgroLqPC1owm0m) - The Witch Trials of J.K. Rowling
+
 * [ E-ink tablets will make you distraction proof. ](https://youtu.be/MmEn-Nj95FM) - Data Nash
 
 #### 2024/05/04
