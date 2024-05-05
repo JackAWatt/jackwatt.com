@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/05
+
+* [ E-ink tablets will make you distraction proof. ](https://youtu.be/MmEn-Nj95FM) - Data Nash
+
 #### 2024/05/04
 
 * [ he said it’s basically a silent movie ](https://youtu.be/gq0g0iW36cg) - CinemaStix
