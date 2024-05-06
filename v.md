@@ -4,6 +4,8 @@
 
 #### 2024/05/06
 
+* [Gender Critical](https://youtu.be/1pTPuoGjQsI) - ContraPoints 
+
 * [ Energy Ducking: The Fastest Way To Make Someone Dislike You ](https://youtu.be/yifQZm602IY) - Charisma on Command
 
 * [ 7 Habits That Make People Dislike You In Seconds ](https://youtu.be/YHRtgQ3yYu4) - Charisma on Command
