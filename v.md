@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/06
+
+* [ 7 Habits That Make People Dislike You In Seconds ](https://youtu.be/YHRtgQ3yYu4) - Charisma on Command
+
 #### 2024/05/05
 
 * [Chapter 6: Natalie and Noah](https://open.spotify.com/episode/1m6rScRp9P1Z5rh3ZLVsCs) - The Witch Trials of J.K. Rowling
