@@ -4,6 +4,8 @@
 
 #### 2024/05/06
 
+* [ ANONYMOUS BANNED GM REVEALED!!!!!!! ](https://youtu.be/bA19Rmapj7M) -  GothamChess
+
 * [Gender Critical](https://youtu.be/1pTPuoGjQsI) - ContraPoints 
 
 * [ Energy Ducking: The Fastest Way To Make Someone Dislike You ](https://youtu.be/yifQZm602IY) - Charisma on Command
