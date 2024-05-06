@@ -4,6 +4,8 @@
 
 #### 2024/05/06
 
+* [ 6 Social Mistakes That Make You Look Low Status ](https://youtu.be/UOUBOFZ3Tos) -  Charisma on Command
+
 * [ ANONYMOUS BANNED GM REVEALED!!!!!!! ](https://youtu.be/bA19Rmapj7M) -  GothamChess
 
 * [Gender Critical](https://youtu.be/1pTPuoGjQsI) - ContraPoints 
