@@ -4,6 +4,8 @@
 
 #### 2024/05/07
 
+* [ Star Wars Canon vs Legends | A Youtini Guide ](https://youtu.be/q_W2xjrXtug) - Youtini
+
 * [ Star Wars Comics | A Youtini Guide](https://youtu.be/gTmekv2wPcU) - Youtini
 
 #### 2024/05/06
