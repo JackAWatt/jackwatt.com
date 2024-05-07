@@ -4,6 +4,8 @@
 
 #### 2024/05/07
 
+* [ Men](https://youtu.be/S1xxcKCGljY) - ContraPoints
+
 * [ This Sorting Hat Theory Totally CHANGES Harry Potter ](https://youtu.be/sRg58eN2yqE) -  Harry Potter Theory
 
 * [ Star Wars Canon vs Legends | A Youtini Guide ](https://youtu.be/q_W2xjrXtug) - Youtini
