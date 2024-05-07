@@ -2,9 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
-#### 2024/05/06
+#### 2024/05/07
 
 * [ Star Wars Comics | A Youtini Guide](https://youtu.be/gTmekv2wPcU) - Youtini
+
+#### 2024/05/06
 
 * [ 6 Social Mistakes That Make You Look Low Status ](https://youtu.be/UOUBOFZ3Tos) -  Charisma on Command
 
