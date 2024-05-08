@@ -4,6 +4,10 @@
 
 #### 2024/05/07
 
+* [Science & Civilization - A Conversation with Neil deGrasse Tyson](https://samharris.org/episode/SE594E416DD) - Making Sense with Sam Harris
+
+* [Getting Used to It - A Conversation with Cass R. Sunstein](https://samharris.org/episode/SE8EBCF6E6F) - Making Sense with Sam Harris
+
 * [ Men](https://youtu.be/S1xxcKCGljY) - ContraPoints
 
 * [ This Sorting Hat Theory Totally CHANGES Harry Potter ](https://youtu.be/sRg58eN2yqE) -  Harry Potter Theory
