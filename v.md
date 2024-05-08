@@ -2,9 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
-#### 2024/05/07
+#### 2024/05/08
 
 * [Science & Civilization - A Conversation with Neil deGrasse Tyson](https://samharris.org/episode/SE594E416DD) - Making Sense with Sam Harris
+
+#### 2024/05/07
 
 * [Getting Used to It - A Conversation with Cass R. Sunstein](https://samharris.org/episode/SE8EBCF6E6F) - Making Sense with Sam Harris
 
