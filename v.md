@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/09
+
+* [ Telescope with a Mercury Mirror](https://youtu.be/twBzvHl9TtE) -  Sixty Symbols  
+
 #### 2024/05/08
 
 * [Science & Civilization - A Conversation with Neil deGrasse Tyson](https://samharris.org/episode/SE594E416DD) - Making Sense with Sam Harris
