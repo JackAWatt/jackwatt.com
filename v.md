@@ -4,6 +4,8 @@
 
 #### 2024/05/09
 
+* [ Learn the Caro-Kann Defense / 10-Minute Chess Openings ](https://youtu.be/rmbU97iftC8) -  GothamChess
+
 * [ The Biggest Possible Black Hole](https://youtu.be/pGO_GJL17gM) -  Sixty Symbols
 
 * [ Telescope with a Mercury Mirror](https://youtu.be/twBzvHl9TtE) -  Sixty Symbols  
