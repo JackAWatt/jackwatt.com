@@ -158,3 +158,11 @@ The second difference will always be constant for quadratics
 * translating word problems
 
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/8f46c03d-70cd-4c2e-a030-cf2c524cc8de)
+
+***
+
+* Multiplication of Powers
+
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/347ed768-c0f0-4b6d-9fb9-9c84d18ff5d1)
+
+
