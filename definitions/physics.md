@@ -8,5 +8,8 @@ Example: mary travels 200 miles east --this is displacement
 
 * Scaler vs Vector
 
-direction is scaler
+distance is scaler
+a scaler has a magnitude only
+
 displacement is vector
+a vector has both a magnitude and direction
