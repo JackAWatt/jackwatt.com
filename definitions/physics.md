@@ -25,3 +25,9 @@ d = vt
 Distance = speed * time - this is a scaler
 
 Distance = velocity * time - this is a vector
+
+Speed is always positive
+
+Velocity can be positive or negative
+
+Speed is the absolute value of velocity
