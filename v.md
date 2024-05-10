@@ -4,6 +4,8 @@
 
 #### 2024/05/10
 
+* [Intro to vectors and scalars](https://youtu.be/ihNZlp7iUHE) - KhanAcademy
+
 * [Introduction to physics](https://youtu.be/uIojjqSm0m4) - KhanAcademy
 
 * [Applying Newton's first law of motion](https://youtu.be/D1NubiWCpQg) - KhanAcademy
