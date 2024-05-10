@@ -161,7 +161,7 @@ The second difference will always be constant for quadratics
 
 ***
 
-* Multiplication of Powers
+* Powers
 
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/347ed768-c0f0-4b6d-9fb9-9c84d18ff5d1)
 
@@ -169,6 +169,6 @@ The second difference will always be constant for quadratics
 
 ![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/275dc688-ede6-4c43-b6a5-3469c810b6b0)
 
-
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/761f9bee-d39e-40af-83e7-7ef7ca7a7d30)
 
 
