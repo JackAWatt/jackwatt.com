@@ -1,20 +1,20 @@
-* Distance vs Displacement
+#### Distance vs Displacement
 
-Distance involves magnitude
-Displacement involves magnitude and direction
+* Distance involves magnitude
+* Displacement involves magnitude and direction
 
-example: john travels 500 miles -- this is distance
-Example: mary travels 200 miles east --this is displacement
+* example: john travels 500 miles -- this is distance
+* Example: mary travels 200 miles east --this is displacement
 
 ***
 
-* Scaler vs Vector
+#### Scaler vs Vector
 
-distance is scaler
-a scaler has a magnitude only
+* distance is scaler
+* a scaler has a magnitude only
 
-displacement is vector
-a vector has both a magnitude and direction
+* displacement is vector
+* a vector has both a magnitude and direction
 
 ***
 
@@ -22,17 +22,17 @@ a vector has both a magnitude and direction
 
 d = vt
 
-Distance = speed * time - this is a scaler
+* Distance = speed * time - this is a scaler
 
-Distance = velocity * time - this is a vector
+* Distance = velocity * time - this is a vector
 
-Speed is always positive
+* Speed is always positive
 
-Velocity can be positive or negative
+* Velocity can be positive or negative
 
-Speed is the absolute value of velocity
+* Speed is the absolute value of velocity
 
-* acceeleration
+#### acceeleration
 
 if (a = +; v = +) || (a = -; v = -) then speed is increasing
 if (a = +; v = -) || (a = -; v = +) then speed is decreasing
