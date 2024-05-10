@@ -31,3 +31,8 @@ Speed is always positive
 Velocity can be positive or negative
 
 Speed is the absolute value of velocity
+
+* acceeleration
+
+if (a = +; v = +) || (a = -; v = -) then speed is increasing
+if (a = +; v = -) || (a = -; v = +) then speed is decreasing
