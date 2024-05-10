@@ -4,6 +4,8 @@
 
 #### 2024/05/10
 
+* [ Physics - Basic Introduction ](https://youtu.be/b1t41Q3xRM8?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
+
 * [Is Moral Progress a Fantasy? - A Conversation with John Gray](https://samharris.org/episode/SEA4D69CF4A) - Making Sense with Sam Harris
 
 * [Can We Contain Artificial Intelligence? - A Conversation with Mustafa Suleyman](https://samharris.org/episode/SEC56BC9D0E) - Making Sense with Sam Harris
