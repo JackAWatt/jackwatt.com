@@ -4,6 +4,8 @@
 
 #### 2024/05/10
 
+* [Greek Alphabet Symbols List - College Math, Chemistry, & Physics](https://youtu.be/_AWZZP3J5Nw?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
+
 * [ Physics - Basic Introduction ](https://youtu.be/b1t41Q3xRM8?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
 
 * [Is Moral Progress a Fantasy? - A Conversation with John Gray](https://samharris.org/episode/SEA4D69CF4A) - Making Sense with Sam Harris
