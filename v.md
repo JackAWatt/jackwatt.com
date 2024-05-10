@@ -4,6 +4,8 @@
 
 #### 2024/05/10
 
+* [Newton's first law of motion introduction](https://youtu.be/5-ZFOhHQS68) - KhanAcademy
+
 * [Significant Figures - A Fast Review!](https://youtu.be/l2yuDvwYq5g?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
 
 * [Greek Alphabet Symbols List - College Math, Chemistry, & Physics](https://youtu.be/_AWZZP3J5Nw?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
