@@ -36,3 +36,21 @@ d = vt
 
 if (a = +; v = +) || (a = -; v = -) then speed is increasing
 if (a = +; v = -) || (a = -; v = +) then speed is decreasing
+
+#### gravity
+
+g = -9.8m/s^2 (earth)
+g = -1.6m/s^2 (moon)
+
+* gravity acts on the y axis, not the x axis.
+* velocity can have an x and y component.
+
+* velocity is the hypottenous of the the Vx Vy triangle
+
+![image](https://github.com/JackAWatt/jackwatt.com/assets/3372510/91e8990a-8ef1-4016-86c6-1b42003d29ae)
+
+ay = g = -9.8
+
+
+
+
