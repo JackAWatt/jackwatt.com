@@ -2,6 +2,12 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/10
+
+* [Is Moral Progress a Fantasy? - A Conversation with John Gray](https://samharris.org/episode/SEA4D69CF4A) - Making Sense with Sam Harris
+
+* [Can We Contain Artificial Intelligence? - A Conversation with Mustafa Suleyman](https://samharris.org/episode/SEC56BC9D0E) - Making Sense with Sam Harris
+
 #### 2024/05/09
 
 * [ Learn the Caro-Kann Defense / 10-Minute Chess Openings ](https://youtu.be/rmbU97iftC8) -  GothamChess
