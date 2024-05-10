@@ -18,6 +18,8 @@
 
 #### 2024/05/08
 
+* [Philosophy and the Good Life - A Conversation with Kieran Setiya](https://samharris.org/episode/SE07B4D6C3A) - Making Sense with Sam Harris
+
 * [Science & Civilization - A Conversation with Neil deGrasse Tyson](https://samharris.org/episode/SE594E416DD) - Making Sense with Sam Harris
 
 #### 2024/05/07
