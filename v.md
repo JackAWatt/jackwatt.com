@@ -4,6 +4,8 @@
 
 #### 2024/05/10
 
+* [Introduction to physics](https://youtu.be/uIojjqSm0m4) - KhanAcademy
+
 * [Applying Newton's first law of motion](https://youtu.be/D1NubiWCpQg) - KhanAcademy
 
 * [Newton's first law of motion introduction](https://youtu.be/5-ZFOhHQS68) - KhanAcademy
