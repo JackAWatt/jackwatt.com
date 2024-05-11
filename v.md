@@ -4,6 +4,8 @@
 
 #### 2024/05/10
 
+* [ How One Cheater Changed Super Mario Maker History ](https://youtu.be/cOHBlzP-rDY) -  Karl Jobst
+
 * [Intro to vectors and scalars](https://youtu.be/ihNZlp7iUHE) - KhanAcademy
 
 * [Introduction to physics](https://youtu.be/uIojjqSm0m4) - KhanAcademy
