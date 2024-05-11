@@ -4,6 +4,8 @@
 
 #### 2024/05/11
 
+* [Factoring quadratics as (x+a)(x+b)](https://youtu.be/D3a8NnpQ2vU) - KhanAcademy
+
 * [ The Rare and Dangerous Lightsaber Form Created by Yoda's Species - Star Wars Explained ](https://youtu.be/t-mjEkY4guk) -  The Stupendous Wave
 
 * [ The Best Way To Learn Calculus and Physics ](https://youtu.be/egtSBK4kZ3Y) -The Math Sorcerer
