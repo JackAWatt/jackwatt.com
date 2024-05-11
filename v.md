@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/11
+
+* [ The Best Way To Learn Calculus and Physics ](https://youtu.be/egtSBK4kZ3Y) -The Math Sorcerer
+
 #### 2024/05/10
 
 * [ How One Cheater Changed Super Mario Maker History ](https://youtu.be/cOHBlzP-rDY) -  Karl Jobst
