@@ -17,6 +17,10 @@
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
 * [How to self study pure math - a step-by-step guide - Aleph 0](https://www.youtube.com/watch?v=byNaO_zn2fI)
 * [How to Take all the Math Classes You Need](https://docs.google.com/document/d/1G-hSdO5Tm9Nc6E4GobZZlwD0MNfCUAnHHEDqkypDtx0/edit)  - Zach Star's list of online courses, assignments, and textbooks
+* Algorithms, [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera
+* [CS 50](https://www.youtube.com/watch?v=8mAITcNt710) - Harvard
+* [System Design](https://www.youtube.com/watch?v=-W9F__D3oY4)
+
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
 * [Master Mathematics and Become a Wizard](https://youtu.be/H6XejQOsfBY) - This is similar to the start to finish video, but has different book options. 
