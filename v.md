@@ -6,6 +6,7 @@
 
 * [The Factor-Label Method](https://youtu.be/UBzVf8XeMYA) - Bozeman Science 
 
+* [Significant Figures Made Easy!](https://youtu.be/9WFxkxFXb20?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
 #### 2024/05/11
 
 * [Factoring quadratics as (x+a)(x+b)](https://youtu.be/D3a8NnpQ2vU) - KhanAcademy
