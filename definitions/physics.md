@@ -52,5 +52,19 @@ g = -1.6m/s^2 (moon)
 ay = g = -9.8
 
 
+#### Significant Digits
+
+* All non-zero digits are significant. For example, in the number 123.45, all digits (1, 2, 3, 4, and 5) are significant.
+
+* Zeros between non-zero digits are significant. For example, in the number 5003, all four digits are significant.
+
+* Leading zeros (zeros to the left of the first non-zero digit) are not significant. For example, in the number 0.0056, only the digits 5 and 6 are significant.
+
+* Trailing zeros (zeros to the right of the last non-zero digit) are significant if there's a decimal point present. For example, in the number 120.0, all three digits are significant.
+
+* Trailing zeros that merely serve as placeholders (without a decimal point) are not considered significant. For example, in the number 1200, only the digits 1 and 2 are significant.
+
+
+##### Dimensional Analysis
 
 
