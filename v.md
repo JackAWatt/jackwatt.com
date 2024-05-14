@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/14
+
+* [The Factor-Label Method](https://youtu.be/UBzVf8XeMYA) - Bozeman Science 
+
 #### 2024/05/11
 
 * [Factoring quadratics as (x+a)(x+b)](https://youtu.be/D3a8NnpQ2vU) - KhanAcademy
