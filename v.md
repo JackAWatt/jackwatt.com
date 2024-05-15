@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/15
+
+* [Campus Protests, Antisemitism, and Western Values](https://samharris.org/episode/SEBFAA24D12) - Making Sense with Sam Harris
+
 #### 2024/05/14
 
 * [The Factor-Label Method](https://youtu.be/UBzVf8XeMYA) - Bozeman Science 
