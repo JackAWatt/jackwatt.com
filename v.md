@@ -8,7 +8,7 @@
 
 #### 2024/05/14
 
-* [ Revolutionizing Education with AI | Khan Academy founder Salman Khan ](https://youtu.be/VQs7sa01y_k) - James Altucher 
+* [ Revolutionizing Education with AI / Khan Academy founder Salman Khan ](https://youtu.be/VQs7sa01y_k) - James Altucher 
 
 * [The Factor-Label Method](https://youtu.be/UBzVf8XeMYA) - Bozeman Science 
 
