@@ -8,6 +8,8 @@
 
 #### 2024/05/14
 
+* [ Revolutionizing Education with AI | Khan Academy founder Salman Khan ](https://youtu.be/VQs7sa01y_k) - James Altucher 
+
 * [The Factor-Label Method](https://youtu.be/UBzVf8XeMYA) - Bozeman Science 
 
 * [Significant Figures Made Easy!](https://youtu.be/9WFxkxFXb20?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR) -  The Organic Chemistry Tutor
