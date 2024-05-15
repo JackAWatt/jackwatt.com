@@ -4,6 +4,8 @@
 
 #### 2024/05/15
 
+* [ 5 Social Mistakes That Make People Hate Being Around You ](https://youtu.be/i-q0L0qZ5_o) -  Charisma on Command
+
 * [Campus Protests, Antisemitism, and Western Values](https://samharris.org/episode/SEBFAA24D12) - Making Sense with Sam Harris
 
 #### 2024/05/14
