@@ -21,6 +21,7 @@
 * [CS 50](https://www.youtube.com/watch?v=8mAITcNt710) - Harvard
 * [System Design](https://www.youtube.com/watch?v=-W9F__D3oY4)
 * [Meta Front End Developer Professional](https://www.coursera.org/professional-certificates/meta-front-end-developer) - Coursera
+* [Mathigon - The Mathematical Playground](https://mathigon.org/)
 
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
