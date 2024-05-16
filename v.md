@@ -4,6 +4,8 @@
 
 #### 2024/05/16
 
+* [ Why Do EXPELLED Students Get Their Wands SNAPPED but NOT Convicts? - Harry Potter Theory ](https://youtu.be/-HiKV0OsgNQ) -  Harry Potter Theory
+
 * [ Grant Sanderson (3Blue1Brown) - Past, Present, & Future of Mathematics ](https://youtu.be/oDyviiN4NVo) - Dwarkesh Patel 
 
 #### 2024/05/15
