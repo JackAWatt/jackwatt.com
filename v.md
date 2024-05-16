@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/16
+
+* [ Grant Sanderson (3Blue1Brown) - Past, Present, & Future of Mathematics ](https://youtu.be/oDyviiN4NVo) - Dwarkesh Patel 
+
 #### 2024/05/15
 
 * [ 5 Social Mistakes That Make People Hate Being Around You ](https://youtu.be/i-q0L0qZ5_o) -  Charisma on Command
