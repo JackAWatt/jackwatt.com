@@ -2,6 +2,16 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/18
+
+* [Identity & Honesty - A Conversation with Ezra Klein](https://samharris.org/episode/SE60D697BA5) - Making Sense with Sam Harris
+
+#### 2024/05/17
+
+* [Extreme Housekeeping Edition](https://samharris.org/episode/SEB1B2E3C06) - Making Sense with Sam Harris
+
+* [Forbidden Knowledge - A Conversation with Charles Murray](https://samharris.org/episode/SE493E22F6B) - Making Sense with Sam Harris
+
 #### 2024/05/16
 
 * [ Why Do EXPELLED Students Get Their Wands SNAPPED but NOT Convicts? - Harry Potter Theory ](https://youtu.be/-HiKV0OsgNQ) -  Harry Potter Theory
