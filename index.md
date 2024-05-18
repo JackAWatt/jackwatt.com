@@ -22,6 +22,7 @@
 * [System Design](https://www.youtube.com/watch?v=-W9F__D3oY4)
 * [Meta Front End Developer Professional](https://www.coursera.org/professional-certificates/meta-front-end-developer) - Coursera
 * [Mathigon - The Mathematical Playground](https://mathigon.org/)
+* [75 LeetCode Algorithm and Data Structures problems](https://www.techinterviewhandbook.org/grind75) 
 
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
