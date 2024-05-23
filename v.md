@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/23
+
+* [ Pure Substances and Mixtures, Elements & Compounds, Classification of Matter, Chemistry Examples](https://youtu.be/OHhnm2p5G3o?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS) - The Organic Chemistry Tutor
+
 #### 2024/05/18
 
 * [Identity & Honesty - A Conversation with Ezra Klein](https://samharris.org/episode/SE60D697BA5) - Making Sense with Sam Harris
