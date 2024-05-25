@@ -4,6 +4,8 @@
 
 #### 2024/05/25
 
+* [ Instantaneous speed and velocity / One-dimensional motion / Physics / Khan Academy ](https://youtu.be/pfTTHx9kCHk) - khanacademymedicine
+
 * [ Understanding and Walking Position as a function of Time Graphs ](https://youtu.be/Mjnu5ePzXDM) - Flipping Physics 
 
 #### 2024/05/23
