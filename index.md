@@ -51,6 +51,20 @@
 * [Lists(lolbas, GTFObins, awesomehacking)](http://jackwatt.com/infosec#lists-and-other-resources)
 * [Podcasts](http://jackwatt.com/podcasts#information-security)
 
+##### Specific Programming Languages
+###### Julia
+
+* [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+* [Noteworthy Differences from other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/#Noteworthy-differences-from-Python)
+* [Video Tuturial by doggo dot jl](https://www.youtube.com/@doggodotjl/playlists)
+* [https://techytok.com/from-zero-to-julia/](From Zero To Julia!)
+* [Julia Academy](https://juliaacademy.com/)
+* [ 100 Julia exercises with solutions ](https://pythonjulia.blogspot.com/2022/03/100-julia-exercises-with-solutions.html)
+* [Julia: Dynamism and Performance Reconciled by Design](https://dl.acm.org/doi/pdf/10.1145/3276490)
+* [@jakobnissen’s blog](https://viralinstruction.com/)
+* [Abstraction in Technical Computing - Jeff Bezanson's PhD Theises](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
+* 
+
 ##### Data Science
 
 * [Anaconda](https://www.anaconda.com/) - The world’s most popular platform to develop and deploy secure Python solutions, faster(both cloud and local environment)
