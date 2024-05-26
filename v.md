@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/05/26
+
+* [ Introduction to Julia for Programmers / Printing, Variables, Comments, Math / with Logan Kilpatrick ](https://youtu.be/Rk12jda7cV0) - The Julia Programming Language
+
 #### 2024/05/25
 
 * [ Instantaneous speed and velocity / One-dimensional motion / Physics / Khan Academy ](https://youtu.be/pfTTHx9kCHk) - khanacademymedicine
