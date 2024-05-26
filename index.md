@@ -57,7 +57,7 @@
 * [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 * [Noteworthy Differences from other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/#Noteworthy-differences-from-Python)
 * [Video Tuturial by doggo dot jl](https://www.youtube.com/@doggodotjl/playlists)
-* [https://techytok.com/from-zero-to-julia/](From Zero To Julia!)
+* [From Zero To Julia!](https://techytok.com/from-zero-to-julia/)
 * [Julia Academy](https://juliaacademy.com/)
 * [ 100 Julia exercises with solutions ](https://pythonjulia.blogspot.com/2022/03/100-julia-exercises-with-solutions.html)
 * [Julia: Dynamism and Performance Reconciled by Design](https://dl.acm.org/doi/pdf/10.1145/3276490)
