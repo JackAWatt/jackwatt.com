@@ -23,7 +23,6 @@
 * [Meta Front End Developer Professional](https://www.coursera.org/professional-certificates/meta-front-end-developer) - Coursera
 * [Mathigon - The Mathematical Playground](https://mathigon.org/)
 * [75 LeetCode Algorithm and Data Structures problems](https://www.techinterviewhandbook.org/grind75)
-* [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) 
 
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
@@ -63,7 +62,7 @@
 * [Julia: Dynamism and Performance Reconciled by Design](https://dl.acm.org/doi/pdf/10.1145/3276490)
 * [@jakobnissen’s blog](https://viralinstruction.com/)
 * [Abstraction in Technical Computing - Jeff Bezanson's PhD Theises](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
-* 
+* [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) 
 
 ##### Data Science
 
