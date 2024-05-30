@@ -64,6 +64,16 @@
 * [Abstraction in Technical Computing - Jeff Bezanson's PhD Theises](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
 * [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) 
 
+
+###### Go
+
+* [Go Tour](https://go.dev/tour/welcome/1)
+* [Go By Example](https://gobyexample.com/)
+* [Effective Go](https://go.dev/doc/effective_go)
+* [Any of the Rob Pike talks](https://youtu.be/f6kdp27TYZs)
+* [Let's Go - Building Web Apps with Go (textbook)](https://lets-go.alexedwards.net/) - Alex Edwards
+* [Let's Go Further - Advanced patterns for building APIs and web applications in Go](https://lets-go-further.alexedwards.net/) - Alex Edwards
+
 ##### Data Science
 
 * [Anaconda](https://www.anaconda.com/) - The world’s most popular platform to develop and deploy secure Python solutions, faster(both cloud and local environment)
