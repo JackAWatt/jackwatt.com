@@ -1,12 +1,4 @@
+* What is the atomic mass of silicon if 92.21% of its atoms have a mass of 27.977 amu, 4.70%
+have a mass of 28.976 amu, and 3.09% have a mass of 29.974 amu?
 
-$$\frac {440km}{4h}$$
-
-$$110km/h$$
-
-$$1 km/h = \frac {1000m}{3600s}$$
-
-$$110 km/h * \frac {1000m}{3600s}$$
-
-$$30.555555555 m/s$$
-
-
+$$.9221*27.977+0.0470*28.976+0.0309*29.974$$
