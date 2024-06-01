@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/01
+
+* [Duell Chemistry](https://youtu.be/zUtIrO3fUgg)
+
 #### 2024/05/30
 
 * [ The Best Resources to Learn Golang (If I Could Start Over) ](https://youtu.be/qT14b1pxtiI) - Melkey
