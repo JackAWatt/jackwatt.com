@@ -44,6 +44,8 @@ $$d = 2m$$
 
 $$d1+d2+d3 = \text {total (net) displacement}$$
 
+$$15m + 4m + 2m = 21m$$
+
 
 
 
