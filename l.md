@@ -1,4 +1,4 @@
-## t0 to t5
+<p style="text-align: center;">#### t0 to t5</p>
 
 $$d = v_it + \frac {1}{2}at^2$$
 
