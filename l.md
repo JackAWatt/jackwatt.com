@@ -42,7 +42,7 @@ $$d = 2m$$
 
 ***
 
-$$d1+d2+d3 = {total (net) displacement}$$
+$$d1+d2+d3 = \text {total (net) displacement}$$
 
 
 
