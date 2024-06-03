@@ -1,35 +1,7 @@
-$$v_f = v_i + at$$
+$$v_i = 12 + 3(5.33)$$
 
-$$12 = v_i  - 3a$$
+$$v_i = 12 + 15.99$$
 
-$$d = v_it + \frac {1}{2}at^2$$
+$$v_i = 12 + 15.99$$
 
-
-$$60 = v_i(3.0) + \frac {1}{2}a(3.0)^2$$
-
-$$60 = 3v_i -4.5a$$
-
-$$v_i = 12 + 3a$$
-
-$$60 = 3(12 + 3a)  -4.5a$$
-
-$$60 = 36 + 9a  -4.5a$$
-
-$$24 = 9a  -4.5a$$
-
-$$24 = 4.5a$$
-
-$$24 = 4.5a$$
-
-$$a = \frac {24}{4.5}$$
-
-$$a = 5.33 m/s^2$$
-
-
-
-
-
-a car traveling along a highway must uniformly reduce its speed to 12m/s in
-3.0 s. It travels 60 m during that time.
-
-inital velocity
+$$v_i = 27.99$$
