@@ -1,11 +1,11 @@
-$$a = \frac {v_f^2 - v_i^2}{2d}$$
+$$v = u + at$$
 
-$$a = \frac {0 - 15^2}{2 \times 100}$$
+$$v = 24 + (2.0)(8.0)$$
 
-
-$$a = \frac {0 - 225}{200}$$
-
-$$a = -1.125$$
+$$v = 40 m/s$$
 
 
 
+
+A car travelling at 24 m/s accelerates at 2.0 m/s2 for 8.0 seconds. How fast is it
+travelling at the 8.0-second mark?
