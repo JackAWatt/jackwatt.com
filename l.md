@@ -1,11 +1,8 @@
-$$v = u + at$$
+$$s = ut + \frac {1}{2}at^2$$
 
-$$v = 24 + (2.0)(8.0)$$
-
-$$v = 40 m/s$$
+$$56 = 0 + \frac {1}{2}(3.5)t^2$$
 
 
 
-
-A car travelling at 24 m/s accelerates at 2.0 m/s2 for 8.0 seconds. How fast is it
-travelling at the 8.0-second mark?
+An object starting from rest accelerates at a rate of 3.5 m/s2. How long does it
+take for the object to travel 56 metres? 
