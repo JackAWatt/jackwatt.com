@@ -1,30 +1,17 @@
-$$v = u + at$$
+$$v_f = v_i + at$$
 
-$$68 = 5.0 + a(15)$$
+$$12 = v_i + a(3.0)$$
 
-$$68 = 5.0 + a(15)$$
+$$d = v_it + \frac {1}{2}at^2$$
 
-$$a = \frac {v-u}{t}$$
 
-$$a = \frac {68-5.0}{15}$$
+$$60 = v_i(3.0) + \frac {1}{2}a(3.0)^2$$
 
-$$a = \frac {63.0}{15}$$
-
-$$a = 4.2$$
-
-$$68 = 5.0 + (4.2)(15)$$
-
-$$s = ut + \frac {1}{2}at^2$$
-
-$$s = (5.0)(15) + \frac {1}{2}(4.2)(15)^2$$
-
-$$s = 75 + 472.5$$
-
-$$s = 547.5$$
+$$60 = 3v_i + -4.5a$$
 
 
 
+a car traveling along a highway must uniformly reduce its speed to 12m/s in
+3.0 s. It travels 60 m during that time.
 
-An object originally travelling at 5.0 m/s accelerates uniformly for 15 seconds. If
-the speed of this object is 68 m/s after this time interval, how far did it travel
-during the 15-second acceleration period?
+inital velocity
