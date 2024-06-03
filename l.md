@@ -13,6 +13,20 @@ $$v_i = 12 + 3a$$
 
 $$60 = 3(12 + 3a)  -4.5a$$
 
+$$60 = 36 + 9a  -4.5a$$
+
+$$24 = 9a  -4.5a$$
+
+$$24 = 4.5a$$
+
+$$24 = 4.5a$$
+
+$$a = \frac {24}{4.5}$$
+
+$$a = 5.33 m/s^2$$
+
+
+
 
 
 a car traveling along a highway must uniformly reduce its speed to 12m/s in
