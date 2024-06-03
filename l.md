@@ -6,6 +6,10 @@ $$56 = \frac {1}{2}(3.5)t^2$$
 
 $$56 = (1.75)t^2$$
 
+$$\frac {56}{1.75} = t^2$$
+
+
+
 
 
 An object starting from rest accelerates at a rate of 3.5 m/s2. How long does it
