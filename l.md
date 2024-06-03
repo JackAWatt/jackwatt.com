@@ -1,24 +1,20 @@
-$$s = ut + \frac {1}{2}at^2$$
+$$v = u + at$$
 
-$$56 = 0 + \frac {1}{2}(3.5)t^2$$
+$$68 = 5.0 + a(15)$$
 
-$$56 = \frac {1}{2}(3.5)t^2$$
+$$68 = 5.0 + a(15)$$
 
-$$56 = (1.75)t^2$$
+$a = \frac {v-u}{t}$
 
-$$\frac {56}{1.75} = t^2$$
+$a = \frac {68-5.0}{15}$
 
-$$32 = t^2$$
+$a = \frac {63.0}{15}$
 
-$$t = \sqrt{32}$$
-
-$$t = 5.6568542495$$
-
-$$t = 5.7 \text {seconds}$$
+$a = 4.2$
 
 
 
 
-
-An object starting from rest accelerates at a rate of 3.5 m/s2. How long does it
-take for the object to travel 56 metres? 
+An object originally travelling at 5.0 m/s accelerates uniformly for 15 seconds. If
+the speed of this object is 68 m/s after this time interval, how far did it travel
+during the 15-second acceleration period?
