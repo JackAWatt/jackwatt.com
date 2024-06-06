@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/06
+
+* [How I would learn Leetcode if I could start over](https://youtu.be/aHZW7TuY_yo) - NeetCodeIO
+
 #### 2024/06/01
 
 * [Duell Chemistry](https://youtu.be/zUtIrO3fUgg)
