@@ -10,7 +10,7 @@
 
 * $t$ is the time the object is in free fall
 
-###For a stone dropped rest:
+### For a stone dropped rest:
 
 * $v_i = 9 m/s$ (initial velocity is zero because it is dropped, not thrown)
 
