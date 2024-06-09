@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/09
+
+* [Introduction to Free-Fall and the Acceleration due to Gravity](https://youtu.be/vyvDzI22sOE)
+
 #### 2024/06/06
 
 * [How I would learn Leetcode if I could start over](https://youtu.be/aHZW7TuY_yo) - NeetCodeIO
