@@ -4,6 +4,8 @@
 
 #### 2024/06/09
 
+* [Covalent Network Solids](https://youtu.be/PU9rzTjLyb4)
+
 * [Introduction to Free-Fall and the Acceleration due to Gravity](https://youtu.be/vyvDzI22sOE)
 
 #### 2024/06/06
