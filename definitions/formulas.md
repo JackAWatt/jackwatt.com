@@ -6,4 +6,4 @@
 
 * $v_i$ is the initial velocity
 
-* $a$ is the acceleration due to gravity($9.8m/s^2)
+* $a$ is the acceleration due to gravity($9.8m/s^2$)
