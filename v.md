@@ -4,6 +4,8 @@
 
 #### 2024/06/13
 
+* ["Why Does ADHD Make Me Feel Drained?" ](https://youtu.be/SjB11PaK5ak) - HealthyGamerGG
+
 * [Psychiatrist Tells The Truth About Adderall & ADHD Meds](https://youtu.be/4PTl27tTmfY) - HealthyGamerGG
 
 * [6 experiences unique to autistic adults](https://youtu.be/CSHx3OUkV40) - Autism BC
