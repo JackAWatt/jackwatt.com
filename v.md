@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/13
+
+* [6 experiences unique to autistic adults](https://youtu.be/CSHx3OUkV40)
+
 #### 2024/06/11
 
 * [Why How I Met Your Mother is better than Friends](https://youtu.be/QrBP2Xax_gM) - Kross
