@@ -2,7 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+
 #### 2024/06/13
+
+* [How to Start Gamedev in 2024](https://youtu.be/gFSJhSy9ofk) - Sasquatch B Studios
 
 * ["Why Does ADHD Make Me Feel Drained?" ](https://youtu.be/SjB11PaK5ak) - HealthyGamerGG
 
