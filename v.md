@@ -2,6 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/15
+
+* [Why Einstein is a “peerless genius” and Hawking is an “ordinary genius” / Albert-László Barabás](https://youtu.be/XsBcdfKfy9o) - Big Think
 
 #### 2024/06/13
 
