@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/16
+
+* [Molecular Shape and Polarity: How to determine whether a molecule will be polar or nonpolar](https://youtu.be/1q0IdL5YbaQ) - Chemin10
+
 #### 2024/06/15
 
 * [Why Einstein is a “peerless genius” and Hawking is an “ordinary genius” / Albert-László Barabás](https://youtu.be/XsBcdfKfy9o) - Big Think
