@@ -98,6 +98,8 @@
 
 * [Your First 2D GAME - Day 1 Beginner Tutorial](https://youtu.be/QplEeEAJxck) - Sasquatch B Studios
 
+* [Roadmap to becoming a gamedev in 2024](https://youtu.be/6cU3ru8NSWQ) - BiteMe Games 
+
 ##### Free Books
 
 * [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
