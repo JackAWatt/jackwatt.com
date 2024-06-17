@@ -4,6 +4,8 @@
 
 #### 2024/06/17
 
+* [How my ADHD hides my autism](https://youtu.be/5jD4iU2_v4k) - Yo Samdy Sam 
+
 * [PDA Autism Explained: A Closer Look at 'Pathological Demand Avoidance'](https://youtu.be/qS2CpboridA) - paige layle
 
 * [Why Sh*t Life Syndrome is Holding You Back](https://youtu.be/QuPbUkDe9iQ) -  HealthyGamerGG
