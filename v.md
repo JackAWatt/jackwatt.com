@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/17
+
+* [Why Sh*t Life Syndrome is Holding You Back](https://youtu.be/QuPbUkDe9iQ) -  HealthyGamerGG
+
 #### 2024/06/16
 
 * [Molecular Shape and Polarity: How to determine whether a molecule will be polar or nonpolar](https://youtu.be/1q0IdL5YbaQ) - Chemin10
