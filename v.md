@@ -4,6 +4,9 @@
 
 #### 2024/06/17
 
+* [Scams In Software Engineering](https://youtu.be/2UvHiH7zJLU) - ThePrimeTime
+
+
 * [How my AUTISM hides my ADHD](https://youtu.be/nJ8fAfVevL8) - Yo Samdy Sam
 
 * [How my ADHD hides my autism](https://youtu.be/5jD4iU2_v4k) - Yo Samdy Sam 
