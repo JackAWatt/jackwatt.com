@@ -4,6 +4,8 @@
 
 #### 2024/06/17
 
+* [PDA Autism Explained: A Closer Look at 'Pathological Demand Avoidance'](https://youtu.be/qS2CpboridA) - paige layle
+
 * [Why Sh*t Life Syndrome is Holding You Back](https://youtu.be/QuPbUkDe9iQ) -  HealthyGamerGG
 
 #### 2024/06/16
