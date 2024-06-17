@@ -4,8 +4,9 @@
 
 #### 2024/06/17
 
-* [Scams In Software Engineering](https://youtu.be/2UvHiH7zJLU) - ThePrimeTime
+* [How Much Memory for 1,000,000 Threads in 7 Languages | Go, Rust, C#, Elixir, Java, Node, Python](https://youtu.be/WjKQQAFwrR4) - ThePrimeTime
 
+* [Scams In Software Engineering](https://youtu.be/2UvHiH7zJLU) - ThePrimeTime
 
 * [How my AUTISM hides my ADHD](https://youtu.be/nJ8fAfVevL8) - Yo Samdy Sam
 
