@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/18
+
+* [Firing Our Top Talent Was The Best Decision Ever | Prime Reacts](https://youtu.be/X0BqpiXIbW8) - ThePrimeTime
+
 #### 2024/06/17
 
 * [They got away with this?? - Ft. PirateSoftware](https://youtu.be/KGQSTDm5ois) - ThePrimeTime
