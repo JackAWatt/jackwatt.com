@@ -4,7 +4,10 @@
 
 #### 2024/06/18
 
-* [Firing Our Top Talent Was The Best Decision Ever | Prime Reacts](https://youtu.be/X0BqpiXIbW8) - ThePrimeTime
+* [Functional Programming IS NO BETTER than Object Oriented Programming / Prime Reacts](https://youtu.be/FjfgIImzhxc) - ThePrimeTime
+
+
+* [Firing Our Top Talent Was The Best Decision Ever / Prime Reacts](https://youtu.be/X0BqpiXIbW8) - ThePrimeTime
 
 #### 2024/06/17
 
@@ -12,7 +15,7 @@
 
 * [Michael Nielsen on Collaboration, Quantum Computing, and Civilization's Fragility](https://youtu.be/f4CoSJtVWxA?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W) - Conversations With Tyler
 
-* [How Much Memory for 1,000,000 Threads in 7 Languages | Go, Rust, C#, Elixir, Java, Node, Python](https://youtu.be/WjKQQAFwrR4) - ThePrimeTime
+* [How Much Memory for 1,000,000 Threads in 7 Languages / Go, Rust, C#, Elixir, Java, Node, Python](https://youtu.be/WjKQQAFwrR4) - ThePrimeTime
 
 * [Scams In Software Engineering](https://youtu.be/2UvHiH7zJLU) - ThePrimeTime
 
