@@ -4,8 +4,9 @@
 
 #### 2024/06/20
 
-* [Terraforming Mars with Neil deGrasse Tyson](https://youtu.be/7XdkKMhAdnA?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
+* [Neil deGrasse Tyson Explains the Physics of Collisions](https://youtu.be/E8URlWsXR_Q) - StarTalk
 
+* [Terraforming Mars with Neil deGrasse Tyson](https://youtu.be/7XdkKMhAdnA?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
 
 * [Neil deGrasse Tyson Explains The Three-Body Problem](https://youtu.be/6GfIDwwxfsM?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
 
