@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/20
+
+* [My Response to Terrence Howard](https://youtu.be/1uLi1I3G2N4) - StarTalk
+
 #### 2024/06/18
 
 * [Functional Programming IS NO BETTER than Object Oriented Programming / Prime Reacts](https://youtu.be/FjfgIImzhxc) - ThePrimeTime
