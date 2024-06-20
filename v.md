@@ -4,6 +4,9 @@
 
 #### 2024/06/20
 
+* [Why Objects of Different Mass Fall at The Same Rate](https://youtu.be/XrJzUqX520k?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
+
+
 * [Did Scientists Discover Alien Mega-Structures?](https://youtu.be/ZSnA2FdDYfk) - StarTalk
 
 * [AI, Love and Violation; and the power of small data](https://youtu.be/n-vs6HytCjc) - TheSkepticsGuide
