@@ -4,6 +4,8 @@
 
 #### 2024/06/20
 
+* [Did Scientists Discover Alien Mega-Structures?](https://youtu.be/ZSnA2FdDYfk) - StarTalk
+
 * [AI, Love and Violation; and the power of small data](https://youtu.be/n-vs6HytCjc) - TheSkepticsGuide
 
 * [My Response to Terrence Howard](https://youtu.be/1uLi1I3G2N4) - StarTalk
