@@ -4,6 +4,8 @@
 
 #### 2024/06/20
 
+* [AI, Love and Violation; and the power of small data](https://youtu.be/n-vs6HytCjc) - TheSkepticsGuide
+
 * [My Response to Terrence Howard](https://youtu.be/1uLi1I3G2N4) - StarTalk
 
 #### 2024/06/18
