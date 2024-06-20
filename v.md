@@ -4,8 +4,10 @@
 
 #### 2024/06/20
 
-* [Neil deGrasse Tyson Explains The Three-Body Problem](https://youtu.be/6GfIDwwxfsM?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
+* [Terraforming Mars with Neil deGrasse Tyson](https://youtu.be/7XdkKMhAdnA?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
 
+
+* [Neil deGrasse Tyson Explains The Three-Body Problem](https://youtu.be/6GfIDwwxfsM?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
 
 * [Why Objects of Different Mass Fall at The Same Rate](https://youtu.be/XrJzUqX520k?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
 
