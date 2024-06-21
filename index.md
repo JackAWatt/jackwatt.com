@@ -23,6 +23,7 @@
 * [Meta Front End Developer Professional](https://www.coursera.org/professional-certificates/meta-front-end-developer) - Coursera
 * [Mathigon - The Mathematical Playground](https://mathigon.org/)
 * [75 LeetCode Algorithm and Data Structures problems](https://www.techinterviewhandbook.org/grind75)
+* Category Theory for Programmers - [videos](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM) - [website](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
