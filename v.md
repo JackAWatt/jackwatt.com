@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/22
+
+* [Astrophysicists Explore Space, Time, & The Insides of Atoms](https://youtu.be/PHl_C3ByRDk) - StarTalk
+
 #### 2024/06/21
 
 * [Neil deGrasse Tyson Explains the Physics of Collisions](https://youtu.be/E8URlWsXR_Q) - StarTalk
