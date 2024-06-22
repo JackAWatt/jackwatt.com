@@ -2,9 +2,14 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
-#### 2024/06/20
+#### 2024/06/21
 
 * [Neil deGrasse Tyson Explains the Physics of Collisions](https://youtu.be/E8URlWsXR_Q) - StarTalk
+
+* * [This Insane New Glitch Just BROKE Castlevania!](https://youtu.be/-BJbse1395Y) -  Karl Jobst
+
+
+#### 2024/06/20
 
 * [Terraforming Mars with Neil deGrasse Tyson](https://youtu.be/7XdkKMhAdnA?list=TLPQMjAwNjIwMjThog8SR8yJRw) - StarTalk
 
