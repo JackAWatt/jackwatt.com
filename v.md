@@ -6,7 +6,7 @@
 
 * [Neil deGrasse Tyson Explains the Physics of Collisions](https://youtu.be/E8URlWsXR_Q) - StarTalk
 
-* * [This Insane New Glitch Just BROKE Castlevania!](https://youtu.be/-BJbse1395Y) -  Karl Jobst
+* [This Insane New Glitch Just BROKE Castlevania!](https://youtu.be/-BJbse1395Y) -  Karl Jobst
 
 
 #### 2024/06/20
