@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Elements and atomic number](https://youtu.be/OQi8FwPSu5o) - KhanAcademy
+
 * [Protons, neutrons, and electrons in atoms](https://youtu.be/lz_gMkQr7YE) - KhanAcademy
 
 #### 2024/06/23
