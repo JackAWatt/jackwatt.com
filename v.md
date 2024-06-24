@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Worked example: using the mass number equation](https://youtu.be/T9UH12HdFdo) - KhanAcademy
+
 * [Isotopes](https://youtu.be/HDniYwGEl0o) - KhanAcademy
 
 * [Elements and atomic number](https://youtu.be/OQi8FwPSu5o) - KhanAcademy
