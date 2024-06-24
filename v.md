@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Terrance Howard Is A Genius!](https://youtu.be/hIkMs10nHl0) - ThePrimeTime
+
 * [Worked example: using the mass number equation](https://youtu.be/T9UH12HdFdo) - KhanAcademy
 
 * [Isotopes](https://youtu.be/HDniYwGEl0o) - KhanAcademy
