@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* [Terryology is A JOKE! I Proved Terrence Howard WRONG](https://youtu.be/SE29-6vfX1Q) - Metatron
+
 * [Terrance Howard Is A Genius!](https://youtu.be/hIkMs10nHl0) - ThePrimeTime
 
 * [Worked example: using the mass number equation](https://youtu.be/T9UH12HdFdo) - KhanAcademy
