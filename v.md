@@ -4,6 +4,8 @@
 
 #### 2024/06/24
 
+* ["I Can Rebuild Saturn Without Gravity" - Terrance Howard & Joe Rogan](https://youtu.be/FWXlLNqkJls) - JRE Moments
+
 * [Terrence Howard Is Insane From Professor Dave - Luke Reacts](https://youtu.be/WMg6xRkGoHg) - Luke Stephens LIVE
 
 * [Terryology is A JOKE! I Proved Terrence Howard WRONG](https://youtu.be/SE29-6vfX1Q) - Metatron
