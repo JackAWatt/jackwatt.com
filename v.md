@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/24
+
+* [Protons, neutrons, and electrons in atoms](https://youtu.be/lz_gMkQr7YE) - KhanAcademy
+
 #### 2024/06/23
 
 * [We Need To Stop Lying About Git](https://youtu.be/Yi5Y2_r0t9Y) -  Theo - t3․gg
