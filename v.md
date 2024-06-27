@@ -2,6 +2,16 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/27
+
+* [The 31 Seconds That Destroyed Paddy Pimblett's Career](https://youtu.be/bx5aQDtvCVg) - SunnyV2
+
+#### 2024/06/26
+
+* [ TeaTime: JANTHIR WILDS - With ‪@emidotexe‬, ‪@NikeDnT‬ and ‪@Laranity‬! ](https://youtu.be/XFvvw_r5-yw) - MightyTeapot
+
+* [ TeaTime RETURNS: Secrets Of The Obscure Retrospective - With ‪@Laranity‬ ,‪@Snebzor‬ And ‪@NikeDnT‬! ](https://youtu.be/mqfLg8_WXwo) - MightyTeapot
+
 #### 2024/06/24
 
 * ["I Can Rebuild Saturn Without Gravity" - Terrance Howard & Joe Rogan](https://youtu.be/FWXlLNqkJls) - JRE Moments
