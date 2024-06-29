@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/29
+
+* [ AP Physics - Atwood Machines ](https://youtu.be/a0KVxh8iPP4) - Dan Fullerton
+
+
 #### 2024/06/27
 
 * [The 31 Seconds That Destroyed Paddy Pimblett's Career](https://youtu.be/bx5aQDtvCVg) - SunnyV2
