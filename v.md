@@ -4,6 +4,8 @@
 
 #### 2024/06/30
 
+* [Newton's 2nd Law (1 of 21) Calculate Acceleration w/o Friction, Net Force Horizontal](https://youtu.be/CpBRPgIQrmI) - Step by Step Science
+
 * [Newton's 2nd Law (11 of 21) Calculating Acceleration with Friction; Table, Pulley, Two Masses](https://youtu.be/SBRyluYjqxY) - Step by Step Science
 
 * [Newton's 2nd Law (10 of 21) Calculate Acceleration w/o Friction; Table, Pulley, Two Masses](https://youtu.be/uqjTCDNvfBE) - Step by Step Science
