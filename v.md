@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/06/30
+
+* [Newton's 2nd Law (10 of 21) Calculate Acceleration w/o Friction; Table, Pulley, Two Masses](https://youtu.be/uqjTCDNvfBE) - Step by Step Science
+
 #### 2024/06/29
 
 * [ AP Physics - Atwood Machines ](https://youtu.be/a0KVxh8iPP4) - Dan Fullerton
