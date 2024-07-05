@@ -2,6 +2,14 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/05
+
+* [Brian Keating's Into The Impossible Podcast](https://youtu.be/Et5Ripimfs8) - Brian Keating's Into The Impossible Podcast
+
+#### 2024/07/02
+
+* [ Joe Rogan Experience #2171 - Eric Weinstein & Terrence Howard ](https://www.youtube.com/watch?v=nrOaFxNex7U) -  The Joe Rogan Experience
+
 #### 2024/06/30
 
 * [Newton's 2nd Law (1 of 21) Calculate Acceleration w/o Friction, Net Force Horizontal](https://youtu.be/CpBRPgIQrmI) - Step by Step Science
