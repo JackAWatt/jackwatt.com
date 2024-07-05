@@ -4,6 +4,8 @@
 
 #### 2024/07/05
 
+* [Neil deGrasse Tyson and Richard Dawkins Discuss Science, Religion & Evolution](https://www.youtube.com/watch?v=KPh0LOCWT5A) - StarTalk
+
 * [Brian Keating's Into The Impossible Podcast](https://youtu.be/Et5Ripimfs8) - Brian Keating's Into The Impossible Podcast
 
 #### 2024/07/02
