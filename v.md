@@ -2,6 +2,13 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/07
+
+* [How Dana White Built the UFC](https://youtu.be/-cflE6ynf2c) - Lionel Rivera
+
+* [Why Joe Rogan Made Us All UFC Fans](https://youtu.be/fqhO_ThIghQ) - Lionel Rivera
+
+
 #### 2024/07/05
 
 * [Neil deGrasse Tyson and Richard Dawkins Discuss Science, Religion & Evolution](https://www.youtube.com/watch?v=KPh0LOCWT5A) - StarTalk
