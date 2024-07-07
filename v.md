@@ -27,6 +27,8 @@
 
 * [ Joe Rogan Experience #2171 - Eric Weinstein & Terrence Howard ](https://www.youtube.com/watch?v=nrOaFxNex7U) -  The Joe Rogan Experience
 
+* [René Girard, Mimesis, and Conflict (with Cynthia Haven)](https://youtu.be/Fa-tdNgvElo) - EconTalk
+
 #### 2024/06/30
 
 * [Newton's 2nd Law (1 of 21) Calculate Acceleration w/o Friction, Net Force Horizontal](https://youtu.be/CpBRPgIQrmI) - Step by Step Science
