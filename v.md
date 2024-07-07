@@ -14,6 +14,8 @@
  
 * [The Most CONTROVERSIAL UFC Moments - Part 2](https://youtu.be/ZXmrmxCYQD0) - All Things MMA
 
+* [Joseph Stiglitz on Pioneering Economic Theories, Policy Challenges, & His Intellectual Legacy](https://youtu.be/dFTaS1HbgWU) - Conversations With Tyler
+
 
 #### 2024/07/05
 
