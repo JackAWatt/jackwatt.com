@@ -4,6 +4,8 @@
 
 #### 2024/07/07
 
+* [The Most CONTROVERSIAL UFC Moments](https://youtu.be/nobujeADozI) - All Things MMA
+
 * [How Dana White Built the UFC](https://youtu.be/-cflE6ynf2c) - Lionel Rivera
 
 * [Why Joe Rogan Made Us All UFC Fans](https://youtu.be/fqhO_ThIghQ) - Lionel Rivera
