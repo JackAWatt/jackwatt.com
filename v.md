@@ -2250,6 +2250,34 @@
 
 * [Skeptics Guide #842](https://open.spotify.com/episode/1Zu4FJvaGyfMrlrCZ8DBWK?si=241f71556b654985) - The Skeptics' Guide to the Universe
 
+#### 2021/08/28
+
+* [Does “As If” Thinking Really Work?](https://youtu.be/7zD0scsjQAU) - No Stupid Questions
+
+* [Scott Berkun - Big Ideas for Curious Minds](https://open.spotify.com/episode/5Ns5joeFIoizCQQZ7h3BZT?si=bba203ba76524eb4) - The Learning Leader Show
+
+* [David Pizarro enters Weinstein World!](https://youtu.be/UiUSl6QUl2M) - Decoding the Gurus
+
+#### 2021/08/26
+
+* [Barry Schwartz - The Paradox of Choice](https://open.spotify.com/episode/4CXo2WLNmGFcPRn17NVr2B) - The Learning Leader Show
+
+#### 2021/08/25
+
+* [Robert Burton on Being Certain](https://youtu.be/i4l7Y07LnmY) - EconTalk
+
+#### 2021/08/24
+
+* [Paul Offit: The Fate of Science in an Age of Darkness](https://open.spotify.com/episode/5vPIlZ9vY58qVkqIcpkH1q) - Point of Inquiry
+
+* [Adam Conover and Tim Caulified on The Algorithm, Gwyneth Paltrow, Netflix and more](https://open.spotify.com/episode/30pEEI3OmfudPmJybnRo3S) - Point of Inquiry
+
+* [James Altucher and Brian Keating: Stop using these 3 Lazy Words!](https://open.spotify.com/episode/4USIXptBOchvEfw47ZfBW9) - Into the Impossible With Brian Keating
+
+
+
+
+
 #### ???? - these are videos and podcasts from before I started this list. 
 
 * [Lydia Davis on Language and Literature / Conversations with Tyler](https://youtu.be/1cTvW8h8Tas)
