@@ -2280,6 +2280,30 @@
 
 * [Michael Heller and James Salzman on Mine!](https://youtu.be/ABS99ljviFc) - EconTalk
 
+#### 2021/08/22
+
+* [Biggest Bluff w/ Maria Konnikova](https://youtu.be/K4U_FXV5leg) - Talk Nerdy with Cara Santa Maria
+
+* [Russ Roberts - A Guide To Human Nature & Happiness](https://open.spotify.com/episode/1ybLTxW05erKSAYKWP8HU5) - The Learning Leader Show With Ryan Hawk
+
+#### 2021/08/21
+
+* [Steven Strogatz - How Calculus Reveals The Secrets Of The Universe](https://open.spotify.com/episode/4QvM7GsXIE8QdvhlxTXcgn) - The Learning Leader Show With Ryan Hawk
+
+#### 2021/08/19
+
+* [Carol Dweck - The Power Of A Growth Mindset](https://open.spotify.com/episode/6uD0Y06ksllgGmMn7OoVz4) - The Learning Leader Show With Ryan Hawk
+
+* [Greg McKeown – Essentialism: The Discipline Of Saying No](https://open.spotify.com/episode/1NwsjJSci59DQ8Z7GCym7K) - The Learning Leader Show With Ryan Hawk
+
+* [Neurochemistry w/ Ginny Smith](https://youtu.be/uDzavRsBXzc) - Talk Nerdy with Cara Santa Maria
+
+#### 2021/08/18
+
+* [Bruce Schneier on Power, the Internet, and Security](https://youtu.be/f35RH2v1s2o) - EconTalk
+
+* [Banachek - From the Inside of Being a Mentalist](https://open.spotify.com/episode/0x8MWzI0vUoXxHdYiB06KD) - Point of Inquiry
+
 #### ???? - these are videos and podcasts from before I started this list. 
 
 * [Lydia Davis on Language and Literature / Conversations with Tyler](https://youtu.be/1cTvW8h8Tas)
