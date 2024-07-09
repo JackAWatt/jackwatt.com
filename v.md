@@ -2304,6 +2304,18 @@
 
 * [Banachek - From the Inside of Being a Mentalist](https://open.spotify.com/episode/0x8MWzI0vUoXxHdYiB06KD) - Point of Inquiry
 
+#### 2021/08/13
+
+* [Special Episode: Interview with Robert Wright on crackpots, gurus, and modern media ecosystems](https://open.spotify.com/episode/3TcEz89aywDWrfcFjyUVd7) - Decoding the Gurus
+
+#### 2021/08/12
+
+* [741 - You can't just be something, You have to do something! with Brandon Webb](https://open.spotify.com/episode/3VLEX5qgWRmJxg89dLuwpn) - The James Altucher Show
+
+#### 2021/08/10
+
+* [Geometry w/ Jordan Ellenberg](https://youtu.be/Iv-vqIXrIi4) - Talk Nerdy with Cara Santa Maria
+
 #### ???? - these are videos and podcasts from before I started this list. 
 
 * [Lydia Davis on Language and Literature / Conversations with Tyler](https://youtu.be/1cTvW8h8Tas)
