@@ -2274,9 +2274,11 @@
 
 * [James Altucher and Brian Keating: Stop using these 3 Lazy Words!](https://open.spotify.com/episode/4USIXptBOchvEfw47ZfBW9) - Into the Impossible With Brian Keating
 
+#### 2021/08/23
 
+* [Evidence-Based Parenting w/ Erin Clabough](https://youtu.be/EI01bHdYpeQ) - Talk Nerdy with Cara Santa Maria
 
-
+* [Michael Heller and James Salzman on Mine!](https://youtu.be/ABS99ljviFc) - EconTalk
 
 #### ???? - these are videos and podcasts from before I started this list. 
 
