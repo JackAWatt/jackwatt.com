@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/09
+
+* [Average atomic mass](https://youtu.be/YsqoF3hqdkg) - KhanAcdaemy
+
 #### 2024/07/07
 
 * [The Most CONTROVERSIAL UFC Moments](https://youtu.be/nobujeADozI) - All Things MMA
