@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/10
+
+* [Eric Weinstein schools Terrence Howard in the subtle art of Guru-osity](https://www.youtube.com/watch?v=zUVODeunZvM) - Decoding the Gurus
+
 #### 2024/07/09
 
 * [Average atomic mass](https://youtu.be/YsqoF3hqdkg) - KhanAcdaemy
