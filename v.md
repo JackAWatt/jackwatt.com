@@ -4,6 +4,8 @@
 
 #### 2024/07/10
 
+* [A Masterclass in Grievance Mongering: Graham Hancock vs. Flint Dibble](https://youtu.be/MM7te2l-o6A) - Decoding the Gurus
+
 * [Eric Weinstein schools Terrence Howard in the subtle art of Guru-osity](https://www.youtube.com/watch?v=zUVODeunZvM) - Decoding the Gurus
 
 #### 2024/07/09
