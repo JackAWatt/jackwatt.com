@@ -2,6 +2,12 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/11
+
+* [Bret Weinstein & Jordan Peterson: Heroes and Martyrs](https://youtu.be/2mqVd5e35d4?list=TLPQMTEwNzIwMjTDzxNIR8leeA) - Decoding the Gurus
+
+* [Interview with Flint Dibble on Pseudo Archaeology, the Hancock Debate and Science Communication](https://youtu.be/E-MpPRoT2v4) - Decoding the Gurus
+
 #### 2024/07/10
 
 * [A Masterclass in Grievance Mongering: Graham Hancock vs. Flint Dibble](https://youtu.be/MM7te2l-o6A) - Decoding the Gurus
