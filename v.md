@@ -2,6 +2,13 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/16
+
+* [The Gurometer of Destiny](https://youtu.be/FUvipVJbZ_0) - Decoding the Gurus
+
+#### 2024/07/15
+* [Reading, Writing, and Fighting (with Mark Helprin)](https://youtu.be/3qjgTHuA2B8) - EconTalk
+
 #### 2024/07/11
 
 * [Bret Weinstein & Jordan Peterson: Heroes and Martyrs](https://youtu.be/2mqVd5e35d4?list=TLPQMTEwNzIwMjTDzxNIR8leeA) - Decoding the Gurus
