@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/18
+
+* [Why Is Cultural Christianity On The Rise? - Alex O’Connor](https://youtu.be/XaRj1B05jyg) - Modern Wisdom
+
 #### 2024/07/16
 
 * [The Gurometer of Destiny](https://youtu.be/FUvipVJbZ_0) - Decoding the Gurus
