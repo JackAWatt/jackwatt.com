@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/19
+
+* [Chemical Reaction (5 of 11) Synthesis Reactions, an Explanation](https://youtu.be/MhlWTZwDHM8) - Step by Step Science
+
 #### 2024/07/18
 
 * [Why Is Cultural Christianity On The Rise? - Alex O’Connor](https://youtu.be/XaRj1B05jyg) - Modern Wisdom
