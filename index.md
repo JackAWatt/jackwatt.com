@@ -110,7 +110,9 @@
 ##### Books
   
 * [All of my To-Read Lists](http://jackwatt.com/books) - Updated
-* [Books I Might Read in 2023](http://jackwatt.com/2023reading)
+* [2024 book list](http://jackwatt.com/2024)
+* [2023 book list](http://jackwatt.com/2023)
+* [2021 book list](http://jackwatt.com/2021)
 * [Philosophy and Literature Reading Program](http://jackwatt.com/lit) - A list of 147 books in chronological order
 
 
