@@ -4,6 +4,8 @@
 
 #### 2024/07/19
 
+* [Chemical Reactions (4 of 11) Decomposition Reactions, An Explanation](https://youtu.be/1ocQhkHw_MM) - Step by Step Science
+
 * [Chemical Reaction (5 of 11) Synthesis Reactions, an Explanation](https://youtu.be/MhlWTZwDHM8) - Step by Step Science
 
 #### 2024/07/18
