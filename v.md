@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/20
+
+* [Chemical Reactions (1 of 11) Double Replacement Reactions, An Explanation](https://youtu.be/7hVKb4ROjZw) - Step by Step Science
+
 #### 2024/07/19
 
 * [The Hidden Force That Secretly Controls Your Life - Brian Klaas](https://youtu.be/-mRc2t4V9y0) - Modern Wisdom
