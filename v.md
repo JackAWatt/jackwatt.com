@@ -4,6 +4,8 @@
 
 #### 2024/07/20
 
+* [Yuval Harari and the Angry Philosophers](https://youtu.be/Y_ogKQsvy2E) - Decoding the Gurus
+
 * [Explain, in detail, how to recognize a combustion reaction.](https://youtu.be/sgHDzTH_GyU) - Step by Step Science
 
 * [Chemical Reactions (1 of 11) Double Replacement Reactions, An Explanation](https://youtu.be/7hVKb4ROjZw) - Step by Step Science
