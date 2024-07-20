@@ -4,6 +4,8 @@
 
 #### 2024/07/19
 
+* [The Hidden Force That Secretly Controls Your Life - Brian Klaas](https://youtu.be/-mRc2t4V9y0) - Modern Wisdom
+
 * [ Chemical Reactions (2 of 11) Single Replacement Reactions, An Explanation ](https://youtu.be/qhmTXdOKTBo) - Step by Step Science
 
 * [Chemical Reactions (4 of 11) Decomposition Reactions, An Explanation](https://youtu.be/1ocQhkHw_MM) - Step by Step Science
