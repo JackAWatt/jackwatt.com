@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/21
+
+* [Black Holes, Aliens & How The World Ends - Dr David Kipping](https://youtu.be/563NE60XD_0) - Modern Wisdom
+
 #### 2024/07/20
 
 * [Yuval Harari and the Angry Philosophers](https://youtu.be/Y_ogKQsvy2E) - Decoding the Gurus
