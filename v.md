@@ -4,6 +4,9 @@
 
 #### 2024/07/22
 
+* [Jordan Peterson DESTROYS his credibility... again!](https://youtu.be/pFi1Df6rtL4) - Rationality Rules
+
+
 * [#13 David Spergel - NASA UAP Taskforce, Dark Matter, Hubble Tension, Leadership](https://youtu.be/1ITqBkMnm4Y) - Cool Worlds Podcast
 
 #### 2024/07/21
