@@ -2,7 +2,13 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/22
+
+* [#13 David Spergel - NASA UAP Taskforce, Dark Matter, Hubble Tension, Leadership](https://youtu.be/1ITqBkMnm4Y) - Cool Worlds Podcast
+
 #### 2024/07/21
+
+* [#1 Rebecca Charbonneau - Astrohistory, Carl Sagan, Cold War SETI](https://youtu.be/ww82JLAhcyo) - Cool Worlds Podcast
 
 * [Black Holes, Aliens & How The World Ends - Dr David Kipping](https://youtu.be/563NE60XD_0) - Modern Wisdom
 
