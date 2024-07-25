@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/07/25
+
+* [Transverse and Longitudinal Waves](https://youtu.be/pqJzn8Y1HFw) - Bozeman Science
+
 #### 2024/07/22
 
 * [Jordan Peterson DESTROYS his credibility... again!](https://youtu.be/pFi1Df6rtL4) - Rationality Rules
