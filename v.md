@@ -4,6 +4,8 @@
 
 #### 2024/07/25
 
+* [Do This First Thing In The Morning, Watch What Happens - Andrew Huberman](https://youtu.be/t-ezOLT2Kv0) - Chris Williamson
+
 * [Transverse and Longitudinal Waves](https://youtu.be/pqJzn8Y1HFw) - Bozeman Science
 
 #### 2024/07/22
