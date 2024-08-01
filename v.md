@@ -2,6 +2,18 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/08/01
+
+* [All About HOMESTEADS In Janthir Wilds! - Homestead Essentials](https://youtu.be/wfGwixYTSS8) - MightyTeapot
+
+#### 2024/07/31
+
+* [OceanGate Is Worse Than You Thought](https://youtu.be/fCcgDQQQG4Q) - The Fool
+
+#### 2024/07/29
+
+* [I Worked For MrBeast, He's A Fraud | Asmongold Reacts](https://youtu.be/LNuzp9FDnhQ) - Asmongold TV 
+
 #### 2024/07/25
 
 * [Do This First Thing In The Morning, Watch What Happens - Andrew Huberman](https://youtu.be/t-ezOLT2Kv0) - Chris Williamson
