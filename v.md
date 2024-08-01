@@ -2,9 +2,15 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+
+
 #### 2024/08/01
 
 * [All About HOMESTEADS In Janthir Wilds! - Homestead Essentials](https://youtu.be/wfGwixYTSS8) - MightyTeapot
+
+* [ What you need to know about Kingsmarch - Settlers of Kalguur league mechanic - PoE #858 ](https://youtu.be/rWMY0ocg_cg) - Empyriangaming
+
+* [ We have never been this poor - An early end to group play - PoE #859 ](https://www.youtube.com/watch?v=vXC9aMrQjwc) - Empyriangaming
 
 #### 2024/07/31
 
