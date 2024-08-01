@@ -6,6 +6,8 @@
 
 #### 2024/08/01
 
+* [ When Penguinz0 'Cancels' Dumb People ](https://youtu.be/_Z3wAG2GcGM) - Ryan Pictures
+
 * [All About HOMESTEADS In Janthir Wilds! - Homestead Essentials](https://youtu.be/wfGwixYTSS8) - MightyTeapot
 
 * [ What you need to know about Kingsmarch - Settlers of Kalguur league mechanic - PoE #858 ](https://youtu.be/rWMY0ocg_cg) - Empyriangaming
