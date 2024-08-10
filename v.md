@@ -2,7 +2,17 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/08/10
 
+* [The Sith Lord who REFUSED to Die](https://youtu.be/iG5xJRtMQQA) - The Stupendous Wave
+
+* [ I farmed 467k gold in 1 hour with this cheap strat - PoE #867 ](https://youtu.be/ZpmYljB6zek) - Empyriangaming
+
+* [Why Yoda said Obi-Wan was the WORST choice to Train Anakin as a Jedi](https://youtu.be/e4Y33h8e_jI) - The Stupendous Wave
+
+* [Why the Eternal Twins are WAY More Powerful than You Realize](https://youtu.be/OhGI4GQKR1Y) - The Stupendous Wave
+
+* [Explaining WHY PoE Items are GOOD or BAD](https://youtu.be/Y0Vw2i-m2uc) - Zizaran
 
 #### 2024/08/01
 
