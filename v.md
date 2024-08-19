@@ -2,6 +2,15 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/08/19
+
+* [Why Darth Plagueis Absolutely HATED the RULE OF 2](https://youtu.be/xC1Yv-s5o80) - The Stupendous Wave
+
+* [ Why Yoda's Species Is SO POWERFUL | None Have Turned to the Dark Side ](https://youtu.be/-ygOodTUwjM) - The Stupendous Wave
+
+* [ Why Starkiller Made Darth Sidious Retire His Lightsaber PERMANENTLY - Star Wars Explained ](https://youtu.be/rRyqB428uR0) - The Stupendous Wave
+
+
 #### 2024/08/10
 
 * [The Sith Lord who REFUSED to Die](https://youtu.be/iG5xJRtMQQA) - The Stupendous Wave
