@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/08/20
+
+* [Why Killing Plagueis Made Palpatine Feel Profoundly Lonely and Scared](https://youtu.be/K1XTi5YDsk8) - The Stupendous Wave
+
 #### 2024/08/19
 
 * [Why Darth Plagueis Absolutely HATED the RULE OF 2](https://youtu.be/xC1Yv-s5o80) - The Stupendous Wave
