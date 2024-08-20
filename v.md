@@ -4,6 +4,8 @@
 
 #### 2024/08/20
 
+* [The ONLY Jedi Darth Maul Ever Respected (NOT Qui-Gon Jinn)](https://youtu.be/wLWnOiZn80Q) - The Stupendous Wave
+
 * [Why Killing Plagueis Made Palpatine Feel Profoundly Lonely and Scared](https://youtu.be/K1XTi5YDsk8) - The Stupendous Wave
 
 #### 2024/08/19
