@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/08/22
+
+* [From Garage To Glory - The Story of Grinding Gear Games](https://youtu.be/2DE1T5Bue2c) - Gavryn Gaming
+
 #### 2024/08/20
 
 * [The ONLY Jedi Darth Maul Ever Respected (NOT Qui-Gon Jinn)](https://youtu.be/wLWnOiZn80Q) - The Stupendous Wave
