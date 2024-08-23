@@ -1,25 +1,33 @@
-# 40
+# 41
 
-A 2.0 kg block and a 5.0 kg block are connected by a rope over a frictionless pulley as shown in the image. Find the tension of the cable and the acceleration of the system when released.
+A 2150 kg truck is travelling along a highway where the posted speed limit is 20 m/s. The driver fully applies the brakes and comes to a stop, leaving a skid mark 35 m long. The coefficient of friction between the tires and the road is 0.28. Using physics, determine if the driver was speeding before he slammed on his brakes. Show all work for full marks. 
 
-The acceleration of the system when released is 4.2 m/s^2 and the tension is 28.0 N
+The truck was truck was travelling at 13.86 m/s when it applied the brake, which is slower than the posted speed limit. The driver was not speeding. 
 
 {
 
-m1 = 2.0 kg
-m2 = 5.0 kg
-T = 28.0 N
-a = 4.2 m/s^2
+m = 2150 kg
 
-a = (m2*g - m1*g) / (m1 + m2)
+Fn = m * g
 
-a = (5.0 * 9.8 - 2.0 * 9.8) / (2 + 5)
-a = 29.4 / 7
-a = 4.2 m/s^2
+Fn = 2150 * 9.8 m/s^2
+Fn = 21070 N
 
-T = m1g + m1a
+Ff = μ * Fn
+Ff = 0.28 * 21070
+Ff = 5899.6 N
 
-T = 2.0 * 9.8 + 2.0 * 4.2
-T = 28 N
+Wf = Ff * d
+Wf = 5899.6 N * 35 m = 206486 J
+
+1/2*mv^2 = Wf
+
+1/2*mv^2 = 206486 J
+mv^2 = 2 * 206486
+v^2 = (2 * 206486) / 2150 kg
+v^2 = 192.08
+v = sqrt(192.08)
+v = 13.8592929113
+v = 13.86 m/s
 
 }
