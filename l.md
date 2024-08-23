@@ -1,46 +1,25 @@
-# 39
+# 40
 
-Two crates on a frictionless table are connected by a rope. A force of 6.4 N is applied as shown. Assuming a smooth frictionless surface, perform the two calculations below.
+A 2.0 kg block and a 5.0 kg block are connected by a rope over a frictionless pulley as shown in the image. Find the tension of the cable and the acceleration of the system when released.
 
- 
-
-a) Calculate the magnitude of the acceleration of the crates. (2 points)
-
-The acceleration of the crates is approximately 2.63 m/s^2
+The acceleration of the system when released is 4.2 m/s^2 and the tension is 28.0 N
 
 {
 
-f = 6.4 N
+m1 = 2.0 kg
+m2 = 5.0 kg
+T = 28.0 N
+a = 4.2 m/s^2
 
-m1 = 1.5 kg
+a = (m2*g - m1*g) / (m1 + m2)
 
-m2 = 0.93 kg
+a = (5.0 * 9.8 - 2.0 * 9.8) / (2 + 5)
+a = 29.4 / 7
+a = 4.2 m/s^2
 
-m_total = m1 + m2
-m_total = 1.5 kg + 0.93 kg
-m_total = 2.43 kg
+T = m1g + m1a
 
-F = ma
-a = F/m
-
-a = 6.4 N / 2.43 kg
-a = 2.6337448560
-
-a = 2.63 m/s^2
-
-}
-
-b) Calculate the magnitude of the tension, T, in the connecting rope. (2 points)
-
-The magnitude of the tension in the connecting rope is approximately 2.45 N
-
-{
-
-T = m2a
-T = 0.93 kg * 2.63 m/s^2
-
-T = 2.4459
-
-T = 2.45 N
+T = 2.0 * 9.8 + 2.0 * 4.2
+T = 28 N
 
 }
