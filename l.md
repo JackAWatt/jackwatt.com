@@ -1,35 +1,23 @@
-# 44
+# 45
 
-A 0.35-kg cart moving along a horizontal surface at 2.5 m/s collides head on with a spring that has a spring constant of 110 N/m. Calculate the maximum compression that the cart will produce in the spring. 
+A trombone reinforces a sound wave of frequency 87 Hz as its first harmonic
 
-The maximum compression that the cart will produce in the spring is 0.14 m
+(fundamental). This musical instrument functions as an air column open at both ends.  If the speed of sound is 338 m/s, what is the length of the pipe being used? (
+
+The length of the pipe is approximately 1.94 m
 
 {
 
-m = 0.35 kg
-v = 2.5 m/s
+v = 338 m/s
+f = 87 Hz
 
-KE = 1/2*mv^2
+λ = v/f
+λ = 338/87
+λ = 3.8850574713
 
-KE = 1/2*0.35 kg * 2.5 m/s^2
-KE = 1.09375 J
+L = λ/2
 
-Ep = 1/2*kx^2
-
-k = 110 N/m
-x = ?
-
-1/2*mv^2 = 1/2*kx^2
-
-mv^2 = kx^2
-
-x^2 = mv^2 / k
-x = sqrt(mv^2 / k)
-
-x = sqrt((0.35 * 2.5^2)/110)
-x = sqrt(0.0198863636)
-x = 0.1410190186
-x = 0.14 m
-
-
+L = 3.8850574713 / 2
+L = 1.9425287357
+L = 1.94 m
 }
