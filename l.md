@@ -1,28 +1,35 @@
-# 43
+# 44
 
-You wish to slide a puck up an icy frictionless incline. The puck has a mass of 500 g and the incline is 5.0 m high. What initial speed must you give the puck in order for it to just reach the top of the incline?
+A 0.35-kg cart moving along a horizontal surface at 2.5 m/s collides head on with a spring that has a spring constant of 110 N/m. Calculate the maximum compression that the cart will produce in the spring. 
 
-The initial speed of the puck must be 9.9 m/s for it to just reach the top of the incline. 
+The maximum compression that the cart will produce in the spring is 0.14 m
 
 {
 
-m = 500 g = 0.5 kg
-h = 5.0 m
-
-KE_i = PE_f
+m = 0.35 kg
+v = 2.5 m/s
 
 KE = 1/2*mv^2
-PE = mgh
 
+KE = 1/2*0.35 kg * 2.5 m/s^2
+KE = 1.09375 J
 
-1/2mv^2 = mgh
-1/2*v^2 = gh
-v^2 = 2gh
-v = sqrt(2gh)
+Ep = 1/2*kx^2
 
-v = sqrt(2 * 9.8 m/s^2 * 5.0 m)
-v = sqrt(98)
-v = 9.8994949366
-v = 9.9 m/s
+k = 110 N/m
+x = ?
+
+1/2*mv^2 = 1/2*kx^2
+
+mv^2 = kx^2
+
+x^2 = mv^2 / k
+x = sqrt(mv^2 / k)
+
+x = sqrt((0.35 * 2.5^2)/110)
+x = sqrt(0.0198863636)
+x = 0.1410190186
+x = 0.14 m
+
 
 }
