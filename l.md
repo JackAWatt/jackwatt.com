@@ -1,19 +1,5 @@
-A 200 kg crate is pushed horizontally with a force of 700 N. If the coefficient of friction is 0.20, calculate the acceleration of the crate. 
+# A plane with a speed of 12 m/s needs to reach a speed of 38 m/s for takeoff. If there is only 0.66 km of runway left:
 
-mass = 200 kg
+* a) at what rate must the plane uniformly accelerate?
 
-force = 700 N
-
-coefficient of friction = .2
-
-Fg = 200 * 9.8 = 1960
-
-Fnormal = Fg
-
-Ff = .2 * 1960 = 392
-
-Fnet = 700 - 392 = 308
-
-a = 308/200 = 1.54 m/s^2
-
-$t \frac {1}{7}$
+* b) how much time will it need for takeoff?
