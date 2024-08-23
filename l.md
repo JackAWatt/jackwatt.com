@@ -1,39 +1,46 @@
-### A plane with a speed of 12 m/s needs to reach a speed of 38 m/s for takeoff. If there is only 0.66 km of runway left:
+# 39
 
-* a) at what rate must the plane uniformly accelerate?
+Two crates on a frictionless table are connected by a rope. A force of 6.4 N is applied as shown. Assuming a smooth frictionless surface, perform the two calculations below.
 
-The plane must uniformly accelerate at 0.98 m/s^2
+ 
+
+a) Calculate the magnitude of the acceleration of the crates. (2 points)
+
+The acceleration of the crates is approximately 2.63 m/s^2
 
 {
 
-u = 12 m/s
-v = 38 m/s
-s = 0.66 km = 660 m
+f = 6.4 N
 
-v^2 = u^2 + 2as
+m1 = 1.5 kg
 
-a = (v^2 - u^2) / 2s
+m2 = 0.93 kg
 
-a = (38^2 - 12^2) / 2*660
+m_total = m1 + m2
+m_total = 1.5 kg + 0.93 kg
+m_total = 2.43 kg
 
-a = 0.9848484848
+F = ma
+a = F/m
 
-a = 0.98 m/s^2
+a = 6.4 N / 2.43 kg
+a = 2.6337448560
+
+a = 2.63 m/s^2
 
 }
-* b) how much time will it need for takeoff?
 
-The plane will need 26.4 seconds to takeoff. 
+b) Calculate the magnitude of the tension, T, in the connecting rope. (2 points)
+
+The magnitude of the tension in the connecting rope is approximately 2.45 N
 
 {
 
-v = u + at
+T = m2a
+T = 0.93 kg * 2.63 m/s^2
 
-t = (v - u) / a
+T = 2.4459
 
-t = (38 m/s - 12 m/s) /  0.9848484848
+T = 2.45 N
 
-t = 26.4000000013
-
-t = 26.4
 }
