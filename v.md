@@ -4,6 +4,8 @@
 
 #### 2024/08/22
 
+* [Why Revan was ALWAYS the Good Guy / EVEN AS A SITH](https://youtu.be/ucz0BsAPC5A) - The Stupendous Wave
+
 * [From Garage To Glory - The Story of Grinding Gear Games](https://youtu.be/2DE1T5Bue2c) - Gavryn Gaming
 
 #### 2024/08/20
