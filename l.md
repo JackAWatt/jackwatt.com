@@ -22,3 +22,18 @@ a = 0.98 m/s^2
 
 }
 * b) how much time will it need for takeoff?
+
+The plane will need 26.4 seconds to takeoff. 
+
+{
+
+v = u + at
+
+t = (v - u) / a
+
+t = (38 m/s - 12 m/s) /  0.9848484848
+
+t = 26.4000000013
+
+t = 26.4
+}
