@@ -5,6 +5,7 @@
 The plane must uniformly accelerate at 0.98 m/s^2
 
 {
+
 u = 12 m/s
 v = 38 m/s
 s = 0.66 km = 660 m
@@ -18,5 +19,6 @@ a = (38^2 - 12^2) / 2*660
 a = 0.9848484848
 
 a = 0.98 m/s^2
+
 }
 * b) how much time will it need for takeoff?
