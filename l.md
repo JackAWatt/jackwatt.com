@@ -1,21 +1,28 @@
-# 42
+# 43
 
- A 1450 kg car accelerates from 3.20 m/s to 6.50 m/s. Calculate the amount of work done.
+You wish to slide a puck up an icy frictionless incline. The puck has a mass of 500 g and the incline is 5.0 m high. What initial speed must you give the puck in order for it to just reach the top of the incline?
 
-The amount of work done is 23207.25 J
+The initial speed of the puck must be 9.9 m/s for it to just reach the top of the incline. 
 
 {
 
+m = 500 g = 0.5 kg
+h = 5.0 m
+
+KE_i = PE_f
+
 KE = 1/2*mv^2
+PE = mgh
 
-KE_i = 1/2 * 1450 kg * 3.20 m/s^2
-KE_i = 7424 J
 
-KE_f = 1/2 * 1450 kg * 6.50 m/s^2
-KE_f = 30631.25 J
+1/2mv^2 = mgh
+1/2*v^2 = gh
+v^2 = 2gh
+v = sqrt(2gh)
 
-W = KE_f - KE_i
-W = 30631.25 - 7424
-W = 23207.25 J
+v = sqrt(2 * 9.8 m/s^2 * 5.0 m)
+v = sqrt(98)
+v = 9.8994949366
+v = 9.9 m/s
 
 }
