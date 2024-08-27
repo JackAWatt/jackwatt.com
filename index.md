@@ -146,12 +146,19 @@
 * [CherryTree Hierarchical Notes](https://www.giuspen.net/cherrytree/) - best for deep nesting of notes
 * [Obsidian Notes](https://obsidian.md/) - most powerful
 * [Thea Study](https://www.thea.study/register?referralCode=amy1)
+* [Desmos - Graphing](https://www.desmos.com/calculator)
 
 ##### Useful Short Videos
 
 * [Fixed vs Flexible Tasks](https://www.youtube.com/watch?v=8wew5yZts4I)
 
 * [How to practice a hard math problem](https://www.youtube.com/watch?v=e__x0HyIi5o)
+
+##### Blogs and Substacks
+
+* [Dan Luu](https://danluu.com/)
+
+* [marginal revolution](https://marginalrevolution.com/) - Alex Tabborrok and Tyler Cowen
 
 ##### My History
 
