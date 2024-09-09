@@ -7,6 +7,11 @@
 
 # Assignment Practice: 1.4 #11, 19, 39, 41, 43, 47
 
+![image](https://github.com/user-attachments/assets/7f4b20ec-6d1d-416f-825e-627ff9b6c77f)
+
+![image](https://github.com/user-attachments/assets/2624388d-232d-4863-9525-47954ec01959)
+
+
 # Assignment Practice: 1.5 #3, 5, 11, 13, 23
 
 # Assignment Practice: 1.6 #10, 23, 25
