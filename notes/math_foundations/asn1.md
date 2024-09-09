@@ -21,6 +21,10 @@
 
 # Assignment Practice: 1.6 #10, 23, 25
 
+![image](https://github.com/user-attachments/assets/4e01e48d-d4e9-4077-90fe-56974ddacdb0)
+
+![image](https://github.com/user-attachments/assets/d1c6f17e-280a-4031-8893-40854e18232e)
+
 # Assignment Practice: 1.7 # 11, 23, 37
 
 # Practice: 1.8 # 7, 13, 27, 37, 41
