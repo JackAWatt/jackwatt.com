@@ -1,10 +1,12 @@
 # Assignment Practice Questions: 1.3 #13, 15, 25, 55, 57
 
-*  13:
+![image](https://github.com/user-attachments/assets/0c8fec32-9c19-4646-a460-1a26e99a4053)
 
-1 km to centimetres
+![image](https://github.com/user-attachments/assets/e29fe851-01fd-4e7c-bc4e-503fa887de31)
 
-* 
+![image](https://github.com/user-attachments/assets/cbb9f87b-7063-4388-bca9-c0ed4cf0f9d5)
+
+
 
 # Assignment Practice: 1.4 #11, 19, 39, 41, 43, 47
 
