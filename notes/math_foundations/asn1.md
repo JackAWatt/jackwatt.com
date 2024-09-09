@@ -1,6 +1,6 @@
 # Assignment Practice Questions: 1.3 #13, 15, 25, 55, 57
 
-![image](https://github.com/user-attachments/assets/57d3f0f5-4342-4ee8-a945-7ce4ccfbf5d8)
+![image](https://github.com/user-attachments/assets/2e780ca1-9e9a-40e4-823d-f36ba4a51f95)
 
 ![image](https://github.com/user-attachments/assets/01187588-6261-49a5-85ec-1bfcadfd1349)
 
