@@ -1,11 +1,8 @@
 # Assignment Practice Questions: 1.3 #13, 15, 25, 55, 57
 
-![image](https://github.com/user-attachments/assets/0c8fec32-9c19-4646-a460-1a26e99a4053)
+![image](https://github.com/user-attachments/assets/57d3f0f5-4342-4ee8-a945-7ce4ccfbf5d8)
 
-![image](https://github.com/user-attachments/assets/e29fe851-01fd-4e7c-bc4e-503fa887de31)
-
-![image](https://github.com/user-attachments/assets/cbb9f87b-7063-4388-bca9-c0ed4cf0f9d5)
-
+![image](https://github.com/user-attachments/assets/01187588-6261-49a5-85ec-1bfcadfd1349)
 
 
 # Assignment Practice: 1.4 #11, 19, 39, 41, 43, 47
