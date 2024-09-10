@@ -2,6 +2,14 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/09/10
+
+* [ 8.02x - Lect 2 - Electric Field Lines, Superposition, Inductive Charging, Induced Dipoles ](https://youtu.be/Pd9HY8iLiCA?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+
+#### 2024/09/03
+
+* [ 8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization ](https://www.youtube.com/watch?v=x1-SibwIPM4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=2&pp=iAQB)
+
 #### 2024/08/22
 
 * [Why Revan was ALWAYS the Good Guy / EVEN AS A SITH](https://youtu.be/ucz0BsAPC5A) - The Stupendous Wave
