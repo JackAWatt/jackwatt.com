@@ -6,7 +6,6 @@
 | 10^-9        | nano    | n      |
 | 10^-6        | micro   | µ      |
 | 10^-3        | milli   | m      |
-
 | 10^3         | kilo    | k      |
 | 10^6         | mega    | M      |
 | 10^9         | giga    | G      |
