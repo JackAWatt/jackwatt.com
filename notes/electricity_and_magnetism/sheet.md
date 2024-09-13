@@ -4,6 +4,10 @@
 
 * **I = Q/t**
 
+* **Q = (# of electrons) / (6.24 * 10^18 electrons/coulomb)**
+
+* **1A = 1c/sec**
+
 # terms
 
 * **I = current(amperes)**
