@@ -8,6 +8,8 @@
 
 * **1A = 1c/sec**
 
+* R = row l / a_(CM)
+
 # terms
 
 * **I = current(amperes)**
