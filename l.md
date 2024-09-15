@@ -1,2 +1,1 @@
-$$\left(\frac {2}{b}\right)^3 = \left(\frac {8}{b^3}\right)$$
-
+$$\left( \pi^0 * x^2 * a^{-1}\right)^{-1}$$
