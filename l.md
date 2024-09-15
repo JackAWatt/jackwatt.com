@@ -14,6 +14,10 @@ $$\left(  {4x^{-1} * a} \right)^{-3}$$
 
 $$\left(  {4^{-3}x^3 * a^-3} \right)$$
 
+$$\left(  {\frac {1}{64}x^3 * a^-3} \right)$$
+
+$$\left(  \frac {x^3}{64a^3} \right)$$
+
 
 * 47
 
