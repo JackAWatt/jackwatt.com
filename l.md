@@ -23,7 +23,7 @@ $$\frac {x^3}{64a^3}$$
 
 $$\left( \frac {16x^2y^{-2}}{xy^{-1}} \right)^{-4}$$
 
-$$\left( 16xy^{-1} \right)^{-4}$$
+$$\left( \frac {1}{65536}x^{-4}y^4 \right)$$
 
 
 
