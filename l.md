@@ -10,7 +10,7 @@ $$64g^-2s^6$$
 
 $$\left( \frac {4x^{-1}}{a^{-1}} \right)^{-3}$$
 
-$$\left( \frac {4x^{-1}}{a^{-1}} \right)^{-3}$$
+$$\left( \frac {4x^3}{a^3} \right)$$
 
 * 47
 
