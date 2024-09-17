@@ -90,6 +90,54 @@ $$C \approx 32.\overline{33}$$
 
 * 5
 
+$$x + (x + 5000) = 70000$$
 
+$$ 2x + 5000 = 70000$$
+
+$$ 2x = 65000$$
+
+$$ x = 32500$$
+
+**The new model 6 years ago was $32,500**
+
+**The new model today is $37,500**
 
 * 13
+
+let L = lenght
+
+$$\frac {L}{15} - 4 = \frac {L}{18}$$
+
+$$(\frac {L}{15} - 4) * 90 = \frac {L}{18} * 90$$
+
+$$ 6L - 360 = 5L$$
+
+$$ L - 360 = 0$
+
+$$ L = 360$
+
+$$360/15 = 24$$
+
+$$360/18 = 20$$
+
+**Answer: 20 18-m girders are needed**
+
+* 17
+
+$$35.4 = x + 3(x + 2.6)$$
+
+$$35.4 = x + 3x + 7.8$$
+
+$$35.4 = 4x + 7.8$$
+
+$$27.6 = 4x$$
+
+$$\frac{27.6}{4} = x$$
+
+$$6.9 = x$$
+
+$$6.9 + 2.6 = 9.5$$
+
+**the main pipe is 6.9 km**
+
+**the three other pipes are 9.5 km**
