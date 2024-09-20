@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/09/19
+
+* [The story of Money for Nothing is weirder than you thought](https://youtu.be/AHJj25PBIhg) - David Hartley
+
 #### 2024/09/10
 
 * [ 8.02x - Lect 2 - Electric Field Lines, Superposition, Inductive Charging, Induced Dipoles ](https://youtu.be/Pd9HY8iLiCA?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
