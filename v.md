@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/09/23
+
+* [ A Genius Mathematician Suggested This Simple Idea — And It Could Transform The Way You Do Math ](https://youtu.be/kFDiho6vQDo) - The Math Sorcerer
+
 #### 2024/09/19
 
 * [The story of Money for Nothing is weirder than you thought](https://youtu.be/AHJj25PBIhg) - David Hartley
