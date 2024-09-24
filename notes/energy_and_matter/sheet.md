@@ -16,7 +16,6 @@
 
 * KE = 1/2mv^2
 
-
 ### Formula for Power Required by the Pump:
 
 \[
@@ -41,5 +40,12 @@ Where:
    Q = \frac{1.5}{60} = 0.025 \, \text{m}^3/\text{s}
    \]
 
-3. **Height** \( h
+3. **Height** \( h = 45 \, \text{m} \) is the distance the water is lifted.
 
+### Full Formula:
+
+\[
+P = \frac{1000 \cdot 9.81 \cdot 0.025 \cdot 45}{1000}
+\]
+
+Resulting in approximately **11.04 kW**.
