@@ -147,6 +147,7 @@
 * [Obsidian Notes](https://obsidian.md/) - most powerful
 * [Thea Study](https://www.thea.study/register?referralCode=amy1)
 * [Desmos - Graphing](https://www.desmos.com/calculator)
+* [assignment/writing planner](https://lib.uwaterloo.ca/web/assignment-planner)
 
 ##### Useful Short Videos
 
