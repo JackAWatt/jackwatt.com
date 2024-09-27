@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/09/27
+
+* [Basic Electronics For Beginners](https://youtu.be/uXr4lXYjXuU?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
+
+
 #### 2024/09/23
 
 * [ A Genius Mathematician Suggested This Simple Idea — And It Could Transform The Way You Do Math ](https://youtu.be/kFDiho6vQDo) - The Math Sorcerer
