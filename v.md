@@ -2,6 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+* [ESP32 Guide 2024 | Choosing and Using an ESP32 Board ](https://youtu.be/u5unB24lhC4) - DroneBot Workshop
+
+
 #### 2024/09/29
 
 * [How Mathematicians Think About Patterns - Professor Ian Stewart](https://youtu.be/_nZX4YpL9k0) - Gresham College
