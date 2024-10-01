@@ -10,6 +10,8 @@
 
 * R = row l / a_(CM)
 
+* **P = W/t**
+
 # terms
 
 * **I = current(amperes)**
