@@ -2,6 +2,42 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/10/05
+
+* [329: At Least 32-Bits, Thank You](https://www.youtube.com/watch?v=a6nCLtlzcC0) - Embedded Podcast
+
+#### 2024/10/04
+
+* [190: Trust Me, I'm Right (Repeat)](https://www.youtube.com/watch?v=cvmM_34mHDs) - Embedded Podcast
+
+* [226: Camp AVR Vs. Camp Microchip (Repeat)](https://www.youtube.com/watch?v=IQBS3PP2FcU) - Embedded Podcast
+
+* [416: EEs Are From PIC, SWEs Are From Arm](https://www.youtube.com/watch?v=GIdoNw76hSo) - Embedded Podcast
+
+#### 2024/10/03
+
+* [ The Amp Hour #460 - Rubber Ducking ](https://youtu.be/Vj_LGq1D3D0)
+
+#### 2024/10/02
+
+* [ The Amp Hour #468 - The Tiny Lab Movement ](https://youtu.be/fZgJXX08Fqo)
+
+* [ The Amp Hour #527 - Measuring Current with Matt Liberty ](https://youtu.be/xA0s28IkQLs)
+
+* [ The Amp Hour #592 - Product Design with Simone Giertz ](https://youtu.be/ib1NnfxdNk4)
+
+#### 2024/10/01
+
+* [ The Amp Hour #650 - Accessible ASICs with Andreas Olofsson ](https://youtu.be/oIxz-KKovoY)
+
+* [ The Amp Hour #651 - Learning Computing with Jeff Geerling ](https://youtu.be/NCH3LdDqNrk)
+
+* [ The Amp Hour #673 - Lifelong Learning with Bitluni ](https://youtu.be/h9NZJL2JujU)
+
+* [The Amp Hour #675 - Changing Course with Shawn Hymel](https://youtu.be/mqRb2zoJZyw)
+
+#### 2024/09/30
+
 * [ Microchip Breakthrough: New Era in Electronics ! ](https://youtu.be/eOjmTExBWPE) - Anastasi In Tech
 
 * [ESP32 Guide 2024 | Choosing and Using an ESP32 Board ](https://youtu.be/u5unB24lhC4) - DroneBot Workshop
