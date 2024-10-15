@@ -44,3 +44,17 @@ $$p = \frac {F}{A}$$
 
 ![image](https://github.com/user-attachments/assets/226253a2-f546-4591-8d60-1185163de7cd)
 
+![image](https://github.com/user-attachments/assets/4bfdba15-3ab2-4f97-b168-2de634eb8053)
+
+![image](https://github.com/user-attachments/assets/9f0aa80b-4a43-42e9-a685-3ef6f03a80bb)
+
+![image](https://github.com/user-attachments/assets/69309d3d-067f-4ccb-b7df-801dfdb295fa)
+
+![image](https://github.com/user-attachments/assets/573a5a58-0642-427a-bd79-73228d759930)
+
+![image](https://github.com/user-attachments/assets/4ba34ac7-1bb9-4cab-92a2-27a8a54e5bd4)
+
+![image](https://github.com/user-attachments/assets/4f96d9e9-d5df-4482-aef8-86d096abfe90)
+
+![image](https://github.com/user-attachments/assets/0760c66c-e8a8-494f-a843-906c2bf72991)
+
