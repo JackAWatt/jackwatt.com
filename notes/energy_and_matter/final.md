@@ -42,4 +42,5 @@ $$p = \frac {F}{A}$$
 
 ![image](https://github.com/user-attachments/assets/1832736b-9fed-4d60-a5f6-cc75f95a8e7c)
 
+![image](https://github.com/user-attachments/assets/226253a2-f546-4591-8d60-1185163de7cd)
 
