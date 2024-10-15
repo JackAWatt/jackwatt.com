@@ -36,5 +36,10 @@ $$p = \frac {F}{A}$$
 ![Slide13](https://github.com/user-attachments/assets/c0b9828f-170c-4765-82bb-b6288ad49a79)
 
 
+# 7
+
+![Slide1](https://github.com/user-attachments/assets/56104663-f4ad-4616-a359-3bf17804a60a)
+
+![image](https://github.com/user-attachments/assets/1832736b-9fed-4d60-a5f6-cc75f95a8e7c)
 
 
