@@ -1,4 +1,4 @@
 **Temperature increases**
 
 
-    **volume increases, density decreases, viscosity decreases**
+    volume increases, density decreases, viscosity decreases
