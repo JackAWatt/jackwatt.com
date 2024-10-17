@@ -8,7 +8,7 @@ $$x^5y^2$$
 
 * 37
 
-$$(2a^{-n}*\left(\frac {3}{2a^{n}}\right)^{-1}$$
+$$\left(2a^{-n}\right)*\left(\frac {3}{2a^{n}}\right)^{-1}$$
 
 
 
