@@ -1,8 +1,1 @@
-$$
-\left(
-
-
-
-\right)
-^{\frac{4}{3}}
-$$
+$$\left(\right)^{\frac{4}{3}}$$
