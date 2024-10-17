@@ -14,7 +14,7 @@ $$\left(2a^{-n}\right)*\left(\frac {3}{2a^{n}}\right)^{-1}$$
 
 * 41
 
-$$\frac {v^{-1}}{2t}^{-2}*\frac {t^2}{v^{-2}}^{-3}$$
+$$\left(\frac {v^{-1}}{2t}^{-2}\right)*\left(\frac {t^2}{v^{-2}}^{-3}\right)$$
 
 # 11.2
 
