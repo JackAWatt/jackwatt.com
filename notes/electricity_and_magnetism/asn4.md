@@ -21,3 +21,9 @@ $$1.04058k - 0.58636k= 0.58636k+\frac {1}{R_4} - 0.58636k$$
 $$0.45422k =\frac {1}{R_4}$$
 
 $$R_4 = 454.22 \Omega$$
+
+![image](https://github.com/user-attachments/assets/6c416887-85b6-4b6b-8450-98e3944e0380)
+
+$$I_1 = \frac {15v}{680 \Omega}$$
+
+$$I_2 = \frac {15v}{1.5 \mathrm{k\Omega}}$$
