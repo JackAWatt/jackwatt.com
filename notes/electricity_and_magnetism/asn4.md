@@ -9,3 +9,9 @@ $$\left( \frac {1}{\frac {1}{5.2k}+\frac {1}{3.3k}+\frac {1}{20k}+\frac {1}{15k}
 ![image](https://github.com/user-attachments/assets/5b5a0589-fc0f-49f3-9880-360b67611bf2)
 
 $$0.961k = \left( \frac {1}{\frac {1}{5k}+\frac {1}{12k}+\frac {1}{3.3k}+\frac {1}{R_4}}\right)$$
+
+$$\frac {1}{0.961k} = 1.04058k$$
+
+$$1.04058k = \left(0.2k+0.08333k+0.30303k+\frac {1}{R_4}}\right)$$
+
+$$1.04058k = \left(0.58636+\frac {1}{R_4}}\right)$$
