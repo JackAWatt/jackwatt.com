@@ -36,7 +36,7 @@ $$I_T = 38.86882\ mA$$
 
 $$P_1 = 15\ V * 22.05882\ mA$$
 
-$$P_1 = 330.8823 mW$$
+$$P_1 = 330.8823\ mW$$
 
 $$P_2 = 15\ V * 10\ mA$$
 
@@ -45,3 +45,9 @@ $$P_2 = 150\ mW$$
 $$P_3 = 15\ V * 6.81\ mA$$
 
 $$P_3 = 102.15\ mW$$
+
+![image](https://github.com/user-attachments/assets/4823f8ec-86aa-4933-ab1e-e3002842e3b2)
+
+$$I_2 = \frac {24\ V}{12\ k} = 2\ mA$$
+
+$$R_3 = \frac {24\ V}{1\ mA} = 24\ \mathrm{k\Omega}$$
