@@ -51,3 +51,7 @@ $$P_3 = 102.15\ mW$$
 $$I_2 = \frac {24\ V}{12\ k} = 2\ mA$$
 
 $$R_3 = \frac {24\ V}{1\ mA} = 24\ \mathrm{k\Omega}$$
+
+$$I_1 = 8\ mA - 2\ mA - 1\ mA = 5\ mA$$
+
+$$R_1 = \frac {24\ V}{5\ mA} = 4.8\ \mathrm{k\Omega}$$
