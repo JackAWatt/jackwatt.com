@@ -1,1 +1,1 @@
-$$\frac {does\ this}{work}$$
+$$\frac {\frac {does\ this}{work}}{hopefully\ so}$$
