@@ -1,1 +1,1 @@
-$$\sqrt{n+\sqrt{n_1+\sqrt{n_2+\sqrt{n_3..}}}}$$
+$$\sqrt{n+\sqrt{n_1+\sqrt{n_2+\sqrt{n_3+\sqrt{n+\sqrt{n_4+\sqrt{n_5+\sqrt{n_6+\sqrt{n+\sqrt{n_7+\sqrt{n_8+\sqrt{n_9+\sqrt{n+\sqrt{n_10+\sqrt{n_11+\sqrt{n_12+\sqrt{n+\sqrt{n_13+\sqrt{n_14+\sqrt{n_15+\sqrt{n+\sqrt{n_16+\sqrt{n_17+\sqrt{n_18..}}}}}}}}}}}}}}}}}}}}}}}}$$
