@@ -1,1 +1,1 @@
-$$\frac {\frac {does\ this}{work}}{hopefully\ so}$$
+$$\frac {meep^{\frac {does\ this}{work}}}{hopefully\ so}$$
