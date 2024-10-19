@@ -1,4 +1,1 @@
-**Temperature increases**
-
-
-    volume increases, density decreases, viscosity decreases
+$$\frac {does\ this}{work}$$
