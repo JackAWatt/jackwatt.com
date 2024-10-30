@@ -105,4 +105,4 @@ $$I = \frac {10.9\ V}{6.8\ K} = 1.6\ mA$$
 
 $$V_1 = \frac {1.6\ V}{1.6\ mA} = 1k$$
 
-**R_3 is a 1k resistor**
+**R_3 is a 1 kOhm resistor**
