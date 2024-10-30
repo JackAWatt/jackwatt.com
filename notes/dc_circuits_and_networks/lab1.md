@@ -69,7 +69,7 @@ $$V_2 = 8.8\ V$$
 
 $$V_3 = 7.3\ V$$
 
-$$V_3 = 2.9\ V$$
+$$V_4 = 2.9\ V$$
 
 $$R_1 = 4.7\ k$$
 
@@ -78,3 +78,31 @@ $$R_2 = 6.8\ k$$
 $$R_3 = 5.6\ k$$
 
 $$R_4 = 2.2\ k$$
+
+# Fault 1
+
+**Open on V_r3**
+
+# Fault 2
+
+**V_R3 went down**
+
+$$I = \frac {7.6\ V}{6.8\ K} = 1.12\ mA$$
+
+$$R_3 = \frac {2.9\ V}{1.12\ mA} = 2.59\ K$$
+
+**R_3 is a 2.59 kOhm resistor**
+
+# Fault 3
+
+**Short on V_r4**
+
+# Fault 4
+
+**V_1 went down, while V_2, V_3, and V_4 all went up**
+
+$$I = \frac {10.9\ V}{6.8\ K} = 1.6\ mA$$
+
+$$V_1 = \frac {1.6\ V}{1.6\ mA} = 1k$$
+
+**R_3 is a 1k resistor**
