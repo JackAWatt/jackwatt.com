@@ -1,1 +1,0 @@
-This report will provide a cost-benefit analysis of lithium-ion batteries, examining the expected market increase from $30 billion in 2017 to $100 billion in 2025, as well as the human and environmental challenges of lithium and cobalt mining.
