@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/11/05
+
+* [On These Questions, Smarter People Do Worse](https://youtu.be/zB_OApdxcno) - Veritasium
+
 #### 2024/11/03
 
 * [McLovin Got What He Deserved.. (Life After Superbad)](https://youtu.be/eQUcgr_0A7U) - Patrick Cc:
