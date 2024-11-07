@@ -14,12 +14,12 @@ $$ tan(x) = \frac {opposite}{adjacent}$$
 
 * Secant (sec)
 
-$$ sec(x) = \frac {hypotenuse}{adjacent}$$
+$$ sec(x) = \frac {hypotenuse}{adjacent} = \frac {1}{cos(x)}$$
 
 * Cosecant (csc)
 
-$$ csc(x) = \frac {hypotenuse}{opposite}$$
+$$ csc(x) = \frac {hypotenuse}{opposite} = \frac {1}{sin(x)}$$
 
 * Cotangent (cot)
 
-$$ cot(x) = \frac {adjacent}{opposite}$$
+$$ cot(x) = \frac {adjacent}{opposite} = \frac {1}{tan(x)}$$
