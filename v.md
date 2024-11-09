@@ -2,6 +2,13 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/11/09
+
+* [Guild Wars 2 is a Masterpiece (and you should play it)](https://youtu.be/R2baHtChEIk) - MarcoMeatball
+
+* [Death of a Game: Guild Wars](https://youtu.be/jBjGwRbTfok) - nerdSlayer Studios
+
+
 #### 2024/11/05
 
 * [On These Questions, Smarter People Do Worse](https://youtu.be/zB_OApdxcno) - Veritasium
