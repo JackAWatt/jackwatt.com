@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/11/16
+
+* [There Will Never Be Another Game Like Guild Wars 1](https://youtu.be/l35HDv89EJ4) - Caffeinated Dad Gaming
+
 #### 2024/11/09
 
 * [Guild Wars 2 is a Masterpiece (and you should play it)](https://youtu.be/R2baHtChEIk) - MarcoMeatball
