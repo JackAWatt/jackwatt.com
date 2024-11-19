@@ -1,6 +1,6 @@
 **Equivalent exressions**
 
-$$\left(v^{\frac{1}{9}}^{-1} \right)$$
+$$\left(v^{\frac{1}{9}} \right)^{-1}$$
 
 ***
 
