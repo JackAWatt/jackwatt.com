@@ -4,6 +4,9 @@
 
 #### 2024/11/23
 
+* [Kirchhoff's Current Law, Junction Rule, KCl Circuits ](https://youtu.be/Q39xQUlTGew?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
+
+
 * [Kirchhoff's Voltage Law - KVL Circuits, Loop Rule & Ohm's Law](https://youtu.be/6F_rmZ1nXFQ?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
 
 
