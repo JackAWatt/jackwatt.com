@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/11/23
+
+* [Kirchhoff's Voltage Law - KVL Circuits, Loop Rule & Ohm's Law](https://youtu.be/6F_rmZ1nXFQ?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
+
+
 #### 2024/11/16
 
 * [There Will Never Be Another Game Like Guild Wars 1](https://youtu.be/l35HDv89EJ4) - Caffeinated Dad Gaming
