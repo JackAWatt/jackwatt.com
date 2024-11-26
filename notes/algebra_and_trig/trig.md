@@ -2,7 +2,7 @@ $$sin(\theta) = \frac {y}{r}$$
 
 $$cos(\theta) = \frac {x}{r}$$
 
-$$tan(\theta) = \frac {y}{x}\ \mid \neq 0$$
+$$tan(\theta) = \frac {y}{x}\ \text(where } \mid\ y \neq 0$$
 
 $$csc(\theta) = \frac {r}{y}$$
 
