@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/04
+
+* [The Best "Worst" System in Guild Wars 2...](https://youtu.be/MW2MOBDicyo) - Snebzor
+
 #### 2024/11/23
 
 * [Kirchhoff's Current Law, Junction Rule, KCl Circuits ](https://youtu.be/Q39xQUlTGew?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
