@@ -4,6 +4,9 @@
 
 #### 2024/12/04
 
+* [What Darth Vader HATED Most About the Jedi Code will Surprise you!](https://youtu.be/L7JU-7GMSLo) - The Stupendous Wave
+
+
 * [The Best "Worst" System in Guild Wars 2...](https://youtu.be/MW2MOBDicyo) - Snebzor
 
 #### 2024/12/02
