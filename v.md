@@ -6,12 +6,62 @@
 
 * [The Best "Worst" System in Guild Wars 2...](https://youtu.be/MW2MOBDicyo) - Snebzor
 
+#### 2024/12/02
+
+* [468: Designed to Kill All Humans](https://youtu.be/OHybqA6iPjw) - Embedded Podcast
+
+* [461: Am I the Cow in This Scenario?](https://youtu.be/duMwemeRuvs) - Embedded Podcast
+
+* [460: I Don’t Care What Your Math Says](https://youtu.be/Fy6rni5y6mw) - Embedded Podcast
+
+* [453: Too Dumb to Quit](https://youtu.be/z8VSoRr5Ayw) - Embedded Podcast
+
+* [334: Bag of Heuristics](https://youtu.be/RBoHbgRlCsQ) - Embedded Podcast
+
+* [262: Egg Freckles](https://youtu.be/iSYiZfAyuOc) - Embedded Podcast
+
+* [259: Calculators Changed My Life](https://youtu.be/sdvWkagV6O4) - Embedded Podcast
+
+* [10: Hands Off, Baby (Repeat)](https://youtu.be/QzzdUwqq9mU) - Embedded Podcast
+
+* [251: I Agreed at the Time](https://youtu.be/Ks7dY6plSxQ) - Embedded Podcast
+
+* [137: Pausing to Think (Repeat)](https://youtu.be/8CUtVkrb9bE) - Embedded Podcast
+
+#### 2024/11/26
+
+* [Scott Aaronson — Quantumania I Episode 240](https://youtu.be/BjkCioiIGpA) - Infinite Loops
+
+* [Ben Orlin — Math As Universal Language](https://youtu.be/o4GgOBeXISk) - Infinite Loops
+
+* [An Interview with Samy Kamkar ](https://youtu.be/niv4fyWbz0Y) - The Amp Hour
+
+* [An Interview with Joe FitzPatrick ](https://youtu.be/yLbTrqJWhac) - The Amp Hour
+
+* [Electronics Consultant Impedance Matching ](https://youtu.be/HgvLS9-hVXM) - The Amp Hour
+
+* []() - The Amp Hour
+
 #### 2024/11/23
 
 * [Kirchhoff's Current Law, Junction Rule, KCl Circuits ](https://youtu.be/Q39xQUlTGew?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
 
-
 * [Kirchhoff's Voltage Law - KVL Circuits, Loop Rule & Ohm's Law](https://youtu.be/6F_rmZ1nXFQ?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL) - The Organic Chemistry Tutor
+
+* [RR 146 - Book Club - Ruby Under a Microscope with Pat Shaughnessy](https://youtu.be/jct5HyfzrPA)  - Ruby Rogues 
+
+* [Alex Hormozi - Letting Go of The Need For Approval](https://youtu.be/ypBrmOzG6HM) - Ryan Hawk
+
+
+#### 2024/11/22
+
+* [124: Please Don't Light Yourself on Fire (Repeat)](https://youtu.be/h7wZTqAJXEc) - Embedded Podcast
+
+* [211: 4 weeks, 3 days (Repeat)](https://youtu.be/WOJI4G66_uM) - Embedded Podcast
+
+* [53: Being a Grownup Engineer (Repeat)](https://youtu.be/zK2YDxyzMKU) - Embedded Podcast
+
+* [6: Do robot squirrels dream of electric imps...](https://embedded.fm/episodes/2013/6/18/do-robot-squirrels-dream-of-electric-imps) - Embedded Podcast
 
 
 #### 2024/11/16
