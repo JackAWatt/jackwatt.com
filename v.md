@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/06
+
+* [The Disturbing Elder Scrolls "Iceberg" Conspiracies Explained](https://youtu.be/zfkr0TxrKX4) - FranklyGaming
+
+
 #### 2024/12/04
 
 * [What Darth Vader HATED Most About the Jedi Code will Surprise you!](https://youtu.be/L7JU-7GMSLo) - The Stupendous Wave
