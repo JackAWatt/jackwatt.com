@@ -138,6 +138,7 @@
 * [lobste.rs](https://lobste.rs) - compsci link aggregator
 * [barnacl.es](https://barnacl.es/) - startup bootstrap link aggregator
 * [tildes computer threads](https://tildes.net/groups) - also science, philosphy, etc
+* [Textbook solutions](https://www.litsolutions.org/)
 
 ##### Useful Websites and Programs
 
