@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/07
+
+* [I played the "Indie Skyrim that Bethesda Should Learn From"](https://youtu.be/RRQoldaPNSQ) - Mugthief
+
 #### 2024/12/06
 
 * [The Disturbing Elder Scrolls "Iceberg" Conspiracies Explained](https://youtu.be/zfkr0TxrKX4) - FranklyGaming
