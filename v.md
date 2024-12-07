@@ -4,6 +4,8 @@
 
 #### 2024/12/07
 
+* [Law of sines / Trig identities and examples / Trigonometry ](https://www.youtube.com/watch?v=VjmFKle7xIw) - Khan Academy
+
 * [What Happened To The Protagonists Of The Elder Scrolls?](https://youtu.be/i3hQKU_6gQ4) - Master Neloth
 
 * [I played the "Indie Skyrim that Bethesda Should Learn From"](https://youtu.be/RRQoldaPNSQ) - Mugthief
