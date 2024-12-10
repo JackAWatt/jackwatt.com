@@ -4,7 +4,7 @@ $$\tau = RC$$
 
 * Charge
 
-$$V_C = V_F(1-e^{\frac{-t}{\tau}}$$
+$$V_C = V_F(1-e^{\frac{-t}{\tau}})$$
 
 * Disharge
 
