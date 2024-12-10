@@ -21,3 +21,13 @@ $$i_L = I_F(1-e^{\frac {-t}{\tau}}$$
 * discharge
 
 $$i_L = I_0 * e^{\frac {-t}{\tau}}$$
+
+# Thevenin
+
+$$R_L$$
+
+$$V_{TH}$$
+
+$$R_{TH}$$
+
+$$V_{TH} + R_{TH}$$
