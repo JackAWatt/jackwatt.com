@@ -23,3 +23,12 @@ $$ln(y^x) = ln(z)$$
 $$x\ ln(y) = ln(z)$$
 
 $$x = \frac {ln(z)}{ln(y)}$$
+
+
+# log with variables
+
+* x is unknown, y, n, and z are known
+
+$$log_y(x-z) = n$$
+
+$$y^n = x-z$$
