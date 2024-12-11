@@ -1,6 +1,6 @@
 # Using log base 10 to find natural log
 
-$$log_10(x)*ln(10)$$
+$$log_{10}(x)*ln(10)$$
 
 # ln and e
 
