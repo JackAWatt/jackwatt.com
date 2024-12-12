@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/12
+
+* [The simpler quadratic formula / Ep. 1 Lockdown live math](https://youtu.be/MHXO86wKeDY?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev) - 3Blue1Brown
+
 #### 2024/12/07
 
 * [Intro to logarithms](https://youtu.be/Z5myJ8dg_rM) - Khan Academy 
