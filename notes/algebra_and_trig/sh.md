@@ -60,5 +60,14 @@ $$y^n = x-z$$
 
 $$A = \frac {1}{2} r^2 \theta$$
 
+* area based on a sector
+
+$$A = A_{sector}*N_{sectors}$$
+
+* d and r based on A
+
+$$A = \pi r^2$$
+
+
 
 
