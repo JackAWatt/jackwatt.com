@@ -81,3 +81,9 @@ $$i = i_m * sin(\theta)$$
 * linear velocity
 
 $$v = r * w(linear)$$
+
+* find s
+
+$$A = \frac {1}{2}* \theta * r^2$$
+
+$$S = \theta * r$$
