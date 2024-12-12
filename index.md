@@ -117,6 +117,7 @@
 
 
 ##### Other Resources
+* [The Organic Chemistry Tutor's Youtube Playlists](https://www.video-tutor.net/)  - Math, Electrical, Chemistry, etc. 
 * [Podcasts: Computer Science, Math, AI, ML](http://jackwatt.com/podcasts#computer-science-and-programming)
 * [Podcasts: Everything Else](http://jackwatt.com/podcasts#other-podcasts)
 * [Deep Work: the 30 hour method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - azeria-labs
