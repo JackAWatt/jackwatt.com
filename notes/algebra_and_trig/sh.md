@@ -70,7 +70,7 @@ $$A = \pi r^2$$
 
 * area baased on sector of a circle when angle in degrees
 
-$$A = \frac {theta}{360} * \pi * r^2$$
+$$A = \frac {\theta}{360} * \pi * r^2$$
 
 
 
