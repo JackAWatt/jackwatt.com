@@ -78,4 +78,6 @@ $$A = \frac {\theta}{360} * \pi * r^2$$
 
 $$i = i_m * sin(\theta)$$
 
+* linear velocity
 
+$$v = r * w(linear)$$
