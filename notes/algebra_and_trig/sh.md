@@ -6,7 +6,7 @@ $$x = \frac {-b \pm \sqrt{b^2 -4ac}}{2a}$$
 
 $$h = -\frac {b}{2a}$$
 
-$$k = a(h)^2+b(h) + c$
+$$k = a(h)^2+b(h) + c$$
 
 **y-intercept = set x to 0**
 
