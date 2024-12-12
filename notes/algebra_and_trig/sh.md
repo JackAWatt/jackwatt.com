@@ -72,5 +72,10 @@ $$A = \pi r^2$$
 
 $$A = \frac {\theta}{360} * \pi * r^2$$
 
+* i = i_m sin(theta) where i_m is the max current, find i if i_m = x and theta = y
+
+* convert deg to rad and subtract 360 until deg < 360. 
+
+$$i = i_m * sin(\theta)$$
 
 
