@@ -54,6 +54,8 @@ $$y^n = x-z$$
 
 # Arc
 
+* note: degrees need to be converted to radians
+
 * Area of a sector
 
 $$A = \frac {1}{2} r^2 \theta$$
