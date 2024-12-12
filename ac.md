@@ -1,0 +1,8 @@
+# AC Circuits and Complex Numbers
+
+* [AC Circuits and Complex Numbers](https://www.allaboutcircuits.com/textbook/alternating-current/) 
+
+* [Complex Numbers Videos](https://www.youtube.com/watch?v=vRJqPo_zcnQ&list=PL0o_zxa4K1BU5sTWZ2YxFhpXwsnMfMke7&index=35&pp=iAQB) - Ten videos on complex numbers
+
+* [Complex Numbers - Khan Academy](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex) - Learning platform with solvable problems(mastery checks).
+ 
