@@ -4,6 +4,8 @@
 
 #### 2024/12/12
 
+* https://youtu.be/Efoeqb6tC88
+
 * https://youtu.be/kGzXIbauGQk
 
 * [The simpler quadratic formula / Ep. 1 Lockdown live math](https://youtu.be/MHXO86wKeDY?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev) - 3Blue1Brown
