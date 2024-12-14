@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/14
+
+* https://youtu.be/ewokFOSxabs
+
 #### 2024/12/12
 
 * https://youtu.be/Efoeqb6tC88
