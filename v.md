@@ -2,15 +2,19 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/15
+
+https://youtu.be/BGz3pkoGPag
+
 #### 2024/12/14
 
-* https://youtu.be/ewokFOSxabs
+https://youtu.be/ewokFOSxabs
 
 #### 2024/12/12
 
-* https://youtu.be/Efoeqb6tC88
+https://youtu.be/Efoeqb6tC88
 
-* https://youtu.be/kGzXIbauGQk
+https://youtu.be/kGzXIbauGQk
 
 * [The simpler quadratic formula / Ep. 1 Lockdown live math](https://youtu.be/MHXO86wKeDY?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev) - 3Blue1Brown
 
