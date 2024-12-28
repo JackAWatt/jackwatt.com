@@ -4,6 +4,9 @@
 
 #### 2024/12/28
 
+* [fuse-less fireworks from the 1940s](https://youtu.be/M4BYz0l3_r0) - styropyro shorts
+
+
 * [Styropyro's MACROWAVE - Nuclear Engineer Reacts](https://youtu.be/cljhSRniPv8) - T. Folse Nuclear
  
 * [I failed in 2024... and I need to be honest](https://youtu.be/wlSjtheYE8A) - How to Beast
