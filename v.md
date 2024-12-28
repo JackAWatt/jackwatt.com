@@ -4,8 +4,10 @@
 
 #### 2024/12/28
 
-* [fuse-less fireworks from the 1940s](https://youtu.be/M4BYz0l3_r0) - styropyro shorts
+* [Nuclear Engineer Reacts to Styropyro "Is it the Volts or Amps that Kill?"](https://youtu.be/qMSRccYPUZU) - T. Folse Nuclear
 
+
+* [fuse-less fireworks from the 1940s](https://youtu.be/M4BYz0l3_r0) - styropyro shorts
 
 * [Styropyro's MACROWAVE - Nuclear Engineer Reacts](https://youtu.be/cljhSRniPv8) - T. Folse Nuclear
  
