@@ -2,6 +2,12 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2024/12/28
+
+* [Styropyro's MACROWAVE - Nuclear Engineer Reacts](https://youtu.be/cljhSRniPv8) - T. Folse Nuclear
+ 
+* [I failed in 2024... and I need to be honest](https://youtu.be/wlSjtheYE8A) - How to Beast
+
 #### 2024/12/15
 
 https://youtu.be/BGz3pkoGPag
