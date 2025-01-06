@@ -4,6 +4,8 @@
 
 #### 2025/01/06
 
+https://youtu.be/yBw67Fb31Cs?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev
+
 https://youtu.be/SP-YJe7Vldo
 
 https://youtu.be/rYG1D5lUE4I
