@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/06
+
+https://youtu.be/rYG1D5lUE4I
+
 #### 2024/12/28
 
 * [Nuclear Engineer Reacts to Styropyro "Is it the Volts or Amps that Kill?"](https://youtu.be/qMSRccYPUZU) - T. Folse Nuclear
