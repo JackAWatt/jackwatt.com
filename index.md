@@ -119,6 +119,7 @@
 
 
 ##### Other Resources
+* [mathb](https://mathb.in/) - LaTeX pastebin
 * [The Organic Chemistry Tutor's Youtube Playlists](https://www.video-tutor.net/)  - Math, Electrical, Chemistry, etc. 
 * [Podcasts: Computer Science, Math, AI, ML](http://jackwatt.com/podcasts#computer-science-and-programming)
 * [Podcasts: Everything Else](http://jackwatt.com/podcasts#other-podcasts)
