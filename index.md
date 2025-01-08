@@ -12,6 +12,7 @@
 * [Open Source Data Science](https://github.com/datasciencemasters/go)
 * [OSSU Open Source Math](https://github.com/ossu/math)
 * [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
+* [Operating System in 1,000 Lines - Intro](https://operating-system-in-1000-lines.vercel.app/en)
 * [NeetCode Courses](https://neetcode.io/courses)
 * [NeetCode Algorithms and Data Structures Roadmap](https://neetcode.io/roadmap)
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
