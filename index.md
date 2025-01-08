@@ -17,6 +17,7 @@
 * [How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1/)
 * [How to self study pure math - a step-by-step guide - Aleph 0](https://www.youtube.com/watch?v=byNaO_zn2fI)
 * [How to Take all the Math Classes You Need](https://docs.google.com/document/d/1G-hSdO5Tm9Nc6E4GobZZlwD0MNfCUAnHHEDqkypDtx0/edit)  - Zach Star's list of online courses, assignments, and textbooks
+* [ROB 101: Computational Linear Algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/) - Doesn't require calculus
 * Algorithms, [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera
 * [CS 50](https://www.youtube.com/watch?v=8mAITcNt710) - Harvard
 * [System Design](https://www.youtube.com/watch?v=-W9F__D3oY4)
