@@ -2,6 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/09
+
+* [Networking Naturally Tips](https://youtu.be/ncRLUjuKzfU) - 
 #### 2025/01/06
 
 https://youtu.be/yBw67Fb31Cs?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev
