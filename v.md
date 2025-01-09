@@ -4,6 +4,8 @@
 
 #### 2025/01/09
 
+* [https://youtu.be/ziLYKeU5zGk](Social Media Role in Hiring Process)
+
 * [Social media in the job search](https://youtu.be/wp9-j-uQJJ4)
 
 * [Networking Naturally Tips](https://youtu.be/ncRLUjuKzfU) - 
