@@ -4,6 +4,8 @@
 
 #### 2025/01/09
 
+* [Social media in the job search](https://youtu.be/wp9-j-uQJJ4)
+
 * [Networking Naturally Tips](https://youtu.be/ncRLUjuKzfU) - 
 #### 2025/01/06
 
