@@ -4,6 +4,9 @@
 
 #### 2025/01/09
 
+* [ Trigonometry Concepts - Don't Memorize! Visualize! ](https://youtu.be/mhd9FXYdf4s) - Dennis Davis
+
+
 * [https://youtu.be/ziLYKeU5zGk](Social Media Role in Hiring Process)
 
 * [Social media in the job search](https://youtu.be/wp9-j-uQJJ4)
