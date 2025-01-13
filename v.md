@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/13
+
+* [Did the Fellowship know Gandalf was a Maia? ](https://youtu.be/XX7IAs39_C4) - In Deep Geek
+
 #### 2025/01/09
 
 * [ Trigonometry Concepts - Don't Memorize! Visualize! ](https://youtu.be/mhd9FXYdf4s) - Dennis Davis
