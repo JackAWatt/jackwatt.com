@@ -30,6 +30,7 @@
 ###### - Hardware
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [HardBreak - Hardware Hacking Wiki](https://www.hardbreak.wiki/)
+* [All About Circuits](https://www.allaboutcircuits.com/education) - DC and AC textbook + videos
 
 ###### - Videos by The Math Sorcerer
 * [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
