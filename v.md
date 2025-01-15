@@ -4,6 +4,8 @@
 
 #### 2025/01/15
 
+* [Trig values of π/4](https://youtu.be/KoYZErFpZ5Q) - KhanAcademy
+
 * [Cosine, sine and tangent of π/6 and π/3](https://youtu.be/Tt_ATh5mCGw) - KhanAcademy
 
 #### 2025/01/14
