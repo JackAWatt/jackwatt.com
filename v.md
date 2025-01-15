@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/15
+
+* [Cosine, sine and tangent of π/6 and π/3](https://youtu.be/Tt_ATh5mCGw) - KhanAcademy
+
 #### 2025/01/14
 
 * [Distance & midpoint of complex numbers](https://youtu.be/Efoeqb6tC88) - KhanAcademy
