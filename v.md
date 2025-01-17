@@ -2,7 +2,9 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/16
 
+* [Did Sauron survive The Lord of the Rings?](https://youtu.be/YZTFvHDqgkU) - In Deep Geek
 
 #### 2025/01/15
 
