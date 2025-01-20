@@ -172,7 +172,7 @@
 
 * [marginal revolution](https://marginalrevolution.com/) - Alex Tabborrok and Tyler Cowen
 
-* [Science Based Medicine](https://sciencebasedmedicine.org/ and [Neurologica](https://theness.com/neurologicablog/) - Steven Novella
+* [Science Based Medicine](https://sciencebasedmedicine.org/) and [Neurologica](https://theness.com/neurologicablog/) - Steven Novella
 
 * [Respectful Insolence](https://www.respectfulinsolence.com/) - David Gorski
 
