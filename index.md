@@ -172,18 +172,12 @@
 
 * [marginal revolution](https://marginalrevolution.com/) - Alex Tabborrok and Tyler Cowen
 
-##### My History
+* [Science Based Medicine](https://sciencebasedmedicine.org/ and [Neurologica](https://theness.com/neurologicablog/) - Steven Novella
 
-* [Videos and Podcasts](http://jackwatt.com/v)
-* [Books](http://jackwatt.com/b)
-* [Courses](http://jackwatt.com/c)
-* [Blogs and Articles](http://jackwatt.com/a)
-* [chatGPT prompts](http://jackwatt.com/chatGPT)
+* [Respectful Insolence](https://www.respectfulinsolence.com/) - David Gorski
 
-##### My Notes
-* [Books](http://jackwatt.com/notes/books)
-* [Courses](http://jackwatt.com/notes/courses)
-
+ ***
+ 
 <script src="https://tryhackme.com/badge/60767"></script>
 *
 <script src="https://www.hackthebox.eu/badge/189855"></script>
