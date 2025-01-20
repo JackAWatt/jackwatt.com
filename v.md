@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/20
+
+* [Camille Paglia on Her Lifestyle of Observation and Lamb Vindaloo](https://youtu.be/VSRuncwwJyQ) - Conversations with Tyler
+
 #### 2025/01/16
 
 * [Did Sauron survive The Lord of the Rings?](https://youtu.be/YZTFvHDqgkU) - In Deep Geek
