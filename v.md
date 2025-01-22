@@ -2,9 +2,20 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/21
+
+* [My Experience Debating Jordan Peterson](https://youtu.be/qroZWO5aQEM)- Alex O'Connor
+
 #### 2025/01/20
 
 * [Camille Paglia on Her Lifestyle of Observation and Lamb Vindaloo](https://youtu.be/VSRuncwwJyQ) - Conversations with Tyler
+
+#### 2025/01/18
+
+* [Games that Don't Fake the Space](https://youtu.be/Q85l1Fenc5w) - Jacob Geller
+
+* [Games That Hide Their Own Sequels](https://youtu.be/AI-v60Q-izA) - Jacob Geller
+
 
 #### 2025/01/16
 
