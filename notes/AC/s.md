@@ -4,7 +4,7 @@ $$X_c = \frac {1}{2 \pi * f * C}$$
 
 * Inductive Capacitance
 
-$$X_L = 2 \pi * f * l$$
+$$X_L = 2 \pi * f * L$$
 
 ![image](https://github.com/user-attachments/assets/dd70f1dc-1074-49a6-8337-84ba3d9d69a6)
 
