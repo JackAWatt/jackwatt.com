@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/24
+
+* [Did Palpatine WANT Darth Vader to OVERTHROW Him & Challenge His Power](https://youtu.be/Tm6NOczSx60) - The Stupendous Wave
+ 
+
 #### 2025/01/21
 
 * [My Experience Debating Jordan Peterson](https://youtu.be/qroZWO5aQEM)- Alex O'Connor
