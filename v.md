@@ -4,6 +4,8 @@
 
 #### 2025/01/24
 
+* [The Fall of a Superstar Psychologist](https://youtu.be/Q3tSG8h_O3A) - quant
+
 * [Did Palpatine WANT Darth Vader to OVERTHROW Him & Challenge His Power](https://youtu.be/Tm6NOczSx60) - The Stupendous Wave
  
 
