@@ -2,6 +2,11 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/25
+
+* [Good Karma: A My Name is Earl Retrospective](https://youtu.be/5f3nevdEKJA) - José
+
+
 #### 2025/01/24
 
 * [The Fall of a Superstar Psychologist](https://youtu.be/Q3tSG8h_O3A) - quant
