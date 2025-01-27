@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/27
+
+* [AC Basics Capacitors in AC Circuits](https://youtu.be/gl067OyGeSI) - Vocademy - Electronics Technology
+
 #### 2025/01/25
 
 * [Good Karma: A My Name is Earl Retrospective](https://youtu.be/5f3nevdEKJA) - José
