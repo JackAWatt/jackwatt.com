@@ -4,6 +4,14 @@
 
 #### 2025/01/27
 
+* [Math Review - Exponents and Logarithms - Solid-state Devices and Analog Circuits](https://youtu.be/8ivJXCZcJqU) - Vocademy - Electronics Technology
+
+* [AC Basics Capacitors and Inductors in Parallel](https://youtu.be/VfWOXcCUuqs) - Vocademy - Electronics Technology
+
+* [AC Basics Inductors in AC Circuits](https://youtu.be/XF1arc0a6To) - Vocademy - Electronics Technology
+
+* [AC Basics Why AC Circuits have a Phase Angle](https://youtu.be/LCGcCqah1Ps) - Vocademy - Electronics Technology
+
 * [Was Cleo from MathStackExchange a Fraud?](https://youtu.be/dAoDz_YiDeM) - Joe McCann
 
 * [AC Basics Capacitors in AC Circuits](https://youtu.be/gl067OyGeSI) - Vocademy - Electronics Technology
