@@ -4,6 +4,8 @@
 
 #### 2025/01/27
 
+* [Was Cleo from MathStackExchange a Fraud?](https://youtu.be/dAoDz_YiDeM) - Joe McCann
+
 * [AC Basics Capacitors in AC Circuits](https://youtu.be/gl067OyGeSI) - Vocademy - Electronics Technology
 
 #### 2025/01/25
