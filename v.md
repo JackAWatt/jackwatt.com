@@ -10,6 +10,17 @@
 
 * [World's Best PB&J](https://youtu.be/8Vje9IwfLcg) - Embedded Podcast
 
+* [Tyler Cowen - The Great Reset](https://youtu.be/ayUZreGysTo) - Dwarkesh Patel
+
+
+#### 2025/01/28
+
+* []() - Embedded Podcast
+
+* [Write Something People Want to Read](https://youtu.be/BaZwtB2GI8U) - The Knowledge Project Podcast
+
+* [Scott Aaronson - Quantum Computing, Complexity, and Creativity](https://youtu.be/Uy5fvwdw8x4) - Dwarkesh Patel
+
 
 #### 2025/01/27
 
@@ -29,21 +40,39 @@
 
 * [Good Karma: A My Name is Earl Retrospective](https://youtu.be/5f3nevdEKJA) - José
 
+* [Uncle Bob - The Long Reach of Code, Automating Programming, and Developing Coding Talent](https://youtu.be/ldTPVd3vO9Q) - Dwarkesh Patel
+
+* [Tyler Cowen: the future of humanity](https://open.spotify.com/episode/22kJoozgSJONserXnENp8w?si=bd40453b328e46b9) - Lives Well Lived
+
+* [Tyler Cowen: Thinking About Thinking](https://youtu.be/DSMIzfDyxZI) - The Knowledge Project Podcast
+
+* [ Tyler Cowen - Why Society Will Collapse & Why Sex is Pessimistic ](https://youtu.be/AHkmEnl55jo) - Dwarkesh Patel
+
 
 #### 2025/01/24
 
 * [The Fall of a Superstar Psychologist](https://youtu.be/Q3tSG8h_O3A) - quant
 
 * [Did Palpatine WANT Darth Vader to OVERTHROW Him & Challenge His Power](https://youtu.be/Tm6NOczSx60) - The Stupendous Wave
- 
+
+* [Tyler Cowen - Hayek, Keynes, * Smith on AI](https://youtu.be/EY2nbAVZB-k) - Dwarkesh Patel
+
+* [ Tyler Cowen – The #1 Bottleneck to AI Progress is Humans ](https://youtu.be/GT_sXIUJPUo) - Dwarkesh Patel
 
 #### 2025/01/21
 
 * [My Experience Debating Jordan Peterson](https://youtu.be/qroZWO5aQEM)- Alex O'Connor
 
+* [Conversations with Tyler 2024 Retrospective](https://youtu.be/Zwg-VwqkpxU) - Conversations with Tyler
+
 #### 2025/01/20
 
 * [Camille Paglia on Her Lifestyle of Observation and Lamb Vindaloo](https://youtu.be/VSRuncwwJyQ) - Conversations with Tyler
+
+* [Paula Byrne on Thomas Hardy’s Women, Jane Austen’s Humor, and Evelyn Waugh’s Warmth](https://youtu.be/Nrhs3FmD9n4) - Conversations with Tyler
+
+* [Mini-Stories Vol. 3](https://youtu.be/0nb-lbjC8-I?list=PLtN43kak3fFEEDNo0ks9QVKYfQpT2yUEo) - Darknet Diaries
+
 
 #### 2025/01/18
 
@@ -56,6 +85,8 @@
 
 * [Did Sauron survive The Lord of the Rings?](https://youtu.be/YZTFvHDqgkU) - In Deep Geek
 
+* [Blowing Their Fragile Little Minds](https://youtu.be/X99aR4yYRnA) - Embedded Podcast
+
 #### 2025/01/15
 
 * [Trig values of π/4](https://youtu.be/KoYZErFpZ5Q) - KhanAcademy
@@ -66,14 +97,17 @@
 
 * [Distance & midpoint of complex numbers](https://youtu.be/Efoeqb6tC88) - KhanAcademy
 
+* [Obviously Wasn't Obvious](https://youtu.be/UuoapORJkug) - Embedded Podcast
+
 #### 2025/01/13
 
 * [Did the Fellowship know Gandalf was a Maia? ](https://youtu.be/XX7IAs39_C4) - In Deep Geek
 
+* [Rolling Computers](https://youtu.be/jBXnUj4yIIw) - Embedded Podcast
+
 #### 2025/01/09
 
 * [ Trigonometry Concepts - Don't Memorize! Visualize! ](https://youtu.be/mhd9FXYdf4s) - Dennis Davis
-
 
 * [https://youtu.be/ziLYKeU5zGk](Social Media Role in Hiring Process)
 
@@ -107,6 +141,10 @@ https://youtu.be/BGz3pkoGPag
 
 https://youtu.be/ewokFOSxabs
 
+* [Becoming a Better Developer](https://youtu.be/xmnYUCo5uSI) - Ruby Rogues
+
+* [What Makes Beautiful Code](https://youtu.be/LXDo3Wz60_A) - Ruby Rogues
+
 #### 2024/12/12
 
 https://youtu.be/Efoeqb6tC88
@@ -129,11 +167,11 @@ https://youtu.be/kGzXIbauGQk
 
 * [The Disturbing Elder Scrolls "Iceberg" Conspiracies Explained](https://youtu.be/zfkr0TxrKX4) - FranklyGaming
 
+* [How to Learn](https://topenddevs.com/podcasts/ruby-rogues/episodes/131-rr-how-to-learn) - Ruby Rogues
 
 #### 2024/12/04
 
 * [What Darth Vader HATED Most About the Jedi Code will Surprise you!](https://youtu.be/L7JU-7GMSLo) - The Stupendous Wave
-
 
 * [The Best "Worst" System in Guild Wars 2...](https://youtu.be/MW2MOBDicyo) - Snebzor
 
@@ -199,6 +237,10 @@ https://youtu.be/kGzXIbauGQk
 
 * [There Will Never Be Another Game Like Guild Wars 1](https://youtu.be/l35HDv89EJ4) - Caffeinated Dad Gaming
 
+* [Passion](https://youtu.be/EK8TvvreSew) - Ruby Rogues
+
+* [Why Ruby Sucks](https://youtu.be/BlC9U0cqCbg) - Ruby Rogues
+
 #### 2024/11/09
 
 * [Guild Wars 2 is a Masterpiece (and you should play it)](https://youtu.be/R2baHtChEIk) - MarcoMeatball
@@ -213,6 +255,8 @@ https://youtu.be/kGzXIbauGQk
 #### 2024/11/03
 
 * [McLovin Got What He Deserved.. (Life After Superbad)](https://youtu.be/eQUcgr_0A7U) - Patrick Cc:
+
+* [Programming Language Fundamentals](https://topenddevs.com/podcasts/ruby-rogues/episodes/039-rr-programming-language-fundamentals) - Ruby Rogues
 
 #### 2024/10/05
 
