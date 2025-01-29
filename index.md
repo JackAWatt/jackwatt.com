@@ -28,6 +28,10 @@
 * Category Theory for Programmers - [videos](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM) - [website](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/)
 
+###### - engineering
+
+* [How to Make (Almost) Anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/) - MiT
+
 ###### - Hardware
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [HardBreak - Hardware Hacking Wiki](https://www.hardbreak.wiki/)
