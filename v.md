@@ -4,6 +4,8 @@
 
 #### 2025/01/29
 
+* [Morse Code if I Could Start Over Again](https://youtu.be/7QcvtbuLpbA) - KW4 JM
+
 * [LEARN MORSE CODE from a MEMORY CHAMP (in 15 minutes)](https://youtu.be/D8tPkb98Fkk) - Nelson Dellis
 
 * [Impedance Explained](https://youtu.be/3QtpaICzSNc) - PKAE Electronics
