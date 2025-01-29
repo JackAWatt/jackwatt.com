@@ -2,6 +2,15 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/01/29
+
+* [Impedance Explained](https://youtu.be/3QtpaICzSNc) - PKAE Electronics
+
+* [Ear Goobers](https://youtu.be/7fipSEPAp-M) - Embedded Podcast
+
+* [World's Best PB&J](https://youtu.be/8Vje9IwfLcg) - Embedded Podcast
+
+
 #### 2025/01/27
 
 * [Math Review - Exponents and Logarithms - Solid-state Devices and Analog Circuits](https://youtu.be/8ivJXCZcJqU) - Vocademy - Electronics Technology
