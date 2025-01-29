@@ -4,6 +4,8 @@
 
 #### 2025/01/29
 
+* [LEARN MORSE CODE from a MEMORY CHAMP (in 15 minutes)](https://youtu.be/D8tPkb98Fkk) - Nelson Dellis
+
 * [Impedance Explained](https://youtu.be/3QtpaICzSNc) - PKAE Electronics
 
 * [Ear Goobers](https://youtu.be/7fipSEPAp-M) - Embedded Podcast
