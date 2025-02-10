@@ -2,6 +2,10 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/02/10
+
+* [Karnaugh Maps – Introduction](https://youtu.be/3vkMgTmieZI) - Computer Science Lessons
+
 #### 2025/01/29
 
 * [Morse Code if I Could Start Over Again](https://youtu.be/7QcvtbuLpbA) - KW4 JM
