@@ -4,6 +4,10 @@
 
 #### 2025/02/10
 
+* [AC Thevenin Equivalent Circuit Problem ]((https://youtu.be/5SSYtwjtUO0) - Math and Science
+
+#### 2025/02/10
+
 * [Karnaugh Maps – Introduction](https://youtu.be/3vkMgTmieZI) - Computer Science Lessons
 
 #### 2025/01/29
