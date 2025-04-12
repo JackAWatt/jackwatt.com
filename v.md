@@ -2,9 +2,43 @@
 
 ###### DNU = Did Not Understand, DNF = Did Not Finish, CBL = Come Back Later, WA = Watch Again
 
+#### 2025/04/12
+
+* [Walter Lewin Appears Odd about My Explanation: The Invisible Battery](https://youtu.be/Qt7A0PzeL9k) - Yong Tuition
+
+#### ?
+
+* [To Consume Stickers](https://youtu.be/9GU8VzBZlfs) - Embedded Podcast
+
+* [Beauty, Elegance, Consistency](https://www.youtube.com/watch?v=uUUYxUhRA0E) - Embedded Podcast
+
+* [Shortcut the Difficulties of Reality](https://youtu.be/jI-Q29dIb6o) - Embedded Podcast
+
+* [Put the Peeps in the Chili Pot](https://youtu.be/WLbacZ-PLTs) - Embedded Podcast
+
+* [Two Slices of Complimentary Bread](https://youtu.be/oq-pjg_0le0) - Embedded Podcast
+
+* [Focus on Fizzing](https://youtu.be/C4RW3Ybdv5E) - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
+* [] - Embedded Podcast
+
 #### 2025/02/10
 
-* [AC Thevenin Equivalent Circuit Problem ]((https://youtu.be/5SSYtwjtUO0) - Math and Science
+* [AC Thevenin Equivalent Circuit Problem ](https://youtu.be/5SSYtwjtUO0) - Math and Science
 
 #### 2025/02/10
 
