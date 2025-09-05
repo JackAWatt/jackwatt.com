@@ -11,3 +11,11 @@
 * $V_C = Vcc - I_CR_C$
 
 * $I_{CSAT} = \frac {Vcc}{R_C+R_B}$
+
+# AC Analysis
+
+* $r_e = \frac {25mV}{I_E}$
+
+* $A_v = \frac {Rc{//}R_L}{r_e+r_e+R_{E1}}$
+
+* $V_O = V_i * A_v$ 
