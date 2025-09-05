@@ -16,7 +16,7 @@
 
 * $r_e = \frac {25mV}{I_E}$
 
-* $A_v = \frac {R_c{//}R_L}{r_e+r_e+R_{E1}}$
+* $A_v = \frac {R_c{//}R_L}{r_e+R_{E1}}$
 
 * $V_O = V_i * A_v$
 
