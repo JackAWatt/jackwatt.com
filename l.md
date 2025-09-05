@@ -16,6 +16,8 @@
 
 * $r_e = \frac {25mV}{I_E}$
 
-* $A_v = \frac {Rc{//}R_L}{r_e+r_e+R_{E1}}$
+* $A_v = \frac {R_c{//}R_L}{r_e+r_e+R_{E1}}$
 
-* $V_O = V_i * A_v$ 
+* $V_O = V_i * A_v$
+
+* $R_in = R_1{//}R_2{//}\beta(r_e+R_{E1})$
