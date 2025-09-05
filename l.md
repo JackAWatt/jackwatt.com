@@ -1,8 +1,6 @@
 # DC Analysis
 
-* 1
-
-$$V_B = Vcc * \frac {R2}{R1+R2}$$
+* 1 - $V_B = Vcc * \frac {R2}{R1+R2}$
 
 * 2
 
