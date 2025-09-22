@@ -62,4 +62,32 @@ $\sigma = \sqrt{88.95888} = 9.4318015246$
 
 * the standard deviation is 9.43
 
+---
+
 # 3
+
+Chebyshev's theorem states that the proportion of values falling within k standard deviations of the mean is at least $1 - \frac {1}{k^2}$, for all $k>1$ 
+
+This theorem is less precise than the normal distribution, but can be used for distributions when the shape isn't known.
+
+# 4
+
+$Z = \frac {40 - 30}{4.6} = 2.17$
+
+$2.1 = 0.4821$
+
+$2.2 = 0.4861$
+
+$1-(.5+(.4821+.4861)/2) * 100= 15.9%$
+
+* I checked a more preciseZ-score table, and for z=2.17, there is 15% probability that the water usage would be over 40 liters
+
+# 5
+
+Descriptive statistics' only analysis is in terms of central tendency(Mean, Mode, Median).
+
+Inferential statistics goes beyond the available data to infer characteristics of the population and predict beyond the data.
+
+
+
+
