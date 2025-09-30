@@ -43,3 +43,12 @@ $5000 * .06681 = 334.05$
 
 > It's expected that 334 out of 5000 batteries will last less than 280 days.
 
+---
+
+<img width="323" height="26" alt="{3A879951-274F-46CF-B463-4582C0B0CDCA}" src="https://github.com/user-attachments/assets/75e1b7d0-26f6-4b7b-b937-459467092ab1" />
+
+$SE(\overline{x}$
+
+
+
+
