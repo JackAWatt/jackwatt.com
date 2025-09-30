@@ -47,8 +47,34 @@ $5000 * .06681 = 334.05$
 
 <img width="323" height="26" alt="{3A879951-274F-46CF-B463-4582C0B0CDCA}" src="https://github.com/user-attachments/assets/75e1b7d0-26f6-4b7b-b937-459467092ab1" />
 
-$SE(\overline{x}$
+$SE_(\overline{x}) = \frac {40}{\sqrt{5000}} = 0.566$
 
+> The standard error of the mean is 0.566 days
+
+---
+
+<img width="513" height="27" alt="{44AE6789-6B1D-4AF0-B2BA-26313651F0B1}" src="https://github.com/user-attachments/assets/9b514208-4e45-46d0-b4dc-644b22f90f22" />
+
+
+$SE_P = \sqrt{\frac {p(1 - p)}{n}}$
+
+$SE_P = \sqrt{\frac {0.1(1 - 0.1)}{5000}} = 0.0042$
+
+> The standard error of the proportion is 0.42%
+
+---
+
+<img width="655" height="71" alt="{FA44B0F9-73CE-4AC2-A60E-ECD68647051D}" src="https://github.com/user-attachments/assets/8a2c009e-a0d0-4bbb-bcf0-2dbd59e5a822" />
+
+> The normal distribtion is a bell-shaped curve defined by mean and standard deviation.
+
+> The standard normal distribution is a special case where the mean is 0 and the deviation is 1. This is achieved by converting values into Z-scores. Meaning, the standard normal is a tranformation of any normal distrubtion into Z-scores. 
+
+---
+
+<img width="479" height="38" alt="{5C19C931-8D93-48D3-9150-DD72AE4343B0}" src="https://github.com/user-attachments/assets/fd1e741f-c111-4f6c-a3ec-c3c8b3ce615c" />
+
+> A normal distribution is a bell shape, with mean, modeian, and mode at the center. The total area under the curve is equal to 1. Most data will fall within 1 to 3 standard deviations of the mean. 
 
 
 
