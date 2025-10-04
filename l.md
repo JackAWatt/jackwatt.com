@@ -152,7 +152,7 @@ $$C_{chr} = 41_{hex} + 2 = 43_{hex}$$
 
 $$NBCC_{chr} = 4E\ 42\ 43\ 43$$
 
-# 11
+# 21
 
 * (a) How many nibbles are 16 bits?
 
