@@ -172,18 +172,32 @@ $$1 * 10^6 = 1,000,000$$
 
 > without a suffix meg just means 1 million, but I'll also answer as if the question were what is the exact value of 1 megabyte.
 
-$$2^{10^2} = 1,048,576$$
+$$2^{10*2} = 1,048,576$$
 
 * (e) How many kilobytes is 1 meg?
 
-This doesn't make sense. meg just means 1 million. If the question were how many kilobytes is 1 megabyte the answer would be 1024
+> This doesn't make sense. meg just means 1 million. If the question were how many kilobytes is 1 megabyte the answer would be 1024
 
 * (f) What is the exact value (in decimal) of 1 gigabyte?
 
+$$2^{10*3} = 1,073,741,824$$
+
 * (g) How many kilobytes is 1 gigabyte?
+
+$$1 * 1024 * 1024 = 1,048,576$$
 
 * (h) How many megs is 1 gigabyte?
 
+> again, the question doesn't make sense, meg is a prefix, without a suffix the question can't be answered, but because I can extrapolate from incomplete data, the answer is 1024
+
 * (i) If a given computer has a total of 8 megabytes of memory, how many bytes (in decimal) is this? How many kilobytes is this?
+
+> 8 megabytes to bytes
+
+$$8 * 1024^2 = 16,384$$
+
+> 8 megabytes to kilobytes
+
+$$8 * 1024 = 8,192$$
 
 
