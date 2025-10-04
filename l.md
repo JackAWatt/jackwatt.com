@@ -156,7 +156,7 @@ $$NBCC_{chr} = 4E\ 42\ 43\ 43$$
 
 * (a) How many nibbles are 16 bits?
 
-$$16 \ 4 = 4$$
+$$16 / 4 = 4$$
 
 * (b) How many bytes are 32 bits?
 
