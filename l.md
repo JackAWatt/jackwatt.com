@@ -152,5 +152,38 @@ $$C_{chr} = 41_{hex} + 2 = 43_{hex}$$
 
 $$NBCC_{chr} = 4E\ 42\ 43\ 43$$
 
+# 11
+
+* (a) How many nibbles are 16 bits?
+
+$$16 \ 4 = 4$$
+
+* (b) How many bytes are 32 bits?
+
+$$32 / 8 = 4$$
+
+* (c) If a word is defined as 16 bits, how many words is a 64-bit data item?
+
+$$64 / 16 = 4$$
+
+* (d) What is the exact value (in decimal) of 1 meg?
+
+$$1 * 10^6 = 1,000,000$$
+
+> without a suffix meg just means 1 million, but I'll also answer as if the question were what is the exact value of 1 megabyte.
+
+$$2^{10^2} = 1,048,576$$
+
+* (e) How many kilobytes is 1 meg?
+
+This doesn't make sense. meg just means 1 million. If the question were how many kilobytes is 1 megabyte the answer would be 1024
+
+* (f) What is the exact value (in decimal) of 1 gigabyte?
+
+* (g) How many kilobytes is 1 gigabyte?
+
+* (h) How many megs is 1 gigabyte?
+
+* (i) If a given computer has a total of 8 megabytes of memory, how many bytes (in decimal) is this? How many kilobytes is this?
 
 
