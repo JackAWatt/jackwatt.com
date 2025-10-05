@@ -276,31 +276,45 @@ $$2^64-1 = 18446744073709551615_{dec} = FFFFFFFFFFFFFFFF_{hex}$$
 
 * The main advantage of EEPROM over UV-EPROM is _______________.
 
+> There are 2 major advantages. 1: EEPROM is erased electrically, where UV_EPROM is erased using UV light. 2: EEPROM is far more durable and can be erased many more times. EEPROM can be erased somwhere between 10^3 and 10^6 times, where UV-EPROM can typically be erased fewer than 100 times. EEPROM was developed to avoid the need for UV light, enable in-circuit reprogramming, and impromved endurance and reliability. 
+
 # 36
 
 * True or false. SRAM has a larger cell size than DRAM.
+
+> true
 
 # 37
 
 * Which of the following, EPROM, DRAM, or SRAM, must be refreshed periodically?
 
+> DRAM as it stores data as charge in capacitors that leak over time. SRAM and ROM do not require refreshing. 
+
 # 38
 
 * Which memory is used for PC cache?
+
+> SRAM
 
 # 39
 
 * Which of the following, SRAM, UV-EPROM, NV-RAM, or DRAM, is volatile memory?
 
-# 40
+> DRAM and SRAM are volatile. 
+
+# 40for 3
 
 * RAS and CAS are associated with which type of memory?
 
-    (a) EPROM  (b) SRAM  (c) DRAM  (d) all of the above
+> (c) DRAM
 
 # 41
 
 * Which type of memory needs an external multiplexer?
-    (a) EPROM  (b) SRAM  (c) DRAM  (d) all of the above
+> (c) DRAM
 
-# 53
+# 53 List the three bus types present in every CPU
+
+> Address, Data, and Control. Not every CPU seperates these out into their own seperate busses, early microcontrollers such as the 8051 multiplexed address and data lines to save pins. RISC-V cores on FPGAs may seperate the three busses out into logical groupings rather than seperate physical busses. 
+
+
