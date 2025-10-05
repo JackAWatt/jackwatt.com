@@ -194,7 +194,7 @@ $$1024$$
 
 > 8 megabytes to bytes
 
-$$8 * 2^20 = 8,388,608$$
+$$8 * 2^{20} = 8,388,608$$
 
 > 8 megabytes to kilobytes
 
