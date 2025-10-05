@@ -144,7 +144,7 @@ $$A_{chr} = 41_{hex}$$
 
 * NBCC
 
-$$N_{chr} = 41_{hex} + 13 = 4E$$
+$$N_{chr} = 41_{hex} + 13 = 4E_{hex}$$
 
 $$B_{chr} = 41_{hex} + 1 = 42_{hex}$$
 
