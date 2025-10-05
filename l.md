@@ -202,7 +202,7 @@ $$8 * 1024 = 8,192$$
 
 # 25
 
-> $2^n-1$ converted to hex will always be a string of F's with $n/4$ digits
+> $2^n-1$ converted to hex will always be a string of F's with $\frac{n}{4}$ digits
 
 * (a) Apple 2 with an 8-bis data bus
 
