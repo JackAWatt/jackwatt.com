@@ -302,7 +302,7 @@ $$2^64-1 = 18446744073709551615_{dec} = FFFFFFFFFFFFFFFF_{hex}$$
 
 > DRAM and SRAM are volatile. 
 
-# 40for 3
+# 40
 
 * RAS and CAS are associated with which type of memory?
 
