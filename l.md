@@ -200,4 +200,49 @@ $$8 * 2^20 = 8,388,608$$
 
 $$8 * 1024 = 8,192$$
 
+# 25
 
+> $2^n-1$ converted to hex will always be a string of F's with $n/4$ digits
+
+* (a) Apple 2 with an 8-bis data bus
+
+$$2^8-1 = 255_{dec} = $$_{hex}$$
+
+* (b) x86 PC with a 16-bit data bus
+
+$$2^16-1 = 65535_{dec} = FFFF_{hex}$$
+
+* (c) x86 PC with a 32-bit data bus
+
+$$2^32-1 = 4294967295_{dec} = FFFFFFFF_{hex}$$
+# 27
+
+# 28
+
+# 29
+
+# 30
+
+# 31
+
+# 32
+
+# 33
+
+# 34
+
+# 35
+
+# 36
+
+# 37
+
+# 38
+
+# 39
+
+# 40
+
+# 41
+
+# 53
