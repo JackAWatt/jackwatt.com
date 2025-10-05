@@ -206,7 +206,7 @@ $$8 * 1024 = 8,192$$
 
 * (a) Apple 2 with an 8-bis data bus
 
-$$2^8-1 = 255_{dec} = $$FF_{hex}$$
+$$2^8-1 = 255_{dec} = FF_{hex}$$
 
 * (b) x86 PC with a 16-bit data bus
 
@@ -222,34 +222,85 @@ $$2^64-1 = 18446744073709551615_{dec} = FFFFFFFFFFFFFFFF_{hex}$$
 
 
 
-# 27
+# 27 
+
+* Of the data bus and address bus, which is unidirectional and which is bidirectional?
+
+> The address bus is unidirectional. Data flows from the CPU to memory or frmo the CPU to I/O devices
+
+> The data bus is bidirectional. Data flows back and forth between memory and the CPU
 
 # 28
 
+* What is the difference in capacity between a 4M memory chip and 4M of computer memory?
+
+> this is another poorly written question. A chip labeled 4M will usually mean 4 megabits. When a computer has 4M of memory, it almost always means 4 megabytes.I believe the correct answer to this question is that the computer memory has 8 times the capacity of the memory chip. The key words in my answer are usually and almost always.
+
 # 29
+
+* True or false. The more address pins, the more memory locations are inside the chip. (Assume that the number of data pins is fixed.)
+
+> true
 
 # 30
 
+* True or false. The more data pins, the more each location inside the chip will hold.
+
+> true
+
 # 31
+
+* True or false. The more data pins, the higher the capacity of the memory chip.
+
+> true
 
 # 32
 
+* True or false. The more data pins and address pins, the greater the capacity of the memory chip.
+
+> true
+
 # 33
+
+* The speed of a memory chip is referred to as its _____________.
+
+> cycle time
 
 # 34
 
+* True or false. The price of memory chips varies according to capacity and speed.
+
+> The nuanced answer to this question is false, becuase the price of memory chips does vary, but not necessarily according to capacity and speed. Capacity and speed are a factor in varied pricing, but so are other factors such as brand quality, interface type, ECC vs non-ECC, power consumption, etc. So, capacity and speed are a factor in price variance, but it would be incorrect to say that the price of memory chips varies according to capacity and speed, what would be correct would be to say capacity and speed tend to vary the cost of memory chips. 
+
 # 35
+
+* The main advantage of EEPROM over UV-EPROM is _______________.
 
 # 36
 
+* True or false. SRAM has a larger cell size than DRAM.
+
 # 37
+
+* Which of the following, EPROM, DRAM, or SRAM, must be refreshed periodically?
 
 # 38
 
+* Which memory is used for PC cache?
+
 # 39
+
+* Which of the following, SRAM, UV-EPROM, NV-RAM, or DRAM, is volatile memory?
 
 # 40
 
+* RAS and CAS are associated with which type of memory?
+
+    (a) EPROM  (b) SRAM  (c) DRAM  (d) all of the above
+
 # 41
+
+* Which type of memory needs an external multiplexer?
+    (a) EPROM  (b) SRAM  (c) DRAM  (d) all of the above
 
 # 53
