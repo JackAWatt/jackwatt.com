@@ -139,17 +139,23 @@ $$1_{chr} = 48_{dec} + 7 = 55_{dec}$$
 
 $$1_{chr} = 30_{hex} + 7 = 37_{hex}$$
 
+$$0_{chr} = 00110000_{bin} + 7 = 00110111_{bin}$$
+
 * 8
 
 $$1_{chr} = 48_{dec} + 8 = 56_{dec}$$
 
 $$1_{chr} = 30_{hex} + 8 = 38_{hex}$$
 
+$$0_{chr} = 00110000_{bin} + 8 = 00111000_{bin}$$
+
 * 9
 
 $$1_{chr} = 48_{dec} + 9 = 57_{dec}$$
 
 $$1_{chr} = 30_{hex} + 9 = 39_{hex}$$
+
+$$0_{chr} = 00110000_{bin} + 9 = 00111001_{bin}$$
 
 
 # 10
@@ -218,7 +224,7 @@ $$8 * 1024 = 8,192$$
 
 > $2^n-1$ converted to hex will always be a string of F's with $\frac{n}{4}$ digits
 
-* (a) Apple 2 with an 8-bis data bus
+* (a) Apple 2 with an 8-bit data bus
 
 $$2^8-1 = 255_{dec} = FF_{hex}$$
 
