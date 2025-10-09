@@ -272,7 +272,7 @@ $$2^{64}-1 = 18446744073709551615_{dec} = FFFFFFFFFFFFFFFF_{hex}$$
 
 * True or false. The more data pins, the higher the capacity of the memory chip.
 
-> true
+> false
 
 # 32
 
