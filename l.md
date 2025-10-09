@@ -210,15 +210,15 @@ $$2^8-1 = 255_{dec} = FF_{hex}$$
 
 * (b) x86 PC with a 16-bit data bus
 
-$$2^16-1 = 65535_{dec} = FFFF_{hex}$$
+$$2^{16}-1 = 65535_{dec} = FFFF_{hex}$$
 
 * (c) x86 PC with a 32-bit data bus
 
-$$2^32-1 = 4294967295_{dec} = FFFFFFFF_{hex}$$
+$$2^{32}-1 = 4294967295_{dec} = FFFFFFFF_{hex}$$
 
 * (d) cray supercomputer with a 64-bit data bus
 
-$$2^64-1 = 18446744073709551615_{dec} = FFFFFFFFFFFFFFFF_{hex}$$
+$$2^{64}-1 = 18446744073709551615_{dec} = FFFFFFFFFFFFFFFF_{hex}$$
 
 
 
