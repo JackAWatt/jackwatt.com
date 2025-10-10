@@ -1,5 +1,1 @@
-# 1
-
-* a
-
-$$\overline{x} \pm z_{\frac {a}{2}}\frac {\sigma}{\sqrt{n}}$$
+The margin of shrinks according to $\frac {1}{\sqrt{n}}$
