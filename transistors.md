@@ -6,11 +6,11 @@
 
 * $I_C = \frac {V_E}{R_E}$
 
-* $V_{CE} = Vcc - I_C(R_C + R_B)$
+* $V_{CE} = Vcc - I_C(R_C + R_E)$
 
 * $V_C = Vcc - I_CR_C$
 
-* $I_{CSAT} = \frac {Vcc}{R_C+R_B}$
+* $I_{CSAT} = \frac {Vcc}{R_C+R_E}$
 
 # AC Analysis
 
