@@ -131,4 +131,10 @@ the bot could determine when it's head to head with an opponent and based on whe
 
 # Code
 
-The code has been attached to the soft copy, any comments I've made will have my name associated with them, as this code was provided for us and there are already comments there. 
+Most of the code was provided for us, but we changed a few things. The full code is attached, but I'll explain my changes here
+
+* #define REVERSE_SPEED 100
+
+The value given to us was 200. We decreased it because this value is paired with a reverse duration, and we didn't want to reverse a large distance before turning. 
+
+* 
