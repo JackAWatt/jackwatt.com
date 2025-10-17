@@ -86,4 +86,49 @@ This small 2-line LCD screen can display various information, including sensor r
 
 * Push Buttons
 
-These allow for starting and stopping the robot, as well as possibly switching modes 
+These allow for starting and stopping the robot, as well as possibly switching modes--the bot could be programmed to act in different ways which could be switched using the buttons. 
+
+### Difficulties faced and troubleshooting suggestions
+
+* Motor Alignment
+
+Early on we found that the bot would drift slightly to one side. We fixed this by slowing down one motor and speeding the other one up. We tested the drift by programming the bot to turn in place by 90 degrees. As we calibrated the motor alighment we could get the bot to turn in place by 90 degrees multiple times without much drift. 
+
+I don't think the drift was much of a concern while seeking, but it didn't affect the ability to turn precisely. I would suggest marking the testing surface with tape along two sides of the bot to be able to tell how much it's drifting while turning by 90 degrees. the reason for 90 degrees is that it's the smallest turning radius possible where the bot should end up exactly in the spot it started from, but with a shift of 90 degrees. Another test could be to get the bot to move forward for some amount of time and then backwards for the same amount of time. If the bot ends up back where it started then there is no drift. 
+
+* Sensor Calibration
+
+When testing the proximity sensors we found that some varied by a large amomount. When we tested with an object in front of the bot we found that the left sensor value was 50% more than the right sensor value, but that the left front and right front read the same value. 
+
+When testing the reflective contrast sensors, we found that the sensor read almost 100% more on sensor 5 than on sensor 1. During other tests the varriance was less, but still enough that would lead one to believe that each sensor were seeing different contrasts, when at most there could be some minor surface damage to the platform we usd. 
+
+The suggestion here would be to test each sensor individually and then when reading from each sensor to modify the value before storing or using it. e.g. If one sensor reads a value 30% higher than another sensor, either multiply the lower one by 1.3 or multiply the higher one by 0.7.
+
+* Other Troubleshooting tips
+
+Use the serial monitor in arduino studio to to print sensor values while testing. 
+
+A move advanced option would be to leverage the EEPROM to store a small amount of sensor data while the device is running, and then dump the contents of the EEPROM over USB serial, but there are limitations based on the 1 KB limit of the EEPROM. 
+
+### Future Work
+
+* Advanced pathing by mapping the ring. 
+
+If the bot were to keep track of where it has been recently it could make decisions based on which direction to turn when it finds the white border. 
+
+* Routine to get away when being pushed
+
+Using the IMU there could be ways to determine the direction being pushed, and if the advanced pathing I mentioned above were implemented, the bot could know how close to the edge it is given it's being pushed in one direction. The bot could make a decision on whether or not it could quickly move backwards and turn before the oponnent could push it off the edge. 
+
+
+* differenciate between being collided with and colliding with an oponent
+
+This would allow to make decisions based on whether or not the bot has been hit or has hit something. Possibly the bot would want to increase the speed to max if it's hit something and is still moving forward, and could try to escape if it's been hit and is moving in a direction other than the direction the motors should be moving the bot. 
+
+* adjust when head to head
+
+the bot could determine when it's head to head with an opponent and based on whether it's moving the other opponent or not it could choose to keep going or try to escape. 
+
+# Code
+
+The code has been attached to the soft copy, any comments I've made will have my name associated with them, as this code was provided for us and there are already comments there. 
