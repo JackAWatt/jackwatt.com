@@ -1,4 +1,4 @@
-# N-device smart plant monitor for a greenhouse
+# device smart plant monitor for a greenhouse
 
 * Build an enslosure to grow a plant and add a temperature sensor, Ph, humidity, and moisture sensor.
 * Calibrate the sensors
