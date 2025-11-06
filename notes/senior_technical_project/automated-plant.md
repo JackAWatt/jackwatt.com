@@ -1,5 +1,6 @@
 # N-device smart plant monitor
 
+* Build an enslosure to grow a plant and add a temperature sensor, humidity, and moisture sensor.
 * 
 
 
@@ -15,4 +16,6 @@ The plant could be put in a glass case with a water resovior and a heater and a 
 * if the temperature is too high, it will turn the fan on
 * if the ph is too high or too low it will do something--I have no idea what to do in that case
 
-There would be a website that would display the information for the system. Multiple of these devices could be created. My plan would be to create 2 of them, where the site would automatically add a new interface for each device added. There could also be a bluetooth connection to figure the devices to allow them onto a wifi network and to put in the credentials to connect to the web server. 
+There would be a website that would display the information for the system. Multiple of these devices could be created. My plan would be to create 2 of them, where the site would automatically add a new interface for each device added. 
+
+There could also be a bluetooth connection to figure the devices to allow them onto a wifi network and to put in the credentials to connect to the web server, and for the ability to configure the device. 
