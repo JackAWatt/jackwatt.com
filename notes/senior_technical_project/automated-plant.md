@@ -1,8 +1,15 @@
-# N-device smart plant monitor
+# N-device smart plant monitor for a greenhouse
 
-* Build an enslosure to grow a plant and add a temperature sensor, humidity, and moisture sensor.
-* 
+* Build an enslosure to grow a plant and add a temperature sensor, Ph, humidity, and moisture sensor.
+* Calibrate the sensors
+* buy a plant and research optimal conditions
+* open and close a valve to be able to water the plant and have a way to mist the plant
+* turn on and off a fan as well as turn on and off a heater
+* create a web server to be able to monitor and configure the device remotely
+* create some sort of PCB or way to make the circuit permenant and possibly 3D print a case for the actual device(I say possibly because it could just be put in a project case)
+* create a way to bring more than one of the devices online at once. 
 
+<img width="790" height="500" alt="image" src="https://github.com/user-attachments/assets/faf7828b-7997-47f4-bd3d-d22d839fc6db" />
 
 
 # use case
