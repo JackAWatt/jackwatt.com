@@ -1,9 +1,19 @@
-# device smart plant monitor for a greenhouse
+# device smart plant monitor
 
-* Build an enslosure to grow a plant and add a temperature sensor, Ph, humidity, and moisture sensor.
+* Build a test circuit and write code to use a temperature sensor, humidity and moisture sensor, water level sensor, and ph sensor individually.
+* Build a test circuit using a relay to run a water pump and lights
+* Combine the circuits to pump water based on on low moisture in soil and turn the lights on and off on a schedule
+* Write a web server or use thingspeak to be able to monitor the sensors remotely
+* Write code to be able to modify the program conditions remotely
+* Design and print a PCB
+* Design and create a case for the electronic components
+* Graph sensor data over time to verify configuration is optimal. This will includes graphs and a table
+
+
+* modify an enslosure to grow a plant and add a temperature sensor, Ph, humidity, and moisture sensor.
 * Calibrate the sensors
-* buy a plant and research optimal conditions
-* open and close a valve to be able to water the plant
+* open and close a valve to be able to water the plant based on a moisture sensor
+* turn on and off a grow light based on a programable 
 * create a web server to be able to monitor and configure the device remotely
 * create some sort of PCB or way to make the circuit permenant and possibly 3D print a case for the actual device(I say possibly because it could just be put in a project case)
 * create a way to bring more than one of the devices online at once. 
