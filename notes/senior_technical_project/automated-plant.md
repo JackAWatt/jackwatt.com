@@ -9,7 +9,7 @@
 * Design and create a case for the electronic components
 * Graph sensor data over time to verify configuration is optimal. This will includes graphs and a table
 
-
+# 
 * modify an enslosure to grow a plant and add a temperature sensor, Ph, humidity, and moisture sensor.
 * Calibrate the sensors
 * open and close a valve to be able to water the plant based on a moisture sensor
