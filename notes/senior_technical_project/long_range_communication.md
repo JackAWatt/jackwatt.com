@@ -10,3 +10,14 @@
 * design and print a PCB
 * design and print a case for both devices
 * (optional) implement being able to send voice messages
+
+
+# 
+
+* 2x 3.5 inch SPI display screen TFT ILI9488 with touch 320x480
+
+* battery?
+
+* 2x ESP32 boards with PSRAM & “WROVER” modules
+
+* 
