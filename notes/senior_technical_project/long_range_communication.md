@@ -1,3 +1,5 @@
+# long range communication devices
+
 * Attach screen and keyboard to esp32 and implement the funcionality to type and delete text
 * Attach screen to another esp32 with the LORA modules on both. Implement being able to write to the second screen from the first device
 * create a menu that will allow sending a new message and checking for messages, then test by sending a message from one device to the other
