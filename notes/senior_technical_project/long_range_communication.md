@@ -20,4 +20,4 @@
 
 * 2x ESP32 boards with PSRAM & “WROVER” modules
 
-* 
+* 2x CardKB V1.1 Mini 50-Key QWERTY
