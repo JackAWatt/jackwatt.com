@@ -2,7 +2,7 @@
 
 * Build a test circuit and write code to use a temperature sensor, humidity and moisture sensor, water level sensor, and ph sensor individually.
 * Build a test circuit using a relay to run a water pump and lights
-* Combine the circuits to pump water based on on low moisture in soil and turn the lights on and off on a schedule
+* Combine the circuits to pump water based on low moisture in soil and turn the lights on and off on a schedule
 * Write a web server or use thingspeak to be able to monitor the sensors remotely
 * Write code to be able to modify the program conditions remotely
 * Design and print a PCB
