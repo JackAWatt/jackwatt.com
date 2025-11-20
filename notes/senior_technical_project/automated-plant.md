@@ -25,6 +25,5 @@
 
 * [Immersible Water Pump and Water Tube](https://ca.robotshop.com/products/immersible-water-pump-water-tube?qd=674003456adf2ae761d6698f50a5aa19) - $13.14
 
-* 
-
+* [Gravity Liquid Level Sensor (FS-IR02) ](https://ca.robotshop.com/products/gravity-liquid-level-sensor-fs-ir02?qd=ed2df6748dc6d0f5a7c6e610fbf46f99) -  Sale price $9.86
 
