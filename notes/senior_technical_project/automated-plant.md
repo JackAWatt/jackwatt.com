@@ -27,3 +27,4 @@
 
 * [Gravity Liquid Level Sensor (FS-IR02) ](https://ca.robotshop.com/products/gravity-liquid-level-sensor-fs-ir02?qd=ed2df6748dc6d0f5a7c6e610fbf46f99) -  Sale price $9.86
 
+* [Modern Industrial Technology FOTEK DC-DC 3-32V/12-220V 25A Single Phase Solid State Relay SSR-25DD](https://www.amazon.ca/Module-WF-Industrial-Technology-Exquisite/dp/B01IBAUWEO/147-5083088-5848752?pd_rd_w=rWh6C&content-id=amzn1.sym.8b4d8c20-8e51-4634-a76f-c00a1995a502&pf_rd_p=8b4d8c20-8e51-4634-a76f-c00a1995a502&pf_rd_r=1DY57PP3ATWNQTX57A9H&pd_rd_wg=EnzIP&pd_rd_r=1144399e-d81a-4989-b5b2-a9ec7b0b0f65&pd_rd_i=B01IBAUWEO&psc=1) - $17.99 - 2x of these 
