@@ -15,6 +15,16 @@
 
 <img width="786" height="599" alt="image" src="https://github.com/user-attachments/assets/fa6397e7-4af5-4d94-8766-66501fcd348e" />
 
+# parts
 
+* [Gravity Moisture Sensor - Corrosion Resistant](https://ca.robotshop.com/products/gravity-moisture-sensor-corrosion-resistant?utm_source=chatgpt.com) -  Sale price $7.59 - in soil
+
+* [humidity & temperature](https://ca.robotshop.com/products/dfrobot-sht31-weather-proof-temperature-humidity-sensor?qd=61cce64387ef10cd21e074cff84a70d2) - sale price 28$ - in air
+
+* [PH Sensor Kit With Electrode Probe And Module For Arduino, Detect Range 0-14 Detection(pH kit) ](https://www.amazon.ca/Sensor-Electrode-Module-Arduino-Detection/dp/B0DYD7CPRS?source=ps-sl-shoppingads-lpcontext&smid=A2QY2TRJGJNKZM&utm_source=chatgpt.com&th=1) - $35.99
+
+* [Immersible Water Pump and Water Tube](https://ca.robotshop.com/products/immersible-water-pump-water-tube?qd=674003456adf2ae761d6698f50a5aa19) - $13.14
+
+* 
 
 
