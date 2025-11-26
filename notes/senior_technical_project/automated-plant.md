@@ -14,7 +14,7 @@
 * Graph sensor data over time to verify configuration is optimal.
 
 # Milestone 2
-`Instructor Check:   
+`Instructor Check:              ` 
 
 * Write project Report
 
