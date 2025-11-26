@@ -8,13 +8,15 @@
 # Milestone 1
 `Instructor Check:              `
 
-* Add the components to an enclosure for a plant
 * Write a web server or use thingspeak to be able to monitor the sensors remotely
 * Write code to be able to modify the program conditions remotely
-* Design and print a PCB
-* Design and create a case for the electronic components
-* Graph sensor data over time to verify configuration is optimal. This will includes graphs and a table
+* Build complete project enclosure to house all electronic components
+* Graph sensor data over time to verify configuration is optimal.
 
+# Milestone 2
+`Instructor Check:   
+
+* Write project Report
 
 
 <img width="786" height="599" alt="image" src="https://github.com/user-attachments/assets/fa6397e7-4af5-4d94-8766-66501fcd348e" />
