@@ -6,7 +6,7 @@
 * Display the sensor values on an LCD
 
 # Milestone 1
-`Instructor Check`
+`Instructor Check:              `
 
 * Add the components to an enclosure for a plant
 * Write a web server or use thingspeak to be able to monitor the sensors remotely
