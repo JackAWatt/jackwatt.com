@@ -4,6 +4,10 @@
 * Build a test circuit using a relay to run a water pump and lights
 * Combine the circuits to pump water based on low moisture in soil and turn the lights on and off on a schedule
 * Display the sensor values on an LCD
+
+# Milestone 1
+`Instructor Check`
+
 * Add the components to an enclosure for a plant
 * Write a web server or use thingspeak to be able to monitor the sensors remotely
 * Write code to be able to modify the program conditions remotely
