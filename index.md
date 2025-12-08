@@ -163,6 +163,8 @@
 * [Thea Study](https://www.thea.study/register?referralCode=amy1)
 * [Desmos - Graphing](https://www.desmos.com/calculator)
 * [assignment/writing planner](https://lib.uwaterloo.ca/web/assignment-planner)
+* [Latex/Markdown to PDF](https://www.innateblogger.com/p/markdown-to-pdf.html)
+* [Paper Trails](https://www.papertrailshq.com/) - Goodreads for Academic Papers
 
 ##### Useful Short Videos
 
