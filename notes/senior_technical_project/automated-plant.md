@@ -5,6 +5,9 @@
 * Combine the circuits to pump water based on low moisture in soil and turn the lights on and off on a schedule
 * Display the sensor values on an LCD
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/83d32ea4-8018-4291-90aa-eaca8fae5075" />
+
+
 # Milestone 1
 `Instructor Check:              `
 
@@ -17,6 +20,10 @@
 `Instructor Check:              ` 
 
 * Write project Report
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/93212866-fd23-4df3-af87-4d7045c19b23" />
+
 
 
 <img width="786" height="599" alt="image" src="https://github.com/user-attachments/assets/fa6397e7-4af5-4d94-8766-66501fcd348e" />
