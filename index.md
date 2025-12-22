@@ -61,6 +61,7 @@
 * [Videos](http://jackwatt.com/infosec#infosec-videos)
 * [Blogs](http://jackwatt.com/infosec#infosec-blogs)
 * [Lists(lolbas, GTFObins, awesomehacking)](http://jackwatt.com/infosec#lists-and-other-resources)
+* [0xor0ne's list of blog posts, write-ups, and papers focusing on cybersecurity](https://github.com/0xor0ne/awesome-list)
 * [Podcasts](http://jackwatt.com/podcasts#information-security)
 
 ##### Specific Programming Languages
