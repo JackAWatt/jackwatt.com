@@ -64,7 +64,7 @@
 * [0xor0ne's list of blog posts, write-ups, and papers focusing on cybersecurity](https://github.com/0xor0ne/awesome-list)
 * [Podcasts](http://jackwatt.com/podcasts#information-security)
 
-##### Specific Programming Languages
+##### Specific Programming Languages & Paradigms
 ###### Julia
 
 * [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
@@ -87,6 +87,10 @@
 * [Any of the Rob Pike talks](https://youtu.be/f6kdp27TYZs)
 * [Let's Go - Building Web Apps with Go (textbook)](https://lets-go.alexedwards.net/) - Alex Edwards
 * [Let's Go Further - Advanced patterns for building APIs and web applications in Go](https://lets-go-further.alexedwards.net/) - Alex Edwards
+
+###### Systems
+
+* [Dive into Systems](https://diveintosystems.org/book/) - introduction to topics in computer systems, including C programming, architecture fundamentals, assembly language, and multithreading. 
 
 ##### Data Science
 
