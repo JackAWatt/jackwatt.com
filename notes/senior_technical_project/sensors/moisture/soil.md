@@ -4,3 +4,5 @@
 
 
 <img width="392" height="590" alt="image" src="https://github.com/user-attachments/assets/c111a2fc-9c35-4676-9f9a-cc5a51aecef9" />
+
+* uses ` 5 mA`
