@@ -1,0 +1,21 @@
+# 8:30
+
+Today I'm working on getting my sht31 humidity and temperature sensor set up with the rest of my components. It uses $I^2C$
+
+`SDA` is on `GPIO pin 21`
+
+`SCL` is on `GPIO pin 22`
+
+its bus address is at `0x44`
+
+# 9:00
+
+So far I have wired:
+
+* both soil moisture sensors
+* the sht31 humidity and temperture sensor
+* The water pump using an SSR
+
+I have found out that the pH sensor I bought requires making a solution. It can't be placed directly into the soil, I bought the wrong device.
+
+
