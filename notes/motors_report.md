@@ -53,6 +53,9 @@ Our Ultrasonic range finder is the HC-SR04. As the 9g servo motor pans back and 
 
 Our continous servos are what drive our mazebot. The left and right are mirror images of each other, which means that to drive forward we need to give them different pulse widths. To move forward we set the left to 1700 microseconds and the right to 1300 microseconds. To stop we set both to 1500. To turn we can either set one to 1500 and then use the other one to turn, or we can use both in opposite directions to turn in place quickly. We opted to stop one wheel while turning because it helped us not go out of bounds during the track portion of the maze. 
 
+<img width="771" height="900" alt="image" src="https://github.com/user-attachments/assets/96280527-f487-426d-ab61-b4cf25e586fa" />
+
+
 # Difficulties faced
 
 The Biggest difficulties of this project were coding. Finding a way to complete tasks without blocking by using delays. The other was the fact this was a group project. I feel as though my partner could have done a better job without me and that I could have done a better job without him. In the end we worked together and both contributed to the project, but once we started to take our existing code and try to implement the next thing on our own, I found we became more productive. We didn't have our own code, but we had the mutual code and then were modifying it until we got a result that was better than what we had before, and then we'd both start working from that code. 
