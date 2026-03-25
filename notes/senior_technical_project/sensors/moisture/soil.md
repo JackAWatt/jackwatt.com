@@ -6,3 +6,8 @@
 <img width="392" height="590" alt="image" src="https://github.com/user-attachments/assets/c111a2fc-9c35-4676-9f9a-cc5a51aecef9" />
 
 * uses ` 5 mA`
+
+* `100% RH = 1500`
+* `0% RH = 3000`
+
+* The range is an estimate which was established by soaking the sensor to get the 100% value and reading the air value to get the 0% value. 
