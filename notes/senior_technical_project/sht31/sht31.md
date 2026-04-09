@@ -5,5 +5,5 @@
 
 Pins used:
 * `GPIO22` for `SCL`
-* `GPIO21` for 'SDA`
+* `GPIO21` for `SDA`
 * `3.3v` and `gnd`
