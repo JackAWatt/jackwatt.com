@@ -94,6 +94,10 @@
 
 * [Dive into Systems](https://diveintosystems.org/book/) - introduction to topics in computer systems, including C programming, architecture fundamentals, assembly language, and multithreading. 
 
+##### Networking
+
+* [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
+
 ##### Data Science
 
 * [Anaconda](https://www.anaconda.com/) - The world’s most popular platform to develop and deploy secure Python solutions, faster(both cloud and local environment)
