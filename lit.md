@@ -1,11 +1,11 @@
-# Literature & Philosophy Reading Program
+## Literature & Philosophy Reading Program
 
 This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.com/leafbyleaf), [hardcore literature](http://jackwatt.com/hardcoreliterature), [Jared Henderson](https://www.youtube.com/watch?v=5RwlFfTF3T0), and [myself](http://jackwatt.com/lit). 
 
 
-# Landscape Books
+## Landscape Books
 
-## Philosophy / Intellectual History
+#### Philosophy / Intellectual History
 
 - The Story of Philosophy — Will Durant
 - A History of Western Philosophy — Bertrand Russell
@@ -13,7 +13,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 - Problems of Philosophy — Bertrand Russell
 - Think: A Compelling Introduction to Philosophy — Simon Blackburn
 
-## Literature / Literary Criticism
+#### Literature / Literary Criticism
 
 - Mimesis — Erich Auerbach
 - Anatomy of Criticism — Northrop Frye
@@ -23,7 +23,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 - The Liberal Imagination — Lionel Trilling
 - A Glossary of Literary Terms — M. H. Abrams
 
-## Modernity / Society / Science
+#### Modernity / Society / Science
 
 - The Structure of Scientific Revolutions — Thomas Kuhn
 - After Virtue — Alasdair MacIntyre
@@ -33,14 +33,14 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Ancient World
+## Ancient World
 
-## Epic / Myth
+#### Epic / Myth
 
 - The Iliad — Homer
 - The Odyssey — Homer
 
-## Greek Tragedy / Comedy
+#### Greek Tragedy / Comedy
 
 - Prometheus Bound — Aeschylus
 - Agamemnon — Aeschylus
@@ -55,7 +55,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 - Lysistrata — Aristophanes
 - The Assemblywomen — Aristophanes
 
-## Greek Philosophy / History
+#### Greek Philosophy / History
 
 - The Republic — Plato
 - The Symposium — Plato
@@ -72,7 +72,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Hellenistic / Roman World
+## Hellenistic / Roman World
 
 - Parallel Lives — Plutarch
 - Discourses — Epictetus
@@ -87,7 +87,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Biblical / Late Antique / Early Christian
+## Biblical / Late Antique / Early Christian
 
 - The Old Testament
 - The New Testament
@@ -97,7 +97,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Medieval World
+## Medieval World
 
 - Treatises — Thomas Aquinas
 - The Divine Comedy — Dante
@@ -108,7 +108,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Renaissance / Humanism / Reformation
+## Renaissance / Humanism / Reformation
 
 - The Prince — Niccolò Machiavelli
 - Essays — Michel de Montaigne
@@ -126,7 +126,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Scientific Revolution / Early Modern Philosophy
+## Scientific Revolution / Early Modern Philosophy
 
 - Discourse on Method — René Descartes
 - Meditations on First Philosophy — René Descartes
@@ -142,7 +142,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Enlightenment
+## Enlightenment
 
 - Candide — Voltaire
 - Clarissa — Samuel Richardson
@@ -158,7 +158,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Romanticism / German Idealism
+## Romanticism / German Idealism
 
 - Phenomenology of Spirit — G. W. F. Hegel
 - Elements of the Philosophy of Right — G. W. F. Hegel
@@ -168,7 +168,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Victorian / Realism / Industrial Modernity
+## Victorian / Realism / Industrial Modernity
 
 - On Liberty — John Stuart Mill
 - Utilitarianism — John Stuart Mill
@@ -206,7 +206,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Modernism / Early 20th Century
+## Modernism / Early 20th Century
 
 - The Principles of Psychology — William James
 - Selected Works — Sigmund Freud
@@ -235,7 +235,7 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Postwar / Contemporary
+## Postwar / Contemporary
 
 - The Stranger — Albert Camus
 - Waiting for Godot — Samuel Beckett
@@ -263,69 +263,69 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 ---
 
-# Non‑Western Foundations
+## Non‑Western Foundations
 
-## Chinese Thought
+#### Chinese Thought
 
 - The Analects — Confucius
 - Tao Te Ching — Laozi
 
-## Indian Thought
+#### Indian Thought
 
 - The Bhagavad Gita
 
-## Japanese Literature
+#### Japanese Literature
 
 - The Tale of Genji — Murasaki Shikibu
 
-## Chinese Literature
+#### Chinese Literature
 
 - Journey to the West — Wu Cheng’en
 
-## Latin American Literature
+#### Latin American Literature
 
 - One Hundred Years of Solitude — Gabriel García Márquez
 
 ---
 
-# Additional Philosophical and Literary Extensions
+## Additional Philosophical and Literary Extensions
 
-## Existentialism / Pessimism / Consciousness
+#### Existentialism / Pessimism / Consciousness
 
 - The Last Messiah — Peter Wessel Zapffe
 - The Trouble with Being Born — Emil Cioran
 - A Short History of Infinity — A. W. Moore
 
-## American Myth / Frontier Consciousness
+#### American Myth / Frontier Consciousness
 
 - Lonesome Dove — Larry McMurtry
 
-## Jewish Philosophy / Dialogue
+#### Jewish Philosophy / Dialogue
 
 - I and Thou — Martin Buber
 - The Star of Redemption — Franz Rosenzweig
 
-## Islamic Civilization / Philosophy
+#### Islamic Civilization / Philosophy
 
 - The Muqaddimah — Ibn Khaldun
 - The Incoherence of the Incoherence — Averroes
 - The Book of Healing (Selections) — Avicenna
 - Selected Poetry — Rumi
 
-## Philosophy of Science / Mathematics / Logic
+#### Philosophy of Science / Mathematics / Logic
 
 - Gödel, Escher, Bach — Douglas Hofstadter
 - Proofs and Refutations — Imre Lakatos
 - The Foundations of Arithmetic — Gottlob Frege
 - What Is Mathematics? — Richard Courant and Herbert Robbins
 
-## Postmodernity / Media / Spectacle
+#### Postmodernity / Media / Spectacle
 
 - Simulacra and Simulation — Jean Baudrillard
 - The Postmodern Condition — Jean‑François Lyotard
 - Society of the Spectacle — Guy Debord
 
-## Science Fiction as Philosophical Literature
+#### Science Fiction as Philosophical Literature
 
 - Solaris — Stanisław Lem
 - The Left Hand of Darkness — Ursula K. Le Guin
