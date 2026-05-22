@@ -286,10 +286,6 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 
 - One Hundred Years of Solitude — Gabriel García Márquez
 
----
-
-## Additional Philosophical and Literary Extensions
-
 #### Existentialism / Pessimism / Consciousness
 
 - The Last Messiah — Peter Wessel Zapffe
