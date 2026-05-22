@@ -331,17 +331,3 @@ This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.c
 - The Left Hand of Darkness — Ursula K. Le Guin
 - Do Androids Dream of Electric Sheep? — Philip K. Dick
 
-# Notes
-
-- The list is intentionally interdisciplinary.
-- The goal is not merely to read “great books,” but to trace the evolution of:
-  - myth,
-  - religion,
-  - philosophy,
-  - political thought,
-  - psychology,
-  - literature,
-  - and modern consciousness.
-- The list is not exhaustive and can be adapted according to interests.
-- Works can be read alongside secondary criticism and lectures for additional context.
-
