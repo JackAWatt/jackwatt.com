@@ -1,22 +1,5 @@
 # Literature & Philosophy Reading Program
 
-A structured reading program combining literature, philosophy, religion, political thought, psychology, history, and science.
-
-Original list based on recommendations from:
-- Leaf by Leaf
-- Hardcore Literature
-- Jared Henderson
-
-Expanded with additional works for:
-- literary criticism,
-- medieval continuity,
-- Russian literature,
-- social theory,
-- modernism/postmodernism,
-- and non‑Western foundations.
-
----
-
 # Landscape Books
 
 ## Philosophy / Intellectual History
