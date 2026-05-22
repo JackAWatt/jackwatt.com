@@ -1,5 +1,8 @@
 # Literature & Philosophy Reading Program
 
+This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.com/leafbyleaf), [hardcore literature](http://jackwatt.com/hardcoreliterature), [Jared Henderson](https://www.youtube.com/watch?v=5RwlFfTF3T0), and [myself](http://jackwatt.com/lit). 
+
+
 # Landscape Books
 
 ## Philosophy / Intellectual History
