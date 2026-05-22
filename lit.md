@@ -1,162 +1,305 @@
-This page is a combination of multiple lists by [leaf by leaf](http://jackwatt.com/leafbyleaf) and [hardcore literature](http://jackwatt.com/hardcoreliterature) and [Jared Henderson](https://www.youtube.com/watch?v=5RwlFfTF3T0).
+# Literature & Philosophy Reading Program
+
+A structured reading program combining literature, philosophy, religion, political thought, psychology, history, and science.
+
+Original list based on recommendations from:
+- Leaf by Leaf
+- Hardcore Literature
+- Jared Henderson
+
+Expanded with additional works for:
+- literary criticism,
+- medieval continuity,
+- Russian literature,
+- social theory,
+- modernism/postmodernism,
+- and non‑Western foundations.
+
+---
+
+# Landscape Books
+
+## Philosophy / Intellectual History
+
+- The Story of Philosophy — Will Durant
+- A History of Western Philosophy — Bertrand Russell
+- Plato at the Googleplex — Rebecca Goldstein
+- Problems of Philosophy — Bertrand Russell
+- Think: A Compelling Introduction to Philosophy — Simon Blackburn
+
+## Literature / Literary Criticism
+
+- Mimesis — Erich Auerbach
+- Anatomy of Criticism — Northrop Frye
+- The Great Code — Northrop Frye
+- The Western Canon — Harold Bloom
+- Aspects of the Novel — E. M. Forster
+- The Liberal Imagination — Lionel Trilling
+- A Glossary of Literary Terms — M. H. Abrams
+
+## Modernity / Society / Science
+
+- The Structure of Scientific Revolutions — Thomas Kuhn
+- After Virtue — Alasdair MacIntyre
+- The Protestant Ethic and the Spirit of Capitalism — Max Weber
+- Democracy in America — Alexis de Tocqueville
+- Discipline and Punish — Michel Foucault
+
+---
+
+# Ancient World
+
+## Epic / Myth
+
+- The Iliad — Homer
+- The Odyssey — Homer
+
+## Greek Tragedy / Comedy
+
+- Prometheus Bound — Aeschylus
+- Agamemnon — Aeschylus
+- The Libation Bearers — Aeschylus
+- The Eumenides — Aeschylus
+- Hippolytus — Euripides
+- Bacchae — Euripides
+- Oedipus the King — Sophocles
+- Antigone — Sophocles
+- Clouds — Aristophanes
+- Frogs — Aristophanes
+- Lysistrata — Aristophanes
+- The Assemblywomen — Aristophanes
+
+## Greek Philosophy / History
+
+- The Republic — Plato
+- The Symposium — Plato
+- Meno — Plato
+- The Apology — Plato
+- Histories — Herodotus
+- The History of the Peloponnesian War — Thucydides
+- Politics — Aristotle
+- Nicomachean Ethics — Aristotle
+- Metaphysics — Aristotle
+- De Anima — Aristotle
+- Rhetoric — Aristotle
+- Poetics — Aristotle
+
+---
+
+# Hellenistic / Roman World
+
+- Parallel Lives — Plutarch
+- Discourses — Epictetus
+- Meditations — Marcus Aurelius
+- The Laws — Cicero
+- The Republic — Cicero
+- Aeneid — Virgil
+- Odes — Horace
+- Ars Poetica — Horace
+- Satires — Horace
+- Metamorphoses — Ovid
+
+---
+
+# Biblical / Late Antique / Early Christian
+
+- The Old Testament
+- The New Testament
+- Confessions — Saint Augustine
+- City of God — Saint Augustine
+- The Consolation of Philosophy — Boethius
+
+---
+
+# Medieval World
+
+- Treatises — Thomas Aquinas
+- The Divine Comedy — Dante
+- Canterbury Tales — Geoffrey Chaucer
+- Troilus and Criseyde — Geoffrey Chaucer
+- Historia Calamitatum — Peter Abelard
+- Selected Sermons — Meister Eckhart
+
+---
+
+# Renaissance / Humanism / Reformation
+
+- The Prince — Niccolò Machiavelli
+- Essays — Michel de Montaigne
+- Praise of Folly — Erasmus
+- Complete Essays — Francis Bacon
+- Shakespeare:
+  - Hamlet
+  - King Lear
+  - Macbeth
+  - Othello
+  - The Tempest
+- Don Quixote — Miguel de Cervantes
+- Paradise Lost — John Milton
+- Areopagitica — John Milton
+
+---
+
+# Scientific Revolution / Early Modern Philosophy
+
+- Discourse on Method — René Descartes
+- Meditations on First Philosophy — René Descartes
+- Leviathan — Thomas Hobbes
+- Mathematical Principles of Natural Philosophy — Isaac Newton
+- Pensées — Blaise Pascal
+- Ethics — Baruch Spinoza
+- Theological-Political Treatise — Baruch Spinoza
+- Second Treatise of Government — John Locke
+- An Essay Concerning Human Understanding — John Locke
+- A Treatise Concerning the Principles of Human Knowledge — George Berkeley
+- An Enquiry Concerning Human Understanding — David Hume
+
+---
+
+# Enlightenment
+
+- Candide — Voltaire
+- Clarissa — Samuel Richardson
+- Robinson Crusoe — Daniel Defoe
+- Gulliver’s Travels — Jonathan Swift
+- Tristram Shandy — Laurence Sterne
+- Jacques the Fatalist — Denis Diderot
+- The Social Contract — Jean-Jacques Rousseau
+- The Wealth of Nations — Adam Smith
+- The Theory of Moral Sentiments — Adam Smith
+- The Decline and Fall of the Roman Empire — Edward Gibbon
+- Critique of Pure Reason — Immanuel Kant
+
+---
+
+# Romanticism / German Idealism
+
+- Phenomenology of Spirit — G. W. F. Hegel
+- Elements of the Philosophy of Right — G. W. F. Hegel
+- The World as Will and Representation — Arthur Schopenhauer
+- Faust — Johann Wolfgang von Goethe
+- Frankenstein — Mary Shelley
+
+---
+
+# Victorian / Realism / Industrial Modernity
+
+- On Liberty — John Stuart Mill
+- Utilitarianism — John Stuart Mill
+- Fear and Trembling — Søren Kierkegaard
+- Beyond Good and Evil — Friedrich Nietzsche
+- Thus Spoke Zarathustra — Friedrich Nietzsche
+- The Birth of Tragedy — Friedrich Nietzsche
+- On the Genealogy of Morality — Friedrich Nietzsche
+- Pride and Prejudice — Jane Austen
+- Persuasion — Jane Austen
+- The Count of Monte Cristo — Alexandre Dumas
+- Wuthering Heights — Emily Brontë
+- Jane Eyre — Charlotte Brontë
+- Les Misérables — Victor Hugo
+- Cousin Bette — Honoré de Balzac
+- Middlemarch — George Eliot
+- Great Expectations — Charles Dickens
+- Bleak House — Charles Dickens
+- Moby-Dick — Herman Melville
+- Leaves of Grass — Walt Whitman
+- On the Origin of Species — Charles Darwin
+- Das Kapital — Karl Marx
+- The Communist Manifesto — Karl Marx and Friedrich Engels
+- Anna Karenina — Leo Tolstoy
+- War and Peace — Leo Tolstoy
+- Crime and Punishment — Fyodor Dostoevsky
+- The Brothers Karamazov — Fyodor Dostoevsky
+- Notes from Underground — Fyodor Dostoevsky
+- Dead Souls — Nikolai Gogol
+- Fathers and Sons — Ivan Turgenev
+- A Doll’s House — Henrik Ibsen
+- Hedda Gabler — Henrik Ibsen
+- The Turn of the Screw — Henry James
+- Dracula — Bram Stoker
+
+---
+
+# Modernism / Early 20th Century
+
+- The Principles of Psychology — William James
+- Selected Works — Sigmund Freud
+- Being and Time — Martin Heidegger
+- Philosophical Investigations — Ludwig Wittgenstein
+- Relativity — Albert Einstein
+- The Golden Bough — James George Frazer
+- Heart of Darkness — Joseph Conrad
+- Selected Short Stories — Anton Chekhov
+- Uncle Vanya — Anton Chekhov
+- The Cherry Orchard — Anton Chekhov
+- In Search of Lost Time — Marcel Proust
+- Ulysses — James Joyce
+- The Waste Land — T. S. Eliot
+- To the Lighthouse — Virginia Woolf
+- Orlando — Virginia Woolf
+- A Room of One’s Own — Virginia Woolf
+- Siddhartha — Hermann Hesse
+- Steppenwolf — Hermann Hesse
+- The Metamorphosis — Franz Kafka
+- The Magic Mountain — Thomas Mann
+- The Old Man and the Sea — Ernest Hemingway
+- A Moveable Feast — Ernest Hemingway
+- As I Lay Dying — William Faulkner
+- Light in August — William Faulkner
+
+---
+
+# Postwar / Contemporary
+
+- The Stranger — Albert Camus
+- Waiting for Godot — Samuel Beckett
+- 1984 — George Orwell
+- Lolita — Vladimir Nabokov
+- Doctor Zhivago — Boris Pasternak
+- Invisible Man — Ralph Ellison
+- The Fellowship of the Ring — J. R. R. Tolkien
+- Shakespeare’s Memory — Jorge Luis Borges
+- Ficciones — Jorge Luis Borges
+- To Kill a Mockingbird — Harper Lee
+- The Catcher in the Rye — J. D. Salinger
+- Franny and Zooey — J. D. Salinger
+- The Grapes of Wrath — John Steinbeck
+- East of Eden — John Steinbeck
+- Gravity’s Rainbow — Thomas Pynchon
+- Blood Meridian — Cormac McCarthy
+- The Ice-Shirt — William T. Vollmann
+- Carried Away — Alice Munro
+- Beloved — Toni Morrison
+- Underworld — Don DeLillo
+- Infinite Jest — David Foster Wallace
+- The Recognitions — William Gaddis
+- 2666 — Roberto Bolaño
+
+---
+
+# Non‑Western Foundations
+
+## Chinese Thought
+
+- The Analects — Confucius
+- Tao Te Ching — Laozi
+
+## Indian Thought
+
+- The Bhagavad Gita
+
+## Japanese Literature
+
+- The Tale of Genji — Murasaki Shikibu
+
+## Chinese Literature
+
+- Journey to the West — Wu Cheng’en
+
+## Latin American Literature
+
+- One Hundred Years of Solitude — Gabriel García Márquez
+
+---
 
 
-# Landcape books
-
-* The Story of Philosophy - Durant
-* A History of Western Philosophy - Russell
-* Plato at the Googleplex - Goldstein
-* Problems of Philosophy - Russell
-* Think: A Compelling Introduction to Philosophy
-
-# Chronological Order
-
-* The Iliad - Home
-* The Odyssey - Homer
-* Prometheus Bound - Aeschylus
-* Agamemnon - Aeschylus
-* The Eumenides - Aeschylus
-* The Libation Bearers - Aeschylus
-* Hippolytus - Euripides
-* Bacchae - Euripides
-* Oedipus the King - Sophocles
-* The Theban Plays - Sophocles
-* Antigone - Sophocles
-* Clouds - Aristophanes
-* Frogs - Aristophanes
-* Lysistrata - Aristophanes
-* The Assemblywomen - Aristophanes
-* The Republic - Plato
-* The Symposium - Plato
-* Meno - Plato
-* The Apology - Plato
-* The History - Herodotus
-* The History of the Peloponnesian War - Thucydides
-* Politics - Aristotle
-* Ethics - Aristotle
-* Metaphysics - Aristotle
-* de Anima - Aristotle
-* Rhetoric - Aristotle
-* Poetics - Aristotle
-* The Lives of the Noble Grecians and Romans - Plutarch
-* Discourses - Epictetus
-* The Old Testament
-* Meditations - Marcus Aurelius
-* The Laws - Cicero
-* The Republic - Cicero
-* Aeneid - Virgil
-* Odes - Horace
-* Poetics - Horace
-* Satires - Horace
-* Metamorphoses - Ovid
-* Confessions - Saint Augustine
-* City of God - Saint Augustine
-* Treatises - Saint Thomas Aquinas
-* The Divine Comedy - Dante
-* Canterbury Tales - Chaucer
-* Troilus and Criseyde - Chaucer
-* The Prince - Machiavelli
-* Complete Essays - Bacon
-* Discourse on Method and Meditations on First Philosophy - Descartes
-* The New Testament
-* Shakespeare:
-* Don Quixote - Cervantes
-* Essays - Montaigne
-* Leviathan - Thomas Hobbe
-* Praise of Folly - Erasmus
-* Paradise Lost - Milton
-* Areopagitica - Milton
-* The Misanthrope - Moliere
-* The School for Wives - Moliere
-* Tartuff - Moliere
-* Mathematical Principles of Natural Philosophy - Newton
-* Theological-Political Treatise, Spinoza
-* The Rover - Aphra Behn
-* Oroonoko - Aphra Behn
-* Pensées, Pascal
-* Ethics, Spinoza
-* Second Treatise of Government, Locke
-* An Essay Concerning Human Understanding, Locke
-* A Treatise Concerning the Principles of Human Knowledge, Berkeley
-* Enquiry - David Hume
-* Candide - Voltaire
-* Clarissa - Samuel Richardson
-* Robinson Crusoe - Daniel Defoe
-* The Social Contract - Rousseau
-* Wealth of Nations - Adam Smith
-* Theory of Moral Sentiments - Adam Smith
-* The Decline and Fall of the Roman Empire - Edward Gibbon
-* Critiques - Kant
-* Phenomenology of spirit - hegel
-* The World as Will and Presentation - Schopenhauer
-* Elements of Philosophy of Right - Hegel
-* On Liberty - Mill
-* Utilitarianism  - Mill
-* Fear and Trembling - Kierkegaard
-* Beyond Good and Evil - Nietzsche
-* Thus Spoke Zarathustra - Nietzsche
-* The Birth of Tragedy - Nietzsche
-* On the Genealogy of Morals, Nietzsche
-* Faust - Goethe
-* Frankenstein -Mary Shelley
-* Cousin Bette - Balzac
-* Pride and Prejudice - Jane Austen
-* Persuasion - Jane Austen
-* The Count of Monte Cristo - Dumas
-* Wuthering Heihts - Emily Bronte
-* Jane Eyre - Charlotte Bronte
-* Les Miserables - Victor Hugo
-* Middlemarch - George Eliot
-* Great Expectations - Charles Dickens
-* Bleak House - Charles Dickens
-* The Mystery of Edwin Drood - Charles Dickens
-* Moby Dick - Merman Melville
-* Leaves of Grass - Whitmann
-* Origin of Species - Charles Darwin
-* Das Kapital - Karl Marx
-* Manifesto - Karl Marx(with Engels)
-* Being and Time, Heidegger
-* Philosophical Investigations, Wittgenstein
-* Anna Karenina - Tolstoy
-* War and Peace - Tolstoy
-* Crime and Punishment - Dostoyevsky
-* The Brothers Karamazov - Dostoyevsky
-* A Doll’s House - Ibsen
-* Hedda Gabler  - Ibsen
-* The Turn of the Screw - Henry James
-* Dracula - Bram Stoker
-* The Principles of Psychology - William James
-* Selected Works - Freud
-* Experience and Education - Freud
-* The Importance of Being Earnest - Oscar Wilde
-* The Metamorphosis - Franz Kafka
-* Relativity - Einstein
-* The Golden Bough - Sir George Frazer
-* Heart of Darkness - Joseph Concrad
-* Selected Short Stories - Anton Chekhov
-* Uncle Vanya - Anton Chekhov
-* In Remembrance of Things Past - Proust
-* Ulysses - Joyce
-* The Waste Land - T.S. Eliot
-* The Catcher in the Rye - Salinger
-* Franny and Zooey - Salinger
-* The Grapes of Wrath - Steinbeck
-* East of Eden - Steinbeck
-* The Old Man and the Sea - Hemmingway
-* A Moveable Feast - Hemmingway
-* As I Lay Dying - Faulkner
-* Light in August - Faulkner
-* Siddharta - Hesse
-* Steppenwolf - Hesse
-* To the Lighthouse - Woolf
-* Orlando - Woolf
-* A Room of One's Own - Woolf
-* Doctor Zhivago - Boris Pasternak
-* Invisible Man - Ralph Elison
-* Fellowship of the Rings - Tolkein
-* Shakespeare's Memory - Borges
-* To Kill a Mockingbird - Harper Lee
-* Gravity's Rainbow -Thomas Pynchon
-* Blood Meridian - Cormac McCarthy
-* The Ice-Shirt - William T. Vollmann
-* Carried Away - Alice Munro
