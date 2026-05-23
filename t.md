@@ -1,7 +1,7 @@
 |   	| Monday  	| Tuesday  	| Wednesday  	| Thursday  	| Friday  	| Saturday  	| Sunday  	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
-| 08:30  	| 1  	| 1  	| 2  	| 2  	| 3  	| 3  	| 1  	|
-| 09:30  	| 1  	| 1  	| 2  	| 2  	| 3  	| 3  	| 1  	|
+| 08:30  	| 1  	| 1  	| 1  	| 1  	| 1  	| 1  	| 1  	|
+| 09:30  	| 1  	| 1  	| 1  	| 1  	| 1  	| 1  	| 1  	|
 | 10:30  	| 3  	| 1  	| 2  	| 2  	| 3  	| 3  	| 1  	|
 | 11:30  	| 3  	| 1  	| 2  	| 2  	| 3  	| 3  	| 2  	|
 | 12:30  	| L  	| L  	| L  	| L  	| L  	| L  	| L  	|
@@ -16,8 +16,8 @@
 | 21:30  	|   	|   	|   	|   	|   	|   	|   	|
 
 ###### Legend
-* 1: Digital
-* 2: AC
-* 3: Math
-* 4: CAD
-* 5: Employment
+* 1: Math Academy
+* 2: Class Construction in C and C++
+* 3: signal analysis course
+* 4: excel
+* 5: calculus with julia
