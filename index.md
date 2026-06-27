@@ -91,6 +91,11 @@
 * [Let's Go - Building Web Apps with Go (textbook)](https://lets-go.alexedwards.net/) - Alex Edwards
 * [Let's Go Further - Advanced patterns for building APIs and web applications in Go](https://lets-go-further.alexedwards.net/) - Alex Edwards
 
+###### Python
+
+* [Python for Everybody](https://www.py4e.com/) -  set of free materials, lectures, book and assignments
+
+
 ###### Systems
 
 * [Dive into Systems](https://diveintosystems.org/book/) - introduction to topics in computer systems, including C programming, architecture fundamentals, assembly language, and multithreading. 
@@ -138,6 +143,7 @@
 * [2023 book list](http://jackwatt.com/2023)
 * [2021 book list](http://jackwatt.com/2021)
 * [Philosophy and Literature Reading Program](http://jackwatt.com/lit) - A list of 147 books in chronological order
+* [Modern Wisdom Reading List](https://attachments.convertkitcdnm.com/263873/6d1f43d3-8375-4355-ae00-d77201716fc6/Modern%20Wisdom%20Reading%20List.pdf) - 100 books
 
 
 ##### Other Resources
@@ -231,6 +237,11 @@
 * [Science Based Medicine](https://sciencebasedmedicine.org/) and [Neurologica](https://theness.com/neurologicablog/) - Steven Novella
 
 * [Respectful Insolence](https://www.respectfulinsolence.com/) - David Gorski
+
+##### Fiction
+
+* [Buffy Series Order](https://docs.google.com/spreadsheets/d/1rV6ZKido5IHWGELM8B9JRhXs3cnbUA2Psp8GaFdbECc/edit?gid=2#gid=2) - TV & Comic
+* 
 
  ***
  
