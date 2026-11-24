@@ -173,23 +173,17 @@
 
 ##### Educational Youtube Channels
 
-* [@njwildberger](https://www.youtube.com/@njwildberger)
+* [@njwildberger](https://www.youtube.com/@njwildberger), [@3blue1brown](https://www.youtube.com/@3blue1brown)
 
-* [Wolfram](https://www.youtube.com/@WolframResearch/videos)
-
-* [@3blue1brown](https://www.youtube.com/@3blue1brown)
-
-* [@standupmaths](https://www.youtube.com/@standupmaths)
+* [Wolfram](https://www.youtube.com/@WolframResearch/videos), [@standupmaths](https://www.youtube.com/@standupmaths)
 
 * [@numberphile](https://www.youtube.com/@numberphile/videos), [@periodicvideos](https://www.youtube.com/@periodicvideos/videos), * [@sixtysymbols](https://www.youtube.com/@sixtysymbols/videos)
 
 * [@morphocular](https://www.youtube.com/@morphocular), [@MichaelPennMath](https://www.youtube.com/@MichaelPennMath), [@tecmath](https://www.youtube.com/@tecmath)
 
 * [@BenjaminMcEvoy](https://www.youtube.com/@BenjaminMcEvoy/videos)
-
-* [@Computerphile](https://www.youtube.com/@Computerphile)
  
-* [@veritasium](https://www.youtube.com/@veritasium), [@upandatom](https://www.youtube.com/@upandatom) 
+* [@veritasium](https://www.youtube.com/@veritasium), [@upandatom](https://www.youtube.com/@upandatom), [@Computerphile](https://www.youtube.com/@Computerphile)
 
 ##### Courses and Educational Platforms
 
