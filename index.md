@@ -40,13 +40,6 @@
 * [HardBreak - Hardware Hacking Wiki](https://www.hardbreak.wiki/)
 * [All About Circuits](https://www.allaboutcircuits.com/education) - DC and AC textbook + videos
 
-###### - Videos by The Math Sorcerer
-* [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=didXE0HkSC8) - books to read split between algebra, discrete maths, and proofs
-* [Master Mathematics and Become a Wizard](https://youtu.be/H6XejQOsfBY) - This is similar to the start to finish video, but has different book options. 
-* [Learn Algebra from START to FINISH](https://youtu.be/S116mTfk2t8)
-* [Epic Math Workbooks for Self Study](https://youtu.be/vuvcOXH4Z5Q)
-* [8 Math Books for Mastering Higher Level Mathematics](https://youtu.be/cgffDIWZHQ4)
-
 ##### Coding challenges
 
 * [hackerrank's interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit)
@@ -111,6 +104,7 @@
 * [Kaggle](https://www.kaggle.com/) - Kaggle offers a no-setup, customizable, Jupyter Notebooks environment. Access GPUs and a huge repository of community published data & code.
 * [Sharpest Mind](https://www.sharpestminds.com/) - Find a mentor; Advance your career
 * [365DataScience](https://learn.365datascience.com/) - Learning Platform
+
 ###### - Articles and Guides
 * [Data Science Roadmap 2023 / Learn Data Science Skills in 6 Months - Code Basics](https://youtu.be/eaFaD_IBYW4)
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -124,17 +118,6 @@
 * [Demystifying Optimizations for machine learning](https://towardsdatascience.com/demystifying-optimizations-for-machine-learning-c6c6405d3eea)
 * [Every Data Scientist Should Know The Basics Of Linear Algebra](https://towardsdatascience.com/basics-of-linear-algebra-for-data-science-9e93ada24e5c)
 
-##### Video Game Development
-
-* [Your First 2D GAME - Day 1 Beginner Tutorial](https://youtu.be/QplEeEAJxck) - Sasquatch B Studios
-
-* [Roadmap to becoming a gamedev in 2024](https://youtu.be/6cU3ru8NSWQ) - BiteMe Games 
-
-##### Free Books
-
-* [freetechbooks.com](http://www.freetechbooks.com) - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
-* [freecomputerbooks.com](https://freecomputerbooks.com/) - Links to Free Computer, Mathematics, Technical Books
-* [techbooksforfree.com](https://techbooksforfree.com/) - Free Books on Technology, Computers, Science
 
 ##### Books
   
