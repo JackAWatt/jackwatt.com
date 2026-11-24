@@ -186,7 +186,7 @@
 * [@numberphile](https://www.youtube.com/@numberphile/videos), [@periodicvideos](https://www.youtube.com/@periodicvideos/videos), * [@sixtysymbols](https://www.youtube.com/@sixtysymbols/videos)
 
 * [@morphocular](https://www.youtube.com/@morphocular), [@MichaelPennMath](https://www.youtube.com/@MichaelPennMath), [@tecmath](https://www.youtube.com/@tecmath)
-* 
+
 * [@BenjaminMcEvoy](https://www.youtube.com/@BenjaminMcEvoy/videos)
 
 * [@Computerphile](https://www.youtube.com/@Computerphile)
