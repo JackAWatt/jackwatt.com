@@ -224,12 +224,12 @@
 ##### Fiction
 
 * [Buffy Series Order](https://docs.google.com/spreadsheets/d/1rV6ZKido5IHWGELM8B9JRhXs3cnbUA2Psp8GaFdbECc/edit?gid=2#gid=2) - TV & Comic
-* 
+
 
  ***
  
 <script src="https://tryhackme.com/badge/60767"></script>
-*
+
 <script src="https://www.hackthebox.eu/badge/189855"></script>
-*
+
 ![CodeWars](https://www.codewars.com/users/watt_/badges/small)
