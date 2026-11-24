@@ -173,7 +173,7 @@
 
 ##### Educational Youtube Channels
 
-* [TheMathSorcerer](https://www.youtube.com/@TheMathSorcerer), [Chycho](https://www.youtube.com/@chycho), [@njwildberger](https://www.youtube.com/@njwildberger)
+* [@njwildberger](https://www.youtube.com/@njwildberger)
 
 * [Wolfram](https://www.youtube.com/@WolframResearch/videos)
 
