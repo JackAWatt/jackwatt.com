@@ -189,15 +189,11 @@
 
 * [hackerrank interview-preparation-kit](https://www.hackerrank.com/interview/interview-preparation-kit) , [TryHackMe](https://tryhackme.com/) , [INE](https://my.ine.com/), [Excercism](https://exercism.org/tracks)
 
-* [Roppers Academy](https://www.roppers.org/collections)
+* [mosse](https://platform.mosse-institute.com/#/education/library), [saylor](https://learn.saylor.org/?redirect=0), [Roppers Academy](https://www.roppers.org/collections)
 
-* [mosse](https://platform.mosse-institute.com/#/education/library), [saylor](https://learn.saylor.org/?redirect=0)
-
-* [portswigger web-security](https://portswigger.net/web-security/learning-path)
+* [portswigger web-security](https://portswigger.net/web-security/learning-path), [Cyber5w](https://academy.cyber5w.com/collections)
 
 * [Alison](https://alison.com/), [ITmasters](https://itmasters.edu.au/), [Geek-University](https://geek-university.com/courses/)
-
-* [Cyber5w](https://academy.cyber5w.com/collections)
 
 * [OpenLearn](https://www.open.edu/openlearn/), [edX](https://www.edx.org/), * [KhanAcademy](https://www.khanacademy.org/)
 
