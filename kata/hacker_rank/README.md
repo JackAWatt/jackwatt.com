@@ -1,2 +1,0 @@
-- code here is structured by domain like on the website
-- all problem information can be found at [hackerrank.com](https://www.hackerrank.com/)
