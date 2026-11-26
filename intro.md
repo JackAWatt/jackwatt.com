@@ -19,15 +19,6 @@
 
 ### Math
 
->[Algebra Basics](https://www.khanacademy.org/math/algebra-basics) Khan Academy
-
->[Algebra I](https://www.khanacademy.org/math/algebra) Khan Academy
-
->[Algebra II](https://www.khanacademy.org/math/algebra2) Khan Academy
-
->[Geometry](https://www.khanacademy.org/math/geometry) Khan Academy
-
->[Trigonometry](https://www.khanacademy.org/math/trigonometry) Khan Academy
 
 >[Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-creative-connected-utaustinx-ut-prec-10-03x#!) University of Texas at Austin
 
